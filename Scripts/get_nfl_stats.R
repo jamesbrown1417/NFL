@@ -10,6 +10,9 @@ library(nflreadr)
 # Get all stats
 #===============================================================================
 
+# Get team information----------------------------------------------------------
+teams <- load_teams()
+
 # Get match information
 match_information_2023 <-
   nflreadr::load_schedules(seasons = 2023) |>
@@ -51,7 +54,7 @@ player_stats_2023_offense <-
   nflreadr::load_player_stats(seasons = 2023, stat_type = "offense") |> 
   select(player_name = player_display_name,
          player_team = recent_team,
-         opponent_team,
+         position,
          season,
          week,
          season_type,
@@ -60,14 +63,33 @@ player_stats_2023_offense <-
 player_stats_2023_defense <-
   nflreadr::load_player_stats(seasons = 2023, stat_type = "defense") |> 
   select(player_name = player_display_name,
-         player_team = recent_team,
-         opponent_team,
+         player_team = team,
+         position,
          season,
          week,
          season_type,
-         tackles:interceptions)
+         def_tackles:def_penalty_yards)
+
+player_stats_2023_kicking <-
+  nflreadr::load_player_stats(seasons = 2023, stat_type = "kicking") |> 
+  select(player_name = player_display_name,
+         player_team = team,
+         position,
+         season,
+         week,
+         season_type,
+         fg_made:gwfg_blocked)
 
 # Get home games
 home_player_stats_offense <-
 match_information_2023 |> 
-  inner_join(player_stats_2023, by = c("home_abbr" = "player_team", "season", "week"))
+  inner_join(player_stats_2023_offense, by = c("home_abbr" = "player_team", "season", "week")) |> 
+  mutate(player_team = home_team, opposition_team = away_team) |> 
+  relocate(player_team, opposition_team, .after = player_name)
+
+# Get away games
+away_player_stats_offense <-
+match_information_2023 |> 
+  inner_join(player_stats_2023_offense, by = c("away_abbr" = "player_team", "season", "week")) |>
+  mutate(player_team = away_team, opposition_team = home_team) |>
+  relocate(player_team, opposition_team, .after = player_name)
