@@ -93,3 +93,11 @@ match_information_2023 |>
   inner_join(player_stats_2023_offense, by = c("away_abbr" = "player_team", "season", "week")) |>
   mutate(player_team = away_team, opposition_team = home_team) |>
   relocate(player_team, opposition_team, .after = player_name)
+
+# Combine
+player_stats_2023_offense_all <-
+  bind_rows(home_player_stats_offense, away_player_stats_offense) |> 
+  arrange(date, time, match, player_team, player_name)
+
+# Write out
+write_rds(player_stats_2023_offense_all, "Data/player_stats_2023_offense_all.rds")

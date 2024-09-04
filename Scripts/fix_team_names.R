@@ -1,0 +1,40 @@
+fix_team_names <- function(team_name_vector) {
+  map_chr(
+    team_name_vector,
+    ~ case_when(
+      str_detect(., "^Arizona|Cardinals|AZCardinals|ARI") ~ "Arizona Cardinals",
+      str_detect(., "^Atlanta|Falcons|ATL") ~ "Atlanta Falcons",
+      str_detect(., "^Baltimore|Ravens|BAL") ~ "Baltimore Ravens",
+      str_detect(., "^Buffalo|Bills|BUF") ~ "Buffalo Bills",
+      str_detect(., "^Carolina|Panthers|CAR") ~ "Carolina Panthers",
+      str_detect(., "^Chicago|Bears|CHI") ~ "Chicago Bears",
+      str_detect(., "^Cincinnati|Bengals|CIN") ~ "Cincinnati Bengals",
+      str_detect(., "^Cleveland|Browns|CLE") ~ "Cleveland Browns",
+      str_detect(., "^Dallas|Cowboys|DAL") ~ "Dallas Cowboys",
+      str_detect(., "^Denver|Broncos|DEN") ~ "Denver Broncos",
+      str_detect(., "^Detroit|Lions|DET") ~ "Detroit Lions",
+      str_detect(., "^Green Bay|Packers|GB") ~ "Green Bay Packers",
+      str_detect(., "^Houston|Texans|HOU") ~ "Houston Texans",
+      str_detect(., "^Indianapolis|Colts|IND") ~ "Indianapolis Colts",
+      str_detect(., "^Jacksonville|Jaguars|JAX") ~ "Jacksonville Jaguars",
+      str_detect(., "^Kansas City|Chiefs|KC") ~ "Kansas City Chiefs",
+      str_detect(., "^Las Vegas|Raiders|LV") ~ "Las Vegas Raiders",
+      str_detect(., "^Los Angeles Chargers|Chargers|LAC") ~ "Los Angeles Chargers",
+      str_detect(., "^Los Angeles Rams|Rams|LAR") ~ "Los Angeles Rams",
+      str_detect(., "^Miami|Dolphins|MIA") ~ "Miami Dolphins",
+      str_detect(., "^Minnesota|Vikings|MIN") ~ "Minnesota Vikings",
+      str_detect(., "^New England|Patriots|NE") ~ "New England Patriots",
+      str_detect(., "^New Orleans|Saints|NO") ~ "New Orleans Saints",
+      str_detect(., "^New York Giants|Giants|NYG") ~ "New York Giants",
+      str_detect(., "^New York Jets|Jets|NYJ") ~ "New York Jets",
+      str_detect(., "^Philadelphia|Eagles|PHI") ~ "Philadelphia Eagles",
+      str_detect(., "^Pittsburgh|Steelers|PIT") ~ "Pittsburgh Steelers",
+      str_detect(., "^San Francisco|49ers|SF") ~ "San Francisco 49ers",
+      str_detect(., "^Seattle|Seahawks|SEA") ~ "Seattle Seahawks",
+      str_detect(., "^Tampa Bay|Buccaneers|TB") ~ "Tampa Bay Buccaneers",
+      str_detect(., "^Tennessee|Titans|TEN") ~ "Tennessee Titans",
+      str_detect(., "^Washington|Commanders|WAS") ~ "Washington Commanders",
+      TRUE ~ . # Default case to return the original team name
+    )
+  )
+}
