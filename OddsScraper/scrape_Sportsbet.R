@@ -431,12 +431,458 @@ player_props_function <- function() {
     distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
     arrange(match, player_name, line)
   
+  # Passing Touchdowns ---------------------------------------------------------------
+  passing_touchdowns <-
+    qb_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Passing TDs$|\\- Alt Passing TDs$"))
+  
+  # Overs
+  passing_touchdowns_overs <-
+    passing_touchdowns |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Passing Touchdowns") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  passing_touchdowns_unders <-
+    passing_touchdowns |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Passing Touchdowns") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  passing_touchdowns_all <-
+    passing_touchdowns_overs |>
+    left_join(passing_touchdowns_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    left_join(player_teams_qb, by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
+  # Passing Interceptions ---------------------------------------------------------------
+  passing_interceptions <-
+    qb_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Interception$|\\- Alt Passing Ints$"))
+  
+  # Overs
+  passing_interceptions_overs <-
+    passing_interceptions |>
+    filter(str_detect(selection_name_prop, "Over|Yes")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(line = 0.5) |> 
+    mutate(market = "Interceptions") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  passing_interceptions_unders <-
+    passing_interceptions |>
+    filter(str_detect(selection_name_prop, "Under|No")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(line = 0.5) |>
+    mutate(market = "Interceptions") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  passing_interceptions_all <-
+    passing_interceptions_overs |>
+    left_join(passing_interceptions_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    left_join(player_teams_qb, by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
+  # Passing Attempts ---------------------------------------------------------------
+  passing_attempts <-
+    qb_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Pass Att.*$|\\- Alt Pass Att.*$"))
+  
+  # Overs
+  passing_attempts_overs <-
+    passing_attempts |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Passing Attempts") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  passing_attempts_unders <-
+    passing_attempts |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Passing Attempts") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  passing_attempts_all <-
+    passing_attempts_overs |>
+    left_join(passing_attempts_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    left_join(player_teams_qb, by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
+  #===========================================================================
+  # Rushing Prop Markets
+  #===========================================================================
+  
+  # Map function to shots urls
+  rushing_prop_data <-
+    map(rushing_prop_links, safe_read_prop_url)
+  
+  # Get just result part from output
+  rushing_prop_data <-
+    rushing_prop_data |>
+    map("result") |>
+    map_df(bind_rows)
+  
+  # If nrow 0 create tibble with 0 rows
+  if (nrow(rushing_prop_data) == 0) {
+    rushing_prop_data <-
+      tibble(match = NA,
+             prop_market_name = NA,
+             selection_name_prop = NA,
+             prop_market_price = NA,
+             market_id = NA,
+             player_id = NA,
+             class_external_id = NA,
+             competition_external_id = NA,
+             event_external_id = NA,
+             url = NA)
+  }
+  
+  # Add market name
+  rushing_prop_data <-
+    rushing_prop_data |>
+    mutate(url = str_extract(as.character(url), "[0-9]{6,8}")) |>
+    rename(match_id = url) |>
+    mutate(match_id = as.numeric(match_id)) |>
+    left_join(team_names, by = "match_id") |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    left_join(player_prop_metadata)
+  
+  # Rushing Yards ---------------------------------------------------------------
+  rushing_yards <-
+    rushing_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Rushing Yds$|\\- Alt Rushing Yds$"))
+  
+  # Overs
+  rushing_yards_overs <-
+    rushing_yards |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Rushing Yards") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  rushing_yards_unders <-
+    rushing_yards |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Rushing Yards") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  rushing_yards_all <-
+    rushing_yards_overs |>
+    left_join(rushing_yards_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    mutate(player_name = ifelse(player_name == "Brian Robinson Jr.", "Brian Robinson", player_name)) |>
+    mutate(player_name = ifelse(player_name == "Deebo Samuel", "Deebo Samuel Sr.", player_name)) |>
+    left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr), by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
+  # Rushing Attempts ---------------------------------------------------------------
+  rushing_attempts <-
+    rushing_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Rush Attempts$|\\- Alt Rush Attempts$"))
+  
+  # Overs
+  rushing_attempts_overs <-
+    rushing_attempts |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Rushing Attempts") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  rushing_attempts_unders <-
+    rushing_attempts |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Rushing Attempts") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  rushing_attempts_all <-
+    rushing_attempts_overs |>
+    left_join(rushing_attempts_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    mutate(player_name = ifelse(player_name == "Brian Robinson Jr.", "Brian Robinson", player_name)) |>
+    mutate(player_name = ifelse(player_name == "Deebo Samuel", "Deebo Samuel Sr.", player_name)) |>
+    left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr), by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
+  #===========================================================================
+  # Receiving Prop Markets
+  #===========================================================================
+  
+  # Map function to shots urls
+  receiving_prop_data <-
+    map(receiving_prop_links, safe_read_prop_url)
+  
+  # Get just result part from output
+  receiving_prop_data <-
+    receiving_prop_data |>
+    map("result") |>
+    map_df(bind_rows)
+  
+  # If nrow 0 create tibble with 0 rows
+  if (nrow(receiving_prop_data) == 0) {
+    receiving_prop_data <-
+      tibble(match = NA,
+             prop_market_name = NA,
+             selection_name_prop = NA,
+             prop_market_price = NA,
+             market_id = NA,
+             player_id = NA,
+             class_external_id = NA,
+             competition_external_id = NA,
+             event_external_id = NA,
+             url = NA)
+  }
+  
+  # Add market name
+  receiving_prop_data <-
+    receiving_prop_data |>
+    mutate(url = str_extract(as.character(url), "[0-9]{6,8}")) |>
+    rename(match_id = url) |>
+    mutate(match_id = as.numeric(match_id)) |>
+    left_join(team_names, by = "match_id") |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    left_join(player_prop_metadata)
+  
+  # Receiving Yards ---------------------------------------------------------------
+  receiving_yards <-
+    receiving_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Receiving Yds$|\\- Alt Receiving Yds$"))
+  
+  # Overs
+  receiving_yards_overs <-
+    receiving_yards |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Receiving Yards") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  receiving_yards_unders <-
+    receiving_yards |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Receiving Yards") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  receiving_yards_all <-
+    receiving_yards_overs |>
+    left_join(receiving_yards_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    mutate(player_name = ifelse(player_name == "Brian Robinson Jr.", "Brian Robinson", player_name)) |>
+    mutate(player_name = ifelse(player_name == "Deebo Samuel", "Deebo Samuel Sr.", player_name)) |>
+    mutate(player_name = ifelse(player_name == "D.J. Moore", "DJ Moore", player_name)) |>
+    mutate(player_name = ifelse(player_name == "D.K. Metcalf", "DK Metcalf", player_name)) |>
+    left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr, player_teams_te, player_teams_db), by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
+  # Receiving Receptions ---------------------------------------------------------------
+  receiving_receptions <-
+    receiving_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Total Receptions$|\\- Alt Receptions$"))
+  
+  # Overs
+  receiving_receptions_overs <-
+    receiving_receptions |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Receptions") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  receiving_receptions_unders <-
+    receiving_receptions |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Receptions") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  receiving_receptions_all <-
+    receiving_receptions_overs |>
+    left_join(receiving_receptions_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    mutate(player_name = ifelse(player_name == "Brian Robinson Jr.", "Brian Robinson", player_name)) |>
+    mutate(player_name = ifelse(player_name == "Deebo Samuel", "Deebo Samuel Sr.", player_name)) |>
+    mutate(player_name = ifelse(player_name == "D.J. Moore", "DJ Moore", player_name)) |>
+    mutate(player_name = ifelse(player_name == "D.K. Metcalf", "DK Metcalf", player_name)) |>
+    left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr, player_teams_te, player_teams_db), by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
   #===========================================================================
   # Write all to CSV
   #===========================================================================
   
-  # Both Teams To Score
-  write_csv(both_teams_to_score_all, "Data/scraped_odds/EPL/sportsbet_both_teams_to_score.csv")
+  # Passing Yards
+  write_csv(passing_yards_all, "Data/scraped_odds/sportsbet_passing_yards.csv")
+  
+  # Passing Touchdowns
+  write_csv(passing_touchdowns_all, "Data/scraped_odds/sportsbet_passing_touchdowns.csv")
+  
+  # Passing Interceptions
+  write_csv(passing_interceptions_all, "Data/scraped_odds/sportsbet_interceptions.csv")
+  
+  # Passing Attempts
+  write_csv(passing_attempts_all, "Data/scraped_odds/sportsbet_passing_attempts.csv")
+  
+  # Rushing Yards
+  write_csv(rushing_yards_all, "Data/scraped_odds/sportsbet_rushing_yards.csv")
+  
+  # Rushing Attempts
+  write_csv(rushing_attempts_all, "Data/scraped_odds/sportsbet_rushing_attempts.csv")
+  
+  # Receiving Yards
+  write_csv(receiving_yards_all, "Data/scraped_odds/sportsbet_receiving_yards.csv")
+  
+  # Receiving Receptions
+  write_csv(receiving_receptions_all, "Data/scraped_odds/sportsbet_receptions.csv")
+  
 }
 
 # Run Functions
