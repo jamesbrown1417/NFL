@@ -1,0 +1,626 @@
+---
+title: "NFL Report"
+execute:
+  echo: false
+  message: false
+  warning: false
+author: "James Brown"
+date: "`r Sys.time()`"
+format:
+  html:
+    df-print: kable
+    theme: cosmo
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    fig-width: 8
+    fig-height: 6
+editor: visual
+---
+
+**Timestamp**: `r format(Sys.time(), "%d-%m-%Y %H:%M:%S %Z")`
+
+```{r}
+# Load Libraries
+library(tidyverse)
+
+# Read in data
+processed_odds_files <- list.files("../Data/processed_odds", full.names = TRUE)
+
+# Read in all data
+processed_odds_data <-
+  map(processed_odds_files, read_rds) |> 
+  set_names(basename(processed_odds_files) |> str_remove("\\.rds"))
+```
+
+::: panel-tabset
+## Middles
+
+### Passing Yards
+
+```{r}
+# Get all passing yards over data
+passing_yards_overs <-
+  processed_odds_data$passing_yards |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all passing yards under data
+passing_yards_unders <-
+  processed_odds_data$passing_yards |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+passing_yards <-
+  passing_yards_overs |> 
+  inner_join(passing_yards_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 10) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(passing_yards) > 0) {
+  passing_yards
+} else {
+  cat("No middles found")
+}
+```
+
+### Passing Touchdowns
+
+```{r}
+# Get all passing TDs over data
+passing_tds_overs <-
+  processed_odds_data$passing_td_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all passing TDs under data
+passing_tds_unders <-
+  processed_odds_data$passing_td_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+passing_tds <-
+  passing_tds_overs |> 
+  inner_join(passing_tds_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 20) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(passing_tds) > 0) {
+  passing_tds
+} else {
+  cat("No middles found")
+}
+```
+
+### Passing Attempts
+
+```{r}
+# Get all passing attempts over data
+passing_attempts_overs <-
+  processed_odds_data$passing_attempts_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all passing attempts under data
+passing_attempts_unders <-
+  processed_odds_data$passing_attempts_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+passing_attempts <-
+  passing_attempts_overs |> 
+  inner_join(passing_attempts_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1.1) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(passing_attempts) > 0) {
+  passing_attempts
+} else {
+  cat("No middles found")
+}
+```
+
+### Interceptions
+
+```{r}
+# Get all interceptions over data
+interceptions_overs <-
+  processed_odds_data$interceptions_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all interceptions under data
+interceptions_unders <-
+  processed_odds_data$interceptions_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+interceptions <-
+  interceptions_overs |> 
+  inner_join(interceptions_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1.1) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(interceptions) > 0) {
+  interceptions
+} else {
+  cat("No middles found")
+}
+```
+
+### Rushing Yards
+
+```{r}
+# Get all rushing yards over data
+rushing_yards_overs <-
+  processed_odds_data$rushing_yards_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all rushing yards under data
+rushing_yards_unders <-
+  processed_odds_data$rushing_yards_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+rushing_yards <-
+  rushing_yards_overs |> 
+  inner_join(rushing_yards_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1.1) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(rushing_yards) > 0) {
+  rushing_yards
+} else {
+  cat("No middles found")
+}
+```
+
+### Rushing Attempts
+
+```{r}
+# Get all rushing attempts over data
+rushing_attempts_overs <-
+  processed_odds_data$rushing_attempts |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all rushing attempts under data
+rushing_attempts_unders <-
+  processed_odds_data$rushing_attempts |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+rushing_attempts <-
+  rushing_attempts_overs |> 
+  inner_join(rushing_attempts_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1.2) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(rushing_attempts) > 0) {
+  rushing_attempts
+} else {
+  cat("No middles found")
+}
+```
+
+### Receiving Yards
+
+```{r}
+# Get all receiving yards over data
+receiving_yards_overs <-
+  processed_odds_data$receiving_yards_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all receiving yards under data
+receiving_yards_unders <-
+  processed_odds_data$receiving_yards_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+receiving_yards <-
+  receiving_yards_overs |> 
+  inner_join(receiving_yards_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1.1) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(receiving_yards) > 0) {
+  receiving_yards
+} else {
+  cat("No middles found")
+}
+```
+
+### Receptions
+
+```{r}
+# Get all receptions over data
+receptions_overs <-
+  processed_odds_data$receptions_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all receptions under data
+receptions_unders <-
+  processed_odds_data$receptions_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+receptions <-
+  receptions_overs |> 
+  inner_join(receptions_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line > over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1.2) |> 
+  mutate(diff = under_line - over_line) |> 
+  arrange(desc(diff), margin)
+
+if (nrow(receptions) > 0) {
+  receptions
+} else {
+  cat("No middles found")
+}
+```
+
+## Arbs
+
+### Passing Yards
+
+```{r}
+# Get all passing yards over data
+passing_yards_overs <-
+  processed_odds_data$passing_yards |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all passing yards under data
+passing_yards_unders <-
+  processed_odds_data$passing_yards |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+passing_yards <-
+  passing_yards_overs |> 
+  inner_join(passing_yards_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(passing_yards) > 0) {
+  passing_yards
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Passing Touchdowns
+
+```{r}
+# Get all passing TDs over data
+passing_tds_overs <-
+  processed_odds_data$passing_td_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all passing TDs under data
+passing_tds_unders <-
+  processed_odds_data$passing_td_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+passing_tds <-
+  passing_tds_overs |> 
+  inner_join(passing_tds_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(passing_tds) > 0) {
+  passing_tds
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Passing Attempts
+
+```{r}
+# Get all passing attempts over data
+passing_attempts_overs <-
+  processed_odds_data$passing_attempts_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all passing attempts under data
+passing_attempts_unders <-
+  processed_odds_data$passing_attempts_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+passing_attempts <-
+  passing_attempts_overs |> 
+  inner_join(passing_attempts_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(passing_attempts) > 0) {
+  passing_attempts
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Interceptions
+
+```{r}
+# Get all interceptions over data
+interceptions_overs <-
+  processed_odds_data$interceptions_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all interceptions under data
+interceptions_unders <-
+  processed_odds_data$interceptions_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+interceptions <-
+  interceptions_overs |> 
+  inner_join(interceptions_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(interceptions) > 0) {
+  interceptions
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Rushing Yards
+
+```{r}
+# Get all rushing yards over data
+rushing_yards_overs <-
+  processed_odds_data$rushing_yards_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all rushing yards under data
+rushing_yards_unders <-
+  processed_odds_data$rushing_yards_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+rushing_yards <-
+  rushing_yards_overs |> 
+  inner_join(rushing_yards_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(rushing_yards) > 0) {
+  rushing_yards
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Rushing Attempts
+
+```{r}
+# Get all rushing attempts over data
+rushing_attempts_overs <-
+  processed_odds_data$rushing_attempts |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all rushing attempts under data
+rushing_attempts_unders <-
+  processed_odds_data$rushing_attempts |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+rushing_attempts <-
+  rushing_attempts_overs |> 
+  inner_join(rushing_attempts_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(rushing_attempts) > 0) {
+  rushing_attempts
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Receiving Yards
+
+```{r}
+# Get all receiving yards over data
+receiving_yards_overs <-
+  processed_odds_data$receiving_yards_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all receiving yards under data
+receiving_yards_unders <-
+  processed_odds_data$receiving_yards_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+receiving_yards <-
+  receiving_yards_overs |> 
+  inner_join(receiving_yards_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(receiving_yards) > 0) {
+  receiving_yards
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+
+### Receptions
+
+```{r}
+# Get all receptions over data
+receptions_overs <-
+  processed_odds_data$receptions_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team, -margin) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all receptions under data
+receptions_unders <-
+  processed_odds_data$receptions_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team, -margin) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+receptions <-
+  receptions_overs |> 
+  inner_join(receptions_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
+  filter(margin <= 1) |> 
+  arrange(margin)
+
+if (nrow(receptions) > 0) {
+  receptions
+} else {
+  cat("No arbitrage opportunities found")
+}
+```
+:::

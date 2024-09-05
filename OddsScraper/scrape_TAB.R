@@ -158,7 +158,6 @@ away_teams <-
 # Combine
 tab_head_to_head_markets <-
   home_teams |>
-  left_join(draw_h2h) |>
   left_join(away_teams) |>
   select(match,
          start_time,
@@ -534,11 +533,11 @@ receiving_yards_overs <-
   all_tab_markets |>
   filter(market_name == "Receiving Yards O/U" |
            market_name == "Alternate Receiving Yards") |>
-  filter(str_detect(prop_name, "Ovr|\\+")) |>
+  filter(str_detect(prop_name, "Over|\\+")) |>
   mutate(line = str_extract(prop_name, "\\d+\\.?\\d?")) |>
   # If line doesn't end in .5, minus 0.5
   mutate(line = if_else(str_detect(line, "\\."), as.numeric(line), as.numeric(line) - 0.5)) |>
-  mutate(player_name = str_remove(prop_name, " Ovr.*$")) |>
+  mutate(player_name = str_remove(prop_name, " Over.*$")) |>
   mutate(player_name = str_remove(player_name, " \\d+.*$")) |>
   select(match, start_time, player_name, line, price) |>
   rename(over_price = price)

@@ -6,6 +6,12 @@ library(jsonlite)
 library(glue)
 library(nflreadr)
 
+# Get Fix Team Names Function
+source("Scripts/fix_team_names.r")
+
+# Get Fix Player Names Function
+source("Scripts/fix_player_names.r")
+
 # URL of website
 sportsbet_url = "https://www.sportsbet.com.au/betting/american-football/nfl"
 
@@ -573,6 +579,56 @@ player_props_function <- function() {
     distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
     arrange(match, player_name, line)
   
+  # Passing Completions ---------------------------------------------------------------
+  passing_completions <-
+    qb_prop_data |>
+    filter(str_detect(prop_market_name, "\\- Pass Completions$|\\- Alt Pass Completions$"))
+  
+  # Overs
+  passing_completions_overs <-
+    passing_completions |>
+    filter(str_detect(selection_name_prop, "Over|\\+")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
+    mutate(market = "Completions") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Unders
+  passing_completions_unders <-
+    passing_completions |>
+    filter(str_detect(selection_name_prop, "Under")) |>
+    mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
+    mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
+    mutate(line = as.numeric(handicap)) |>
+    mutate(market = "Completions") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           under_price = prop_market_price)
+  
+  # Combine
+  passing_completions_all <-
+    passing_completions_overs |>
+    left_join(passing_completions_unders) |> 
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "Sportsbet") |> 
+    mutate(player_name = ifelse(player_name == "Brian Robinson Jr.", "Brian Robinson", player_name)) |>
+    mutate(player_name = ifelse(player_name == "Deebo Samuel", "Deebo Samuel Sr.", player_name)) |>
+    left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr), by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, under_price, margin, agency) |> 
+    distinct(match, player_name, line, over_price, under_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
+  
   #===========================================================================
   # Rushing Prop Markets
   #===========================================================================
@@ -870,6 +926,9 @@ player_props_function <- function() {
   
   # Passing Attempts
   write_csv(passing_attempts_all, "Data/scraped_odds/sportsbet_passing_attempts.csv")
+  
+  # Passing Completions
+  write_csv(passing_completions_all, "Data/scraped_odds/sportsbet_passing_completions.csv")
   
   # Rushing Yards
   write_csv(rushing_yards_all, "Data/scraped_odds/sportsbet_rushing_yards.csv")
