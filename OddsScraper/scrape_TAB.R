@@ -220,6 +220,40 @@ tab_total_points_markets <-
   arrange(start_time, match, line)
 
 #===============================================================================
+# Touchdowns
+#===============================================================================
+
+# Touchdowns Overs
+touchdown_overs <-
+  all_tab_markets |>
+  filter(str_detect(market_name, "To Score .* Touchdown.*$")) |> 
+  mutate(market_name = ifelse(market_name == "To Score a Touchdown", "To Score 1+ Touchdowns", market_name)) |>
+  mutate(line = str_extract(market_name, "\\d+\\.?\\d?")) |>
+  # If line doesnt end in .5, minus 0.5
+  mutate(line = if_else(str_detect(line, "\\."), as.numeric(line), as.numeric(line) - 0.5)) |>
+  mutate(player_name = str_remove(prop_name, " \\(.*$")) |> 
+  separate(player_name, into = c("last_name", "first_name"), sep = " ") |> 
+  mutate(last_name = str_to_title(last_name)) |>
+  mutate(first_name = str_to_title(first_name)) |>
+  mutate(player_name = paste(first_name, last_name, sep = " ")) |> 
+  select(match, start_time, player_name, line, price) |>
+  rename(over_price = price) |> 
+  mutate(agency = "TAB") |> 
+  mutate(market = "Player Touchdowns") |> 
+  separate(match, into = c("home_team", "away_team"), sep = " v ", remove = FALSE) |>
+  mutate(home_team = fix_team_names(home_team)) |>
+  mutate(away_team = fix_team_names(away_team)) |> 
+  mutate(match = paste(home_team, "v", away_team)) |> 
+  mutate(player_name = fix_player_names(player_name)) |>
+  left_join(bind_rows(player_teams_rb, player_teams_qb, player_teams_wr, player_teams_te, player_teams_db), by = "player_name") |>
+  select(match, start_time, player_name, player_team, market, line, over_price, agency) |> 
+  distinct(match, player_name, line, over_price, .keep_all = TRUE) |> 
+  arrange(start_time, match, player_name, line)
+
+# Write to csv
+write_csv(touchdown_overs, "Data/scraped_odds/tab_touchdowns.csv")
+
+#===============================================================================
 # Passing Yards
 #===============================================================================
 

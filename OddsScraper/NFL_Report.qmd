@@ -15,6 +15,7 @@ format:
     toc-depth: 3
     fig-width: 8
     fig-height: 6
+    page-layout: full
 editor: visual
 ---
 
@@ -23,6 +24,7 @@ editor: visual
 ```{r}
 # Load Libraries
 library(tidyverse)
+library(DT)
 
 # Read in data
 processed_odds_files <- list.files("../Data/processed_odds", full.names = TRUE)
@@ -39,6 +41,8 @@ processed_odds_data <-
 ### Passing Yards
 
 ```{r}
+#| column: screen
+
 # Get all passing yards over data
 passing_yards_overs <-
   processed_odds_data$passing_yards |>
@@ -68,7 +72,16 @@ passing_yards <-
   arrange(desc(diff), margin)
 
 if (nrow(passing_yards) > 0) {
-  passing_yards
+   datatable(
+    passing_yards,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -77,6 +90,8 @@ if (nrow(passing_yards) > 0) {
 ### Passing Touchdowns
 
 ```{r}
+#| column: screen
+
 # Get all passing TDs over data
 passing_tds_overs <-
   processed_odds_data$passing_td_data |>
@@ -106,7 +121,16 @@ passing_tds <-
   arrange(desc(diff), margin)
 
 if (nrow(passing_tds) > 0) {
-  passing_tds
+  datatable(
+    passing_tds,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -115,6 +139,8 @@ if (nrow(passing_tds) > 0) {
 ### Passing Attempts
 
 ```{r}
+#| column: screen
+
 # Get all passing attempts over data
 passing_attempts_overs <-
   processed_odds_data$passing_attempts_data |>
@@ -137,13 +163,23 @@ passing_attempts <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line > over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1.1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 10) |> 
   mutate(diff = under_line - over_line) |> 
   arrange(desc(diff), margin)
 
 if (nrow(passing_attempts) > 0) {
-  passing_attempts
+  datatable(
+    passing_attempts,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -152,6 +188,7 @@ if (nrow(passing_attempts) > 0) {
 ### Interceptions
 
 ```{r}
+#| column: screen
 # Get all interceptions over data
 interceptions_overs <-
   processed_odds_data$interceptions_data |>
@@ -174,13 +211,23 @@ interceptions <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line > over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1.1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 10) |> 
   mutate(diff = under_line - over_line) |> 
   arrange(desc(diff), margin)
 
 if (nrow(interceptions) > 0) {
-  interceptions
+  datatable(
+    interceptions,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -189,6 +236,7 @@ if (nrow(interceptions) > 0) {
 ### Rushing Yards
 
 ```{r}
+#| column: screen
 # Get all rushing yards over data
 rushing_yards_overs <-
   processed_odds_data$rushing_yards_data |>
@@ -211,13 +259,23 @@ rushing_yards <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line > over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1.1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 10) |> 
   mutate(diff = under_line - over_line) |> 
   arrange(desc(diff), margin)
 
 if (nrow(rushing_yards) > 0) {
-  rushing_yards
+  datatable(
+    rushing_yards,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -226,6 +284,7 @@ if (nrow(rushing_yards) > 0) {
 ### Rushing Attempts
 
 ```{r}
+#| column: screen
 # Get all rushing attempts over data
 rushing_attempts_overs <-
   processed_odds_data$rushing_attempts |>
@@ -248,13 +307,23 @@ rushing_attempts <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line > over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1.2) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 20) |>
   mutate(diff = under_line - over_line) |> 
   arrange(desc(diff), margin)
 
 if (nrow(rushing_attempts) > 0) {
-  rushing_attempts
+  datatable(
+    rushing_attempts,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -263,6 +332,7 @@ if (nrow(rushing_attempts) > 0) {
 ### Receiving Yards
 
 ```{r}
+#| column: screen
 # Get all receiving yards over data
 receiving_yards_overs <-
   processed_odds_data$receiving_yards_data |>
@@ -285,13 +355,23 @@ receiving_yards <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line > over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1.1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 10) |> 
   mutate(diff = under_line - over_line) |> 
   arrange(desc(diff), margin)
 
 if (nrow(receiving_yards) > 0) {
-  receiving_yards
+  datatable(
+    receiving_yards,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -300,6 +380,7 @@ if (nrow(receiving_yards) > 0) {
 ### Receptions
 
 ```{r}
+#| column: screen
 # Get all receptions over data
 receptions_overs <-
   processed_odds_data$receptions_data |>
@@ -322,13 +403,23 @@ receptions <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line > over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1.2) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 20) |> 
   mutate(diff = under_line - over_line) |> 
   arrange(desc(diff), margin)
 
 if (nrow(receptions) > 0) {
-  receptions
+  datatable(
+    receptions,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No middles found")
 }
@@ -339,6 +430,7 @@ if (nrow(receptions) > 0) {
 ### Passing Yards
 
 ```{r}
+#| column: screen
 # Get all passing yards over data
 passing_yards_overs <-
   processed_odds_data$passing_yards |>
@@ -361,12 +453,22 @@ passing_yards <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(passing_yards) > 0) {
-  passing_yards
+  datatable(
+    passing_yards,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -375,6 +477,7 @@ if (nrow(passing_yards) > 0) {
 ### Passing Touchdowns
 
 ```{r}
+#| column: screen
 # Get all passing TDs over data
 passing_tds_overs <-
   processed_odds_data$passing_td_data |>
@@ -397,12 +500,22 @@ passing_tds <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(passing_tds) > 0) {
-  passing_tds
+  datatable(
+    passing_tds,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -411,6 +524,7 @@ if (nrow(passing_tds) > 0) {
 ### Passing Attempts
 
 ```{r}
+#| column: screen
 # Get all passing attempts over data
 passing_attempts_overs <-
   processed_odds_data$passing_attempts_data |>
@@ -433,12 +547,22 @@ passing_attempts <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(passing_attempts) > 0) {
-  passing_attempts
+  datatable(
+    passing_attempts,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -447,6 +571,7 @@ if (nrow(passing_attempts) > 0) {
 ### Interceptions
 
 ```{r}
+#| column: screen
 # Get all interceptions over data
 interceptions_overs <-
   processed_odds_data$interceptions_data |>
@@ -469,12 +594,22 @@ interceptions <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(interceptions) > 0) {
-  interceptions
+  datatable(
+    interceptions,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -483,6 +618,7 @@ if (nrow(interceptions) > 0) {
 ### Rushing Yards
 
 ```{r}
+#| column: screen
 # Get all rushing yards over data
 rushing_yards_overs <-
   processed_odds_data$rushing_yards_data |>
@@ -505,12 +641,22 @@ rushing_yards <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(rushing_yards) > 0) {
-  rushing_yards
+  datatable(
+    rushing_yards,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -519,6 +665,7 @@ if (nrow(rushing_yards) > 0) {
 ### Rushing Attempts
 
 ```{r}
+#| column: screen
 # Get all rushing attempts over data
 rushing_attempts_overs <-
   processed_odds_data$rushing_attempts |>
@@ -541,12 +688,22 @@ rushing_attempts <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(rushing_attempts) > 0) {
-  rushing_attempts
+  datatable(
+    rushing_attempts,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -555,6 +712,7 @@ if (nrow(rushing_attempts) > 0) {
 ### Receiving Yards
 
 ```{r}
+#| column: screen
 # Get all receiving yards over data
 receiving_yards_overs <-
   processed_odds_data$receiving_yards_data |>
@@ -577,12 +735,22 @@ receiving_yards <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(receiving_yards) > 0) {
-  receiving_yards
+  datatable(
+    receiving_yards,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }
@@ -591,6 +759,7 @@ if (nrow(receiving_yards) > 0) {
 ### Receptions
 
 ```{r}
+#| column: screen
 # Get all receptions over data
 receptions_overs <-
   processed_odds_data$receptions_data |>
@@ -613,12 +782,22 @@ receptions <-
   select(match, player_name, market, contains("over"), contains("under")) |> 
   filter(over_agency != under_agency) |>
   filter(under_line == over_line) |> 
-  mutate(margin = round(1 / over_price + 1 / under_price, 2)) |>
-  filter(margin <= 1) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
   arrange(margin)
 
 if (nrow(receptions) > 0) {
-  receptions
+  datatable(
+    receptions,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
 } else {
   cat("No arbitrage opportunities found")
 }

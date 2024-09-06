@@ -267,6 +267,65 @@ pointsbet_h2h_main <- function() {
   pointsbet_data_player_props <- map_df(match_urls, get_player_props)
   
   #===============================================================================
+  # Touchdowns
+  #===============================================================================
+  
+  # Filter to touchdown markets
+  pointsbet_player_touchdowns <-
+    pointsbet_data_player_props |>
+    filter(str_detect(market, "To Score .* Touchdowns \\(|Anytime Touchdown Scorer \\("))
+  
+  # Get Overs
+  pointsbet_player_touchdowns_all <-
+    pointsbet_player_touchdowns |>
+    filter(str_detect(market, "Anytime|\\+")) |>
+    mutate(line = as.numeric(str_extract(market, "\\d+\\.?\\d?")),
+           over_price = as.numeric(price)) |>
+    mutate(line = if_else(str_detect(market, "Anytime"), 0.5, line - 0.5)) |>
+    separate(match, c("away_team", "home_team"), sep = " @ ") |>
+    mutate(home_team = fix_team_names(home_team),
+           away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    mutate(player_name = fix_player_names(outcome)) |> 
+    mutate(market = "Touchdowns") |>
+    select(
+      match,
+      home_team,
+      away_team,
+      player_name,
+      market,
+      line,
+      over_price,
+      EventKey,
+      MarketKey,
+      OutcomeKey
+    ) |> 
+    mutate(agency = "Pointsbet") |> 
+    left_join(
+      bind_rows(
+        player_teams_qb,
+        player_teams_rb,
+        player_teams_wr,
+        player_teams_te,
+        player_teams_db
+      ),
+      by = "player_name"
+    ) |>
+    select(
+      match,
+      player_name,
+      player_team,
+      market,
+      line,
+      over_price,
+      agency,
+      EventKey,
+      MarketKey,
+      OutcomeKey    ) |>
+    distinct(match, player_name, line, over_price, .keep_all = TRUE) |>
+    arrange(match, player_name, line)
+  
+  #===============================================================================
   # Passing Yards
   #===============================================================================
   
@@ -980,6 +1039,9 @@ pointsbet_h2h_main <- function() {
   #===============================================================================
   # Write to CSV
   #===============================================================================
+  
+  pointsbet_player_touchdowns_all |> 
+    write_csv("Data/scraped_odds/pointsbet_touchdowns.csv")
   
   pointsbet_player_passing_yards_all |>
     write_csv("Data/scraped_odds/pointsbet_passing_yards.csv")
