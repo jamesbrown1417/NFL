@@ -71,7 +71,7 @@ write_rds(passing_yards_data, "Data/processed_odds/passing_yards_data.rds")
 #===============================================================================
 
 # Read in all passing touchdowns data
-list_of_passing_td_files <- list.files("Data/scraped_odds/", full.names = TRUE, pattern = "passing_touchdowns")
+list_of_passing_td_files <- list.files("Data/scraped_odds/", full.names = TRUE, pattern = "passing_touchdowns|passing_td")
 
 # Read in all passing touchdowns data
 list_of_passing_td_data <-
