@@ -1,710 +1,93 @@
 match,start_time,player_name,player_team,market,line,over_price,agency
-<<<<<<< HEAD
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,0.5,4.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,1.5,26,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,0.5,13,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,1.5,101,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Brock Bowers,Las Vegas Raiders,Player Touchdowns,0.5,6,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Brock Bowers,Las Vegas Raiders,Player Touchdowns,1.5,41,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Davante Adams,Las Vegas Raiders,Player Touchdowns,0.5,3.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Davante Adams,Las Vegas Raiders,Player Touchdowns,1.5,15,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Deonte Harty,Baltimore Ravens,Player Touchdowns,0.5,11,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Deonte Harty,Baltimore Ravens,Player Touchdowns,1.5,81,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Derrick Henry,Baltimore Ravens,Player Touchdowns,0.5,1.6,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Derrick Henry,Baltimore Ravens,Player Touchdowns,1.5,3.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,0.5,11,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,1.5,81,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Harrison Bryant,Las Vegas Raiders,Player Touchdowns,0.5,13,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Harrison Bryant,Las Vegas Raiders,Player Touchdowns,1.5,101,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Isaiah Likely,Baltimore Ravens,Player Touchdowns,0.5,3.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Isaiah Likely,Baltimore Ravens,Player Touchdowns,1.5,19,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Player Touchdowns,0.5,5.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Player Touchdowns,1.5,34,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Justice Hill,Baltimore Ravens,Player Touchdowns,0.5,4.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Justice Hill,Baltimore Ravens,Player Touchdowns,1.5,26,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Lamar Jackson,Baltimore Ravens,Player Touchdowns,0.5,2.6,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Lamar Jackson,Baltimore Ravens,Player Touchdowns,1.5,9,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Mark Andrews,Baltimore Ravens,Player Touchdowns,0.5,3.5,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Mark Andrews,Baltimore Ravens,Player Touchdowns,1.5,19,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Michael Mayer,Las Vegas Raiders,Player Touchdowns,0.5,11,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Michael Mayer,Las Vegas Raiders,Player Touchdowns,1.5,81,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Nelson Agholor,Baltimore Ravens,Player Touchdowns,0.5,8,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Nelson Agholor,Baltimore Ravens,Player Touchdowns,1.5,67,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Rashod Bateman,Baltimore Ravens,Player Touchdowns,0.5,4.25,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Rashod Bateman,Baltimore Ravens,Player Touchdowns,1.5,26,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Tre Tucker,Las Vegas Raiders,Player Touchdowns,0.5,9,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Tre Tucker,Las Vegas Raiders,Player Touchdowns,1.5,67,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Zamir White,Las Vegas Raiders,Player Touchdowns,0.5,2.8,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Zamir White,Las Vegas Raiders,Player Touchdowns,1.5,11,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Zay Flowers,Baltimore Ravens,Player Touchdowns,0.5,2.8,TAB
-Baltimore Ravens v Las Vegas Raiders,2024-09-15T17:00:00.000Z,Zay Flowers,Baltimore Ravens,Player Touchdowns,1.5,11,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Adam Thielen,Carolina Panthers,Player Touchdowns,0.5,5.5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Adam Thielen,Carolina Panthers,Player Touchdowns,1.5,23,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Bryce Young,Carolina Panthers,Player Touchdowns,0.5,6,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Bryce Young,Carolina Panthers,Player Touchdowns,1.5,51,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Chuba Hubbard,Carolina Panthers,Player Touchdowns,0.5,2.6,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Chuba Hubbard,Carolina Panthers,Player Touchdowns,1.5,11,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,David Moore,Carolina Panthers,Player Touchdowns,0.5,13,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,David Moore,Carolina Panthers,Player Touchdowns,1.5,101,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Derius Davis,Los Angeles Chargers,Player Touchdowns,0.5,8,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Derius Davis,Los Angeles Chargers,Player Touchdowns,1.5,81,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Diontae Johnson,Carolina Panthers,Player Touchdowns,0.5,4.5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Diontae Johnson,Carolina Panthers,Player Touchdowns,1.5,23,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Gus Edwards,Los Angeles Chargers,Player Touchdowns,0.5,3,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Gus Edwards,Los Angeles Chargers,Player Touchdowns,1.5,11,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Player Touchdowns,0.5,13,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Player Touchdowns,1.5,101,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Hayden Hurst,Los Angeles Chargers,Player Touchdowns,0.5,6,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Hayden Hurst,Los Angeles Chargers,Player Touchdowns,1.5,41,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,J.k. Dobbins,NA,Player Touchdowns,0.5,2.4,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,J.k. Dobbins,NA,Player Touchdowns,1.5,9,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Jatavion Sanders,NA,Player Touchdowns,0.5,10,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Jatavion Sanders,NA,Player Touchdowns,1.5,81,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Jonathan Mingo,Carolina Panthers,Player Touchdowns,0.5,8,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Jonathan Mingo,Carolina Panthers,Player Touchdowns,1.5,67,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Jordan Matthews,Carolina Panthers,Player Touchdowns,0.5,11,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Jordan Matthews,Carolina Panthers,Player Touchdowns,1.5,101,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Joshua Palmer,NA,Player Touchdowns,0.5,3.75,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Joshua Palmer,NA,Player Touchdowns,1.5,19,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Justin Herbert,Los Angeles Chargers,Player Touchdowns,0.5,5.5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Justin Herbert,Los Angeles Chargers,Player Touchdowns,1.5,26,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Ladd McConkey,Los Angeles Chargers,Player Touchdowns,0.5,3.5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Ladd McConkey,Los Angeles Chargers,Player Touchdowns,1.5,17,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Miles Sanders,Carolina Panthers,Player Touchdowns,0.5,5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Miles Sanders,Carolina Panthers,Player Touchdowns,1.5,21,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Quentin Johnston,Los Angeles Chargers,Player Touchdowns,0.5,5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Quentin Johnston,Los Angeles Chargers,Player Touchdowns,1.5,29,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Stone Smartt,Los Angeles Chargers,Player Touchdowns,0.5,11,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Stone Smartt,Los Angeles Chargers,Player Touchdowns,1.5,101,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Tommy Tremble,Carolina Panthers,Player Touchdowns,0.5,7.5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Tommy Tremble,Carolina Panthers,Player Touchdowns,1.5,67,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Will Dissly,Los Angeles Chargers,Player Touchdowns,0.5,7.5,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Will Dissly,Los Angeles Chargers,Player Touchdowns,1.5,51,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Xavier Legette,Carolina Panthers,Player Touchdowns,0.5,6,TAB
-Carolina Panthers v Los Angeles Chargers,2024-09-15T17:00:00.000Z,Xavier Legette,Carolina Panthers,Player Touchdowns,1.5,51,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,A.t. Perry,NA,Player Touchdowns,0.5,8,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,A.t. Perry,NA,Player Touchdowns,1.5,51,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Adam Prentice,New Orleans Saints,Player Touchdowns,0.5,15,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Adam Prentice,New Orleans Saints,Player Touchdowns,1.5,101,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Alvin Kamara,New Orleans Saints,Player Touchdowns,0.5,2.4,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Alvin Kamara,New Orleans Saints,Player Touchdowns,1.5,7.5,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Brandin Cooks,Dallas Cowboys,Player Touchdowns,0.5,3.25,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Brandin Cooks,Dallas Cowboys,Player Touchdowns,1.5,13,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,0.5,10,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,1.5,81,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Cedrick Wilson,NA,Player Touchdowns,0.5,8,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Cedrick Wilson,NA,Player Touchdowns,1.5,41,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,0.5,1.9,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,1.5,5.25,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Chris Olave,New Orleans Saints,Player Touchdowns,0.5,3,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Chris Olave,New Orleans Saints,Player Touchdowns,1.5,11,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Dak Prescott,Dallas Cowboys,Player Touchdowns,0.5,5,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Dak Prescott,Dallas Cowboys,Player Touchdowns,1.5,41,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Derek Carr,New Orleans Saints,Player Touchdowns,0.5,11,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Derek Carr,New Orleans Saints,Player Touchdowns,1.5,81,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Deuce Vaughn,Dallas Cowboys,Player Touchdowns,0.5,11,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Deuce Vaughn,Dallas Cowboys,Player Touchdowns,1.5,101,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,0.5,2.3,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,1.5,7.5,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Foster Moreau,New Orleans Saints,Player Touchdowns,0.5,6,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Foster Moreau,New Orleans Saints,Player Touchdowns,1.5,34,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Hunter Luepke,Dallas Cowboys,Player Touchdowns,0.5,7,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Hunter Luepke,Dallas Cowboys,Player Touchdowns,1.5,51,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jake Ferguson,Dallas Cowboys,Player Touchdowns,0.5,4,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jake Ferguson,Dallas Cowboys,Player Touchdowns,1.5,17,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jalen Brooks,Dallas Cowboys,Player Touchdowns,0.5,7.5,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jalen Brooks,Dallas Cowboys,Player Touchdowns,1.5,51,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,0.5,4,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,1.5,26,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jamaal Williams,New Orleans Saints,Player Touchdowns,0.5,5,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Jamaal Williams,New Orleans Saints,Player Touchdowns,1.5,26,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Juwan Johnson,New Orleans Saints,Player Touchdowns,0.5,5,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Juwan Johnson,New Orleans Saints,Player Touchdowns,1.5,26,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Kavontae Turpin,NA,Player Touchdowns,0.5,9,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Kavontae Turpin,NA,Player Touchdowns,1.5,67,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,0.5,4,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,1.5,17,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Mason Tipton,New Orleans Saints,Player Touchdowns,0.5,13,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Mason Tipton,New Orleans Saints,Player Touchdowns,1.5,101,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Rashid Shaheed,New Orleans Saints,Player Touchdowns,0.5,4.25,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Rashid Shaheed,New Orleans Saints,Player Touchdowns,1.5,21,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Rico Dowdle,Dallas Cowboys,Player Touchdowns,0.5,3,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Rico Dowdle,Dallas Cowboys,Player Touchdowns,1.5,11,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Taysom Hill,New Orleans Saints,Player Touchdowns,0.5,3.25,TAB
-Dallas Cowboys v New Orleans Saints,2024-09-15T17:00:00.000Z,Taysom Hill,New Orleans Saints,Player Touchdowns,1.5,13,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Amon-Ra St-Brown,NA,Player Touchdowns,0.5,2.1,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Amon-Ra St-Brown,NA,Player Touchdowns,1.5,6,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Player Touchdowns,0.5,6.5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Player Touchdowns,1.5,67,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Brock Wright,Detroit Lions,Player Touchdowns,0.5,10,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Brock Wright,Detroit Lions,Player Touchdowns,1.5,51,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Bucky Irving,Tampa Bay Buccaneers,Player Touchdowns,0.5,4.5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Bucky Irving,Tampa Bay Buccaneers,Player Touchdowns,1.5,26,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Cade Otton,Tampa Bay Buccaneers,Player Touchdowns,0.5,5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Cade Otton,Tampa Bay Buccaneers,Player Touchdowns,1.5,34,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Chris Godwin,Tampa Bay Buccaneers,Player Touchdowns,0.5,2.9,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Chris Godwin,Tampa Bay Buccaneers,Player Touchdowns,1.5,13,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,David Montgomery,Detroit Lions,Player Touchdowns,0.5,1.75,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,David Montgomery,Detroit Lions,Player Touchdowns,1.5,5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jahmyr Gibbs,Detroit Lions,Player Touchdowns,0.5,1.8,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jahmyr Gibbs,Detroit Lions,Player Touchdowns,1.5,4.25,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jalen Mcmillan,NA,Player Touchdowns,0.5,4,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jalen Mcmillan,NA,Player Touchdowns,1.5,23,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jameson Williams,Detroit Lions,Player Touchdowns,0.5,2.75,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jameson Williams,Detroit Lions,Player Touchdowns,1.5,10,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jared Goff,Detroit Lions,Player Touchdowns,0.5,11,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Jared Goff,Detroit Lions,Player Touchdowns,1.5,67,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Kalif Raymond,Detroit Lions,Player Touchdowns,0.5,4.5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Kalif Raymond,Detroit Lions,Player Touchdowns,1.5,26,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Mike Evans,Tampa Bay Buccaneers,Player Touchdowns,0.5,2,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Mike Evans,Tampa Bay Buccaneers,Player Touchdowns,1.5,7.5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Parker Hesse,Detroit Lions,Player Touchdowns,0.5,21,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Parker Hesse,Detroit Lions,Player Touchdowns,1.5,101,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Payne Durham,Tampa Bay Buccaneers,Player Touchdowns,0.5,13,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Payne Durham,Tampa Bay Buccaneers,Player Touchdowns,1.5,81,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Player Touchdowns,0.5,2.25,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Player Touchdowns,1.5,8,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Sam LaPorta,Detroit Lions,Player Touchdowns,0.5,2.5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Sam LaPorta,Detroit Lions,Player Touchdowns,1.5,8,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Tim Patrick,Detroit Lions,Player Touchdowns,0.5,4.75,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Tim Patrick,Detroit Lions,Player Touchdowns,1.5,34,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Trey Palmer,Tampa Bay Buccaneers,Player Touchdowns,0.5,6.5,TAB
-Detroit Lions v Tampa Bay Buccaneers,2024-09-15T17:00:00.000Z,Trey Palmer,Tampa Bay Buccaneers,Player Touchdowns,1.5,67,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Adonai Mitchell,Indianapolis Colts,Player Touchdowns,0.5,4.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Adonai Mitchell,Indianapolis Colts,Player Touchdowns,1.5,26,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Alec Pierce,Indianapolis Colts,Player Touchdowns,0.5,5.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Alec Pierce,Indianapolis Colts,Player Touchdowns,1.5,34,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Anthony Richardson,Indianapolis Colts,Player Touchdowns,0.5,2.1,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Anthony Richardson,Indianapolis Colts,Player Touchdowns,1.5,6,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Ashton Dulin,Indianapolis Colts,Player Touchdowns,0.5,6,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Ashton Dulin,Indianapolis Colts,Player Touchdowns,1.5,41,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Bo Melton,Green Bay Packers,Player Touchdowns,0.5,11,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Bo Melton,Green Bay Packers,Player Touchdowns,1.5,101,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Christian Watson,Green Bay Packers,Player Touchdowns,0.5,4.25,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Christian Watson,Green Bay Packers,Player Touchdowns,1.5,23,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,0.5,7.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,1.5,41,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Drew Ogletree,NA,Player Touchdowns,0.5,11,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Drew Ogletree,NA,Player Touchdowns,1.5,81,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Emanuel Wilson,Green Bay Packers,Player Touchdowns,0.5,5.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Emanuel Wilson,Green Bay Packers,Player Touchdowns,1.5,29,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Jayden Reed,Green Bay Packers,Player Touchdowns,0.5,3.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Jayden Reed,Green Bay Packers,Player Touchdowns,1.5,15,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Player Touchdowns,0.5,1.95,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Player Touchdowns,1.5,5.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Josh Downs,Indianapolis Colts,Player Touchdowns,0.5,5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Josh Downs,Indianapolis Colts,Player Touchdowns,1.5,29,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Josh Jacobs,Green Bay Packers,Player Touchdowns,0.5,2.2,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Josh Jacobs,Green Bay Packers,Player Touchdowns,1.5,6.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Kylen Granson,Indianapolis Colts,Player Touchdowns,0.5,5.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Kylen Granson,Indianapolis Colts,Player Touchdowns,1.5,34,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Luke Musgrave,Green Bay Packers,Player Touchdowns,0.5,6,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Luke Musgrave,Green Bay Packers,Player Touchdowns,1.5,34,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Malik Willis,Green Bay Packers,Player Touchdowns,0.5,4.25,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Malik Willis,Green Bay Packers,Player Touchdowns,1.5,21,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Marshawn Lloyd,NA,Player Touchdowns,0.5,8,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Marshawn Lloyd,NA,Player Touchdowns,1.5,51,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Player Touchdowns,0.5,3,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Player Touchdowns,1.5,13,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Mo Alie-Cox,Indianapolis Colts,Player Touchdowns,0.5,8,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Mo Alie-Cox,Indianapolis Colts,Player Touchdowns,1.5,67,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Romeo Doubs,Green Bay Packers,Player Touchdowns,0.5,4.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Romeo Doubs,Green Bay Packers,Player Touchdowns,1.5,26,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Trey Sermon,Indianapolis Colts,Player Touchdowns,0.5,7.5,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Trey Sermon,Indianapolis Colts,Player Touchdowns,1.5,51,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Tucker Kraft,Green Bay Packers,Player Touchdowns,0.5,6,TAB
-Green Bay Packers v Indianapolis Colts,2024-09-15T17:00:00.000Z,Tucker Kraft,Green Bay Packers,Player Touchdowns,1.5,34,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Amari Cooper,Cleveland Browns,Player Touchdowns,0.5,3,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Amari Cooper,Cleveland Browns,Player Touchdowns,1.5,11,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Brenton Strange,Jacksonville Jaguars,Player Touchdowns,0.5,13,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Brenton Strange,Jacksonville Jaguars,Player Touchdowns,1.5,101,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Brian Thomas Jr.,Jacksonville Jaguars,Player Touchdowns,0.5,3.75,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Brian Thomas Jr.,Jacksonville Jaguars,Player Touchdowns,1.5,15,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Cedric Tillman,Cleveland Browns,Player Touchdowns,0.5,6.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Cedric Tillman,Cleveland Browns,Player Touchdowns,1.5,51,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Christian Kirk,Jacksonville Jaguars,Player Touchdowns,0.5,3.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Christian Kirk,Jacksonville Jaguars,Player Touchdowns,1.5,13,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Dernest Johnson,NA,Player Touchdowns,0.5,10,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Dernest Johnson,NA,Player Touchdowns,1.5,81,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Deshaun Watson,Cleveland Browns,Player Touchdowns,0.5,4.25,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Deshaun Watson,Cleveland Browns,Player Touchdowns,1.5,19,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Devin Duvernay,Jacksonville Jaguars,Player Touchdowns,0.5,13,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Devin Duvernay,Jacksonville Jaguars,Player Touchdowns,1.5,101,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Donta Foreman,NA,Player Touchdowns,0.5,5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Donta Foreman,NA,Player Touchdowns,1.5,29,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Elijah Moore,Cleveland Browns,Player Touchdowns,0.5,5.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Elijah Moore,Cleveland Browns,Player Touchdowns,1.5,34,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Evan Engram,Jacksonville Jaguars,Player Touchdowns,0.5,3.75,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Evan Engram,Jacksonville Jaguars,Player Touchdowns,1.5,15,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Gabe Davis,Jacksonville Jaguars,Player Touchdowns,0.5,4,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Gabe Davis,Jacksonville Jaguars,Player Touchdowns,1.5,21,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Geoff Swaim,Cleveland Browns,Player Touchdowns,0.5,11,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Geoff Swaim,Cleveland Browns,Player Touchdowns,1.5,67,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Jerome Ford,Cleveland Browns,Player Touchdowns,0.5,2.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Jerome Ford,Cleveland Browns,Player Touchdowns,1.5,7.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Jerry Jeudy,Cleveland Browns,Player Touchdowns,0.5,4,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Jerry Jeudy,Cleveland Browns,Player Touchdowns,1.5,17,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Jordan Akins,Cleveland Browns,Player Touchdowns,0.5,5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Jordan Akins,Cleveland Browns,Player Touchdowns,1.5,29,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Luke Farrell,Jacksonville Jaguars,Player Touchdowns,0.5,13,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Luke Farrell,Jacksonville Jaguars,Player Touchdowns,1.5,101,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Parker Washington,Jacksonville Jaguars,Player Touchdowns,0.5,9,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Parker Washington,Jacksonville Jaguars,Player Touchdowns,1.5,67,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Pierre Strong,Cleveland Browns,Player Touchdowns,0.5,6,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Pierre Strong,Cleveland Browns,Player Touchdowns,1.5,41,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Player Touchdowns,0.5,4.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Player Touchdowns,1.5,23,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Tim Jones,Jacksonville Jaguars,Player Touchdowns,0.5,13,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Tim Jones,Jacksonville Jaguars,Player Touchdowns,1.5,101,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Player Touchdowns,0.5,2,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Player Touchdowns,1.5,6.5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Player Touchdowns,0.5,5,TAB
-Jacksonville Jaguars v Cleveland Browns,2024-09-15T17:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Player Touchdowns,1.5,26,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Aaron Jones,Minnesota Vikings,Player Touchdowns,0.5,2.2,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Aaron Jones,Minnesota Vikings,Player Touchdowns,1.5,7,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,0.5,2.9,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,1.5,11,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Brandon Powell,Minnesota Vikings,Player Touchdowns,0.5,7.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Brandon Powell,Minnesota Vikings,Player Touchdowns,1.5,67,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Brock Purdy,San Francisco 49ers,Player Touchdowns,0.5,7.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Brock Purdy,San Francisco 49ers,Player Touchdowns,1.5,51,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,C.j. Ham,NA,Player Touchdowns,0.5,15,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,C.j. Ham,NA,Player Touchdowns,1.5,101,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Chris Conley,San Francisco 49ers,Player Touchdowns,0.5,11,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Chris Conley,San Francisco 49ers,Player Touchdowns,1.5,81,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,0.5,2.05,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,1.5,6,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Eric Saubert,San Francisco 49ers,Player Touchdowns,0.5,13,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Eric Saubert,San Francisco 49ers,Player Touchdowns,1.5,101,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,George Kittle,San Francisco 49ers,Player Touchdowns,0.5,3.1,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,George Kittle,San Francisco 49ers,Player Touchdowns,1.5,13,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,0.5,6,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,1.5,34,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jalen Nailor,Minnesota Vikings,Player Touchdowns,0.5,4.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jalen Nailor,Minnesota Vikings,Player Touchdowns,1.5,23,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jauan Jennings,San Francisco 49ers,Player Touchdowns,0.5,5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jauan Jennings,San Francisco 49ers,Player Touchdowns,1.5,29,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Johnny Mundt,Minnesota Vikings,Player Touchdowns,0.5,7,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Johnny Mundt,Minnesota Vikings,Player Touchdowns,1.5,51,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jordan Addison,Minnesota Vikings,Player Touchdowns,0.5,4.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jordan Addison,Minnesota Vikings,Player Touchdowns,1.5,23,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jordan Mason,San Francisco 49ers,Player Touchdowns,0.5,1.65,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Jordan Mason,San Francisco 49ers,Player Touchdowns,1.5,4.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Josh Oliver,Minnesota Vikings,Player Touchdowns,0.5,7,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Josh Oliver,Minnesota Vikings,Player Touchdowns,1.5,51,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Justin Jefferson,Minnesota Vikings,Player Touchdowns,0.5,2.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Justin Jefferson,Minnesota Vikings,Player Touchdowns,1.5,8,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,0.5,7.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,1.5,51,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Patrick Taylor,San Francisco 49ers,Player Touchdowns,0.5,13,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Patrick Taylor,San Francisco 49ers,Player Touchdowns,1.5,101,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Ronnie Bell,San Francisco 49ers,Player Touchdowns,0.5,9,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Ronnie Bell,San Francisco 49ers,Player Touchdowns,1.5,81,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Sam Darnold,Minnesota Vikings,Player Touchdowns,0.5,5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Sam Darnold,Minnesota Vikings,Player Touchdowns,1.5,41,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Trent Sherfield,Minnesota Vikings,Player Touchdowns,0.5,8.5,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Trent Sherfield,Minnesota Vikings,Player Touchdowns,1.5,81,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Ty Chandler,Minnesota Vikings,Player Touchdowns,0.5,4,TAB
-Minnesota Vikings v San Francisco 49ers,2024-09-15T17:00:00.000Z,Ty Chandler,Minnesota Vikings,Player Touchdowns,1.5,21,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Aj Barner,NA,Player Touchdowns,0.5,11,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Aj Barner,NA,Player Touchdowns,1.5,81,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Antonio Gibson,New England Patriots,Player Touchdowns,0.5,4.25,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Antonio Gibson,New England Patriots,Player Touchdowns,1.5,26,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Austin Hooper,New England Patriots,Player Touchdowns,0.5,8,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Austin Hooper,New England Patriots,Player Touchdowns,1.5,81,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,DK Metcalf,Seattle Seahawks,Player Touchdowns,0.5,3.25,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,DK Metcalf,Seattle Seahawks,Player Touchdowns,1.5,13,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Demario Douglas,New England Patriots,Player Touchdowns,0.5,4,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Demario Douglas,New England Patriots,Player Touchdowns,1.5,26,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Geno Smith,Seattle Seahawks,Player Touchdowns,0.5,6.5,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Geno Smith,Seattle Seahawks,Player Touchdowns,1.5,67,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Hunter Henry,New England Patriots,Player Touchdowns,0.5,4.75,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Hunter Henry,New England Patriots,Player Touchdowns,1.5,34,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jacoby Brissett,New England Patriots,Player Touchdowns,0.5,6,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jacoby Brissett,New England Patriots,Player Touchdowns,1.5,67,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jake Bobo,Seattle Seahawks,Player Touchdowns,0.5,13,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jake Bobo,Seattle Seahawks,Player Touchdowns,1.5,101,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jalynn Polk,NA,Player Touchdowns,0.5,6.5,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jalynn Polk,NA,Player Touchdowns,1.5,67,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,0.5,3.75,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,1.5,17,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,K.j. Osborn,NA,Player Touchdowns,0.5,5,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,K.j. Osborn,NA,Player Touchdowns,1.5,41,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Kenneth Walker,NA,Player Touchdowns,0.5,2.3,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Kenneth Walker,NA,Player Touchdowns,1.5,7,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Kenny Mcintosh,NA,Player Touchdowns,0.5,6,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Kenny Mcintosh,NA,Player Touchdowns,1.5,34,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Laviska Shenault,NA,Player Touchdowns,0.5,13,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Laviska Shenault,NA,Player Touchdowns,1.5,101,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Noah Fant,Seattle Seahawks,Player Touchdowns,0.5,5,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Noah Fant,Seattle Seahawks,Player Touchdowns,1.5,26,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,0.5,13,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,1.5,101,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Rhamondre Stevenson,New England Patriots,Player Touchdowns,0.5,2.2,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Rhamondre Stevenson,New England Patriots,Player Touchdowns,1.5,7,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Tyler Lockett,Seattle Seahawks,Player Touchdowns,0.5,3.5,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Tyler Lockett,Seattle Seahawks,Player Touchdowns,1.5,15,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Tyquan Thornton,New England Patriots,Player Touchdowns,0.5,5.5,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Tyquan Thornton,New England Patriots,Player Touchdowns,1.5,67,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,0.5,2.1,TAB
-New England Patriots v Seattle Seahawks,2024-09-15T17:00:00.000Z,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,1.5,6,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Aaron Rodgers,New York Jets,Player Touchdowns,0.5,9,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Aaron Rodgers,New York Jets,Player Touchdowns,1.5,81,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Allen Lazard,New York Jets,Player Touchdowns,0.5,4.25,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Allen Lazard,New York Jets,Player Touchdowns,1.5,23,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Braelon Allen,New York Jets,Player Touchdowns,0.5,6,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Braelon Allen,New York Jets,Player Touchdowns,1.5,34,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Breece Hall,New York Jets,Player Touchdowns,0.5,1.65,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Breece Hall,New York Jets,Player Touchdowns,1.5,4,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Calvin Ridley,Tennessee Titans,Player Touchdowns,0.5,4,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Calvin Ridley,Tennessee Titans,Player Touchdowns,1.5,21,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Chig Okonkwo,Tennessee Titans,Player Touchdowns,0.5,6,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Chig Okonkwo,Tennessee Titans,Player Touchdowns,1.5,34,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Deandre Hopkins,NA,Player Touchdowns,0.5,5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Deandre Hopkins,NA,Player Touchdowns,1.5,26,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Garrett Wilson,New York Jets,Player Touchdowns,0.5,2.5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Garrett Wilson,New York Jets,Player Touchdowns,1.5,11,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Jeremy Ruckert,New York Jets,Player Touchdowns,0.5,10,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Jeremy Ruckert,New York Jets,Player Touchdowns,1.5,101,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Josh Whyle,Tennessee Titans,Player Touchdowns,0.5,13,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Josh Whyle,Tennessee Titans,Player Touchdowns,1.5,101,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Mike Williams,New York Jets,Player Touchdowns,0.5,5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Mike Williams,New York Jets,Player Touchdowns,1.5,29,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Nick Vannett,Tennessee Titans,Player Touchdowns,0.5,13,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Nick Vannett,Tennessee Titans,Player Touchdowns,1.5,101,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Nick Westbrook-Ikhine,Tennessee Titans,Player Touchdowns,0.5,11,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Nick Westbrook-Ikhine,Tennessee Titans,Player Touchdowns,1.5,81,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tony Pollard,Tennessee Titans,Player Touchdowns,0.5,2.4,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tony Pollard,Tennessee Titans,Player Touchdowns,1.5,7.5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Treylon Burks,Tennessee Titans,Player Touchdowns,0.5,7,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Treylon Burks,Tennessee Titans,Player Touchdowns,1.5,51,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tyjae Spears,Tennessee Titans,Player Touchdowns,0.5,3.5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tyjae Spears,Tennessee Titans,Player Touchdowns,1.5,13,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tyler Boyd,Tennessee Titans,Player Touchdowns,0.5,6.5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tyler Boyd,Tennessee Titans,Player Touchdowns,1.5,41,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tyler Conklin,New York Jets,Player Touchdowns,0.5,5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Tyler Conklin,New York Jets,Player Touchdowns,1.5,29,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Will Levis,Tennessee Titans,Player Touchdowns,0.5,6.5,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Will Levis,Tennessee Titans,Player Touchdowns,1.5,51,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Xavier Gipson,New York Jets,Player Touchdowns,0.5,7,TAB
-Tennessee Titans v New York Jets,2024-09-15T17:00:00.000Z,Xavier Gipson,New York Jets,Player Touchdowns,1.5,41,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Austin Ekeler,Washington Commanders,Player Touchdowns,0.5,3.25,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Austin Ekeler,Washington Commanders,Player Touchdowns,1.5,13,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Ben Sinnott,Washington Commanders,Player Touchdowns,0.5,13,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Ben Sinnott,Washington Commanders,Player Touchdowns,1.5,101,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Brian Robinson,Washington Commanders,Player Touchdowns,0.5,2.6,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Brian Robinson,Washington Commanders,Player Touchdowns,1.5,8,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Daniel Bellinger,New York Giants,Player Touchdowns,0.5,10,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Daniel Bellinger,New York Giants,Player Touchdowns,1.5,81,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Daniel Jones,New York Giants,Player Touchdowns,0.5,3.5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Daniel Jones,New York Giants,Player Touchdowns,1.5,17,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Darius Slayton,New York Giants,Player Touchdowns,0.5,4,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Darius Slayton,New York Giants,Player Touchdowns,1.5,21,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Devin Singletary,New York Giants,Player Touchdowns,0.5,2.05,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Devin Singletary,New York Giants,Player Touchdowns,1.5,5.5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Dyami Brown,Washington Commanders,Player Touchdowns,0.5,10,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Dyami Brown,Washington Commanders,Player Touchdowns,1.5,67,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Eric Gray,New York Giants,Player Touchdowns,0.5,8,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Eric Gray,New York Giants,Player Touchdowns,1.5,67,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jalin Hyatt,New York Giants,Player Touchdowns,0.5,7.5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jalin Hyatt,New York Giants,Player Touchdowns,1.5,67,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jamison Crowder,Washington Commanders,Player Touchdowns,0.5,13,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jamison Crowder,Washington Commanders,Player Touchdowns,1.5,101,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jayden Daniels,Washington Commanders,Player Touchdowns,0.5,2.25,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jayden Daniels,Washington Commanders,Player Touchdowns,1.5,7,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jeremy Mcnichols,NA,Player Touchdowns,0.5,11,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Jeremy Mcnichols,NA,Player Touchdowns,1.5,81,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,John Bates,Washington Commanders,Player Touchdowns,0.5,11,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,John Bates,Washington Commanders,Player Touchdowns,1.5,81,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Luke Mccaffrey,NA,Player Touchdowns,0.5,5.5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Luke Mccaffrey,NA,Player Touchdowns,1.5,34,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Malik Nabers,New York Giants,Player Touchdowns,0.5,2.6,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Malik Nabers,New York Giants,Player Touchdowns,1.5,10,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Noah Brown,Washington Commanders,Player Touchdowns,0.5,6,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Noah Brown,Washington Commanders,Player Touchdowns,1.5,41,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,0.5,8,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,1.5,51,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Terry McLaurin,Washington Commanders,Player Touchdowns,0.5,3,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Terry McLaurin,Washington Commanders,Player Touchdowns,1.5,15,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Theo Johnson,New York Giants,Player Touchdowns,0.5,5.5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Theo Johnson,New York Giants,Player Touchdowns,1.5,34,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Tyrone Tracy,NA,Player Touchdowns,0.5,5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Tyrone Tracy,NA,Player Touchdowns,1.5,29,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Wandale Robinson,NA,Player Touchdowns,0.5,4,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Wandale Robinson,NA,Player Touchdowns,1.5,21,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Zach Ertz,Washington Commanders,Player Touchdowns,0.5,5,TAB
-Washington Commanders v New York Giants,2024-09-15T17:00:00.000Z,Zach Ertz,Washington Commanders,Player Touchdowns,1.5,29,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Blake Corum,Los Angeles Rams,Player Touchdowns,0.5,8.5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Blake Corum,Los Angeles Rams,Player Touchdowns,1.5,67,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Chris Moore,Arizona Cardinals,Player Touchdowns,0.5,13,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Chris Moore,Arizona Cardinals,Player Touchdowns,1.5,81,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Colby Parkinson,Los Angeles Rams,Player Touchdowns,0.5,5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Colby Parkinson,Los Angeles Rams,Player Touchdowns,1.5,23,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Cooper Kupp,Los Angeles Rams,Player Touchdowns,0.5,2.05,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Cooper Kupp,Los Angeles Rams,Player Touchdowns,1.5,6,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Davis Allen,Los Angeles Rams,Player Touchdowns,0.5,10,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Davis Allen,Los Angeles Rams,Player Touchdowns,1.5,81,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,0.5,3.5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,1.5,15,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Elijah Higgins,Arizona Cardinals,Player Touchdowns,0.5,9,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Elijah Higgins,Arizona Cardinals,Player Touchdowns,1.5,67,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Emari Demercado,Arizona Cardinals,Player Touchdowns,0.5,6,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Emari Demercado,Arizona Cardinals,Player Touchdowns,1.5,34,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Greg Dortch,Arizona Cardinals,Player Touchdowns,0.5,4.5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Greg Dortch,Arizona Cardinals,Player Touchdowns,1.5,23,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Hunter Long,Los Angeles Rams,Player Touchdowns,0.5,13,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Hunter Long,Los Angeles Rams,Player Touchdowns,1.5,101,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,James Conner,Arizona Cardinals,Player Touchdowns,0.5,1.9,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,James Conner,Arizona Cardinals,Player Touchdowns,1.5,5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Kyler Murray,Arizona Cardinals,Player Touchdowns,0.5,2.75,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Kyler Murray,Arizona Cardinals,Player Touchdowns,1.5,10,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Kyren Williams,Los Angeles Rams,Player Touchdowns,0.5,1.75,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Kyren Williams,Los Angeles Rams,Player Touchdowns,1.5,4.25,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Marvin Harrison Jr.,Arizona Cardinals,Player Touchdowns,0.5,3,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Marvin Harrison Jr.,Arizona Cardinals,Player Touchdowns,1.5,13,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Matthew Stafford,Los Angeles Rams,Player Touchdowns,0.5,10,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Matthew Stafford,Los Angeles Rams,Player Touchdowns,1.5,81,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Michael Wilson,Arizona Cardinals,Player Touchdowns,0.5,4,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Michael Wilson,Arizona Cardinals,Player Touchdowns,1.5,21,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,0.5,6,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,1.5,41,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Trey Benson,Arizona Cardinals,Player Touchdowns,0.5,5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Trey Benson,Arizona Cardinals,Player Touchdowns,1.5,26,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Trey McBride,Arizona Cardinals,Player Touchdowns,0.5,3,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Trey McBride,Arizona Cardinals,Player Touchdowns,1.5,15,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Tutu Atwell,Los Angeles Rams,Player Touchdowns,0.5,7.5,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Tutu Atwell,Los Angeles Rams,Player Touchdowns,1.5,51,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Tyler Johnson,Los Angeles Rams,Player Touchdowns,0.5,4.25,TAB
-Arizona Cardinals v Los Angeles Rams,2024-09-15T20:05:00.000Z,Tyler Johnson,Los Angeles Rams,Player Touchdowns,1.5,21,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Adam Trautman,Denver Broncos,Player Touchdowns,0.5,11,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Adam Trautman,Denver Broncos,Player Touchdowns,1.5,101,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Blake Watson,Denver Broncos,Player Touchdowns,0.5,9,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Blake Watson,Denver Broncos,Player Touchdowns,1.5,101,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Bo Nix,Denver Broncos,Player Touchdowns,0.5,4.5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Bo Nix,Denver Broncos,Player Touchdowns,1.5,23,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Calvin Austin,NA,Player Touchdowns,0.5,7,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Calvin Austin,NA,Player Touchdowns,1.5,67,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,0.5,6.5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,1.5,51,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Courtland Sutton,Denver Broncos,Player Touchdowns,0.5,5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Courtland Sutton,Denver Broncos,Player Touchdowns,1.5,29,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,0.5,11,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,1.5,101,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Devaughn Vele,Denver Broncos,Player Touchdowns,0.5,7,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Devaughn Vele,Denver Broncos,Player Touchdowns,1.5,51,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,George Pickens,Pittsburgh Steelers,Player Touchdowns,0.5,4,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,George Pickens,Pittsburgh Steelers,Player Touchdowns,1.5,21,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Greg Dulcich,Denver Broncos,Player Touchdowns,0.5,7.5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Greg Dulcich,Denver Broncos,Player Touchdowns,1.5,67,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Jaleel Mclaughlin,NA,Player Touchdowns,0.5,4.25,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Jaleel Mclaughlin,NA,Player Touchdowns,1.5,21,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Javonte Williams,Denver Broncos,Player Touchdowns,0.5,2.7,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Javonte Williams,Denver Broncos,Player Touchdowns,1.5,10,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Jaylen Warren,Pittsburgh Steelers,Player Touchdowns,0.5,4,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Jaylen Warren,Pittsburgh Steelers,Player Touchdowns,1.5,21,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Josh Reynolds,Denver Broncos,Player Touchdowns,0.5,6,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Josh Reynolds,Denver Broncos,Player Touchdowns,1.5,51,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Justin Fields,Pittsburgh Steelers,Player Touchdowns,0.5,3.25,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Justin Fields,Pittsburgh Steelers,Player Touchdowns,1.5,13,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Liljordan Humphrey,NA,Player Touchdowns,0.5,9,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Liljordan Humphrey,NA,Player Touchdowns,1.5,101,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Marvin Mims,NA,Player Touchdowns,0.5,8,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Marvin Mims,NA,Player Touchdowns,1.5,81,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Mycole Pruitt,NA,Player Touchdowns,0.5,11,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Mycole Pruitt,NA,Player Touchdowns,1.5,101,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Najee Harris,Pittsburgh Steelers,Player Touchdowns,0.5,2.5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Najee Harris,Pittsburgh Steelers,Player Touchdowns,1.5,9,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,0.5,5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,1.5,34,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Roman Wilson,Pittsburgh Steelers,Player Touchdowns,0.5,7.5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Roman Wilson,Pittsburgh Steelers,Player Touchdowns,1.5,67,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Scotty Miller,NA,Player Touchdowns,0.5,9,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Scotty Miller,NA,Player Touchdowns,1.5,81,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,0.5,6.5,TAB
-Denver Broncos v Pittsburgh Steelers,2024-09-15T20:25:00.000Z,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,1.5,51,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Andrei Iosivas,Cincinnati Bengals,Player Touchdowns,0.5,3.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Andrei Iosivas,Cincinnati Bengals,Player Touchdowns,1.5,17,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Carson Steele,Kansas City Chiefs,Player Touchdowns,0.5,7.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Carson Steele,Kansas City Chiefs,Player Touchdowns,1.5,67,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Charlie Jones,Cincinnati Bengals,Player Touchdowns,0.5,8,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Charlie Jones,Cincinnati Bengals,Player Touchdowns,1.5,67,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Chase Brown,Cincinnati Bengals,Player Touchdowns,0.5,4.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Chase Brown,Cincinnati Bengals,Player Touchdowns,1.5,26,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Drew Sample,Cincinnati Bengals,Player Touchdowns,0.5,9,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Drew Sample,Cincinnati Bengals,Player Touchdowns,1.5,67,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Isiah Pacheco,Kansas City Chiefs,Player Touchdowns,0.5,1.85,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Isiah Pacheco,Kansas City Chiefs,Player Touchdowns,1.5,5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Jamarr Chase,NA,Player Touchdowns,0.5,2.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Jamarr Chase,NA,Player Touchdowns,1.5,8,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Jermaine Burton,Cincinnati Bengals,Player Touchdowns,0.5,10,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Jermaine Burton,Cincinnati Bengals,Player Touchdowns,1.5,67,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Joe Burrow,Cincinnati Bengals,Player Touchdowns,0.5,5.25,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Joe Burrow,Cincinnati Bengals,Player Touchdowns,1.5,41,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Juju Smith-Schuster,NA,Player Touchdowns,0.5,6.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Juju Smith-Schuster,NA,Player Touchdowns,1.5,67,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Justin Watson,Kansas City Chiefs,Player Touchdowns,0.5,5.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Justin Watson,Kansas City Chiefs,Player Touchdowns,1.5,41,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Mecole Hardman,Kansas City Chiefs,Player Touchdowns,0.5,9,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Mecole Hardman,Kansas City Chiefs,Player Touchdowns,1.5,81,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,0.5,4.25,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,1.5,26,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Noah Gray,Kansas City Chiefs,Player Touchdowns,0.5,6,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Noah Gray,Kansas City Chiefs,Player Touchdowns,1.5,51,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,0.5,4,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,1.5,26,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Rashee Rice,Kansas City Chiefs,Player Touchdowns,0.5,2.5,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Rashee Rice,Kansas City Chiefs,Player Touchdowns,1.5,9,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Samaje Perine,Kansas City Chiefs,Player Touchdowns,0.5,4.25,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Samaje Perine,Kansas City Chiefs,Player Touchdowns,1.5,29,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Skyy Moore,Kansas City Chiefs,Player Touchdowns,0.5,11,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Skyy Moore,Kansas City Chiefs,Player Touchdowns,1.5,81,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,0.5,11,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,1.5,81,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Travis Kelce,Kansas City Chiefs,Player Touchdowns,0.5,2.3,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Travis Kelce,Kansas City Chiefs,Player Touchdowns,1.5,8,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Trenton Irwin,Cincinnati Bengals,Player Touchdowns,0.5,4.75,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Trenton Irwin,Cincinnati Bengals,Player Touchdowns,1.5,41,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,0.5,2.7,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,1.5,10,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Zack Moss,Cincinnati Bengals,Player Touchdowns,0.5,2.15,TAB
-Kansas City Chiefs v Cincinnati Bengals,2024-09-15T20:25:00.000Z,Zack Moss,Cincinnati Bengals,Player Touchdowns,1.5,7,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Brevin Jordan,Houston Texans,Player Touchdowns,0.5,4,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Brevin Jordan,Houston Texans,Player Touchdowns,1.5,21,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,C.j. Stroud,NA,Player Touchdowns,0.5,4.5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,C.j. Stroud,NA,Player Touchdowns,1.5,23,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Cade Stover,Houston Texans,Player Touchdowns,0.5,8,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Cade Stover,Houston Texans,Player Touchdowns,1.5,51,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Caleb Williams,Chicago Bears,Player Touchdowns,0.5,5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Caleb Williams,Chicago Bears,Player Touchdowns,1.5,29,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Cole Kmet,Chicago Bears,Player Touchdowns,0.5,5.5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Cole Kmet,Chicago Bears,Player Touchdowns,1.5,34,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dalton Schultz,Houston Texans,Player Touchdowns,0.5,4,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dalton Schultz,Houston Texans,Player Touchdowns,1.5,21,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dameon Pierce,Houston Texans,Player Touchdowns,0.5,5.5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dameon Pierce,Houston Texans,Player Touchdowns,1.5,29,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dandre Swift,NA,Player Touchdowns,0.5,3,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dandre Swift,NA,Player Touchdowns,1.5,11,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dare Ogunbowale,Houston Texans,Player Touchdowns,0.5,9,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dare Ogunbowale,Houston Texans,Player Touchdowns,1.5,81,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Deandre Carter,NA,Player Touchdowns,0.5,6,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Deandre Carter,NA,Player Touchdowns,1.5,41,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dj Moore,NA,Player Touchdowns,0.5,2.75,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Dj Moore,NA,Player Touchdowns,1.5,13,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Gerald Everett,Chicago Bears,Player Touchdowns,0.5,5.5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Gerald Everett,Chicago Bears,Player Touchdowns,1.5,34,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Joe Mixon,Houston Texans,Player Touchdowns,0.5,1.75,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Joe Mixon,Houston Texans,Player Touchdowns,1.5,4.25,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,John Metchie,NA,Player Touchdowns,0.5,11,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,John Metchie,NA,Player Touchdowns,1.5,101,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Keenan Allen,Chicago Bears,Player Touchdowns,0.5,3.75,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Keenan Allen,Chicago Bears,Player Touchdowns,1.5,17,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Khalil Herbert,Chicago Bears,Player Touchdowns,0.5,6,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Khalil Herbert,Chicago Bears,Player Touchdowns,1.5,41,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Khari Blasingame,Chicago Bears,Player Touchdowns,0.5,15,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Khari Blasingame,Chicago Bears,Player Touchdowns,1.5,101,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Nico Collins,Houston Texans,Player Touchdowns,0.5,2.6,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Nico Collins,Houston Texans,Player Touchdowns,1.5,11,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Robert Woods,Houston Texans,Player Touchdowns,0.5,7.5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Robert Woods,Houston Texans,Player Touchdowns,1.5,51,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Rome Odunze,Chicago Bears,Player Touchdowns,0.5,4,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Rome Odunze,Chicago Bears,Player Touchdowns,1.5,19,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Stefon Diggs,Houston Texans,Player Touchdowns,0.5,2.8,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Stefon Diggs,Houston Texans,Player Touchdowns,1.5,13,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Tank Dell,Houston Texans,Player Touchdowns,0.5,3.25,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Tank Dell,Houston Texans,Player Touchdowns,1.5,15,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Travis Homer,Chicago Bears,Player Touchdowns,0.5,11,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Travis Homer,Chicago Bears,Player Touchdowns,1.5,81,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Tyler Scott,Chicago Bears,Player Touchdowns,0.5,8,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Tyler Scott,Chicago Bears,Player Touchdowns,1.5,67,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Velus Jones,NA,Player Touchdowns,0.5,7.5,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Velus Jones,NA,Player Touchdowns,1.5,67,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Xavier Hutchinson,Houston Texans,Player Touchdowns,0.5,9,TAB
-Houston Texans v Chicago Bears,2024-09-16T00:20:00.000Z,Xavier Hutchinson,Houston Texans,Player Touchdowns,1.5,67,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,A.j. Brown,NA,Player Touchdowns,0.5,2.4,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,A.j. Brown,NA,Player Touchdowns,1.5,8,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Avery Williams,Atlanta Falcons,Player Touchdowns,0.5,11,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Avery Williams,Atlanta Falcons,Player Touchdowns,1.5,101,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Bijan Robinson,Atlanta Falcons,Player Touchdowns,0.5,1.9,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Bijan Robinson,Atlanta Falcons,Player Touchdowns,1.5,5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Britain Covey,Philadelphia Eagles,Player Touchdowns,0.5,11,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Britain Covey,Philadelphia Eagles,Player Touchdowns,1.5,81,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Casey Washington,Atlanta Falcons,Player Touchdowns,0.5,10,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Casey Washington,Atlanta Falcons,Player Touchdowns,1.5,81,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Charlie Woerner,Atlanta Falcons,Player Touchdowns,0.5,9,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Charlie Woerner,Atlanta Falcons,Player Touchdowns,1.5,67,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Dallas Goedert,Philadelphia Eagles,Player Touchdowns,0.5,4,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Dallas Goedert,Philadelphia Eagles,Player Touchdowns,1.5,17,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Darnell Mooney,Atlanta Falcons,Player Touchdowns,0.5,4.5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Darnell Mooney,Atlanta Falcons,Player Touchdowns,1.5,23,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,DeVonta Smith,Philadelphia Eagles,Player Touchdowns,0.5,2.7,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,DeVonta Smith,Philadelphia Eagles,Player Touchdowns,1.5,11,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Drake London,Atlanta Falcons,Player Touchdowns,0.5,3.5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Drake London,Atlanta Falcons,Player Touchdowns,1.5,15,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Grant Calcaterra,Philadelphia Eagles,Player Touchdowns,0.5,11,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Grant Calcaterra,Philadelphia Eagles,Player Touchdowns,1.5,81,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Jahan Dotson,Philadelphia Eagles,Player Touchdowns,0.5,5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Jahan Dotson,Philadelphia Eagles,Player Touchdowns,1.5,41,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Jalen Hurts,Philadelphia Eagles,Player Touchdowns,0.5,1.95,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Jalen Hurts,Philadelphia Eagles,Player Touchdowns,1.5,5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Johnny Wilson,Philadelphia Eagles,Player Touchdowns,0.5,15,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Johnny Wilson,Philadelphia Eagles,Player Touchdowns,1.5,101,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Kenneth Gainwell,Philadelphia Eagles,Player Touchdowns,0.5,6,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Kenneth Gainwell,Philadelphia Eagles,Player Touchdowns,1.5,34,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Khadarel Hodge,NA,Player Touchdowns,0.5,11,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Khadarel Hodge,NA,Player Touchdowns,1.5,101,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Kirk Cousins,Atlanta Falcons,Player Touchdowns,0.5,10,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Kirk Cousins,Atlanta Falcons,Player Touchdowns,1.5,81,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Kyle Pitts,Atlanta Falcons,Player Touchdowns,0.5,3.75,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Kyle Pitts,Atlanta Falcons,Player Touchdowns,1.5,17,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Ray-Ray Mccloud,NA,Player Touchdowns,0.5,5.5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Ray-Ray Mccloud,NA,Player Touchdowns,1.5,34,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Saquon Barkley,Philadelphia Eagles,Player Touchdowns,0.5,1.7,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Saquon Barkley,Philadelphia Eagles,Player Touchdowns,1.5,4,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Player Touchdowns,0.5,4.5,TAB
-Philadelphia Eagles v Atlanta Falcons,2024-09-17T00:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Player Touchdowns,1.5,23,TAB
-=======
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Aaron Rodgers,New York Jets,Player Touchdowns,0.5,11,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Aaron Rodgers,New York Jets,Player Touchdowns,1.5,101,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Allen Lazard,New York Jets,Player Touchdowns,0.5,5,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Allen Lazard,New York Jets,Player Touchdowns,1.5,51,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Braelon Allen,New York Jets,Player Touchdowns,0.5,7,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Braelon Allen,New York Jets,Player Touchdowns,1.5,51,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,0.5,2.9,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,1.5,11,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Breece Hall,New York Jets,Player Touchdowns,0.5,1.9,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Breece Hall,New York Jets,Player Touchdowns,1.5,6,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Brock Purdy,San Francisco 49ers,Player Touchdowns,0.5,6.5,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Brock Purdy,San Francisco 49ers,Player Touchdowns,1.5,67,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,0.5,2.15,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,1.5,7,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Eric Saubert,San Francisco 49ers,Player Touchdowns,0.5,10,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Eric Saubert,San Francisco 49ers,Player Touchdowns,1.5,81,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Garrett Wilson,New York Jets,Player Touchdowns,0.5,2.4,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Garrett Wilson,New York Jets,Player Touchdowns,1.5,8.5,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,George Kittle,San Francisco 49ers,Player Touchdowns,0.5,2.6,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,George Kittle,San Francisco 49ers,Player Touchdowns,1.5,10,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,0.5,6,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,1.5,51,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Isaiah Davis,New York Jets,Player Touchdowns,0.5,10,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Isaiah Davis,New York Jets,Player Touchdowns,1.5,101,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jacob Cowing,San Francisco 49ers,Player Touchdowns,0.5,15,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jacob Cowing,San Francisco 49ers,Player Touchdowns,1.5,101,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jauan Jennings,San Francisco 49ers,Player Touchdowns,0.5,4.75,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jauan Jennings,San Francisco 49ers,Player Touchdowns,1.5,29,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jeremy Ruckert,New York Jets,Player Touchdowns,0.5,11,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jeremy Ruckert,New York Jets,Player Touchdowns,1.5,81,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jordan Mason,San Francisco 49ers,Player Touchdowns,0.5,2.05,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Jordan Mason,San Francisco 49ers,Player Touchdowns,1.5,6,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,0.5,9,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,1.5,81,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Malachi Corley,New York Jets,Player Touchdowns,0.5,11,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Malachi Corley,New York Jets,Player Touchdowns,1.5,41,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Mike Williams,New York Jets,Player Touchdowns,0.5,3.25,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Mike Williams,New York Jets,Player Touchdowns,1.5,17,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Ronnie Bell,San Francisco 49ers,Player Touchdowns,0.5,11,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Ronnie Bell,San Francisco 49ers,Player Touchdowns,1.5,101,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Tyler Conklin,New York Jets,Player Touchdowns,0.5,3.75,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Tyler Conklin,New York Jets,Player Touchdowns,1.5,23,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Xavier Gipson,New York Jets,Player Touchdowns,0.5,6.5,TAB
-San Francisco 49ers v New York Jets,2024-09-10T00:17:00.000Z,Xavier Gipson,New York Jets,Player Touchdowns,1.5,51,TAB
->>>>>>> 3b4f2dc1cf450a305afdeeea61ae8e820ab40e54
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Alec Ingold,Miami Dolphins,Player Touchdowns,0.5,11,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Alec Ingold,Miami Dolphins,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Braxton Berrios,Miami Dolphins,Player Touchdowns,0.5,9,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Braxton Berrios,Miami Dolphins,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Calvin Ridley,Tennessee Titans,Player Touchdowns,0.5,3.75,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Calvin Ridley,Tennessee Titans,Player Touchdowns,1.5,23,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Chig Okonkwo,Tennessee Titans,Player Touchdowns,0.5,6.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Chig Okonkwo,Tennessee Titans,Player Touchdowns,1.5,51,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,De'Von Achane,Miami Dolphins,Player Touchdowns,0.5,2.2,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,De'Von Achane,Miami Dolphins,Player Touchdowns,1.5,6.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,DeAndre Hopkins,Tennessee Titans,Player Touchdowns,0.5,4,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,DeAndre Hopkins,Tennessee Titans,Player Touchdowns,1.5,23,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Durham Smythe,Miami Dolphins,Player Touchdowns,0.5,11,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Durham Smythe,Miami Dolphins,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Erik Ezukanma,Miami Dolphins,Player Touchdowns,0.5,13,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Erik Ezukanma,Miami Dolphins,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Jaylen Waddle,Miami Dolphins,Player Touchdowns,0.5,3.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Jaylen Waddle,Miami Dolphins,Player Touchdowns,1.5,19,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Jeff Wilson,Miami Dolphins,Player Touchdowns,0.5,6.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Jeff Wilson,Miami Dolphins,Player Touchdowns,1.5,51,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Jonnu Smith,Miami Dolphins,Player Touchdowns,0.5,6.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Jonnu Smith,Miami Dolphins,Player Touchdowns,1.5,67,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Josh Whyle,Tennessee Titans,Player Touchdowns,0.5,11,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Josh Whyle,Tennessee Titans,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Julian Hill,Miami Dolphins,Player Touchdowns,0.5,19,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Julian Hill,Miami Dolphins,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Nick Vannett,Tennessee Titans,Player Touchdowns,0.5,15,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Nick Vannett,Tennessee Titans,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Raheem Mostert,Miami Dolphins,Player Touchdowns,0.5,3.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Raheem Mostert,Miami Dolphins,Player Touchdowns,1.5,19,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tony Pollard,Tennessee Titans,Player Touchdowns,0.5,2.6,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tony Pollard,Tennessee Titans,Player Touchdowns,1.5,10,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Treylon Burks,Tennessee Titans,Player Touchdowns,0.5,9,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Treylon Burks,Tennessee Titans,Player Touchdowns,1.5,101,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyjae Spears,Tennessee Titans,Player Touchdowns,0.5,3.5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyjae Spears,Tennessee Titans,Player Touchdowns,1.5,17,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyler Boyd,Tennessee Titans,Player Touchdowns,0.5,4.75,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyler Boyd,Tennessee Titans,Player Touchdowns,1.5,34,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyler Huntley,Miami Dolphins,Player Touchdowns,0.5,3.75,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyler Huntley,Miami Dolphins,Player Touchdowns,1.5,23,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyreek Hill,Miami Dolphins,Player Touchdowns,0.5,2.9,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Tyreek Hill,Miami Dolphins,Player Touchdowns,1.5,13,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Will Levis,Tennessee Titans,Player Touchdowns,0.5,5,TAB
+Miami Dolphins v Tennessee Titans,2024-09-30T23:30:00.000Z,Will Levis,Tennessee Titans,Player Touchdowns,1.5,34,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Aj Barner,NA,Player Touchdowns,0.5,15,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Aj Barner,NA,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Amon-Ra St-Brown,NA,Player Touchdowns,0.5,2.2,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Amon-Ra St-Brown,NA,Player Touchdowns,1.5,7.5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Brock Wright,Detroit Lions,Player Touchdowns,0.5,7.5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Brock Wright,Detroit Lions,Player Touchdowns,1.5,81,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Craig Reynolds,Detroit Lions,Player Touchdowns,0.5,15,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Craig Reynolds,Detroit Lions,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,DK Metcalf,Seattle Seahawks,Player Touchdowns,0.5,2.3,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,DK Metcalf,Seattle Seahawks,Player Touchdowns,1.5,11,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,David Montgomery,Detroit Lions,Player Touchdowns,0.5,1.75,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,David Montgomery,Detroit Lions,Player Touchdowns,1.5,4.25,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Geno Smith,Seattle Seahawks,Player Touchdowns,0.5,5.5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Geno Smith,Seattle Seahawks,Player Touchdowns,1.5,41,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jahmyr Gibbs,Detroit Lions,Player Touchdowns,0.5,1.85,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jahmyr Gibbs,Detroit Lions,Player Touchdowns,1.5,5.5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jake Bobo,Seattle Seahawks,Player Touchdowns,0.5,13,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jake Bobo,Seattle Seahawks,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jameson Williams,Detroit Lions,Player Touchdowns,0.5,2.8,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jameson Williams,Detroit Lions,Player Touchdowns,1.5,11,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jared Goff,Detroit Lions,Player Touchdowns,0.5,10,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jared Goff,Detroit Lions,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,0.5,3.25,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,1.5,13,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Kalif Raymond,Detroit Lions,Player Touchdowns,0.5,11,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Kalif Raymond,Detroit Lions,Player Touchdowns,1.5,67,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Kenneth Walker III,Seattle Seahawks,Player Touchdowns,0.5,2.35,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Kenneth Walker III,Seattle Seahawks,Player Touchdowns,1.5,9,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Kenny Mcintosh,NA,Player Touchdowns,0.5,15,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Kenny Mcintosh,NA,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Laviska Shenault,NA,Player Touchdowns,0.5,11,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Laviska Shenault,NA,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Noah Fant,Seattle Seahawks,Player Touchdowns,0.5,5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Noah Fant,Seattle Seahawks,Player Touchdowns,1.5,41,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Parker Hesse,Detroit Lions,Player Touchdowns,0.5,15,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Parker Hesse,Detroit Lions,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,0.5,13,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Sam LaPorta,Detroit Lions,Player Touchdowns,0.5,3.5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Sam LaPorta,Detroit Lions,Player Touchdowns,1.5,21,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Sione Vaki,Detroit Lions,Player Touchdowns,0.5,19,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Sione Vaki,Detroit Lions,Player Touchdowns,1.5,101,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Tim Patrick,Detroit Lions,Player Touchdowns,0.5,5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Tim Patrick,Detroit Lions,Player Touchdowns,1.5,41,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Tyler Lockett,Seattle Seahawks,Player Touchdowns,0.5,3.25,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Tyler Lockett,Seattle Seahawks,Player Touchdowns,1.5,15,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,0.5,4.5,TAB
+Detroit Lions v Seattle Seahawks,2024-10-01T00:15:00.000Z,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,1.5,11,TAB

@@ -18,7 +18,7 @@ run_scraping <- function(script_name) {
 run_scraping("OddsScraper/scrape_TAB.R")
 run_scraping("OddsScraper/scrape_Sportsbet.R")
 run_scraping("OddsScraper/scrape_pointsbet.R")
-# run_scraping("OddsScraper/Neds/scrape_neds.R")
+run_scraping("OddsScraper/Neds/scrape_neds.R")
 
 #===============================================================================
 # Read in all H2H
@@ -61,7 +61,8 @@ passing_yards_data <-
   bind_rows() |> 
   arrange(match) |> 
   select(match:agency) |> 
-  arrange(match, player_name, line, desc(over_price))
+  arrange(match, player_name, line, desc(over_price)) |> 
+  select(-home_team, -away_team, -opposition_team)
 
 # Write out
 write_rds(passing_yards_data, "Data/processed_odds/passing_yards_data.rds")
@@ -83,8 +84,10 @@ passing_td_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
+  relocate(under_price, .after = over_price) |>
   select(match:agency) |> 
-  arrange(match, player_name, line, desc(over_price))
+  arrange(match, player_name, line, desc(over_price)) |> 
+  select(-home_team, -away_team, -opposition_team)
 
 # Write out
 write_rds(passing_td_data, "Data/processed_odds/passing_td_data.rds")
@@ -107,7 +110,9 @@ passing_attempts_data <-
   bind_rows() |> 
   arrange(match) |> 
   select(match:agency) |> 
-  arrange(match, player_name, line, desc(over_price))
+  arrange(match, player_name, line, desc(over_price)) |> 
+  select(-home_team, -away_team, -opposition_team)
+
 
 # Write out
 write_rds(passing_attempts_data, "Data/processed_odds/passing_attempts_data.rds")
@@ -176,7 +181,8 @@ rushing_yards_data <-
   bind_rows() |> 
   arrange(match) |> 
   select(match:agency) |> 
-  arrange(match, player_name, line, desc(over_price))
+  arrange(match, player_name, line, desc(over_price)) |> 
+  select(-home_team, -away_team, -opposition_team)
 
 # Write out
 write_rds(rushing_yards_data, "Data/processed_odds/rushing_yards_data.rds")
@@ -222,7 +228,8 @@ receiving_yards_data <-
   bind_rows() |> 
   arrange(match) |> 
   select(match:agency) |> 
-  arrange(match, player_name, line, desc(over_price))
+  arrange(match, player_name, line, desc(over_price)) |> 
+  select(-home_team, -away_team, -opposition_team)
 
 # Write out
 write_rds(receiving_yards_data, "Data/processed_odds/receiving_yards_data.rds")
@@ -245,7 +252,8 @@ receptions_data <-
   bind_rows() |> 
   arrange(match) |> 
   select(match:agency) |> 
-  arrange(match, player_name, line, desc(over_price))
+  arrange(match, player_name, line, desc(over_price)) |> 
+  select(-home_team, -away_team, -opposition_team)
 
 # Write out
 write_rds(receptions_data, "Data/processed_odds/receptions_data.rds")
