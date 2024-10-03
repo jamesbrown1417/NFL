@@ -591,7 +591,7 @@ player_props_function <- function() {
     mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
     mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
     mutate(line = coalesce(as.numeric(alt_line) - 0.5, handicap)) |>
-    mutate(market = "Completions") |>
+    mutate(market = "Pass Completions") |>
     select(match,
            home_team,
            away_team,
@@ -607,7 +607,7 @@ player_props_function <- function() {
     mutate(player_name = str_remove(prop_market_name, " \\-.*$")) |>
     mutate(alt_line = str_extract(selection_name_prop, "\\d+")) |>
     mutate(line = as.numeric(handicap)) |>
-    mutate(market = "Completions") |>
+    mutate(market = "Pass Completions") |>
     select(match,
            home_team,
            away_team,
