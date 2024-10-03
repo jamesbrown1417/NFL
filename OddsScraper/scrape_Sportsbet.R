@@ -6,12 +6,6 @@ library(jsonlite)
 library(glue)
 library(nflreadr)
 
-# Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
-
-# Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
-
 # URL of website
 sportsbet_url = "https://www.sportsbet.com.au/betting/american-football/nfl"
 
