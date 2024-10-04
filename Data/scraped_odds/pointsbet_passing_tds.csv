@@ -1,12 +1,4 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,1.5,1.29,NA,NA,Pointsbet,1951106,71005643,2,NA
-Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,2.5,2.75,1.42,1.068,Pointsbet,1951106,71005498,11,12
-Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,2.5,2.75,NA,NA,Pointsbet,1951106,71005643,3,NA
-Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,3.5,9,NA,NA,Pointsbet,1951106,71005643,4,NA
-Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,1.5,1.25,NA,NA,Pointsbet,1951106,71005643,8,NA
-Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,2.5,2.65,1.44,1.072,Pointsbet,1951106,71005498,5,6
-Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,2.5,2.65,NA,NA,Pointsbet,1951106,71005643,9,NA
-Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,3.5,7.5,NA,NA,Pointsbet,1951106,71005643,10,NA
 Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Passing Touchdowns,0.5,1.29,NA,NA,Pointsbet,1953296,71201088,7,NA
 Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Passing Touchdowns,1.5,2.5,1.5,1.067,Pointsbet,1953296,71200170,15,16
 Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Passing Touchdowns,1.5,2.6,NA,NA,Pointsbet,1953296,71201088,8,NA
@@ -16,22 +8,22 @@ Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Passing Touchdown
 Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Passing Touchdowns,1.5,2.3,NA,NA,Pointsbet,1953296,71201088,2,NA
 Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Passing Touchdowns,2.5,6,NA,NA,Pointsbet,1953296,71201088,3,NA
 Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,0.5,1.13,NA,NA,Pointsbet,1953297,71275100,1,NA
-Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,1.5,1.8,1.95,1.068,Pointsbet,1953297,71203235,1,2
-Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,1.5,1.8,NA,NA,Pointsbet,1953297,71275100,2,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,1.5,1.77,2,1.065,Pointsbet,1953297,71203235,1,2
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,1.5,1.77,NA,NA,Pointsbet,1953297,71275100,2,NA
 Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,2.5,4,NA,NA,Pointsbet,1953297,71275100,3,NA
 Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,3.5,12,NA,NA,Pointsbet,1953297,71275100,4,NA
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,0.5,1.22,NA,NA,Pointsbet,1953297,71275100,7,NA
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,1.5,2.2,1.67,1.053,Pointsbet,1953297,71203235,9,10
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,1.5,2.2,NA,NA,Pointsbet,1953297,71275100,8,NA
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,2.5,5.75,NA,NA,Pointsbet,1953297,71275100,9,NA
-Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,0.5,1.5,2.5,1.067,Pointsbet,1953416,71289714,1,2
-Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,0.5,1.5,NA,NA,Pointsbet,1953416,71289711,1,NA
-Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,1.5,3.6,NA,NA,Pointsbet,1953416,71289711,2,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,0.5,1.18,NA,NA,Pointsbet,1953297,71275100,7,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,1.5,2.15,1.69,1.057,Pointsbet,1953297,71203235,9,10
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,1.5,2.15,NA,NA,Pointsbet,1953297,71275100,8,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Touchdowns,2.5,5.5,NA,NA,Pointsbet,1953297,71275100,9,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,0.5,1.53,2.45,1.062,Pointsbet,1953416,71289714,1,2
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,0.5,1.53,NA,NA,Pointsbet,1953416,71289711,1,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,1.5,4,NA,NA,Pointsbet,1953416,71289711,2,NA
 Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Touchdowns,2.5,14,NA,NA,Pointsbet,1953416,71289711,3,NA
-Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,0.5,1.53,2.45,1.062,Pointsbet,1953416,71289714,7,8
-Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,0.5,1.53,NA,NA,Pointsbet,1953416,71289711,7,NA
-Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,1.5,4,NA,NA,Pointsbet,1953416,71289711,8,NA
-Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,2.5,15,NA,NA,Pointsbet,1953416,71289711,9,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,0.5,1.5,2.5,1.067,Pointsbet,1953416,71289714,7,8
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,0.5,1.5,NA,NA,Pointsbet,1953416,71289711,7,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,1.5,3.8,NA,NA,Pointsbet,1953416,71289711,8,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Touchdowns,2.5,13,NA,NA,Pointsbet,1953416,71289711,9,NA
 Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Touchdowns,0.5,1.11,NA,NA,Pointsbet,1953298,71199477,1,NA
 Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Touchdowns,1.5,1.77,2,1.065,Pointsbet,1953298,71199480,1,2
 Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Touchdowns,1.5,1.77,NA,NA,Pointsbet,1953298,71199477,2,NA
@@ -70,9 +62,9 @@ New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Touch
 Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,0.5,1.14,NA,NA,Pointsbet,1953524,71254610,7,NA
 Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,1.5,1.87,1.87,1.07,Pointsbet,1953524,71254613,9,10
 Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,1.5,1.87,NA,NA,Pointsbet,1953524,71254610,8,NA
-Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,2.5,4.3,NA,NA,Pointsbet,1953524,71254610,9,NA
-Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,3.5,13,NA,NA,Pointsbet,1953524,71254610,10,NA
-Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,0.5,1.31,NA,NA,Pointsbet,1953524,71254610,1,NA
-Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,1.5,2.85,1.4,1.065,Pointsbet,1953524,71254613,3,4
-Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,1.5,2.85,NA,NA,Pointsbet,1953524,71254610,2,NA
-Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,2.5,9,NA,NA,Pointsbet,1953524,71254610,3,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,2.5,4.5,NA,NA,Pointsbet,1953524,71254610,9,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Touchdowns,3.5,14,NA,NA,Pointsbet,1953524,71254610,10,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,0.5,1.33,NA,NA,Pointsbet,1953524,71254610,1,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,1.5,2.9,1.4,1.059,Pointsbet,1953524,71254613,3,4
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,1.5,2.9,NA,NA,Pointsbet,1953524,71254610,2,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Touchdowns,2.5,9.5,NA,NA,Pointsbet,1953524,71254610,3,NA

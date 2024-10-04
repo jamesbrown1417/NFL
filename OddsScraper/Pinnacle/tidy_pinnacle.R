@@ -6,6 +6,12 @@ library(jsonlite)
 library(glue)
 library(nflreadr)
 
+# Get Fix Team Names Function
+source("Scripts/fix_team_names.r")
+
+# Get Fix Player Names Function
+source("Scripts/fix_player_names.r")
+
 # Get squads
 player_teams <-
   load_rosters(seasons = 2024) |> 
@@ -46,12 +52,6 @@ player_teams_db <-
   select(player_name, player_team) |> 
   mutate(player_team = ifelse(player_team == "LA", "Los Angeles Rams", player_team))
 
-# Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
-
-# Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
-
 # Read in data
 all_pinnacle_raw_files <- list.files("OddsScraper/Pinnacle", "\\.csv", full.names = TRUE)
 
@@ -78,7 +78,7 @@ anytime_td_yes <-
          player_name = fix_player_names(player_name)) |>
   mutate(match = glue("{home_team} v {away_team}")) |> 
   mutate(agency = "Pinnacle") |>
-  mutate(market = "Touchdowns") |>
+  mutate(market = "Player Touchdowns") |>
   mutate(line = 0.5) |> 
   left_join(
     bind_rows(

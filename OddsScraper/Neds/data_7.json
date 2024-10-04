@@ -194,7 +194,7 @@
             "id": "0767da47-2d66-410f-adb8-21168c336979",
             "name": "Daniel Bellinger (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 460,
+            "sort_order": 470,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "0774611b-f768-4d30-ada0-51e09773486d": {
@@ -356,12 +356,12 @@
             "sort_order": 320,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
-        "0c3bec76-0dde-4bec-8a34-36a17fa92369": {
-            "id": "0c3bec76-0dde-4bec-8a34-36a17fa92369",
-            "name": "Daniel Jones / Geno Smith",
+        "0bdcb357-c07e-4490-a994-fffd6a1f1eb2": {
+            "id": "0bdcb357-c07e-4490-a994-fffd6a1f1eb2",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
             "visible": true,
-            "sort_order": 10,
-            "market_id": "1a6da495-4133-49f9-b673-6820a47c0750"
+            "sort_order": 30,
+            "market_id": "b69a4e95-0859-4cca-9863-613bb3ec01cd"
         },
         "0cac8615-1c7e-4dcd-8751-f5cecb09fc46": {
             "id": "0cac8615-1c7e-4dcd-8751-f5cecb09fc46",
@@ -381,7 +381,7 @@
             "id": "0ccb9ba8-6a67-4ad0-b6da-b2147060081e",
             "name": "DK Metcalf (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 180,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "0ceb8587-5fc8-419b-9ba8-280fa017fcb0": {
@@ -416,7 +416,7 @@
             "id": "0dd3679a-ca3d-424e-874b-deeb58b34b9e",
             "name": "Pharaoh Brown (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 260,
+            "sort_order": 220,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "0e0c0c24-95dd-4ed6-8ee4-e943b243d3a8": {
@@ -425,6 +425,13 @@
             "visible": true,
             "sort_order": 50,
             "market_id": "15230dcf-2847-41ec-989c-f57d2ef82932"
+        },
+        "0e55de4e-13c3-40ad-a7e5-d4f2498fa753": {
+            "id": "0e55de4e-13c3-40ad-a7e5-d4f2498fa753",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "d8561dd3-88fe-44cd-b79b-43756339122d"
         },
         "0ec2f166-b1c0-4427-8c21-485e29056943": {
             "id": "0ec2f166-b1c0-4427-8c21-485e29056943",
@@ -543,7 +550,7 @@
             "id": "11dcb1ea-c5da-4c86-8582-7ef2c991aa46",
             "name": "Jake Bobo (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 410,
+            "sort_order": 400,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "12366b1d-26a5-488c-b68f-599a4babe7b9": {
@@ -751,7 +758,7 @@
             "id": "197cf68c-64bc-4da0-aa35-2c7701ab2990",
             "name": "Wan'Dale Robinson (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 230,
+            "sort_order": 240,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "19b9394d-1249-4d8d-aeae-cbb7378d3100": {
@@ -796,6 +803,13 @@
             "visible": true,
             "sort_order": 220,
             "market_id": "9a2c6411-074a-428b-9809-c1cb02226fd4"
+        },
+        "1b9b613c-20b7-44e2-b3fc-98d94ae0c080": {
+            "id": "1b9b613c-20b7-44e2-b3fc-98d94ae0c080",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "d6c77f64-8b93-4950-aaf8-b1da0b32b24b"
         },
         "1ba2656d-86d3-4503-a0fe-87abaa1ee6cd": {
             "id": "1ba2656d-86d3-4503-a0fe-87abaa1ee6cd",
@@ -1070,11 +1084,18 @@
             "sort_order": 130,
             "market_id": "f280c2d3-f5a6-47e4-bc9f-f8f6eff7b8a4"
         },
+        "26956ea5-51d2-4ad3-aff5-ab855bdcbb60": {
+            "id": "26956ea5-51d2-4ad3-aff5-ab855bdcbb60",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "d6e9f4db-c2f5-4081-9388-bde4d59ac107"
+        },
         "26978d17-b379-4e07-928f-7575fe62e831": {
             "id": "26978d17-b379-4e07-928f-7575fe62e831",
             "name": "Jaxon Smith-Njigba (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 240,
+            "sort_order": 250,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "26beab50-7e98-4047-91a5-6eae2f3a8f0b": {
@@ -1248,7 +1269,7 @@
             "id": "2b6ecc32-b5bc-4b8e-aa66-1d7e8ae23c6a",
             "name": "Kenny McIntosh (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 510,
+            "sort_order": 520,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "2ba4f62b-763c-41f8-9a77-46ac84d5b2e4": {
@@ -1262,7 +1283,7 @@
             "id": "2ba812f9-0b8e-4d94-a5d8-fce3d65de2c0",
             "name": "Malik Nabers (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 80,
+            "sort_order": 90,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "2c17c9dc-05e2-413f-b61c-90574c61a883": {
@@ -1355,6 +1376,13 @@
             "sort_order": 300,
             "market_id": "7aea12d4-db11-4482-a300-c04ab0c8ab10"
         },
+        "2ed8fd01-d1c4-49b0-bed5-8da7b5ed37d8": {
+            "id": "2ed8fd01-d1c4-49b0-bed5-8da7b5ed37d8",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "b088155a-eaa2-4551-9323-66b01759f071"
+        },
         "2f1ece15-c287-4a84-8d19-dae6a9b8072a": {
             "id": "2f1ece15-c287-4a84-8d19-dae6a9b8072a",
             "name": "New York Giants (+2)",
@@ -1375,7 +1403,7 @@
             "id": "2f855b1a-1f48-4cb0-bd39-88eea341f098",
             "name": "Tyler Lockett (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 250,
+            "sort_order": 260,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "2f9641a9-6f67-4d3f-bb68-854484f3e034": {
@@ -1385,6 +1413,13 @@
             "visible": true,
             "sort_order": 290,
             "market_id": "f280c2d3-f5a6-47e4-bc9f-f8f6eff7b8a4"
+        },
+        "2fcad1a3-0833-413e-9aad-22de1cbd3783": {
+            "id": "2fcad1a3-0833-413e-9aad-22de1cbd3783",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "cce8549d-9cfd-4e58-b7c2-7505c84293ae"
         },
         "2fef8119-cb3a-4d98-9ca5-560f26bdc2ae": {
             "id": "2fef8119-cb3a-4d98-9ca5-560f26bdc2ae",
@@ -1488,7 +1523,7 @@
             "id": "33a6f851-6013-48c6-bb42-c0851ae1928c",
             "name": "Ihmir Smith-Marsette (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 490,
+            "sort_order": 480,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "34ac9372-e64c-4836-9245-048618eee10f": {
@@ -1626,7 +1661,7 @@
             "id": "389452c1-50ab-4b58-8201-1df272384be9",
             "name": "Chris Manhertz (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 500,
+            "sort_order": 510,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "38af65bb-b25a-4595-a3b6-ce68d00da942": {
@@ -1665,6 +1700,13 @@
             "visible": true,
             "sort_order": 310,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
+        },
+        "38f25097-b36f-4d52-989f-4febbdaf752a": {
+            "id": "38f25097-b36f-4d52-989f-4febbdaf752a",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "dc22f895-25a6-4d54-b03e-d54aeca9ccd1"
         },
         "39176416-2436-43de-b714-7d02d4e49405": {
             "id": "39176416-2436-43de-b714-7d02d4e49405",
@@ -1714,7 +1756,7 @@
             "id": "3aad53c3-efe0-4f7a-95b6-6b6f58b47575",
             "name": "Pharaoh Brown (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 250,
+            "sort_order": 240,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "3ae79ede-9de6-44a4-8efa-873c5ddbaac4": {
@@ -1822,7 +1864,7 @@
             "id": "3f889761-98bd-4087-8668-4a45f2f0a58e",
             "name": "Laviska Shenault (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 520,
+            "sort_order": 530,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "3fc84c26-4575-47ff-9bd0-4790b95498b5": {
@@ -2056,7 +2098,7 @@
             "id": "46ae3e9e-b698-477e-91a3-1f049e157f1b",
             "name": "Darius Slayton (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 140,
+            "sort_order": 120,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "46bdbb43-a32a-4f70-bb50-5e0c3be493e3": {
@@ -2110,7 +2152,7 @@
             "id": "48de9ace-9b45-4a9d-8b00-deb628bd7827",
             "name": "Jaxon Smith-Njigba (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 240,
+            "sort_order": 250,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "490f942c-4340-4a3b-b304-b5911d14ae6c": {
@@ -2409,6 +2451,13 @@
             "sort_order": 250,
             "market_id": "7aea12d4-db11-4482-a300-c04ab0c8ab10"
         },
+        "546efd16-209e-4990-b941-5be4fbe917a8": {
+            "id": "546efd16-209e-4990-b941-5be4fbe917a8",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "108272b9-23b5-46c2-a433-3408a3cf1524"
+        },
         "547904c6-3bc6-4794-ad54-0164f60ac6ca": {
             "id": "547904c6-3bc6-4794-ad54-0164f60ac6ca",
             "name": "Under (20)",
@@ -2434,7 +2483,7 @@
             "id": "54d5436e-73d4-49c1-9f18-f35ec350ff3f",
             "name": "Kenneth Walker (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 110,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "550ac9d4-b064-4f74-ba5f-b8172d696cb5": {
@@ -2511,6 +2560,13 @@
             "sort_order": 10,
             "market_id": "78fcb35a-be66-4ca5-b99b-4cb00a718a8e"
         },
+        "58dddf2b-2de0-4dda-b6c6-cc30613b7977": {
+            "id": "58dddf2b-2de0-4dda-b6c6-cc30613b7977",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "a1fabd56-1857-4a27-946b-79fd9713e4f7"
+        },
         "5904e887-d2d8-479c-a3cd-bb99c4405cb1": {
             "id": "5904e887-d2d8-479c-a3cd-bb99c4405cb1",
             "name": "Tyler Lockett (Seattle Seahawks) To Score 1st OR 2nd TD",
@@ -2540,6 +2596,13 @@
             "visible": true,
             "sort_order": 60,
             "market_id": "9a2c6411-074a-428b-9809-c1cb02226fd4"
+        },
+        "599aeed7-dfdc-4c6d-b57c-89553371cf2f": {
+            "id": "599aeed7-dfdc-4c6d-b57c-89553371cf2f",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "108272b9-23b5-46c2-a433-3408a3cf1524"
         },
         "5a2fb2d3-91a1-4064-9005-b285cde63e37": {
             "id": "5a2fb2d3-91a1-4064-9005-b285cde63e37",
@@ -2641,6 +2704,13 @@
             "sort_order": 20,
             "market_id": "a9498d53-ad35-48d1-8303-7c305941beb5"
         },
+        "5d6dd918-344c-45bc-ba58-ac7f4248ac6c": {
+            "id": "5d6dd918-344c-45bc-ba58-ac7f4248ac6c",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "1209b7b6-c683-4a81-81c0-af91a6fe7dc9"
+        },
         "5dff09aa-9e4a-479f-9c43-f7ae10cd4e30": {
             "id": "5dff09aa-9e4a-479f-9c43-f7ae10cd4e30",
             "name": "New York Giants +3.5 and Under 55.5 Points",
@@ -2654,6 +2724,13 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "cd0dbf41-587e-4268-b01e-56cbf1137740"
+        },
+        "5e584cb1-8fa4-4dba-98f3-b74b9e8467e1": {
+            "id": "5e584cb1-8fa4-4dba-98f3-b74b9e8467e1",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "f034642d-34cb-42d1-9aa5-d2907b919b9d"
         },
         "5f8b9f00-8065-434f-802f-3e304f070cd9": {
             "id": "5f8b9f00-8065-434f-802f-3e304f070cd9",
@@ -2739,7 +2816,7 @@
             "id": "62f8a4e7-5b42-43c1-8dcf-96da640ae3a2",
             "name": "Drew Lock (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 590,
+            "sort_order": 600,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "638ae966-c710-4d5c-b7f2-f4f28a169d8b": {
@@ -2783,7 +2860,7 @@
             "id": "64c0252e-c594-43be-b63d-469bc8a9c61b",
             "name": "Tyrone Tracy (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 160,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "64c9ca89-bc94-4e9c-b7a2-09db8ae52a07": {
@@ -2858,7 +2935,7 @@
             "id": "67128539-df68-4713-a5f3-aeb774e2766d",
             "name": "DK Metcalf (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 120,
+            "sort_order": 130,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "679e8d4c-8d49-474a-9cbf-7b63c89655b9": {
@@ -2886,7 +2963,7 @@
             "id": "6821625f-a726-430b-b58d-14a5a4c06edf",
             "name": "Tyrone Tracy (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 130,
+            "sort_order": 140,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "68716857-655c-4838-9873-0b4af07d9255": {
@@ -2938,7 +3015,7 @@
             "id": "6ad43577-3bd2-4ab8-b367-14ec8e69b2cd",
             "name": "Sam Howell (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 580,
+            "sort_order": 590,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "6ae9b739-aa3c-4f1c-936b-018f2824509b": {
@@ -2998,7 +3075,7 @@
             "id": "6cc61e3f-52c9-4bf7-abd4-004bca931f45",
             "name": "Jalin Hyatt (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 440,
+            "sort_order": 450,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "6cee9308-2f4a-44f7-b526-175de830cc9e": {
@@ -3079,7 +3156,7 @@
             "id": "6ea854a4-1c5a-4b09-8c49-edd668853112",
             "name": "Chris Manhertz (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 450,
+            "sort_order": 490,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "6f00a83b-71f5-4a2f-b972-cd5b74b958a0": {
@@ -3211,7 +3288,7 @@
             "id": "73f79035-c3e2-4496-8e2e-9d7e1623c768",
             "name": "Kenny McIntosh (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 390,
+            "sort_order": 380,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "7478b546-5bd8-4bc2-aa06-53409882cf43": {
@@ -3239,7 +3316,7 @@
             "id": "75d3148b-342f-472d-b9f0-decc2d706b1a",
             "name": "Devin Singletary (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 110,
+            "sort_order": 100,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "761ddae6-8202-42ef-84c5-595bb6da682f": {
@@ -3254,7 +3331,7 @@
             "id": "7690c766-c42f-4074-9cf0-a41a57b5a61f",
             "name": "Giants DST (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 350,
+            "sort_order": 360,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "76aad849-4e97-44ed-8c61-583adaf9bcd1": {
@@ -3285,6 +3362,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "173be6cd-7b92-4ad0-aadb-5159d7b3c78f"
+        },
+        "785e22ab-3242-48eb-8726-b2e856889fdb": {
+            "id": "785e22ab-3242-48eb-8726-b2e856889fdb",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "f034642d-34cb-42d1-9aa5-d2907b919b9d"
         },
         "7866cc89-4e1c-45bf-be04-4f506ac9ad59": {
             "id": "7866cc89-4e1c-45bf-be04-4f506ac9ad59",
@@ -3339,7 +3423,7 @@
             "id": "79c4cacb-ce9a-4c44-92b8-4ad7451b889e",
             "name": "Jalin Hyatt (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 410,
+            "sort_order": 400,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "79d36f61-cfe9-45d3-9295-4746dca8459c": {
@@ -3361,7 +3445,7 @@
             "id": "7b07e8ad-5a76-4e1d-bd09-7ba70814e01b",
             "name": "Daniel Jones (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 260,
+            "sort_order": 270,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "7b2f42c5-cff7-4b9b-a2b4-098a0e9f24c5": {
@@ -3408,6 +3492,13 @@
             "visible": true,
             "sort_order": 130,
             "market_id": "2e7dc9b5-672d-4dd4-89ca-32944f0152d1"
+        },
+        "7c7b9669-1682-4eb8-9d8c-ef8c46d6415c": {
+            "id": "7c7b9669-1682-4eb8-9d8c-ef8c46d6415c",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "d05f645a-35f8-4799-9cfb-1a0f21044801"
         },
         "7d675dd5-0a7e-49fc-8ea5-10a8652a41da": {
             "id": "7d675dd5-0a7e-49fc-8ea5-10a8652a41da",
@@ -3561,7 +3652,7 @@
             "id": "81835a51-f897-4f7f-ba3c-6ab4148de276",
             "name": "Geno Smith (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 180,
+            "sort_order": 170,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "81be32a7-37b2-4511-bd8c-f2b74b1657fe": {
@@ -3620,6 +3711,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "713f2f19-266a-443e-9d48-c1f1c5bd8be5"
+        },
+        "841b3034-92f7-44cb-8323-a663df16428d": {
+            "id": "841b3034-92f7-44cb-8323-a663df16428d",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "2b92ee3c-994c-4682-ac15-a9ffb2a462ad"
         },
         "848fe295-4da1-4a5c-8809-855f2c471452": {
             "id": "848fe295-4da1-4a5c-8809-855f2c471452",
@@ -3919,7 +4017,7 @@
             "id": "8c232835-1c89-489d-9008-7d9a4363755f",
             "name": "Daniel Jones (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 220,
+            "sort_order": 230,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "8c30495d-f06d-4255-9b10-304da0509b9d": {
@@ -3954,7 +4052,7 @@
             "id": "8da7e814-c7b8-4b1b-8749-3ebc0e4133a4",
             "name": "Kenny McIntosh (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 520,
+            "sort_order": 530,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "8e1a71ff-6332-4911-880f-4f64f32cf748": {
@@ -3971,6 +4069,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "535518d5-5d19-45ca-996c-a1a20dd23a42"
+        },
+        "8ee3452a-5dea-43dd-b0cd-6ae8ce5556c0": {
+            "id": "8ee3452a-5dea-43dd-b0cd-6ae8ce5556c0",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "a1fabd56-1857-4a27-946b-79fd9713e4f7"
         },
         "8efcda0a-1506-4985-9006-ac2d45c10d2c": {
             "id": "8efcda0a-1506-4985-9006-ac2d45c10d2c",
@@ -3992,7 +4097,7 @@
             "id": "8fd3ada2-201b-41b4-b609-3cd6a5dc01ab",
             "name": "AJ Barner (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 400,
+            "sort_order": 390,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "902acbc4-6bee-435a-b307-f760bc09b609": {
@@ -4138,8 +4243,15 @@
             "id": "95cd8e90-6922-4d7c-b278-ceb5a2713055",
             "name": "Dareke Young (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 400,
+            "sort_order": 390,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
+        },
+        "95e6c8ae-f82c-4d1a-a39b-c7187017609e": {
+            "id": "95e6c8ae-f82c-4d1a-a39b-c7187017609e",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "729e0656-2fa0-43df-84bf-e2c508e48801"
         },
         "9668304f-261e-4311-be67-b29689984e7b": {
             "id": "9668304f-261e-4311-be67-b29689984e7b",
@@ -4169,6 +4281,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "3e3a6e8d-147b-4149-8d03-c795a1eee77f"
+        },
+        "974d63ce-b0c1-4e3a-8418-d349d7a9dd67": {
+            "id": "974d63ce-b0c1-4e3a-8418-d349d7a9dd67",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "a6f21b2d-041b-4323-9c36-9cbc048f9962"
         },
         "9751dd28-2bb7-4a64-b2f2-afa760705105": {
             "id": "9751dd28-2bb7-4a64-b2f2-afa760705105",
@@ -4236,6 +4355,13 @@
             "sort_order": 110,
             "market_id": "ad21485d-edda-4ef4-8195-7b327576239d"
         },
+        "99b9a9b4-0822-403f-bf2c-6c215bdf6e17": {
+            "id": "99b9a9b4-0822-403f-bf2c-6c215bdf6e17",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "1209b7b6-c683-4a81-81c0-af91a6fe7dc9"
+        },
         "99f72be0-18be-4daf-9488-0b4511350578": {
             "id": "99f72be0-18be-4daf-9488-0b4511350578",
             "name": "New York Giants (+11.5)",
@@ -4301,7 +4427,7 @@
             "id": "9cd0a504-4229-4003-82c3-ee2615da47bd",
             "name": "Tyler Lockett (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 270,
+            "sort_order": 260,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "9d5428df-c157-47d2-a998-85c96a8e0160": {
@@ -4359,7 +4485,7 @@
             "id": "a15b83cc-fb8e-4c88-bd4d-43d1280e3173",
             "name": "Daniel Bellinger (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 420,
+            "sort_order": 410,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "a17b9821-b3ef-43c2-b16c-35e48c5002ae": {
@@ -4373,7 +4499,7 @@
             "id": "a2bee499-ffbb-4b8d-9e4e-ce88302a1ffd",
             "name": "Jalin Hyatt (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 360,
+            "sort_order": 350,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "a393fb84-ec21-4e3c-838b-840738df3fd1": {
@@ -4494,6 +4620,13 @@
             "sort_order": 70,
             "market_id": "2e7dc9b5-672d-4dd4-89ca-32944f0152d1"
         },
+        "a6e09e37-c1a1-4585-ad38-83783bc990ff": {
+            "id": "a6e09e37-c1a1-4585-ad38-83783bc990ff",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "b69a4e95-0859-4cca-9863-613bb3ec01cd"
+        },
         "a6f9b45e-7444-4283-a44a-8d0ffe012337": {
             "id": "a6f9b45e-7444-4283-a44a-8d0ffe012337",
             "name": "Seattle Seahawks and Under 50.5",
@@ -4528,7 +4661,7 @@
             "id": "a789a2bd-7f26-459c-a168-5f610191ff43",
             "name": "Daniel Bellinger (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "a7929ff8-a928-4a75-bc85-46df7f94a132": {
@@ -4550,7 +4683,7 @@
             "id": "a79a6e60-6ff8-42f3-8e0e-9ba5887d7ea4",
             "name": "Jalin Hyatt (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 390,
+            "sort_order": 430,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "a7d0af14-d922-42ae-85c4-ce7b28deaf96": {
@@ -4648,6 +4781,13 @@
             "sort_order": 10,
             "market_id": "cb6818a9-b32f-46d5-9d58-945acdc02121"
         },
+        "a9d9f040-3396-4e86-89ae-78b7ec413d49": {
+            "id": "a9d9f040-3396-4e86-89ae-78b7ec413d49",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "1209b7b6-c683-4a81-81c0-af91a6fe7dc9"
+        },
         "aa0ab0e1-e654-4629-ae0b-d3af6e971852": {
             "id": "aa0ab0e1-e654-4629-ae0b-d3af6e971852",
             "name": "Seattle Seahawks (-8.5)",
@@ -4700,6 +4840,13 @@
             "sort_order": 10,
             "market_id": "267592f3-504d-4f41-9bc6-1ed88c790c30"
         },
+        "aaccdde9-76b3-4e23-b48e-af8ba753eee2": {
+            "id": "aaccdde9-76b3-4e23-b48e-af8ba753eee2",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "2011210e-0f6c-4b75-89e7-bdbf64734e5d"
+        },
         "aad0b588-b9b2-43e5-baec-f33fe986844a": {
             "id": "aad0b588-b9b2-43e5-baec-f33fe986844a",
             "name": "New York Giants +13.5 and Under 40.5 Points",
@@ -4713,6 +4860,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "0c589a36-28aa-4c37-b243-e6967c791d88"
+        },
+        "aaddcefe-6cf1-4725-85fa-fc3968f89acf": {
+            "id": "aaddcefe-6cf1-4725-85fa-fc3968f89acf",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "2b92ee3c-994c-4682-ac15-a9ffb2a462ad"
         },
         "aae7277f-c2b8-4965-8099-5f8d4335a7e1": {
             "id": "aae7277f-c2b8-4965-8099-5f8d4335a7e1",
@@ -4765,6 +4919,13 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "5fc15c4a-bc9b-46ea-895e-344179f82041"
+        },
+        "ac2d8420-55cf-4ad6-9629-4cff3a42827d": {
+            "id": "ac2d8420-55cf-4ad6-9629-4cff3a42827d",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "f034642d-34cb-42d1-9aa5-d2907b919b9d"
         },
         "ac582914-43ce-4e68-8a23-b0e2b31c12bd": {
             "id": "ac582914-43ce-4e68-8a23-b0e2b31c12bd",
@@ -4837,6 +4998,13 @@
             "sort_order": 60,
             "market_id": "3e3a6e8d-147b-4149-8d03-c795a1eee77f"
         },
+        "ae0e9a65-1a72-41cb-b69c-2320449256ea": {
+            "id": "ae0e9a65-1a72-41cb-b69c-2320449256ea",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "2b92ee3c-994c-4682-ac15-a9ffb2a462ad"
+        },
         "ae59f952-6ed6-4974-a8b6-8c6eb08ad2a3": {
             "id": "ae59f952-6ed6-4974-a8b6-8c6eb08ad2a3",
             "name": "Kenny McIntosh (Seattle Seahawks)",
@@ -4892,7 +5060,7 @@
             "id": "affd6cbb-f0c3-48e7-b5be-8d41bfa8266f",
             "name": "Seahawks DST (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 140,
+            "sort_order": 150,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "b00b93ee-4579-460e-ae4e-44328896541a": {
@@ -4947,6 +5115,13 @@
             "sort_order": 70,
             "market_id": "7aea12d4-db11-4482-a300-c04ab0c8ab10"
         },
+        "b218a6ca-946a-43f5-a05c-cec6ff4814ee": {
+            "id": "b218a6ca-946a-43f5-a05c-cec6ff4814ee",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "d6e9f4db-c2f5-4081-9388-bde4d59ac107"
+        },
         "b23fb4d2-5f40-47a9-9088-d129e2021716": {
             "id": "b23fb4d2-5f40-47a9-9088-d129e2021716",
             "name": "New York Giants and Under 48.5",
@@ -4982,7 +5157,7 @@
             "id": "b3860579-80f6-4f40-bd07-36015d41fd84",
             "name": "Chris Manhertz (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 500,
+            "sort_order": 510,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "b3e26744-a955-4f14-ad32-a89e5115ee5c": {
@@ -4992,6 +5167,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "14de1957-62eb-46b7-a418-454951c3d0a2"
+        },
+        "b3f99cb7-10f4-4ad6-9596-6c6ee0605af7": {
+            "id": "b3f99cb7-10f4-4ad6-9596-6c6ee0605af7",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "d8561dd3-88fe-44cd-b79b-43756339122d"
         },
         "b3facc96-0e06-4228-b4a8-80e3c76ec231": {
             "id": "b3facc96-0e06-4228-b4a8-80e3c76ec231",
@@ -5026,7 +5208,7 @@
             "id": "b5371ecb-e114-406d-b072-2e8be017e7f1",
             "name": "Noah Fant (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 90,
+            "sort_order": 80,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "b573b232-6254-4fe6-9f3d-e5e76e58b2c9": {
@@ -5097,7 +5279,7 @@
             "id": "b90f244d-820b-43ab-a455-a770c8f4f39d",
             "name": "Geno Smith (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 460,
+            "sort_order": 450,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "b93ed544-d0d0-4405-9a68-d7b138b8d2c3": {
@@ -5133,7 +5315,7 @@
             "id": "ba25d41f-9579-49a7-abd5-b586ae6b17f1",
             "name": "Geno Smith (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 450,
+            "sort_order": 460,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "bab41bf3-1e63-4810-9804-9bfb2737513b": {
@@ -5205,8 +5387,15 @@
             "id": "bc1923ac-2221-46ff-9774-b4a952b3b26a",
             "name": "Laviska Shenault (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 410,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
+        },
+        "bc6ca2ff-c891-4eaf-871f-e39a1d129099": {
+            "id": "bc6ca2ff-c891-4eaf-871f-e39a1d129099",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "cce8549d-9cfd-4e58-b7c2-7505c84293ae"
         },
         "bc7ce939-352a-4ff7-808f-6591f2c14e44": {
             "id": "bc7ce939-352a-4ff7-808f-6591f2c14e44",
@@ -5230,6 +5419,13 @@
             "sort_order": 20,
             "market_id": "51b01334-b49a-49ec-9188-2ba37d9e7b34"
         },
+        "bd2db08a-15af-4a45-a4d6-b242354bc956": {
+            "id": "bd2db08a-15af-4a45-a4d6-b242354bc956",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "a1fabd56-1857-4a27-946b-79fd9713e4f7"
+        },
         "bd68c986-649c-4597-a8f7-4567ad305523": {
             "id": "bd68c986-649c-4597-a8f7-4567ad305523",
             "name": "Noah Fant (Seattle Seahawks)",
@@ -5251,6 +5447,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "fb9d8c49-9951-474c-83ab-2b1fe915245d"
+        },
+        "bdae9b2a-fcf7-46c7-937d-d880b3aafbdf": {
+            "id": "bdae9b2a-fcf7-46c7-937d-d880b3aafbdf",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "5bf8922a-09f5-42af-b33d-513190561a26"
         },
         "bde45c64-f05e-4922-99fa-077464b85f07": {
             "id": "bde45c64-f05e-4922-99fa-077464b85f07",
@@ -5278,7 +5481,7 @@
             "id": "be48c87d-c966-423e-a4f3-9402c035289c",
             "name": "Darius Slayton (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 190,
+            "sort_order": 200,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "bec7785d-1d0e-41d5-ba20-2cb990ba5d4a": {
@@ -5287,6 +5490,13 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "7175ace4-ad2c-437e-bf2a-fdb99e9eb9fd"
+        },
+        "bed5ff5d-36da-4d16-a20f-09d10345a9f0": {
+            "id": "bed5ff5d-36da-4d16-a20f-09d10345a9f0",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "729e0656-2fa0-43df-84bf-e2c508e48801"
         },
         "bee7a384-d873-4388-9c45-37700f8e0a32": {
             "id": "bee7a384-d873-4388-9c45-37700f8e0a32",
@@ -5412,6 +5622,13 @@
             "sort_order": 30,
             "market_id": "fddf0f9e-7ac4-4b72-a8a2-5f38bf49cce7"
         },
+        "c41e2cf0-e431-4b44-8a00-00ee3562b8a6": {
+            "id": "c41e2cf0-e431-4b44-8a00-00ee3562b8a6",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "d6e9f4db-c2f5-4081-9388-bde4d59ac107"
+        },
         "c42fd147-9a54-4415-84b1-b3276abca1ca": {
             "id": "c42fd147-9a54-4415-84b1-b3276abca1ca",
             "name": "Noah Fant (Seattle Seahawks)",
@@ -5419,6 +5636,13 @@
             "visible": true,
             "sort_order": 70,
             "market_id": "671c41a3-277e-4522-84f1-09c3433ffb89"
+        },
+        "c43044cd-d94e-46f7-bc3d-5caa67049b12": {
+            "id": "c43044cd-d94e-46f7-bc3d-5caa67049b12",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5"
         },
         "c43a0565-9060-44dd-a8b6-b60ab5ee3822": {
             "id": "c43a0565-9060-44dd-a8b6-b60ab5ee3822",
@@ -5458,6 +5682,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "95f04802-884d-450b-8a41-c377cb769871"
+        },
+        "c5bf393e-985e-47c6-a31c-c56bb885b04f": {
+            "id": "c5bf393e-985e-47c6-a31c-c56bb885b04f",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "729e0656-2fa0-43df-84bf-e2c508e48801"
         },
         "c5c4f5d0-abb9-4fe4-bb59-8e4f9fab73bf": {
             "id": "c5c4f5d0-abb9-4fe4-bb59-8e4f9fab73bf",
@@ -5522,7 +5753,7 @@
             "id": "c73f2951-e68a-4a57-a8e1-ee8cdb19dff9",
             "name": "Dareke Young (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 530,
+            "sort_order": 520,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "c74c3f5a-2b6e-45fc-9982-2c2d4ea14c78": {
@@ -5544,14 +5775,14 @@
             "id": "c752e505-be81-4954-9dc8-fb9e727fbed0",
             "name": "Daniel Bellinger (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 380,
+            "sort_order": 440,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "c76a8cdd-f03d-4ef4-a207-42eb59a165bd": {
             "id": "c76a8cdd-f03d-4ef4-a207-42eb59a165bd",
             "name": "Wan'Dale Robinson (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 150,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "c7deee08-16ba-45f6-9f0d-95745289651b": {
@@ -5565,7 +5796,7 @@
             "id": "c7e8cfcd-5f4f-415a-af64-ae58fbbe2330",
             "name": "Jake Bobo (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 200,
+            "sort_order": 190,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "c80d2d59-b6c8-4b24-a011-8e8c2e520091": {
@@ -5680,6 +5911,13 @@
             "sort_order": 10,
             "market_id": "b1c33fb7-eefa-40a3-aa23-94bb586163e2"
         },
+        "ca37079b-2d6d-4781-b05f-6c2179674c66": {
+            "id": "ca37079b-2d6d-4781-b05f-6c2179674c66",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "b69a4e95-0859-4cca-9863-613bb3ec01cd"
+        },
         "ca4880be-5161-4f1c-b856-8577f784822a": {
             "id": "ca4880be-5161-4f1c-b856-8577f784822a",
             "name": "Wan'Dale Robinson (New York Giants)",
@@ -5714,7 +5952,7 @@
             "id": "cafdd633-c8aa-47d9-b46a-9e11e573375c",
             "name": "Pharaoh Brown (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 460,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "cb017138-85d8-434e-9b0e-39b31e3aef23": {
@@ -5828,6 +6066,13 @@
             "sort_order": 10,
             "market_id": "0523b9d6-5915-4c3b-9ed5-e5d6e396204b"
         },
+        "ce09d377-3d7c-4fd3-b7fa-af5942a41e0d": {
+            "id": "ce09d377-3d7c-4fd3-b7fa-af5942a41e0d",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "108272b9-23b5-46c2-a433-3408a3cf1524"
+        },
         "ce1a8fe1-5aae-4e8c-8f43-58cfd2850f25": {
             "id": "ce1a8fe1-5aae-4e8c-8f43-58cfd2850f25",
             "name": "Under (40)",
@@ -5885,7 +6130,7 @@
             "id": "d1022220-dffe-40c6-b9b2-3b5c32a9a1a4",
             "name": "Seahawks DST (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 160,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "d13c578d-fc1d-41eb-a7a4-7aa16c07e3c6": {
@@ -5966,7 +6211,7 @@
             "id": "d3018066-7ff6-49b2-a704-75f4ec0026b6",
             "name": "Noah Fant (Seattle Seahawks) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 90,
+            "sort_order": 80,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "d3113a44-438e-4657-ac32-6a9452ae03d0": {
@@ -6163,7 +6408,7 @@
             "id": "d828e84e-c361-42e2-bfe1-ff01444f6ea0",
             "name": "Wan'Dale Robinson (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 140,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "d83d52c0-debe-4f23-8304-afd762b0b6d8": {
@@ -6178,7 +6423,7 @@
             "id": "d87c626c-6c88-4a15-a354-fd3d191a9ace",
             "name": "Ihmir Smith-Marsette (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 510,
+            "sort_order": 500,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "d91eef97-322e-4b19-9f02-41976aab8317": {
@@ -6226,6 +6471,13 @@
             "sort_order": 20,
             "market_id": "3e3a6e8d-147b-4149-8d03-c795a1eee77f"
         },
+        "da66c26f-a464-4090-9269-21a48165b956": {
+            "id": "da66c26f-a464-4090-9269-21a48165b956",
+            "name": "Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "cce8549d-9cfd-4e58-b7c2-7505c84293ae"
+        },
         "da7b0a78-fb81-4208-a05a-87c393985bac": {
             "id": "da7b0a78-fb81-4208-a05a-87c393985bac",
             "name": "Seattle Seahawks -3.5 and Over 55.5 Points",
@@ -6237,7 +6489,7 @@
             "id": "da803981-5e44-4f4e-ab4e-fce535f3482a",
             "name": "Malik Nabers (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 80,
+            "sort_order": 90,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "da9961ac-c78a-4f3f-a99a-0ec87bbfa1d3": {
@@ -6657,6 +6909,13 @@
             "sort_order": 20,
             "market_id": "267592f3-504d-4f41-9bc6-1ed88c790c30"
         },
+        "ea0ed8a3-bfe4-4b57-ab4b-9589cfff89b5": {
+            "id": "ea0ed8a3-bfe4-4b57-ab4b-9589cfff89b5",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5"
+        },
         "ea312bc5-834c-4749-98d4-07fa02699897": {
             "id": "ea312bc5-834c-4749-98d4-07fa02699897",
             "name": "New York Giants +3.5 and Over 50.5 Points",
@@ -6671,6 +6930,13 @@
             "visible": true,
             "sort_order": 200,
             "market_id": "7aea12d4-db11-4482-a300-c04ab0c8ab10"
+        },
+        "eaf1f558-f583-42cf-943a-dbab0d727392": {
+            "id": "eaf1f558-f583-42cf-943a-dbab0d727392",
+            "name": "DK Metcalf / Tyler Lockett",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5"
         },
         "eb02f24c-2030-4448-bb16-ecefb0e2df93": {
             "id": "eb02f24c-2030-4448-bb16-ecefb0e2df93",
@@ -6838,11 +7104,18 @@
             "sort_order": 20,
             "market_id": "d88c7460-e02c-45b7-adff-8a2cc61dbc4e"
         },
+        "f0065b11-dbe0-4e83-ab33-5bafaf9c3c05": {
+            "id": "f0065b11-dbe0-4e83-ab33-5bafaf9c3c05",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "27129b8e-9690-44f6-84a8-f6451d30c5ec"
+        },
         "f03ee659-51d9-40d3-a18f-019e35e73607": {
             "id": "f03ee659-51d9-40d3-a18f-019e35e73607",
             "name": "Drew Lock (New York Giants) / Seattle Seahawks",
             "visible": true,
-            "sort_order": 600,
+            "sort_order": 580,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "f044faa1-b098-4de0-88c1-d77bfd7f87da": {
@@ -6861,11 +7134,18 @@
             "sort_order": 190,
             "market_id": "9a2c6411-074a-428b-9809-c1cb02226fd4"
         },
+        "f0f467c3-9b00-4735-8075-ccad3f4c0d9b": {
+            "id": "f0f467c3-9b00-4735-8075-ccad3f4c0d9b",
+            "name": "DK Metcalf / Jaxon Smith-Njigba",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "2011210e-0f6c-4b75-89e7-bdbf64734e5d"
+        },
         "f125db28-c0e5-464a-9a56-b6500f2c6b3c": {
             "id": "f125db28-c0e5-464a-9a56-b6500f2c6b3c",
             "name": "AJ Barner (Seattle Seahawks) / New York Giants",
             "visible": true,
-            "sort_order": 430,
+            "sort_order": 420,
             "market_id": "2b76f905-353f-4008-b432-877d2eaad60d"
         },
         "f1fab367-39d2-47b9-b372-8c5022ba32c7": {
@@ -6979,12 +7259,26 @@
             "sort_order": 200,
             "market_id": "05c3fbd4-e0fb-40aa-941d-12ff0ea84fcf"
         },
+        "f5550be0-3290-4684-a7f1-e58baafede95": {
+            "id": "f5550be0-3290-4684-a7f1-e58baafede95",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "42ea4b4b-a378-4379-8384-1a6b9f6c7528"
+        },
         "f558eb65-b1c8-43e5-b489-934221b33efc": {
             "id": "f558eb65-b1c8-43e5-b489-934221b33efc",
             "name": "No",
             "visible": true,
             "sort_order": 10,
             "market_id": "c2e0a65b-cf83-4dc8-b91b-82a2b0f98ad2"
+        },
+        "f5a53765-55b1-4c80-b086-fbe668b9ac1d": {
+            "id": "f5a53765-55b1-4c80-b086-fbe668b9ac1d",
+            "name": "DK Metcalf / Jaxon Smith-Njigba / Tyler Lockett",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "9bc4875d-eec1-42c5-a160-493a94357cdf"
         },
         "f5c2a34c-7c8f-4832-a5e7-521b20c36000": {
             "id": "f5c2a34c-7c8f-4832-a5e7-521b20c36000",
@@ -7238,7 +7532,7 @@
             "id": "ff7f82fa-e9f8-4914-bb14-2be43d904219",
             "name": "Ihmir Smith-Marsette (New York Giants) / New York Giants",
             "visible": true,
-            "sort_order": 530,
+            "sort_order": 500,
             "market_id": "aa9b5d9b-f6c6-4021-beb4-9a9b356c33e3"
         },
         "ffbe6677-d17b-420b-9f52-f8dfaed0fbe5": {
@@ -7294,10 +7588,12 @@
                 "81a92a58-39c5-4adc-85f0-6e6fb1798226",
                 "3fe11a5d-ebe3-49c3-b59a-e271ca42dfd4",
                 "421d3790-2f03-423d-a195-cca013d3bfe4",
+                "92da63f2-a158-4dfd-a3b1-c732fbe0ac96",
                 "6b3f6e47-80c3-4662-8059-b3196142b558",
                 "f0b71cf5-b9c5-47de-8450-e1bc10c5e279",
                 "853fc8d1-6779-4239-b0b6-2c368881250d",
                 "191464ba-40c5-407c-a26e-f3e1f34b6660",
+                "c5f31220-0c05-4979-96ef-a6bf6c1dbb17",
                 "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
                 "1310201b-0286-4274-8994-6cf42c480a36",
                 "94a71946-fe4b-4499-8db1-7dc4f85a4029",
@@ -7351,6 +7647,23 @@
                     ]
                 },
                 {
+                    "market_type_group_id": "92da63f2-a158-4dfd-a3b1-c732fbe0ac96",
+                    "market_ids": [
+                        "f034642d-34cb-42d1-9aa5-d2907b919b9d",
+                        "dc22f895-25a6-4d54-b03e-d54aeca9ccd1",
+                        "2b92ee3c-994c-4682-ac15-a9ffb2a462ad",
+                        "9bc4875d-eec1-42c5-a160-493a94357cdf",
+                        "2011210e-0f6c-4b75-89e7-bdbf64734e5d",
+                        "5bf8922a-09f5-42af-b33d-513190561a26",
+                        "d6e9f4db-c2f5-4081-9388-bde4d59ac107",
+                        "d6c77f64-8b93-4950-aaf8-b1da0b32b24b",
+                        "cce8549d-9cfd-4e58-b7c2-7505c84293ae",
+                        "a6f21b2d-041b-4323-9c36-9cbc048f9962",
+                        "b69a4e95-0859-4cca-9863-613bb3ec01cd",
+                        "b088155a-eaa2-4551-9323-66b01759f071"
+                    ]
+                },
+                {
                     "market_type_group_id": "6b3f6e47-80c3-4662-8059-b3196142b558",
                     "market_ids": [
                         "32bd3b40-8e95-41bc-bb70-8e85c8527636",
@@ -7370,8 +7683,7 @@
                         "7a652671-e606-4d7a-b502-aaa7b58afb84",
                         "0bb5688d-1082-49dc-8624-a36071cee1bb",
                         "55449bc5-8f5f-4ef2-9826-227c637c23e3",
-                        "425bc0cf-f782-4481-80a7-5007d739d244",
-                        "1a6da495-4133-49f9-b673-6820a47c0750"
+                        "425bc0cf-f782-4481-80a7-5007d739d244"
                     ]
                 },
                 {
@@ -7386,6 +7698,20 @@
                         "ba19051e-903f-4497-aade-09eeac670994",
                         "599a016f-d959-4f6e-b969-0610405351af",
                         "3abdadcd-716e-4693-9a9b-4f903244fecb"
+                    ]
+                },
+                {
+                    "market_type_group_id": "c5f31220-0c05-4979-96ef-a6bf6c1dbb17",
+                    "market_ids": [
+                        "d8561dd3-88fe-44cd-b79b-43756339122d",
+                        "a1fabd56-1857-4a27-946b-79fd9713e4f7",
+                        "1209b7b6-c683-4a81-81c0-af91a6fe7dc9",
+                        "729e0656-2fa0-43df-84bf-e2c508e48801",
+                        "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5",
+                        "108272b9-23b5-46c2-a433-3408a3cf1524",
+                        "42ea4b4b-a378-4379-8384-1a6b9f6c7528",
+                        "27129b8e-9690-44f6-84a8-f6451d30c5ec",
+                        "d05f645a-35f8-4799-9cfb-1a0f21044801"
                     ]
                 },
                 {
@@ -7652,7 +7978,7 @@
                     ]
                 }
             ],
-            "market_count": 251,
+            "market_count": 271,
             "main_markets": [
                 "ba267a2a-194d-48e1-a35b-b9e3728738aa"
             ],
@@ -7681,6 +8007,18 @@
                 "ec6f0903-8ef4-4b9b-8c71-73d7f8dd71e0",
                 "53c3d52a-5449-4159-aea4-f8976e6ecce6",
                 "c5c6735b-306a-4794-af2e-e6f84a56bd46",
+                "f034642d-34cb-42d1-9aa5-d2907b919b9d",
+                "dc22f895-25a6-4d54-b03e-d54aeca9ccd1",
+                "2b92ee3c-994c-4682-ac15-a9ffb2a462ad",
+                "9bc4875d-eec1-42c5-a160-493a94357cdf",
+                "2011210e-0f6c-4b75-89e7-bdbf64734e5d",
+                "5bf8922a-09f5-42af-b33d-513190561a26",
+                "d6e9f4db-c2f5-4081-9388-bde4d59ac107",
+                "d6c77f64-8b93-4950-aaf8-b1da0b32b24b",
+                "cce8549d-9cfd-4e58-b7c2-7505c84293ae",
+                "a6f21b2d-041b-4323-9c36-9cbc048f9962",
+                "b69a4e95-0859-4cca-9863-613bb3ec01cd",
+                "b088155a-eaa2-4551-9323-66b01759f071",
                 "32bd3b40-8e95-41bc-bb70-8e85c8527636",
                 "aa7b9bfb-f863-4cd4-9bc9-550561dfb487",
                 "f27a82c8-fb76-48fe-9a75-14b7fabe174b",
@@ -7694,11 +8032,19 @@
                 "0bb5688d-1082-49dc-8624-a36071cee1bb",
                 "55449bc5-8f5f-4ef2-9826-227c637c23e3",
                 "425bc0cf-f782-4481-80a7-5007d739d244",
-                "1a6da495-4133-49f9-b673-6820a47c0750",
                 "a6f916be-b0ec-4d61-bb0d-b925a51ac1df",
                 "ba19051e-903f-4497-aade-09eeac670994",
                 "599a016f-d959-4f6e-b969-0610405351af",
                 "3abdadcd-716e-4693-9a9b-4f903244fecb",
+                "d8561dd3-88fe-44cd-b79b-43756339122d",
+                "a1fabd56-1857-4a27-946b-79fd9713e4f7",
+                "1209b7b6-c683-4a81-81c0-af91a6fe7dc9",
+                "729e0656-2fa0-43df-84bf-e2c508e48801",
+                "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5",
+                "108272b9-23b5-46c2-a433-3408a3cf1524",
+                "42ea4b4b-a378-4379-8384-1a6b9f6c7528",
+                "27129b8e-9690-44f6-84a8-f6451d30c5ec",
+                "d05f645a-35f8-4799-9cfb-1a0f21044801",
                 "15230dcf-2847-41ec-989c-f57d2ef82932",
                 "48baa83d-6a4a-4ea5-864d-33a42086c414",
                 "3e3a6e8d-147b-4149-8d03-c795a1eee77f",
@@ -7995,6 +8341,12 @@
             "name": "First Quarter Markets",
             "priority": 70
         },
+        "92da63f2-a158-4dfd-a3b1-c732fbe0ac96": {
+            "id": "92da63f2-a158-4dfd-a3b1-c732fbe0ac96",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "New Touchdown Combo Markets",
+            "priority": 240
+        },
         "94a71946-fe4b-4499-8db1-7dc4f85a4029": {
             "id": "94a71946-fe4b-4499-8db1-7dc4f85a4029",
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
@@ -8006,6 +8358,12 @@
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
             "name": "Scoring Markets",
             "priority": 120
+        },
+        "c5f31220-0c05-4979-96ef-a6bf6c1dbb17": {
+            "id": "c5f31220-0c05-4979-96ef-a6bf6c1dbb17",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "New Receiving Yards Combo Markets",
+            "priority": 180
         },
         "f0b71cf5-b9c5-47de-8450-e1bc10c5e279": {
             "id": "f0b71cf5-b9c5-47de-8450-e1bc10c5e279",
@@ -8345,6 +8703,52 @@
             ],
             "num_winners": 1
         },
+        "108272b9-23b5-46c2-a433-3408a3cf1524": {
+            "id": "108272b9-23b5-46c2-a433-3408a3cf1524",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "e7a8bcc0-68d4-4e51-ab30-f15d04dca574",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 150+ Receiving Yards Combined (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "546efd16-209e-4990-b941-5be4fbe917a8",
+                "ce09d377-3d7c-4fd3-b7fa-af5942a41e0d",
+                "599aeed7-dfdc-4c6d-b57c-89553371cf2f"
+            ],
+            "num_winners": 99
+        },
+        "1209b7b6-c683-4a81-81c0-af91a6fe7dc9": {
+            "id": "1209b7b6-c683-4a81-81c0-af91a6fe7dc9",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "f8ec5abd-8d10-4257-9741-6a61cef3d580",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Have 75+ Receiving Yards",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "99b9a9b4-0822-403f-bf2c-6c215bdf6e17",
+                "5d6dd918-344c-45bc-ba58-ac7f4248ac6c",
+                "a9d9f040-3396-4e86-89ae-78b7ec413d49"
+            ],
+            "num_winners": 99
+        },
         "14de1957-62eb-46b7-a418-454951c3d0a2": {
             "id": "14de1957-62eb-46b7-a418-454951c3d0a2",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -8483,26 +8887,6 @@
             ],
             "num_winners": 1
         },
-        "1a6da495-4133-49f9-b673-6820a47c0750": {
-            "id": "1a6da495-4133-49f9-b673-6820a47c0750",
-            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
-            "market_type_id": "23197832-64da-4926-90ba-2784870307f5",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "To Have 700+ Passing Yards Combined",
-            "advertised_start": {
-                "seconds": 1728246300
-            },
-            "actual_start": {
-                "seconds": 1728246300
-            },
-            "same_game_multi_available": true,
-            "comments": "Bets void if any player is listed as inactive for the game.",
-            "visible": true,
-            "entrant_ids": [
-                "0c3bec76-0dde-4bec-8a34-36a17fa92369"
-            ],
-            "num_winners": 1
-        },
         "1df9230f-c039-4022-bf15-c381c8e833ea": {
             "id": "1df9230f-c039-4022-bf15-c381c8e833ea",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -8540,6 +8924,27 @@
             "entrant_ids": [
                 "e5896375-d88c-4533-84bb-a62cdd84c0ec",
                 "fbeed9c0-00dd-44d0-9603-c316358085f7"
+            ],
+            "num_winners": 1
+        },
+        "2011210e-0f6c-4b75-89e7-bdbf64734e5d": {
+            "id": "2011210e-0f6c-4b75-89e7-bdbf64734e5d",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "88c445ae-ca7e-45ae-b680-32e73406945c",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Score 3+ Touchdowns (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "f0f467c3-9b00-4735-8075-ccad3f4c0d9b",
+                "aaccdde9-76b3-4e23-b48e-af8ba753eee2"
             ],
             "num_winners": 1
         },
@@ -8729,6 +9134,27 @@
             ],
             "num_winners": 1
         },
+        "27129b8e-9690-44f6-84a8-f6451d30c5ec": {
+            "id": "27129b8e-9690-44f6-84a8-f6451d30c5ec",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "e7a8bcc0-68d4-4e51-ab30-f15d04dca574",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 175+ Receiving Yards Combined (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "f0065b11-dbe0-4e83-ab33-5bafaf9c3c05"
+            ],
+            "num_winners": 99
+        },
         "2b76f905-353f-4008-b432-877d2eaad60d": {
             "id": "2b76f905-353f-4008-b432-877d2eaad60d",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -8753,26 +9179,26 @@
                 "370a7385-e5f0-4871-9879-e3bf16f7538a",
                 "8994d46f-b15c-404b-8346-395bb8ff5c1f",
                 "933431bb-a710-4d7e-b87a-5b8afb0f1f03",
-                "da803981-5e44-4f4e-ab4e-fce535f3482a",
                 "d3018066-7ff6-49b2-a704-75f4ec0026b6",
+                "da803981-5e44-4f4e-ab4e-fce535f3482a",
                 "2c17c9dc-05e2-413f-b61c-90574c61a883",
                 "c9777d38-c5b0-4ed6-afba-f0d8350bf8a9",
                 "64a415af-369f-4316-9308-33055ee90cde",
                 "cde191e2-abcd-4b84-90ef-920bc0ad1880",
-                "affd6cbb-f0c3-48e7-b5be-8d41bfa8266f",
                 "d828e84e-c361-42e2-bfe1-ff01444f6ea0",
-                "0ccb9ba8-6a67-4ad0-b6da-b2147060081e",
+                "affd6cbb-f0c3-48e7-b5be-8d41bfa8266f",
                 "64c0252e-c594-43be-b63d-469bc8a9c61b",
                 "81835a51-f897-4f7f-ba3c-6ab4148de276",
-                "be48c87d-c966-423e-a4f3-9402c035289c",
+                "0ccb9ba8-6a67-4ad0-b6da-b2147060081e",
                 "c7e8cfcd-5f4f-415a-af64-ae58fbbe2330",
+                "be48c87d-c966-423e-a4f3-9402c035289c",
                 "5a2fb2d3-91a1-4064-9005-b285cde63e37",
                 "42906ece-4618-4d27-9c39-381edc9b2c0d",
                 "ad21c21d-6429-4ccf-a661-7b47d6bee7f2",
-                "48de9ace-9b45-4a9d-8b00-deb628bd7827",
                 "3aad53c3-efe0-4f7a-95b6-6b6f58b47575",
-                "7b07e8ad-5a76-4e1d-bd09-7ba70814e01b",
+                "48de9ace-9b45-4a9d-8b00-deb628bd7827",
                 "9cd0a504-4229-4003-82c3-ee2615da47bd",
+                "7b07e8ad-5a76-4e1d-bd09-7ba70814e01b",
                 "312347a9-8022-4629-9883-97a08e6ddeda",
                 "f89b69e4-c742-41c2-ac25-f5a35b9fca49",
                 "96b246d5-0c34-4f14-83c4-9c4b69c9c4b0",
@@ -8780,28 +9206,51 @@
                 "8c0c0532-e480-463b-af4b-84c25f72917b",
                 "e1b6d373-b6dc-4abb-a6bb-f951a39e83e0",
                 "b52fa23d-6544-41b5-8262-1edc877a412b",
-                "7690c766-c42f-4074-9cf0-a41a57b5a61f",
                 "a2bee499-ffbb-4b8d-9e4e-ce88302a1ffd",
+                "7690c766-c42f-4074-9cf0-a41a57b5a61f",
                 "46923359-cce7-4fa2-b6d0-584ea4932266",
                 "d6a70ac4-e859-4546-a3bb-442052ad49ab",
-                "a79a6e60-6ff8-42f3-8e0e-9ba5887d7ea4",
                 "95cd8e90-6922-4d7c-b278-ceb5a2713055",
                 "11dcb1ea-c5da-4c86-8582-7ef2c991aa46",
                 "a15b83cc-fb8e-4c88-bd4d-43d1280e3173",
                 "f125db28-c0e5-464a-9a56-b6500f2c6b3c",
+                "a79a6e60-6ff8-42f3-8e0e-9ba5887d7ea4",
                 "ffbe6677-d17b-420b-9f52-f8dfaed0fbe5",
-                "6ea854a4-1c5a-4b09-8c49-edd668853112",
                 "b90f244d-820b-43ab-a455-a770c8f4f39d",
                 "cafdd633-c8aa-47d9-b46a-9e11e573375c",
                 "a789a2bd-7f26-459c-a168-5f610191ff43",
                 "33a6f851-6013-48c6-bb42-c0851ae1928c",
-                "389452c1-50ab-4b58-8201-1df272384be9",
+                "6ea854a4-1c5a-4b09-8c49-edd668853112",
                 "d87c626c-6c88-4a15-a354-fd3d191a9ace",
-                "8da7e814-c7b8-4b1b-8749-3ebc0e4133a4",
+                "389452c1-50ab-4b58-8201-1df272384be9",
                 "c73f2951-e68a-4a57-a8e1-ee8cdb19dff9",
+                "8da7e814-c7b8-4b1b-8749-3ebc0e4133a4",
                 "a411f01c-c9d5-4aea-a2d5-744943694d6a"
             ],
             "num_winners": 54
+        },
+        "2b92ee3c-994c-4682-ac15-a9ffb2a462ad": {
+            "id": "2b92ee3c-994c-4682-ac15-a9ffb2a462ad",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "51fc1ae6-f3e1-4c5f-bb16-f5652860de50",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Score 2+ Touchdowns (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "841b3034-92f7-44cb-8323-a663df16428d",
+                "aaddcefe-6cf1-4725-85fa-fc3968f89acf",
+                "ae0e9a65-1a72-41cb-b69c-2320449256ea"
+            ],
+            "num_winners": 99
         },
         "2c05d4a1-f4d3-43eb-b54b-6992172f2552": {
             "id": "2c05d4a1-f4d3-43eb-b54b-6992172f2552",
@@ -9339,6 +9788,27 @@
                 "8e1a71ff-6332-4911-880f-4f64f32cf748"
             ],
             "num_winners": 1
+        },
+        "42ea4b4b-a378-4379-8384-1a6b9f6c7528": {
+            "id": "42ea4b4b-a378-4379-8384-1a6b9f6c7528",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "e7a8bcc0-68d4-4e51-ab30-f15d04dca574",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 150+ Receiving Yards Combined (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "f5550be0-3290-4684-a7f1-e58baafede95"
+            ],
+            "num_winners": 99
         },
         "432aedbe-ab83-47d5-9e0b-eee7434bc20e": {
             "id": "432aedbe-ab83-47d5-9e0b-eee7434bc20e",
@@ -9904,6 +10374,26 @@
             ],
             "num_winners": 1
         },
+        "5bf8922a-09f5-42af-b33d-513190561a26": {
+            "id": "5bf8922a-09f5-42af-b33d-513190561a26",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "88c445ae-ca7e-45ae-b680-32e73406945c",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Score 3+ Touchdowns (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "bdae9b2a-fcf7-46c7-937d-d880b3aafbdf"
+            ],
+            "num_winners": 1
+        },
         "5c545afd-381c-419d-83ab-44cde2c674bb": {
             "id": "5c545afd-381c-419d-83ab-44cde2c674bb",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -10330,6 +10820,29 @@
                 "bec7785d-1d0e-41d5-ba20-2cb990ba5d4a"
             ],
             "num_winners": 1
+        },
+        "729e0656-2fa0-43df-84bf-e2c508e48801": {
+            "id": "729e0656-2fa0-43df-84bf-e2c508e48801",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "e7a8bcc0-68d4-4e51-ab30-f15d04dca574",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 100+ Receiving Yards Combined (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "95e6c8ae-f82c-4d1a-a39b-c7187017609e",
+                "bed5ff5d-36da-4d16-a20f-09d10345a9f0",
+                "c5bf393e-985e-47c6-a31c-c56bb885b04f"
+            ],
+            "num_winners": 99
         },
         "731f343e-4fac-4e87-932f-2ff3d2d180b6": {
             "id": "731f343e-4fac-4e87-932f-2ff3d2d180b6",
@@ -11165,6 +11678,27 @@
             ],
             "num_winners": 1
         },
+        "9bc4875d-eec1-42c5-a160-493a94357cdf": {
+            "id": "9bc4875d-eec1-42c5-a160-493a94357cdf",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "51fc1ae6-f3e1-4c5f-bb16-f5652860de50",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Score 2+ Touchdowns (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "f5a53765-55b1-4c80-b086-fbe668b9ac1d"
+            ],
+            "num_winners": 99
+        },
         "9cd7bb38-2f85-4930-bb7d-4be98927f1cf": {
             "id": "9cd7bb38-2f85-4930-bb7d-4be98927f1cf",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -11310,6 +11844,29 @@
             ],
             "num_winners": 1
         },
+        "a1fabd56-1857-4a27-946b-79fd9713e4f7": {
+            "id": "a1fabd56-1857-4a27-946b-79fd9713e4f7",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "f8ec5abd-8d10-4257-9741-6a61cef3d580",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Have 60+ Receiving Yards",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "58dddf2b-2de0-4dda-b6c6-cc30613b7977",
+                "8ee3452a-5dea-43dd-b0cd-6ae8ce5556c0",
+                "bd2db08a-15af-4a45-a4d6-b242354bc956"
+            ],
+            "num_winners": 99
+        },
         "a27ab398-0083-49bb-b90d-8933079eb15b": {
             "id": "a27ab398-0083-49bb-b90d-8933079eb15b",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -11454,6 +12011,27 @@
             ],
             "num_winners": 1
         },
+        "a6f21b2d-041b-4323-9c36-9cbc048f9962": {
+            "id": "a6f21b2d-041b-4323-9c36-9cbc048f9962",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "9dab4de5-ddb8-4baf-b734-92a94035815c",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 2+ Touchdowns Combined (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "974d63ce-b0c1-4e3a-8418-d349d7a9dd67"
+            ],
+            "num_winners": 99
+        },
         "a6f916be-b0ec-4d61-bb0d-b925a51ac1df": {
             "id": "a6f916be-b0ec-4d61-bb0d-b925a51ac1df",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -11575,25 +12153,25 @@
                 "a3cfaa2f-5580-4fde-9dc3-d5a7970eeaa9",
                 "d752ec83-64c3-4cc1-aea0-e941c0742de3",
                 "044a4518-f114-407e-ae44-4a53daad73fd",
-                "2ba812f9-0b8e-4d94-a5d8-fce3d65de2c0",
                 "b5371ecb-e114-406d-b072-2e8be017e7f1",
-                "54d5436e-73d4-49c1-9f18-f35ec350ff3f",
+                "2ba812f9-0b8e-4d94-a5d8-fce3d65de2c0",
                 "75d3148b-342f-472d-b9f0-decc2d706b1a",
+                "54d5436e-73d4-49c1-9f18-f35ec350ff3f",
+                "46ae3e9e-b698-477e-91a3-1f049e157f1b",
                 "67128539-df68-4713-a5f3-aeb774e2766d",
                 "6821625f-a726-430b-b58d-14a5a4c06edf",
-                "46ae3e9e-b698-477e-91a3-1f049e157f1b",
-                "d1022220-dffe-40c6-b9b2-3b5c32a9a1a4",
                 "c76a8cdd-f03d-4ef4-a207-42eb59a165bd",
+                "d1022220-dffe-40c6-b9b2-3b5c32a9a1a4",
                 "e6d36eea-253d-4298-ada0-2133c199f6a2",
                 "0a4f326c-1aa5-4e20-ba62-2c076fc20422",
                 "bd725484-30f4-426c-8ed5-9f786074ab09",
                 "8ba930fd-9d2f-4eb5-a421-fd5ddc0209d9",
                 "90593418-2be0-4266-87aa-123af2e6e730",
+                "0dd3679a-ca3d-424e-874b-deeb58b34b9e",
                 "8c232835-1c89-489d-9008-7d9a4363755f",
                 "197cf68c-64bc-4da0-aa35-2c7701ab2990",
                 "26978d17-b379-4e07-928f-7575fe62e831",
                 "2f855b1a-1f48-4cb0-bd39-88eea341f098",
-                "0dd3679a-ca3d-424e-874b-deeb58b34b9e",
                 "85ffc940-d491-490b-992c-ced82775b058",
                 "ce73ac6d-70d5-4a15-b921-28581d0e8e2d",
                 "c95fed8e-3571-4246-979a-ef878d527106",
@@ -11605,29 +12183,29 @@
                 "4c4fd926-3afa-4a10-8283-5853d1f6d06a",
                 "d740fa91-d8e6-4bc9-8ea2-4a6842a6491d",
                 "f7e84634-d58c-4621-8209-6829a8fc336d",
-                "c752e505-be81-4954-9dc8-fb9e727fbed0",
                 "73f79035-c3e2-4496-8e2e-9d7e1623c768",
                 "8fd3ada2-201b-41b4-b609-3cd6a5dc01ab",
                 "79c4cacb-ce9a-4c44-92b8-4ad7451b889e",
+                "bc1923ac-2221-46ff-9774-b4a952b3b26a",
                 "25fe316f-d954-42ba-837b-4d775cd0f00c",
                 "82da16be-314e-42c8-8b35-ad6569a5bbf7",
+                "c752e505-be81-4954-9dc8-fb9e727fbed0",
                 "6cc61e3f-52c9-4bf7-abd4-004bca931f45",
                 "ba25d41f-9579-49a7-abd5-b586ae6b17f1",
                 "0767da47-2d66-410f-adb8-21168c336979",
-                "bc1923ac-2221-46ff-9774-b4a952b3b26a",
                 "6f6c7e5a-835a-48a3-8846-5d04798d2ebe",
                 "e002fbaa-7a3e-413c-8b35-75462796d851",
+                "ff7f82fa-e9f8-4914-bb14-2be43d904219",
                 "b3860579-80f6-4f40-bd07-36015d41fd84",
                 "2b6ecc32-b5bc-4b8e-aa66-1d7e8ae23c6a",
                 "3f889761-98bd-4087-8668-4a45f2f0a58e",
-                "ff7f82fa-e9f8-4914-bb14-2be43d904219",
                 "0774611b-f768-4d30-ada0-51e09773486d",
                 "f31bbb20-25de-4941-9984-5d9a9a60b5dc",
                 "8337ce6a-fb03-451c-af0d-167a836f39c8",
                 "91d258f8-a2bc-41d5-ae23-b945f5b202b4",
+                "f03ee659-51d9-40d3-a18f-019e35e73607",
                 "6ad43577-3bd2-4ab8-b367-14ec8e69b2cd",
-                "62f8a4e7-5b42-43c1-8dcf-96da640ae3a2",
-                "f03ee659-51d9-40d3-a18f-019e35e73607"
+                "62f8a4e7-5b42-43c1-8dcf-96da640ae3a2"
             ],
             "num_winners": 1
         },
@@ -11746,6 +12324,27 @@
                 "902acbc4-6bee-435a-b307-f760bc09b609"
             ],
             "num_winners": 1
+        },
+        "b088155a-eaa2-4551-9323-66b01759f071": {
+            "id": "b088155a-eaa2-4551-9323-66b01759f071",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "727fc172-bda4-4261-a127-d242af1b15ea",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 3+ Touchdowns Combined (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "2ed8fd01-d1c4-49b0-bed5-8da7b5ed37d8"
+            ],
+            "num_winners": 99
         },
         "b1c33fb7-eefa-40a3-aa23-94bb586163e2": {
             "id": "b1c33fb7-eefa-40a3-aa23-94bb586163e2",
@@ -11890,6 +12489,29 @@
                 "18ef161f-4f7d-4939-8d7c-27caa1cf5a9a"
             ],
             "num_winners": 1
+        },
+        "b69a4e95-0859-4cca-9863-613bb3ec01cd": {
+            "id": "b69a4e95-0859-4cca-9863-613bb3ec01cd",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "727fc172-bda4-4261-a127-d242af1b15ea",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 3+ Touchdowns Combined (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "ca37079b-2d6d-4781-b05f-6c2179674c66",
+                "a6e09e37-c1a1-4585-ad38-83783bc990ff",
+                "0bdcb357-c07e-4490-a994-fffd6a1f1eb2"
+            ],
+            "num_winners": 99
         },
         "b8396db2-2956-46a4-b098-cd902c9fd503": {
             "id": "b8396db2-2956-46a4-b098-cd902c9fd503",
@@ -12405,6 +13027,29 @@
             ],
             "num_winners": 1
         },
+        "cce8549d-9cfd-4e58-b7c2-7505c84293ae": {
+            "id": "cce8549d-9cfd-4e58-b7c2-7505c84293ae",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "9dab4de5-ddb8-4baf-b734-92a94035815c",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 2+ Touchdowns Combined (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "2fcad1a3-0833-413e-9aad-22de1cbd3783",
+                "bc6ca2ff-c891-4eaf-871f-e39a1d129099",
+                "da66c26f-a464-4090-9269-21a48165b956"
+            ],
+            "num_winners": 99
+        },
         "cd0dbf41-587e-4268-b01e-56cbf1137740": {
             "id": "cd0dbf41-587e-4268-b01e-56cbf1137740",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -12468,6 +13113,27 @@
             ],
             "num_winners": 1
         },
+        "d05f645a-35f8-4799-9cfb-1a0f21044801": {
+            "id": "d05f645a-35f8-4799-9cfb-1a0f21044801",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "e7a8bcc0-68d4-4e51-ab30-f15d04dca574",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 200+ Receiving Yards Combined (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "7c7b9669-1682-4eb8-9d8c-ef8c46d6415c"
+            ],
+            "num_winners": 99
+        },
         "d0fda213-4688-4d71-ad8c-8fb9b228489c": {
             "id": "d0fda213-4688-4d71-ad8c-8fb9b228489c",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -12488,6 +13154,29 @@
                 "38af65bb-b25a-4595-a3b6-ce68d00da942"
             ],
             "num_winners": 1
+        },
+        "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5": {
+            "id": "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "e7a8bcc0-68d4-4e51-ab30-f15d04dca574",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 125+ Receiving Yards Combined (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "ea0ed8a3-bfe4-4b57-ab4b-9589cfff89b5",
+                "eaf1f558-f583-42cf-943a-dbab0d727392",
+                "c43044cd-d94e-46f7-bc3d-5caa67049b12"
+            ],
+            "num_winners": 99
         },
         "d36cc033-4150-467f-bf1d-050d742ea8c0": {
             "id": "d36cc033-4150-467f-bf1d-050d742ea8c0",
@@ -12589,6 +13278,50 @@
             ],
             "num_winners": 1
         },
+        "d6c77f64-8b93-4950-aaf8-b1da0b32b24b": {
+            "id": "d6c77f64-8b93-4950-aaf8-b1da0b32b24b",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "31d9576c-1ab9-4a50-b6d8-58851a02e10d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 1+ Touchdowns Combined (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "1b9b613c-20b7-44e2-b3fc-98d94ae0c080"
+            ],
+            "num_winners": 99
+        },
+        "d6e9f4db-c2f5-4081-9388-bde4d59ac107": {
+            "id": "d6e9f4db-c2f5-4081-9388-bde4d59ac107",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "31d9576c-1ab9-4a50-b6d8-58851a02e10d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 1+ Touchdowns Combined (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "26956ea5-51d2-4ad3-aff5-ab855bdcbb60",
+                "b218a6ca-946a-43f5-a05c-cec6ff4814ee",
+                "c41e2cf0-e431-4b44-8a00-00ee3562b8a6"
+            ],
+            "num_winners": 99
+        },
         "d6f76607-e836-4877-a2ec-4099938126ed": {
             "id": "d6f76607-e836-4877-a2ec-4099938126ed",
             "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
@@ -12630,6 +13363,28 @@
                 "fc16870e-a794-45c5-bd37-888b225e4f43"
             ],
             "num_winners": 1
+        },
+        "d8561dd3-88fe-44cd-b79b-43756339122d": {
+            "id": "d8561dd3-88fe-44cd-b79b-43756339122d",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "f8ec5abd-8d10-4257-9741-6a61cef3d580",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Have 45+ Receiving Yards",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "comments": "Bets void if any player is listed as inactive for the game.",
+            "visible": true,
+            "entrant_ids": [
+                "0e55de4e-13c3-40ad-a7e5-d4f2498fa753",
+                "b3f99cb7-10f4-4ad6-9596-6c6ee0605af7"
+            ],
+            "num_winners": 99
         },
         "d88c7460-e02c-45b7-adff-8a2cc61dbc4e": {
             "id": "d88c7460-e02c-45b7-adff-8a2cc61dbc4e",
@@ -12772,6 +13527,26 @@
             "entrant_ids": [
                 "94384a72-9942-40f6-99a2-729b1e408fa8",
                 "dbc416c3-35d2-4b07-8217-ef13c226d871"
+            ],
+            "num_winners": 1
+        },
+        "dc22f895-25a6-4d54-b03e-d54aeca9ccd1": {
+            "id": "dc22f895-25a6-4d54-b03e-d54aeca9ccd1",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "c4fcddda-1de4-4f23-8c5b-47a8e4d3ad73",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Score the 1st Touchdown (Trios)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "38f25097-b36f-4d52-989f-4febbdaf752a"
             ],
             "num_winners": 1
         },
@@ -13112,6 +13887,28 @@
             "entrant_ids": [
                 "2e2330e6-34a6-4078-88d3-85cb412adaa7",
                 "4fa03c42-c0b3-4c7a-9856-e17c9a55c6d0"
+            ],
+            "num_winners": 1
+        },
+        "f034642d-34cb-42d1-9aa5-d2907b919b9d": {
+            "id": "f034642d-34cb-42d1-9aa5-d2907b919b9d",
+            "event_id": "87dc24f7-89b7-44ef-8816-abb5599799e8",
+            "market_type_id": "c4fcddda-1de4-4f23-8c5b-47a8e4d3ad73",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Either Player to Score the 1st Touchdown (Duos)",
+            "advertised_start": {
+                "seconds": 1728246300
+            },
+            "actual_start": {
+                "seconds": 1728246300
+            },
+            "same_game_multi_available": true,
+            "comments": "Bets void if any player is listed as inactive for the game. Passing for a Touchdown does not count for this market.",
+            "visible": true,
+            "entrant_ids": [
+                "ac2d8420-55cf-4ad6-9629-4cff3a42827d",
+                "785e22ab-3242-48eb-8726-b2e856889fdb",
+                "5e584cb1-8fa4-4dba-98f3-b74b9e8467e1"
             ],
             "num_winners": 1
         },
@@ -13507,15 +14304,17 @@
         "0e29edc8-ce60-44fd-b55b-2894f751ef70": true,
         "0e593a70-142e-4aa1-9b7f-0da05db0113f": false,
         "0f5b9da9-0b49-45e7-bd1a-b504273bb578": false,
+        "108272b9-23b5-46c2-a433-3408a3cf1524": true,
+        "1209b7b6-c683-4a81-81c0-af91a6fe7dc9": true,
         "14de1957-62eb-46b7-a418-454951c3d0a2": false,
         "15230dcf-2847-41ec-989c-f57d2ef82932": true,
         "1641d6ed-b12c-4df6-bfa1-983843933374": false,
         "16915153-91ef-4d6c-bc5f-595672a33ff2": false,
         "173be6cd-7b92-4ad0-aadb-5159d7b3c78f": true,
         "1953e616-4c35-4097-a09b-5901aa9106af": false,
-        "1a6da495-4133-49f9-b673-6820a47c0750": true,
         "1df9230f-c039-4022-bf15-c381c8e833ea": false,
         "1e5d6043-3cf5-427c-ae04-e1b65393aa1e": false,
+        "2011210e-0f6c-4b75-89e7-bdbf64734e5d": true,
         "2015c4d8-0455-43a1-a5e9-1f872e47261e": false,
         "2141ff8d-a275-47be-ba19-0e3b03f87c7c": false,
         "221fc2bf-993b-4bd9-a38b-e3fb2b07a756": true,
@@ -13525,7 +14324,9 @@
         "25103ba0-fda1-4a0a-90fd-8cf659ca7d3f": false,
         "2514d7b4-e29a-4280-8680-2e7c492e9772": false,
         "267592f3-504d-4f41-9bc6-1ed88c790c30": false,
+        "27129b8e-9690-44f6-84a8-f6451d30c5ec": true,
         "2b76f905-353f-4008-b432-877d2eaad60d": true,
+        "2b92ee3c-994c-4682-ac15-a9ffb2a462ad": true,
         "2c05d4a1-f4d3-43eb-b54b-6992172f2552": true,
         "2c3721ad-0259-4f24-8e18-3088fc85139c": false,
         "2d65ea66-2345-4e31-9046-f0c8813ad022": false,
@@ -13551,6 +14352,7 @@
         "40895481-d037-4450-97b1-5c300d9d219e": false,
         "40a4a2c0-d170-45b3-8f94-8e46d9d36b21": false,
         "425bc0cf-f782-4481-80a7-5007d739d244": true,
+        "42ea4b4b-a378-4379-8384-1a6b9f6c7528": true,
         "432aedbe-ab83-47d5-9e0b-eee7434bc20e": false,
         "43e76a80-6580-4251-898b-3cd5443c28ab": false,
         "45c0af71-70e4-446e-a363-409783bdb778": false,
@@ -13577,6 +14379,7 @@
         "599a016f-d959-4f6e-b969-0610405351af": false,
         "5a8929dc-961d-4091-afe7-1db7d3521c35": false,
         "5b045619-0eff-4b60-abc0-b5af5b017f06": false,
+        "5bf8922a-09f5-42af-b33d-513190561a26": true,
         "5c545afd-381c-419d-83ab-44cde2c674bb": false,
         "5c8d99a7-1ee5-4e9a-ae2c-29336d176d47": false,
         "5fc15c4a-bc9b-46ea-895e-344179f82041": false,
@@ -13597,6 +14400,7 @@
         "713126c4-65ee-43dd-bf09-d15b5d9d34b7": false,
         "713f2f19-266a-443e-9d48-c1f1c5bd8be5": false,
         "7175ace4-ad2c-437e-bf2a-fdb99e9eb9fd": true,
+        "729e0656-2fa0-43df-84bf-e2c508e48801": true,
         "731f343e-4fac-4e87-932f-2ff3d2d180b6": false,
         "737fc231-416a-495f-991e-bd691932b6bb": false,
         "7443736d-a6d2-461b-a47c-a48116c7d038": false,
@@ -13635,6 +14439,7 @@
         "9a6f3525-819c-402f-8f0a-42a9b6a365c6": false,
         "9a959d45-c530-48bf-9173-88cd7a780915": false,
         "9ad11e7a-a7a4-4a9c-abd9-3908515a71ea": false,
+        "9bc4875d-eec1-42c5-a160-493a94357cdf": true,
         "9cd7bb38-2f85-4930-bb7d-4be98927f1cf": false,
         "9cdfb7a0-a7b6-43bd-8d45-d3d5a8acfb16": false,
         "9d839bcc-91aa-4cb0-a2f4-8a5647206e75": false,
@@ -13642,6 +14447,7 @@
         "a0fc2d95-827f-4887-accc-282b01c77302": false,
         "a11ebdf5-04a0-4cae-aded-8c906adece13": true,
         "a1fa8fe7-1cff-4946-9657-965a0e4130e9": true,
+        "a1fabd56-1857-4a27-946b-79fd9713e4f7": true,
         "a27ab398-0083-49bb-b90d-8933079eb15b": true,
         "a2b86180-bb63-4190-ae08-de95129ccd07": false,
         "a2e6adbb-4cf7-4e37-8ebb-cc8548fb6c64": true,
@@ -13649,6 +14455,7 @@
         "a45e4a22-d59e-4153-b366-88470ded5400": true,
         "a4b7e0e3-726e-4c10-beca-e8ec5c466148": false,
         "a680b2f0-479a-4e44-8999-21def0f5791c": true,
+        "a6f21b2d-041b-4323-9c36-9cbc048f9962": true,
         "a6f916be-b0ec-4d61-bb0d-b925a51ac1df": false,
         "a9498d53-ad35-48d1-8303-7c305941beb5": false,
         "a9985b9e-a15d-47e8-8529-ca765b1e8358": true,
@@ -13660,6 +14467,7 @@
         "af070025-713c-449c-8f42-3b69ae6ee813": false,
         "af87de6f-b572-44bd-a3fd-b9c9a476c4f5": true,
         "b0741d25-485d-496d-b36c-05782dea2052": true,
+        "b088155a-eaa2-4551-9323-66b01759f071": true,
         "b1c33fb7-eefa-40a3-aa23-94bb586163e2": true,
         "b1d2c2bd-c6cf-4c67-a1f2-133c97fc482c": true,
         "b22cd118-5459-4f48-8479-6b9ad1008f4e": false,
@@ -13667,6 +14475,7 @@
         "b4e9b384-071a-4adf-9ae4-b11583e5143c": true,
         "b62688df-1e23-4aab-9692-c695758b7492": false,
         "b64c24b8-5634-4ea5-845f-d6f731a6f860": false,
+        "b69a4e95-0859-4cca-9863-613bb3ec01cd": true,
         "b8396db2-2956-46a4-b098-cd902c9fd503": true,
         "b854df7f-55d4-4095-9423-945192de77e5": true,
         "b8bcb5eb-83af-4d03-861a-62c3e9d0af1c": false,
@@ -13691,17 +14500,23 @@
         "c995bf2d-9060-4af7-b851-c8d9d20ae31c": false,
         "ca639def-64d4-438d-bc3b-028c0e359343": true,
         "cb6818a9-b32f-46d5-9d58-945acdc02121": false,
+        "cce8549d-9cfd-4e58-b7c2-7505c84293ae": true,
         "cd0dbf41-587e-4268-b01e-56cbf1137740": false,
         "cd7f7e40-0b28-4768-b5e5-b06166a694cd": false,
         "cdeed0c2-47ab-4925-9d78-2d057c014422": false,
+        "d05f645a-35f8-4799-9cfb-1a0f21044801": true,
         "d0fda213-4688-4d71-ad8c-8fb9b228489c": true,
+        "d2d2a32e-bcfd-43a2-8fe8-daf9624e64d5": true,
         "d36cc033-4150-467f-bf1d-050d742ea8c0": false,
         "d3a842f2-44b5-445d-bda5-037a09b524f3": false,
         "d49e79bb-3540-4160-94e2-d9ecfaa88797": true,
         "d6044dae-7de3-488e-9eab-3c1f9b3d89fc": false,
         "d6771b43-b2fb-4c99-ba6b-d4e42ed8298a": true,
+        "d6c77f64-8b93-4950-aaf8-b1da0b32b24b": true,
+        "d6e9f4db-c2f5-4081-9388-bde4d59ac107": true,
         "d6f76607-e836-4877-a2ec-4099938126ed": true,
         "d7e80b69-a56a-45b0-8705-bc06c0fa31e6": true,
+        "d8561dd3-88fe-44cd-b79b-43756339122d": true,
         "d88c7460-e02c-45b7-adff-8a2cc61dbc4e": false,
         "d92e502f-256d-478a-888e-0361f162677b": true,
         "d9c66f40-e114-4cb1-b556-b626bddbda7b": false,
@@ -13709,6 +14524,7 @@
         "da9a694e-30a7-4032-84d6-4be039062bea": true,
         "db58b088-65dc-470d-960d-f4e87cdaeb69": true,
         "db906ff4-e7f0-4621-be0b-ecd683834dde": false,
+        "dc22f895-25a6-4d54-b03e-d54aeca9ccd1": true,
         "df80a35d-71b7-4874-bb43-43d403a2cbc7": false,
         "e08210c4-f1b2-4522-9878-4ad234007501": true,
         "e0874956-17d5-4db6-96cd-da648c68935f": false,
@@ -13726,6 +14542,7 @@
         "ee8665fe-f4e8-4dc1-b431-2e4da00d8d12": false,
         "eeb1f21d-2a8e-4b60-998c-fd380032ce5d": false,
         "efcbbddc-ad56-44e2-8fcb-cd665c849845": false,
+        "f034642d-34cb-42d1-9aa5-d2907b919b9d": true,
         "f1309ace-906f-439f-982a-91cd943197ae": false,
         "f14ca3b3-78ec-4c29-88fc-5eb8d5380aa6": false,
         "f18118c8-1325-4056-9c62-091d6f4acfb1": true,
@@ -13915,8 +14732,8 @@
         },
         "07a98d1c-746a-4606-8e45-0f9940cde176:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 20
+                "numerator": 11,
+                "denominator": 10
             }
         },
         "07d8697d-6b1a-43c4-b0cd-bf569e2ac506:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -14033,9 +14850,9 @@
                 "denominator": 1
             }
         },
-        "0c3bec76-0dde-4bec-8a34-36a17fa92369:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "0bdcb357-c07e-4490-a994-fffd6a1f1eb2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
+                "numerator": 22,
                 "denominator": 1
             }
         },
@@ -14053,8 +14870,8 @@
         },
         "0ccb9ba8-6a67-4ad0-b6da-b2147060081e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 2
+                "numerator": 8,
+                "denominator": 1
             }
         },
         "0ceb8587-5fc8-419b-9ba8-280fa017fcb0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -14083,7 +14900,7 @@
         },
         "0dd3679a-ca3d-424e-874b-deeb58b34b9e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 50,
+                "numerator": 40,
                 "denominator": 1
             }
         },
@@ -14091,6 +14908,12 @@
             "odds": {
                 "numerator": 15,
                 "denominator": 2
+            }
+        },
+        "0e55de4e-13c3-40ad-a7e5-d4f2498fa753:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 100
             }
         },
         "0ec2f166-b1c0-4427-8c21-485e29056943:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -14131,8 +14954,8 @@
         },
         "0f85ce7f-b93a-46a3-9510-c2ec5dc3cb12:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 2
+                "numerator": 11,
+                "denominator": 1
             }
         },
         "0faa53a2-d2af-4203-9a64-256eece3b2a2:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -14209,7 +15032,7 @@
         },
         "12945458-05d5-417b-a76e-256cf46860fb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 23,
                 "denominator": 5
             }
         },
@@ -14391,6 +15214,12 @@
             "odds": {
                 "numerator": 23,
                 "denominator": 2
+            }
+        },
+        "1b9b613c-20b7-44e2-b3fc-98d94ae0c080:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 25
             }
         },
         "1ba2656d-86d3-4503-a0fe-87abaa1ee6cd:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -14615,6 +15444,12 @@
                 "denominator": 1
             }
         },
+        "26956ea5-51d2-4ad3-aff5-ab855bdcbb60:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 25
+            }
+        },
         "26978d17-b379-4e07-928f-7575fe62e831:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
@@ -14773,7 +15608,7 @@
         },
         "2ba812f9-0b8e-4d94-a5d8-fce3d65de2c0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
+                "numerator": 18,
                 "denominator": 1
             }
         },
@@ -14849,6 +15684,12 @@
                 "denominator": 1
             }
         },
+        "2ed8fd01-d1c4-49b0-bed5-8da7b5ed37d8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
         "2f1ece15-c287-4a84-8d19-dae6a9b8072a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
@@ -14871,6 +15712,12 @@
             "odds": {
                 "numerator": 100,
                 "denominator": 1
+            }
+        },
+        "2fcad1a3-0833-413e-9aad-22de1cbd3783:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
             }
         },
         "2fef8119-cb3a-4d98-9ca5-560f26bdc2ae:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15067,7 +15914,7 @@
         },
         "389452c1-50ab-4b58-8201-1df272384be9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 30,
+                "numerator": 33,
                 "denominator": 1
             }
         },
@@ -15099,6 +15946,12 @@
             "odds": {
                 "numerator": 50,
                 "denominator": 1
+            }
+        },
+        "38f25097-b36f-4d52-989f-4febbdaf752a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 37,
+                "denominator": 20
             }
         },
         "39176416-2436-43de-b714-7d02d4e49405:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15139,8 +15992,8 @@
         },
         "3aad53c3-efe0-4f7a-95b6-6b6f58b47575:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 2
             }
         },
         "3ae79ede-9de6-44a4-8efa-873c5ddbaac4:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15241,8 +16094,8 @@
         },
         "3fc9bb66-723e-4403-a76e-673397a2feaf:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 10
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "4024ee70-6528-47ab-b2e5-1462ea69809c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15343,8 +16196,8 @@
         },
         "4440ea2d-e9ce-458b-8cc6-fd5a55188992:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 35,
-                "denominator": 4
+                "numerator": 11,
+                "denominator": 1
             }
         },
         "4475bd55-db7d-4365-bfcf-0c5bf0f1bfd8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15421,7 +16274,7 @@
         },
         "46ae3e9e-b698-477e-91a3-1f049e157f1b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 25,
+                "numerator": 22,
                 "denominator": 1
             }
         },
@@ -15707,6 +16560,12 @@
                 "denominator": 1
             }
         },
+        "546efd16-209e-4990-b941-5be4fbe917a8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
         "547904c6-3bc6-4794-ad54-0164f60ac6ca:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
@@ -15727,7 +16586,7 @@
         },
         "54d5436e-73d4-49c1-9f18-f35ec350ff3f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 20,
+                "numerator": 22,
                 "denominator": 1
             }
         },
@@ -15791,6 +16650,12 @@
                 "denominator": 50
             }
         },
+        "58dddf2b-2de0-4dda-b6c6-cc30613b7977:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 25
+            }
+        },
         "5904e887-d2d8-479c-a3cd-bb99c4405cb1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 19,
@@ -15813,6 +16678,12 @@
             "odds": {
                 "numerator": 39,
                 "denominator": 20
+            }
+        },
+        "599aeed7-dfdc-4c6d-b57c-89553371cf2f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 4
             }
         },
         "5a2fb2d3-91a1-4064-9005-b285cde63e37:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15899,6 +16770,12 @@
                 "denominator": 50
             }
         },
+        "5d6dd918-344c-45bc-ba58-ac7f4248ac6c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        },
         "5dff09aa-9e4a-479f-9c43-f7ae10cd4e30:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 37,
@@ -15909,6 +16786,12 @@
             "odds": {
                 "numerator": 25,
                 "denominator": 1
+            }
+        },
+        "5e584cb1-8fa4-4dba-98f3-b74b9e8467e1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 2
             }
         },
         "5f8b9f00-8065-434f-802f-3e304f070cd9:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15979,7 +16862,7 @@
         },
         "62f8a4e7-5b42-43c1-8dcf-96da640ae3a2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 700,
+                "numerator": 600,
                 "denominator": 1
             }
         },
@@ -16003,7 +16886,7 @@
         },
         "64a415af-369f-4316-9308-33055ee90cde:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
+                "numerator": 27,
                 "denominator": 5
             }
         },
@@ -16141,7 +17024,7 @@
         },
         "6ad43577-3bd2-4ab8-b367-14ec8e69b2cd:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 600,
+                "numerator": 500,
                 "denominator": 1
             }
         },
@@ -16255,7 +17138,7 @@
         },
         "6ea854a4-1c5a-4b09-8c49-edd668853112:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 25,
+                "numerator": 28,
                 "denominator": 1
             }
         },
@@ -16387,7 +17270,7 @@
         },
         "75d3148b-342f-472d-b9f0-decc2d706b1a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 20,
                 "denominator": 1
             }
         },
@@ -16425,6 +17308,12 @@
             "odds": {
                 "numerator": 11,
                 "denominator": 4
+            }
+        },
+        "785e22ab-3242-48eb-8726-b2e856889fdb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 27,
+                "denominator": 10
             }
         },
         "7866cc89-4e1c-45bf-be04-4f506ac9ad59:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16489,8 +17378,8 @@
         },
         "7b07e8ad-5a76-4e1d-bd09-7ba70814e01b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 1
+                "numerator": 23,
+                "denominator": 2
             }
         },
         "7b2f42c5-cff7-4b9b-a2b4-098a0e9f24c5:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16527,6 +17416,12 @@
             "odds": {
                 "numerator": 40,
                 "denominator": 1
+            }
+        },
+        "7c7b9669-1682-4eb8-9d8c-ef8c46d6415c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 10
             }
         },
         "7d675dd5-0a7e-49fc-8ea5-10a8652a41da:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16703,6 +17598,12 @@
                 "denominator": 4
             }
         },
+        "841b3034-92f7-44cb-8323-a663df16428d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 4
+            }
+        },
         "848fe295-4da1-4a5c-8809-855f2c471452:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
@@ -16813,8 +17714,8 @@
         },
         "88a3a1aa-c8f1-46f0-b249-cf9f50a50377:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 4
             }
         },
         "88b5f928-6498-48ef-9cc9-97f76c194763:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16975,20 +17876,26 @@
         },
         "8da7e814-c7b8-4b1b-8749-3ebc0e4133a4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 40,
+                "numerator": 50,
                 "denominator": 1
             }
         },
         "8e1a71ff-6332-4911-880f-4f64f32cf748:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 4
             }
         },
         "8e43aee8-c4a4-4a6e-97f0-8f4ba96b6547:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 19,
                 "denominator": 50
+            }
+        },
+        "8ee3452a-5dea-43dd-b0cd-6ae8ce5556c0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 20
             }
         },
         "8efcda0a-1506-4985-9006-ac2d45c10d2c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17129,6 +18036,12 @@
                 "denominator": 1
             }
         },
+        "95e6c8ae-f82c-4d1a-a39b-c7187017609e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 25
+            }
+        },
         "9668304f-261e-4311-be67-b29689984e7b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
@@ -17151,6 +18064,12 @@
             "odds": {
                 "numerator": 47,
                 "denominator": 50
+            }
+        },
+        "974d63ce-b0c1-4e3a-8418-d349d7a9dd67:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 2
             }
         },
         "9751dd28-2bb7-4a64-b2f2-afa760705105:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17205,6 +18124,12 @@
             "odds": {
                 "numerator": 28,
                 "denominator": 1
+            }
+        },
+        "99b9a9b4-0822-403f-bf2c-6c215bdf6e17:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 4
             }
         },
         "99f72be0-18be-4daf-9488-0b4511350578:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17317,7 +18242,7 @@
         },
         "a2bee499-ffbb-4b8d-9e4e-ce88302a1ffd:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
+                "numerator": 16,
                 "denominator": 1
             }
         },
@@ -17335,7 +18260,7 @@
         },
         "a3cfaa2f-5580-4fde-9dc3-d5a7970eeaa9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
+                "numerator": 14,
                 "denominator": 1
             }
         },
@@ -17417,6 +18342,12 @@
                 "denominator": 1
             }
         },
+        "a6e09e37-c1a1-4585-ad38-83783bc990ff:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
         "a6f9b45e-7444-4283-a44a-8d0ffe012337:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 17,
@@ -17461,7 +18392,7 @@
         },
         "a79a6e60-6ff8-42f3-8e0e-9ba5887d7ea4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 20,
+                "numerator": 22,
                 "denominator": 1
             }
         },
@@ -17543,6 +18474,12 @@
                 "denominator": 50
             }
         },
+        "a9d9f040-3396-4e86-89ae-78b7ec413d49:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
+                "denominator": 20
+            }
+        },
         "aa0ab0e1-e654-4629-ae0b-d3af6e971852:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 13,
@@ -17585,6 +18522,12 @@
                 "denominator": 20
             }
         },
+        "aaccdde9-76b3-4e23-b48e-af8ba753eee2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 30,
+                "denominator": 1
+            }
+        },
         "aad0b588-b9b2-43e5-baec-f33fe986844a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 2,
@@ -17595,6 +18538,12 @@
             "odds": {
                 "numerator": 16,
                 "denominator": 25
+            }
+        },
+        "aaddcefe-6cf1-4725-85fa-fc3968f89acf:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 5
             }
         },
         "aae7277f-c2b8-4965-8099-5f8d4335a7e1:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17637,6 +18586,12 @@
             "odds": {
                 "numerator": 19,
                 "denominator": 4
+            }
+        },
+        "ac2d8420-55cf-4ad6-9629-4cff3a42827d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
             }
         },
         "ac582914-43ce-4e68-8a23-b0e2b31c12bd:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17699,6 +18654,12 @@
                 "denominator": 1
             }
         },
+        "ae0e9a65-1a72-41cb-b69c-2320449256ea:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 27,
+                "denominator": 4
+            }
+        },
         "ae59f952-6ed6-4974-a8b6-8c6eb08ad2a3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 15,
@@ -17743,8 +18704,8 @@
         },
         "affd6cbb-f0c3-48e7-b5be-8d41bfa8266f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 4
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "b00b93ee-4579-460e-ae4e-44328896541a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17789,6 +18750,12 @@
                 "denominator": 1
             }
         },
+        "b218a6ca-946a-43f5-a05c-cec6ff4814ee:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 25
+            }
+        },
         "b23fb4d2-5f40-47a9-9088-d129e2021716:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 19,
@@ -17825,6 +18792,12 @@
                 "denominator": 10
             }
         },
+        "b3f99cb7-10f4-4ad6-9596-6c6ee0605af7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 25
+            }
+        },
         "b3facc96-0e06-4228-b4a8-80e3c76ec231:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 29,
@@ -17845,13 +18818,13 @@
         },
         "b52fa23d-6544-41b5-8262-1edc877a412b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
+                "numerator": 16,
                 "denominator": 1
             }
         },
         "b5371ecb-e114-406d-b072-2e8be017e7f1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 20,
+                "numerator": 18,
                 "denominator": 1
             }
         },
@@ -17977,8 +18950,8 @@
         },
         "bb4d8599-0b06-45c6-8e8f-5f3f9497152b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
-                "denominator": 5
+                "numerator": 6,
+                "denominator": 1
             }
         },
         "bb6a697f-1e7c-48fd-9459-edd27e38d2f7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18001,8 +18974,14 @@
         },
         "bc1923ac-2221-46ff-9774-b4a952b3b26a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 125,
+                "numerator": 80,
                 "denominator": 1
+            }
+        },
+        "bc6ca2ff-c891-4eaf-871f-e39a1d129099:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 4
             }
         },
         "bc7ce939-352a-4ff7-808f-6591f2c14e44:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18023,6 +19002,12 @@
                 "denominator": 20
             }
         },
+        "bd2db08a-15af-4a45-a4d6-b242354bc956:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 25
+            }
+        },
         "bd68c986-649c-4597-a8f7-4567ad305523:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 18,
@@ -18039,6 +19024,12 @@
             "odds": {
                 "numerator": 3,
                 "denominator": 2
+            }
+        },
+        "bdae9b2a-fcf7-46c7-937d-d880b3aafbdf:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
             }
         },
         "bde45c64-f05e-4922-99fa-077464b85f07:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18069,6 +19060,12 @@
             "odds": {
                 "numerator": 150,
                 "denominator": 1
+            }
+        },
+        "bed5ff5d-36da-4d16-a20f-09d10345a9f0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 20
             }
         },
         "bee7a384-d873-4388-9c45-37700f8e0a32:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18157,8 +19154,8 @@
         },
         "c3a2ef30-964b-4938-9eca-3c1f727547ec:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "c3eb2bb1-5fd5-4e66-9400-21d140ec1798:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18173,10 +19170,22 @@
                 "denominator": 4
             }
         },
+        "c41e2cf0-e431-4b44-8a00-00ee3562b8a6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 73,
+                "denominator": 100
+            }
+        },
         "c42fd147-9a54-4415-84b1-b3276abca1ca:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 9,
                 "denominator": 1
+            }
+        },
+        "c43044cd-d94e-46f7-bc3d-5caa67049b12:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 10
             }
         },
         "c43a0565-9060-44dd-a8b6-b60ab5ee3822:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18209,6 +19218,12 @@
                 "denominator": 25
             }
         },
+        "c5bf393e-985e-47c6-a31c-c56bb885b04f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
+                "denominator": 25
+            }
+        },
         "c5c4f5d0-abb9-4fe4-bb59-8e4f9fab73bf:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 27,
@@ -18229,8 +19244,8 @@
         },
         "c6bc5d3c-5bad-48bd-abfc-637c56770b68:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 5,
-                "denominator": 4
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "c6d03096-2f00-4ac6-ba90-a06800cef9b2:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18277,7 +19292,7 @@
         },
         "c752e505-be81-4954-9dc8-fb9e727fbed0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 80,
+                "numerator": 100,
                 "denominator": 1
             }
         },
@@ -18289,14 +19304,14 @@
         },
         "c7deee08-16ba-45f6-9f0d-95745289651b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 5
             }
         },
         "c7e8cfcd-5f4f-415a-af64-ae58fbbe2330:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 4
+                "numerator": 8,
+                "denominator": 1
             }
         },
         "c80d2d59-b6c8-4b24-a011-8e8c2e520091:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18387,6 +19402,12 @@
             "odds": {
                 "numerator": 12,
                 "denominator": 25
+            }
+        },
+        "ca37079b-2d6d-4781-b05f-6c2179674c66:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 1
             }
         },
         "ca4880be-5161-4f1c-b856-8577f784822a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18509,6 +19530,12 @@
                 "denominator": 50
             }
         },
+        "ce09d377-3d7c-4fd3-b7fa-af5942a41e0d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
         "ce1a8fe1-5aae-4e8c-8f43-58cfd2850f25:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
@@ -18553,7 +19580,7 @@
         },
         "d1022220-dffe-40c6-b9b2-3b5c32a9a1a4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
+                "numerator": 30,
                 "denominator": 1
             }
         },
@@ -18685,8 +19712,8 @@
         },
         "d58879fb-3517-4bf2-bd46-b7df5f3b1a86:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 6,
-                "denominator": 1
+                "numerator": 23,
+                "denominator": 4
             }
         },
         "d58dd9a5-5035-4c66-9989-ebb4493ea6e6:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18757,8 +19784,8 @@
         },
         "d746baf1-e47e-4a94-a1c8-adcefca070ca:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
-                "denominator": 5
+                "numerator": 5,
+                "denominator": 2
             }
         },
         "d752ec83-64c3-4cc1-aea0-e941c0742de3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18799,8 +19826,8 @@
         },
         "d91eef97-322e-4b19-9f02-41976aab8317:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 2
+                "numerator": 11,
+                "denominator": 1
             }
         },
         "d961ac12-f2cb-439f-9626-a93618f4b136:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18833,6 +19860,12 @@
                 "denominator": 2
             }
         },
+        "da66c26f-a464-4090-9269-21a48165b956:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 5
+            }
+        },
         "da7b0a78-fb81-4208-a05a-87c393985bac:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 13,
@@ -18841,8 +19874,8 @@
         },
         "da803981-5e44-4f4e-ab4e-fce535f3482a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 4
+                "numerator": 22,
+                "denominator": 5
             }
         },
         "da9961ac-c78a-4f3f-a99a-0ec87bbfa1d3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19009,8 +20042,8 @@
         },
         "e13645c9-da32-40e2-81a0-543d15630436:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 24,
-                "denominator": 25
+                "numerator": 17,
+                "denominator": 10
             }
         },
         "e187ed3b-c711-45aa-972b-24163c6f3506:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19069,8 +20102,8 @@
         },
         "e38c3511-8f29-4f29-9dc8-8d9a22d055ac:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
-                "denominator": 5
+                "numerator": 4,
+                "denominator": 1
             }
         },
         "e3aa76b3-96c4-406a-877a-c17fd1596417:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19187,6 +20220,12 @@
                 "denominator": 5
             }
         },
+        "ea0ed8a3-bfe4-4b57-ab4b-9589cfff89b5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 1,
+                "denominator": 1
+            }
+        },
         "ea312bc5-834c-4749-98d4-07fa02699897:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 25,
@@ -19197,6 +20236,12 @@
             "odds": {
                 "numerator": 40,
                 "denominator": 1
+            }
+        },
+        "eaf1f558-f583-42cf-943a-dbab0d727392:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 5
             }
         },
         "eb02f24c-2030-4448-bb16-ecefb0e2df93:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19337,9 +20382,15 @@
                 "denominator": 10
             }
         },
+        "f0065b11-dbe0-4e83-ab33-5bafaf9c3c05:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 20
+            }
+        },
         "f03ee659-51d9-40d3-a18f-019e35e73607:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 700,
+                "numerator": 500,
                 "denominator": 1
             }
         },
@@ -19353,6 +20404,12 @@
             "odds": {
                 "numerator": 13,
                 "denominator": 2
+            }
+        },
+        "f0f467c3-9b00-4735-8075-ccad3f4c0d9b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 30,
+                "denominator": 1
             }
         },
         "f125db28-c0e5-464a-9a56-b6500f2c6b3c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19451,9 +20508,21 @@
                 "denominator": 1
             }
         },
+        "f5550be0-3290-4684-a7f1-e58baafede95:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 5
+            }
+        },
         "f558eb65-b1c8-43e5-b489-934221b33efc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 1,
+                "denominator": 5
+            }
+        },
+        "f5a53765-55b1-4c80-b086-fbe668b9ac1d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
                 "denominator": 5
             }
         },
@@ -19465,8 +20534,8 @@
         },
         "f5e0480d-ce27-4486-abf1-94952d2e1687:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 10
             }
         },
         "f61836ec-005f-4cc2-aa3d-95caaa88841f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19663,7 +20732,7 @@
         },
         "ff7f82fa-e9f8-4914-bb14-2be43d904219:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 200,
+                "numerator": 150,
                 "denominator": 1
             }
         },
