@@ -1,45 +1,154 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,29.5,1.16,NA,NA,Pointsbet,1947996,70715847,24,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,31.5,1.29,NA,NA,Pointsbet,1947996,70715847,25,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,33.5,1.53,NA,NA,Pointsbet,1947996,70715847,26,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,35.5,1.83,1.9,1.073,Pointsbet,1947996,70713722,13,14
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,35.5,1.83,NA,NA,Pointsbet,1947996,70715847,27,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,37.5,2.35,NA,NA,Pointsbet,1947996,70715847,28,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,39.5,3.1,NA,NA,Pointsbet,1947996,70715847,29,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,41.5,4.3,NA,NA,Pointsbet,1947996,70715847,30,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,43.5,5.75,NA,NA,Pointsbet,1947996,70715847,31,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,45.5,9,NA,NA,Pointsbet,1947996,70715847,32,NA
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Attempts,47.5,14,NA,NA,Pointsbet,1947996,70715847,33,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,25.5,1.09,NA,NA,Pointsbet,1947996,70715847,3,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,27.5,1.18,NA,NA,Pointsbet,1947996,70715847,4,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,29.5,1.36,NA,NA,Pointsbet,1947996,70715847,5,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,31.5,1.63,NA,NA,Pointsbet,1947996,70715847,6,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,33.5,1.95,1.8,1.068,Pointsbet,1947996,70713722,11,12
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,33.5,1.95,NA,NA,Pointsbet,1947996,70715847,7,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,35.5,2.5,NA,NA,Pointsbet,1947996,70715847,8,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,37.5,3.4,NA,NA,Pointsbet,1947996,70715847,9,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,39.5,4.75,NA,NA,Pointsbet,1947996,70715847,10,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,41.5,6,NA,NA,Pointsbet,1947996,70715847,11,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,43.5,9,NA,NA,Pointsbet,1947996,70715847,12,NA
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Attempts,45.5,13,NA,NA,Pointsbet,1947996,70715847,13,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,21.5,1.29,NA,NA,Pointsbet,1947973,70802220,20,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,23.5,1.5,NA,NA,Pointsbet,1947973,70802220,21,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,25.5,1.87,1.87,1.07,Pointsbet,1947973,70801848,7,8
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,25.5,1.87,NA,NA,Pointsbet,1947973,70802220,22,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,27.5,2.45,NA,NA,Pointsbet,1947973,70802220,23,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,29.5,3.3,NA,NA,Pointsbet,1947973,70802220,24,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,31.5,4.5,NA,NA,Pointsbet,1947973,70802220,25,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,33.5,6.5,NA,NA,Pointsbet,1947973,70802220,26,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,35.5,9.5,NA,NA,Pointsbet,1947973,70802220,27,NA
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Attempts,37.5,15,NA,NA,Pointsbet,1947973,70802220,28,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,23.5,1.13,NA,NA,Pointsbet,1947973,70802220,2,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,25.5,1.25,NA,NA,Pointsbet,1947973,70802220,3,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,27.5,1.42,NA,NA,Pointsbet,1947973,70802220,4,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,29.5,1.74,NA,NA,Pointsbet,1947973,70802220,5,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,30.5,1.9,1.83,1.073,Pointsbet,1947973,70801848,5,6
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,31.5,2.2,NA,NA,Pointsbet,1947973,70802220,6,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,33.5,2.9,NA,NA,Pointsbet,1947973,70802220,7,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,35.5,4,NA,NA,Pointsbet,1947973,70802220,8,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,37.5,5.5,NA,NA,Pointsbet,1947973,70802220,9,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,39.5,8,NA,NA,Pointsbet,1947973,70802220,10,NA
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Attempts,41.5,12,NA,NA,Pointsbet,1947973,70802220,11,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,29.5,1.11,NA,NA,Pointsbet,1951106,71067939,24,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,31.5,1.25,NA,NA,Pointsbet,1951106,71067939,25,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,33.5,1.48,NA,NA,Pointsbet,1951106,71067939,26,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,35.5,1.83,1.9,1.073,Pointsbet,1951106,71005497,11,12
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,35.5,1.83,NA,NA,Pointsbet,1951106,71067939,27,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,37.5,2.35,NA,NA,Pointsbet,1951106,71067939,28,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,39.5,3,NA,NA,Pointsbet,1951106,71067939,29,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,41.5,4.3,NA,NA,Pointsbet,1951106,71067939,30,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,43.5,5.75,NA,NA,Pointsbet,1951106,71067939,31,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,45.5,9,NA,NA,Pointsbet,1951106,71067939,32,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,47.5,15,NA,NA,Pointsbet,1951106,71067939,33,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,29.5,1.13,NA,NA,Pointsbet,1951106,71067939,5,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,31.5,1.27,NA,NA,Pointsbet,1951106,71067939,6,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,33.5,1.48,NA,NA,Pointsbet,1951106,71067939,7,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,35.5,1.8,1.95,1.068,Pointsbet,1951106,71005497,19,20
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,35.5,1.8,NA,NA,Pointsbet,1951106,71067939,8,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,37.5,2.35,NA,NA,Pointsbet,1951106,71067939,9,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,39.5,3.1,NA,NA,Pointsbet,1951106,71067939,10,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,41.5,4.3,NA,NA,Pointsbet,1951106,71067939,11,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,43.5,6,NA,NA,Pointsbet,1951106,71067939,12,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,45.5,9,NA,NA,Pointsbet,1951106,71067939,13,NA
+Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Attempts,47.5,14,NA,NA,Pointsbet,1951106,71067939,14,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,29.5,1.16,NA,NA,Pointsbet,1953297,71275098,5,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,31.5,1.31,NA,NA,Pointsbet,1953297,71275098,6,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,33.5,1.56,NA,NA,Pointsbet,1953297,71275098,7,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,35.5,1.9,1.83,1.073,Pointsbet,1953297,71203234,5,6
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,35.5,1.9,NA,NA,Pointsbet,1953297,71275098,8,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,37.5,2.5,NA,NA,Pointsbet,1953297,71275098,9,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,39.5,3.4,NA,NA,Pointsbet,1953297,71275098,10,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,41.5,4.75,NA,NA,Pointsbet,1953297,71275098,11,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,43.5,6.5,NA,NA,Pointsbet,1953297,71275098,12,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,45.5,11,NA,NA,Pointsbet,1953297,71275098,13,NA
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Attempts,47.5,16,NA,NA,Pointsbet,1953297,71275098,14,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,21.5,1.11,NA,NA,Pointsbet,1953297,71275098,20,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,23.5,1.24,NA,NA,Pointsbet,1953297,71275098,21,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,25.5,1.4,NA,NA,Pointsbet,1953297,71275098,22,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,27.5,1.74,NA,NA,Pointsbet,1953297,71275098,23,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,28.5,1.87,1.87,1.07,Pointsbet,1953297,71203234,7,8
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,29.5,2.1,NA,NA,Pointsbet,1953297,71275098,24,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,31.5,2.75,NA,NA,Pointsbet,1953297,71275098,25,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,33.5,3.8,NA,NA,Pointsbet,1953297,71275098,26,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,35.5,5.25,NA,NA,Pointsbet,1953297,71275098,27,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,37.5,7.5,NA,NA,Pointsbet,1953297,71275098,28,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,39.5,12,NA,NA,Pointsbet,1953297,71275098,29,NA
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Attempts,41.5,19,NA,NA,Pointsbet,1953297,71275098,30,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,23.5,1.09,NA,NA,Pointsbet,1953416,71290111,2,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,25.5,1.22,NA,NA,Pointsbet,1953416,71290111,3,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,27.5,1.4,NA,NA,Pointsbet,1953416,71290111,4,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,29.5,1.74,NA,NA,Pointsbet,1953416,71290111,5,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,30.5,1.9,1.83,1.073,Pointsbet,1953416,71289713,5,6
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,31.5,2.2,NA,NA,Pointsbet,1953416,71290111,6,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,33.5,2.9,NA,NA,Pointsbet,1953416,71290111,7,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,35.5,4.1,NA,NA,Pointsbet,1953416,71290111,8,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,37.5,5.5,NA,NA,Pointsbet,1953416,71290111,9,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,39.5,8,NA,NA,Pointsbet,1953416,71290111,10,NA
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Attempts,41.5,13,NA,NA,Pointsbet,1953416,71290111,11,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,23.5,1.11,NA,NA,Pointsbet,1953416,71290111,21,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,25.5,1.27,NA,NA,Pointsbet,1953416,71290111,22,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,27.5,1.53,NA,NA,Pointsbet,1953416,71290111,23,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,29.5,1.87,1.87,1.07,Pointsbet,1953416,71289713,11,12
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,29.5,1.87,NA,NA,Pointsbet,1953416,71290111,24,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,31.5,2.45,NA,NA,Pointsbet,1953416,71290111,25,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,33.5,3.5,NA,NA,Pointsbet,1953416,71290111,26,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,35.5,5,NA,NA,Pointsbet,1953416,71290111,27,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,37.5,7,NA,NA,Pointsbet,1953416,71290111,28,NA
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Attempts,39.5,11.5,NA,NA,Pointsbet,1953416,71290111,29,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,27.5,1.13,NA,NA,Pointsbet,1953462,71228177,23,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,29.5,1.27,NA,NA,Pointsbet,1953462,71228177,24,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,31.5,1.48,NA,NA,Pointsbet,1953462,71228177,25,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,33.5,1.77,NA,NA,Pointsbet,1953462,71228177,26,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,34.5,1.95,1.8,1.068,Pointsbet,1953462,71221158,3,4
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,35.5,2.2,NA,NA,Pointsbet,1953462,71228177,27,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,37.5,2.85,NA,NA,Pointsbet,1953462,71228177,28,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,39.5,3.6,NA,NA,Pointsbet,1953462,71228177,29,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,41.5,5,NA,NA,Pointsbet,1953462,71228177,30,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,43.5,7,NA,NA,Pointsbet,1953462,71228177,31,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,45.5,11,NA,NA,Pointsbet,1953462,71228177,32,NA
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Attempts,47.5,15,NA,NA,Pointsbet,1953462,71228177,33,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,25.5,1.09,NA,NA,Pointsbet,1953462,71228177,3,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,27.5,1.17,NA,NA,Pointsbet,1953462,71228177,4,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,29.5,1.33,NA,NA,Pointsbet,1953462,71228177,5,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,31.5,1.59,NA,NA,Pointsbet,1953462,71228177,6,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,33.5,1.95,1.8,1.068,Pointsbet,1953462,71221158,5,6
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,33.5,1.95,NA,NA,Pointsbet,1953462,71228177,7,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,35.5,2.6,NA,NA,Pointsbet,1953462,71228177,8,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,37.5,3.5,NA,NA,Pointsbet,1953462,71228177,9,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,39.5,4.75,NA,NA,Pointsbet,1953462,71228177,10,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,41.5,7,NA,NA,Pointsbet,1953462,71228177,11,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,43.5,11,NA,NA,Pointsbet,1953462,71228177,12,NA
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Attempts,45.5,18,NA,NA,Pointsbet,1953462,71228177,13,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,25.5,1.09,NA,NA,Pointsbet,1953146,71203563,22,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,27.5,1.17,NA,NA,Pointsbet,1953146,71203563,23,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,29.5,1.33,NA,NA,Pointsbet,1953146,71203563,24,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,31.5,1.57,NA,NA,Pointsbet,1953146,71203563,25,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,33.5,1.95,1.8,1.068,Pointsbet,1953146,71188173,15,16
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,33.5,1.95,NA,NA,Pointsbet,1953146,71203563,26,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,35.5,2.5,NA,NA,Pointsbet,1953146,71203563,27,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,37.5,3.4,NA,NA,Pointsbet,1953146,71203563,28,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,39.5,4.5,NA,NA,Pointsbet,1953146,71203563,29,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,41.5,6,NA,NA,Pointsbet,1953146,71203563,30,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,43.5,9,NA,NA,Pointsbet,1953146,71203563,31,NA
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Attempts,45.5,15,NA,NA,Pointsbet,1953146,71203563,32,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,23.5,1.13,NA,NA,Pointsbet,1953146,71203563,2,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,25.5,1.29,NA,NA,Pointsbet,1953146,71203563,3,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,27.5,1.56,NA,NA,Pointsbet,1953146,71203563,4,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,29.5,1.9,1.83,1.073,Pointsbet,1953146,71188173,11,12
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,29.5,1.9,NA,NA,Pointsbet,1953146,71203563,5,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,31.5,2.5,NA,NA,Pointsbet,1953146,71203563,6,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,33.5,3.4,NA,NA,Pointsbet,1953146,71203563,7,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,35.5,5.25,NA,NA,Pointsbet,1953146,71203563,8,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,37.5,7,NA,NA,Pointsbet,1953146,71203563,9,NA
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Attempts,39.5,11.5,NA,NA,Pointsbet,1953146,71203563,10,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,21.5,1.17,NA,NA,Pointsbet,1953300,71281891,1,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,23.5,1.36,NA,NA,Pointsbet,1953300,71281891,2,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,25.5,1.63,NA,NA,Pointsbet,1953300,71281891,3,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,26.5,1.83,1.9,1.073,Pointsbet,1953300,71278571,13,14
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,27.5,2.1,NA,NA,Pointsbet,1953300,71281891,4,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,29.5,2.85,NA,NA,Pointsbet,1953300,71281891,5,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,31.5,4.1,NA,NA,Pointsbet,1953300,71281891,6,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,33.5,6,NA,NA,Pointsbet,1953300,71281891,7,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,35.5,9.5,NA,NA,Pointsbet,1953300,71281891,8,NA
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Attempts,37.5,15,NA,NA,Pointsbet,1953300,71281891,9,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,21.5,1.25,NA,NA,Pointsbet,1953300,71281891,20,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,23.5,1.5,NA,NA,Pointsbet,1953300,71281891,21,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,25.5,1.87,NA,NA,Pointsbet,1953300,71281891,22,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,26.5,2.15,1.69,1.057,Pointsbet,1953300,71278571,15,16
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,27.5,2.45,NA,NA,Pointsbet,1953300,71281891,23,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,29.5,3.4,NA,NA,Pointsbet,1953300,71281891,24,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,31.5,4.75,NA,NA,Pointsbet,1953300,71281891,25,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,33.5,7,NA,NA,Pointsbet,1953300,71281891,26,NA
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Attempts,35.5,11.5,NA,NA,Pointsbet,1953300,71281891,27,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,27.5,1.13,NA,NA,Pointsbet,1953524,71285551,23,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,29.5,1.27,NA,NA,Pointsbet,1953524,71285551,24,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,31.5,1.42,NA,NA,Pointsbet,1953524,71285551,25,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,33.5,1.71,NA,NA,Pointsbet,1953524,71285551,26,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,34.5,1.87,1.87,1.07,Pointsbet,1953524,71254612,3,4
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,35.5,2.1,NA,NA,Pointsbet,1953524,71285551,27,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,37.5,2.75,NA,NA,Pointsbet,1953524,71285551,28,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,39.5,3.5,NA,NA,Pointsbet,1953524,71285551,29,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,41.5,5,NA,NA,Pointsbet,1953524,71285551,30,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,43.5,6.5,NA,NA,Pointsbet,1953524,71285551,31,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,45.5,10,NA,NA,Pointsbet,1953524,71285551,32,NA
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Attempts,47.5,15,NA,NA,Pointsbet,1953524,71285551,33,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,21.5,1.16,NA,NA,Pointsbet,1953524,71285551,1,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,23.5,1.33,NA,NA,Pointsbet,1953524,71285551,2,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,25.5,1.63,NA,NA,Pointsbet,1953524,71285551,3,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,27.5,2,1.77,1.065,Pointsbet,1953524,71254612,7,8
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,27.5,2,NA,NA,Pointsbet,1953524,71285551,4,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,29.5,2.6,NA,NA,Pointsbet,1953524,71285551,5,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,31.5,3.6,NA,NA,Pointsbet,1953524,71285551,6,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,33.5,5.25,NA,NA,Pointsbet,1953524,71285551,7,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,35.5,7,NA,NA,Pointsbet,1953524,71285551,8,NA
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Attempts,37.5,11.5,NA,NA,Pointsbet,1953524,71285551,9,NA

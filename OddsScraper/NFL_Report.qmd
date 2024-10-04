@@ -427,6 +427,55 @@ if (nrow(receptions) > 0) {
 
 ## Arbs
 
+
+### Touchdowns
+
+```{r}
+#| column: screen
+# Get all touchdowns over data
+touchdowns_overs <-
+  processed_odds_data$player_touchdowns_data |>
+  mutate(opposition_team = NA) |> 
+  select(-under_price, -player_team, -opposition_team) |>
+  rename(over_agency = agency, over_line = line)
+
+# Get all touchdowns under data
+touchdowns_unders <-
+  processed_odds_data$player_touchdowns_data |>
+  filter(!is.na(under_price)) |> 
+  mutate(opposition_team = NA) |>
+  select(-over_price, -player_team, -opposition_team) |>
+  rename(under_agency = agency, under_line = line)
+
+# Combine
+touchdowns <-
+  touchdowns_overs |> 
+  inner_join(touchdowns_unders, relationship = "many-to-many") |> 
+  select(match, player_name, market, contains("over"), contains("under")) |> 
+  filter(over_agency != under_agency) |>
+  filter(under_line == over_line) |> 
+  mutate(margin = 100*((1 / over_price + 1 / under_price) - 1)) |> 
+  mutate(margin = round(margin, 2)) |>
+  filter(margin <= 0) |> 
+  arrange(margin)
+
+if (nrow(touchdowns) > 0) {
+  datatable(
+    touchdowns,
+    filter = 'top',
+    rownames = FALSE,
+    options = list(
+      pageLength = 10,
+      autoWidth = FALSE,
+      columnDefs = list(list(width = '100px', targets = "_all"))
+    )
+  )
+} else {
+  cat("No arbitrage opportunities found")
+}
+
+```
+
 ### Passing Yards
 
 ```{r}

@@ -19,6 +19,7 @@ run_scraping("OddsScraper/scrape_TAB.R")
 run_scraping("OddsScraper/scrape_Sportsbet.R")
 run_scraping("OddsScraper/scrape_pointsbet.R")
 run_scraping("OddsScraper/Neds/scrape_neds.R")
+run_scraping("OddsScraper/Pinnacle/tidy_pinnacle.R")
 
 #===============================================================================
 # Read in all H2H
@@ -257,3 +258,29 @@ receptions_data <-
 
 # Write out
 write_rds(receptions_data, "Data/processed_odds/receptions_data.rds")
+
+#===============================================================================
+# Touchdowns
+#===============================================================================
+
+# Read in all touchdowns data
+list_of_touchdowns_files <- list.files("Data/scraped_odds/", full.names = TRUE, pattern = "touchdowns")
+
+# Read in all touchdowns data
+list_of_touchdowns_data <-
+  map(list_of_touchdowns_files, read_csv)
+
+# Combine
+touchdowns_data <-
+  list_of_touchdowns_data |> 
+  keep(~nrow(.x) > 0) |>
+  bind_rows() |> 
+  filter(market != "Passing Touchdowns") |>
+  arrange(match) |> 
+  select(match:agency, under_price) |> 
+  arrange(match, player_name, line, desc(over_price)) |> 
+  relocate(under_price, .after = over_price) |>
+  select(-home_team, -away_team, -opposition_team)
+
+# Write out
+write_rds(touchdowns_data, "Data/processed_odds/player_touchdowns_data.rds")

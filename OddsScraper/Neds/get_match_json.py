@@ -6,29 +6,17 @@ import os
 
 async def main():
     # Load URLs from the CSV file
-<<<<<<< HEAD
-    match_urls = pd.read_csv("OddsScraper\\EPL\\Neds\\neds_epl_match_urls.csv")
-=======
     match_urls = pd.read_csv("OddsScraper\\Neds\\neds_match_urls.csv")
->>>>>>> a6f079d44f07a234764e959ac4df4744d4573c6b
     if "url" not in match_urls.columns:
         raise ValueError("CSV file must contain 'url' column")
     urls = match_urls["url"].tolist()
 
     # Ensure the directory exists
-<<<<<<< HEAD
-    output_dir = "OddsScraper\\EPL\\Neds\\"
-    os.makedirs(output_dir, exist_ok=True)
-
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-=======
     output_dir = "OddsScraper\\Neds\\"
     os.makedirs(output_dir, exist_ok=True)
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)
->>>>>>> a6f079d44f07a234764e959ac4df4744d4573c6b
+        browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
 
         # Counter to generate unique file names

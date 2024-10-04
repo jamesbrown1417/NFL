@@ -1,38 +1,100 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency
-Atlanta Falcons v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,240.5,1.88,1.88,1.064,Sportsbet
-Atlanta Falcons v Tampa Bay Buccaneers,Kirk Cousins,Atlanta Falcons,Passing Yards,226.5,1.88,1.88,1.064,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,149.5,1.03,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,174.5,1.08,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,199.5,1.18,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,224.5,1.39,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,249.5,1.79,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,252.5,1.88,1.88,1.064,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,274.5,2.45,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,299.5,3.7,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,324.5,6,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Geno Smith,Seattle Seahawks,Passing Yards,349.5,10,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,149.5,1.03,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,174.5,1.08,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,199.5,1.21,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,224.5,1.48,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,244.5,1.88,1.88,1.064,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,249.5,1.99,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,274.5,2.85,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,299.5,4.5,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,324.5,7.5,NA,NA,Sportsbet
-Detroit Lions v Seattle Seahawks,Jared Goff,Detroit Lions,Passing Yards,349.5,13,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,149.5,1.44,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,170.5,1.88,1.88,1.064,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,174.5,1.95,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,199.5,2.95,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,224.5,4.8,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,249.5,8.25,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Tyler Huntley,Miami Dolphins,Passing Yards,274.5,15,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,149.5,1.21,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,174.5,1.48,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,194.5,1.88,1.88,1.064,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,199.5,1.96,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,224.5,2.9,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,249.5,4.75,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,274.5,8,NA,NA,Sportsbet
-Miami Dolphins v Tennessee Titans,Will Levis,Tennessee Titans,Passing Yards,299.5,15,NA,NA,Sportsbet
+Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Passing Yards,217.5,1.88,1.88,1.064,Sportsbet
+Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Passing Yards,216.5,1.88,1.88,1.064,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,149.5,1.04,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,174.5,1.09,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,199.5,1.2,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,224.5,1.42,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,249.5,1.79,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,252.5,1.88,1.88,1.064,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,274.5,2.5,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,299.5,3.7,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,324.5,6,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Passing Yards,349.5,10,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,149.5,1.13,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,174.5,1.34,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,199.5,1.74,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,204.5,1.88,1.88,1.064,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,224.5,2.4,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,249.5,3.7,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,274.5,6,NA,NA,Sportsbet
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Passing Yards,299.5,10,NA,NA,Sportsbet
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Passing Yards,191.5,1.88,1.88,1.064,Sportsbet
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Passing Yards,193.5,1.88,1.88,1.064,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,149.5,1.04,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,174.5,1.09,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,199.5,1.19,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,224.5,1.41,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,249.5,1.79,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,253.5,1.88,1.88,1.064,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,274.5,2.4,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,299.5,3.6,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,324.5,5.8,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Passing Yards,349.5,9.5,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,149.5,1.06,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,174.5,1.16,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,199.5,1.36,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,224.5,1.73,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,230.5,1.88,1.88,1.064,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,249.5,2.35,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,274.5,3.6,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,299.5,5.8,NA,NA,Sportsbet
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,324.5,9.5,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,149.5,1.03,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,174.5,1.07,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,199.5,1.16,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,224.5,1.34,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,249.5,1.69,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,258.5,1.88,1.88,1.064,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,274.5,2.25,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,299.5,3.4,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,324.5,5.4,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Passing Yards,349.5,9,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,149.5,1.04,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,174.5,1.11,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,199.5,1.29,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,224.5,1.62,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,235.5,1.88,1.88,1.064,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,249.5,2.2,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,274.5,3.35,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,299.5,5.4,NA,NA,Sportsbet
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Passing Yards,324.5,9.25,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,149.5,1.09,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,174.5,1.2,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,199.5,1.41,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,224.5,1.82,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,225.5,1.88,1.88,1.064,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,249.5,2.5,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,274.5,3.9,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,299.5,6,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Passing Yards,324.5,10,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,149.5,1.12,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,174.5,1.26,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,199.5,1.53,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,217.5,1.88,1.88,1.064,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,224.5,2,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,249.5,2.9,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,274.5,4.7,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,299.5,7.75,NA,NA,Sportsbet
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Passing Yards,324.5,14,NA,NA,Sportsbet
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Passing Yards,158.5,1.88,1.88,1.064,Sportsbet
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Passing Yards,160.5,1.88,1.88,1.064,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,149.5,1.05,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,174.5,1.11,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,199.5,1.26,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,224.5,1.55,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,241.5,1.88,1.88,1.064,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,249.5,2.03,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,274.5,2.85,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,299.5,4.5,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,324.5,7.5,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Passing Yards,349.5,13,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,149.5,1.29,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,174.5,1.62,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,186.5,1.88,1.88,1.064,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,199.5,2.2,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,224.5,3.4,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,249.5,5.6,NA,NA,Sportsbet
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Passing Yards,274.5,10,NA,NA,Sportsbet
+San Francisco 49ers v Arizona Cardinals,Brock Purdy,San Francisco 49ers,Passing Yards,263.5,1.88,1.88,1.064,Sportsbet
+San Francisco 49ers v Arizona Cardinals,Kyler Murray,Arizona Cardinals,Passing Yards,223.5,1.88,1.88,1.064,Sportsbet

@@ -287,7 +287,7 @@ pointsbet_h2h_main <- function() {
            away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team)) |>
     mutate(player_name = fix_player_names(outcome)) |> 
-    mutate(market = "Touchdowns") |>
+    mutate(market = "Player Touchdowns") |>
     select(
       match,
       home_team,
