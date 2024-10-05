@@ -1,639 +1,836 @@
 match,player_name,player_team,market,line,over_price,agency,EventKey,MarketKey,OutcomeKey
-Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Player Touchdowns,0.5,15,Pointsbet,1953296,71200173,28
-Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Player Touchdowns,1.5,301,Pointsbet,1953296,71200175,26
+Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Player Touchdowns,0.5,20,Pointsbet,1953296,71200173,28
+Chicago Bears v Carolina Panthers,Andy Dalton,Carolina Panthers,Player Touchdowns,1.5,501,Pointsbet,1953296,71200175,26
 Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Player Touchdowns,0.5,4.2,Pointsbet,1953296,71200173,13
 Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Player Touchdowns,1.5,21,Pointsbet,1953296,71200175,13
-Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Player Touchdowns,2.5,351,Pointsbet,1953296,71200176,13
+Chicago Bears v Carolina Panthers,Caleb Williams,Chicago Bears,Player Touchdowns,2.5,126,Pointsbet,1953296,71200176,13
 Chicago Bears v Carolina Panthers,Carolina Panthers D/St,NA,Player Touchdowns,0.5,5.75,Pointsbet,1953296,71200173,27
 Chicago Bears v Carolina Panthers,Chicago Bears D/St,NA,Player Touchdowns,0.5,5,Pointsbet,1953296,71200173,14
-Chicago Bears v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Player Touchdowns,0.5,2.4,Pointsbet,1953296,71200173,21
-Chicago Bears v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Player Touchdowns,1.5,9.5,Pointsbet,1953296,71200175,20
-Chicago Bears v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Player Touchdowns,2.5,51,Pointsbet,1953296,71200176,20
+Chicago Bears v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Player Touchdowns,0.5,2.15,Pointsbet,1953296,71200173,21
+Chicago Bears v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Player Touchdowns,1.5,7.5,Pointsbet,1953296,71200175,20
+Chicago Bears v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Player Touchdowns,2.5,29,Pointsbet,1953296,71200176,20
 Chicago Bears v Carolina Panthers,Cole Kmet,Chicago Bears,Player Touchdowns,0.5,4.4,Pointsbet,1953296,71200173,7
-Chicago Bears v Carolina Panthers,Cole Kmet,Chicago Bears,Player Touchdowns,1.5,26,Pointsbet,1953296,71200175,7
-Chicago Bears v Carolina Panthers,Cole Kmet,Chicago Bears,Player Touchdowns,2.5,351,Pointsbet,1953296,71200176,7
-Chicago Bears v Carolina Panthers,D'andre Swift,NA,Player Touchdowns,0.5,2.25,Pointsbet,1953296,71200173,6
-Chicago Bears v Carolina Panthers,D'andre Swift,NA,Player Touchdowns,1.5,9,Pointsbet,1953296,71200175,6
-Chicago Bears v Carolina Panthers,D'andre Swift,NA,Player Touchdowns,2.5,51,Pointsbet,1953296,71200176,6
-Chicago Bears v Carolina Panthers,D.J. Moore,NA,Player Touchdowns,0.5,2.7,Pointsbet,1953296,71200173,4
-Chicago Bears v Carolina Panthers,D.J. Moore,NA,Player Touchdowns,1.5,11.5,Pointsbet,1953296,71200175,4
-Chicago Bears v Carolina Panthers,D.J. Moore,NA,Player Touchdowns,2.5,81,Pointsbet,1953296,71200176,4
-Chicago Bears v Carolina Panthers,David Moore,Carolina Panthers,Player Touchdowns,0.5,10,Pointsbet,1953296,71200173,16
-Chicago Bears v Carolina Panthers,David Moore,Carolina Panthers,Player Touchdowns,1.5,81,Pointsbet,1953296,71200175,15
-Chicago Bears v Carolina Panthers,David Moore,Carolina Panthers,Player Touchdowns,2.5,501,Pointsbet,1953296,71200176,15
-Chicago Bears v Carolina Panthers,Deandre Carter,NA,Player Touchdowns,0.5,12,Pointsbet,1953296,71200173,2
-Chicago Bears v Carolina Panthers,Deandre Carter,NA,Player Touchdowns,1.5,101,Pointsbet,1953296,71200175,2
+Chicago Bears v Carolina Panthers,Cole Kmet,Chicago Bears,Player Touchdowns,1.5,23,Pointsbet,1953296,71200175,7
+Chicago Bears v Carolina Panthers,Cole Kmet,Chicago Bears,Player Touchdowns,2.5,401,Pointsbet,1953296,71200176,7
+Chicago Bears v Carolina Panthers,D'andre Swift,NA,Player Touchdowns,0.5,2.4,Pointsbet,1953296,71200173,6
+Chicago Bears v Carolina Panthers,D'andre Swift,NA,Player Touchdowns,1.5,10,Pointsbet,1953296,71200175,6
+Chicago Bears v Carolina Panthers,D'andre Swift,NA,Player Touchdowns,2.5,61,Pointsbet,1953296,71200176,6
+Chicago Bears v Carolina Panthers,D.J. Moore,NA,Player Touchdowns,0.5,3,Pointsbet,1953296,71200173,4
+Chicago Bears v Carolina Panthers,D.J. Moore,NA,Player Touchdowns,1.5,13,Pointsbet,1953296,71200175,4
+Chicago Bears v Carolina Panthers,D.J. Moore,NA,Player Touchdowns,2.5,91,Pointsbet,1953296,71200176,4
+Chicago Bears v Carolina Panthers,David Moore,Carolina Panthers,Player Touchdowns,0.5,9.5,Pointsbet,1953296,71200173,16
+Chicago Bears v Carolina Panthers,David Moore,Carolina Panthers,Player Touchdowns,1.5,91,Pointsbet,1953296,71200175,15
+Chicago Bears v Carolina Panthers,David Moore,Carolina Panthers,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,15
+Chicago Bears v Carolina Panthers,Deandre Carter,NA,Player Touchdowns,0.5,15,Pointsbet,1953296,71200173,2
+Chicago Bears v Carolina Panthers,Deandre Carter,NA,Player Touchdowns,1.5,126,Pointsbet,1953296,71200175,2
 Chicago Bears v Carolina Panthers,Diontae Johnson,Carolina Panthers,Player Touchdowns,0.5,2.85,Pointsbet,1953296,71200173,18
 Chicago Bears v Carolina Panthers,Diontae Johnson,Carolina Panthers,Player Touchdowns,1.5,12,Pointsbet,1953296,71200175,17
-Chicago Bears v Carolina Panthers,Diontae Johnson,Carolina Panthers,Player Touchdowns,2.5,81,Pointsbet,1953296,71200176,17
-Chicago Bears v Carolina Panthers,Feleipe Franks,Carolina Panthers,Player Touchdowns,0.5,10,Pointsbet,1953296,71200173,20
-Chicago Bears v Carolina Panthers,Feleipe Franks,Carolina Panthers,Player Touchdowns,1.5,91,Pointsbet,1953296,71200175,19
-Chicago Bears v Carolina Panthers,Feleipe Franks,Carolina Panthers,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,19
+Chicago Bears v Carolina Panthers,Diontae Johnson,Carolina Panthers,Player Touchdowns,2.5,91,Pointsbet,1953296,71200176,17
+Chicago Bears v Carolina Panthers,Feleipe Franks,Carolina Panthers,Player Touchdowns,0.5,9.5,Pointsbet,1953296,71200173,20
+Chicago Bears v Carolina Panthers,Feleipe Franks,Carolina Panthers,Player Touchdowns,1.5,71,Pointsbet,1953296,71200175,19
 Chicago Bears v Carolina Panthers,Gerald Everett,Chicago Bears,Player Touchdowns,0.5,10,Pointsbet,1953296,71200173,5
-Chicago Bears v Carolina Panthers,Gerald Everett,Chicago Bears,Player Touchdowns,1.5,71,Pointsbet,1953296,71200175,5
-Chicago Bears v Carolina Panthers,Gerald Everett,Chicago Bears,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,5
+Chicago Bears v Carolina Panthers,Gerald Everett,Chicago Bears,Player Touchdowns,1.5,81,Pointsbet,1953296,71200175,5
+Chicago Bears v Carolina Panthers,Gerald Everett,Chicago Bears,Player Touchdowns,2.5,501,Pointsbet,1953296,71200176,5
 Chicago Bears v Carolina Panthers,Ja'tavion Sanders,NA,Player Touchdowns,0.5,11,Pointsbet,1953296,71200173,25
-Chicago Bears v Carolina Panthers,Ja'tavion Sanders,NA,Player Touchdowns,1.5,201,Pointsbet,1953296,71200175,24
-Chicago Bears v Carolina Panthers,Jalen Coker,Carolina Panthers,Player Touchdowns,0.5,9,Pointsbet,1953296,71200173,26
-Chicago Bears v Carolina Panthers,Jalen Coker,Carolina Panthers,Player Touchdowns,1.5,71,Pointsbet,1953296,71200175,25
-Chicago Bears v Carolina Panthers,Jonathan Mingo,Carolina Panthers,Player Touchdowns,0.5,4.75,Pointsbet,1953296,71200173,23
-Chicago Bears v Carolina Panthers,Jonathan Mingo,Carolina Panthers,Player Touchdowns,1.5,29,Pointsbet,1953296,71200175,22
-Chicago Bears v Carolina Panthers,Jonathan Mingo,Carolina Panthers,Player Touchdowns,2.5,401,Pointsbet,1953296,71200176,22
-Chicago Bears v Carolina Panthers,Keenan Allen,Chicago Bears,Player Touchdowns,0.5,2.9,Pointsbet,1953296,71200173,1
-Chicago Bears v Carolina Panthers,Keenan Allen,Chicago Bears,Player Touchdowns,1.5,14,Pointsbet,1953296,71200175,1
-Chicago Bears v Carolina Panthers,Keenan Allen,Chicago Bears,Player Touchdowns,2.5,101,Pointsbet,1953296,71200176,1
+Chicago Bears v Carolina Panthers,Ja'tavion Sanders,NA,Player Touchdowns,1.5,101,Pointsbet,1953296,71200175,24
+Chicago Bears v Carolina Panthers,Ja'tavion Sanders,NA,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,24
+Chicago Bears v Carolina Panthers,Jalen Coker,Carolina Panthers,Player Touchdowns,0.5,9.5,Pointsbet,1953296,71200173,26
+Chicago Bears v Carolina Panthers,Jalen Coker,Carolina Panthers,Player Touchdowns,1.5,81,Pointsbet,1953296,71200175,25
+Chicago Bears v Carolina Panthers,Jalen Coker,Carolina Panthers,Player Touchdowns,2.5,501,Pointsbet,1953296,71200176,25
+Chicago Bears v Carolina Panthers,Jonathan Mingo,Carolina Panthers,Player Touchdowns,0.5,4.4,Pointsbet,1953296,71200173,23
+Chicago Bears v Carolina Panthers,Jonathan Mingo,Carolina Panthers,Player Touchdowns,1.5,26,Pointsbet,1953296,71200175,22
+Chicago Bears v Carolina Panthers,Jonathan Mingo,Carolina Panthers,Player Touchdowns,2.5,351,Pointsbet,1953296,71200176,22
+Chicago Bears v Carolina Panthers,Keenan Allen,Chicago Bears,Player Touchdowns,0.5,3.1,Pointsbet,1953296,71200173,1
+Chicago Bears v Carolina Panthers,Keenan Allen,Chicago Bears,Player Touchdowns,1.5,15,Pointsbet,1953296,71200175,1
+Chicago Bears v Carolina Panthers,Keenan Allen,Chicago Bears,Player Touchdowns,2.5,91,Pointsbet,1953296,71200176,1
 Chicago Bears v Carolina Panthers,Khalil Herbert,Chicago Bears,Player Touchdowns,0.5,5.75,Pointsbet,1953296,71200173,8
 Chicago Bears v Carolina Panthers,Khalil Herbert,Chicago Bears,Player Touchdowns,1.5,46,Pointsbet,1953296,71200175,8
-Chicago Bears v Carolina Panthers,Khalil Herbert,Chicago Bears,Player Touchdowns,2.5,501,Pointsbet,1953296,71200176,8
+Chicago Bears v Carolina Panthers,Khalil Herbert,Chicago Bears,Player Touchdowns,2.5,401,Pointsbet,1953296,71200176,8
 Chicago Bears v Carolina Panthers,Khari Blasingame,Chicago Bears,Player Touchdowns,0.5,6,Pointsbet,1953296,71200173,29
-Chicago Bears v Carolina Panthers,Khari Blasingame,Chicago Bears,Player Touchdowns,1.5,51,Pointsbet,1953296,71200175,27
-Chicago Bears v Carolina Panthers,Khari Blasingame,Chicago Bears,Player Touchdowns,2.5,501,Pointsbet,1953296,71200176,27
-Chicago Bears v Carolina Panthers,Marcedes Lewis,Chicago Bears,Player Touchdowns,0.5,26,Pointsbet,1953296,71200173,3
+Chicago Bears v Carolina Panthers,Khari Blasingame,Chicago Bears,Player Touchdowns,1.5,46,Pointsbet,1953296,71200175,27
+Chicago Bears v Carolina Panthers,Khari Blasingame,Chicago Bears,Player Touchdowns,2.5,601,Pointsbet,1953296,71200176,27
+Chicago Bears v Carolina Panthers,Marcedes Lewis,Chicago Bears,Player Touchdowns,0.5,17,Pointsbet,1953296,71200173,3
 Chicago Bears v Carolina Panthers,Marcedes Lewis,Chicago Bears,Player Touchdowns,1.5,351,Pointsbet,1953296,71200175,3
 Chicago Bears v Carolina Panthers,Mike Boone,Carolina Panthers,Player Touchdowns,0.5,23,Pointsbet,1953296,71200173,15
-Chicago Bears v Carolina Panthers,Mike Boone,Carolina Panthers,Player Touchdowns,1.5,501,Pointsbet,1953296,71200175,14
-Chicago Bears v Carolina Panthers,Miles Sanders,Carolina Panthers,Player Touchdowns,0.5,6.5,Pointsbet,1953296,71200173,17
+Chicago Bears v Carolina Panthers,Mike Boone,Carolina Panthers,Player Touchdowns,1.5,351,Pointsbet,1953296,71200175,14
+Chicago Bears v Carolina Panthers,Miles Sanders,Carolina Panthers,Player Touchdowns,0.5,6,Pointsbet,1953296,71200173,17
 Chicago Bears v Carolina Panthers,Miles Sanders,Carolina Panthers,Player Touchdowns,1.5,51,Pointsbet,1953296,71200175,16
-Chicago Bears v Carolina Panthers,Miles Sanders,Carolina Panthers,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,16
+Chicago Bears v Carolina Panthers,Miles Sanders,Carolina Panthers,Player Touchdowns,2.5,601,Pointsbet,1953296,71200176,16
 Chicago Bears v Carolina Panthers,Raheem Blackshear,Carolina Panthers,Player Touchdowns,0.5,26,Pointsbet,1953296,71200173,22
-Chicago Bears v Carolina Panthers,Raheem Blackshear,Carolina Panthers,Player Touchdowns,1.5,501,Pointsbet,1953296,71200175,21
+Chicago Bears v Carolina Panthers,Raheem Blackshear,Carolina Panthers,Player Touchdowns,1.5,401,Pointsbet,1953296,71200175,21
 Chicago Bears v Carolina Panthers,Rome Odunze,Chicago Bears,Player Touchdowns,0.5,4,Pointsbet,1953296,71200173,12
-Chicago Bears v Carolina Panthers,Rome Odunze,Chicago Bears,Player Touchdowns,1.5,19,Pointsbet,1953296,71200175,12
-Chicago Bears v Carolina Panthers,Rome Odunze,Chicago Bears,Player Touchdowns,2.5,201,Pointsbet,1953296,71200176,12
-Chicago Bears v Carolina Panthers,Roschon Johnson,Chicago Bears,Player Touchdowns,0.5,3.25,Pointsbet,1953296,71200173,11
-Chicago Bears v Carolina Panthers,Roschon Johnson,Chicago Bears,Player Touchdowns,1.5,16,Pointsbet,1953296,71200175,11
-Chicago Bears v Carolina Panthers,Roschon Johnson,Chicago Bears,Player Touchdowns,2.5,126,Pointsbet,1953296,71200176,11
-Chicago Bears v Carolina Panthers,Tommy Tremble,Carolina Panthers,Player Touchdowns,0.5,6.5,Pointsbet,1953296,71200173,19
-Chicago Bears v Carolina Panthers,Tommy Tremble,Carolina Panthers,Player Touchdowns,1.5,61,Pointsbet,1953296,71200175,18
-Chicago Bears v Carolina Panthers,Tyler Scott,Chicago Bears,Player Touchdowns,0.5,11,Pointsbet,1953296,71200173,10
-Chicago Bears v Carolina Panthers,Tyler Scott,Chicago Bears,Player Touchdowns,1.5,81,Pointsbet,1953296,71200175,10
-Chicago Bears v Carolina Panthers,Tyler Scott,Chicago Bears,Player Touchdowns,2.5,501,Pointsbet,1953296,71200176,10
-Chicago Bears v Carolina Panthers,Velus Jones Jr.,Chicago Bears,Player Touchdowns,0.5,11,Pointsbet,1953296,71200173,9
-Chicago Bears v Carolina Panthers,Velus Jones Jr.,Chicago Bears,Player Touchdowns,1.5,101,Pointsbet,1953296,71200175,9
-Chicago Bears v Carolina Panthers,Velus Jones Jr.,Chicago Bears,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,9
-Chicago Bears v Carolina Panthers,Xavier Legette,Carolina Panthers,Player Touchdowns,0.5,3.7,Pointsbet,1953296,71200173,24
-Chicago Bears v Carolina Panthers,Xavier Legette,Carolina Panthers,Player Touchdowns,1.5,19,Pointsbet,1953296,71200175,23
-Chicago Bears v Carolina Panthers,Xavier Legette,Carolina Panthers,Player Touchdowns,2.5,201,Pointsbet,1953296,71200176,23
-Cincinnati Bengals v Baltimore Ravens,Andrei Iosivas,Cincinnati Bengals,Player Touchdowns,0.5,3.7,Pointsbet,1953297,71203238,11
+Chicago Bears v Carolina Panthers,Rome Odunze,Chicago Bears,Player Touchdowns,1.5,21,Pointsbet,1953296,71200175,12
+Chicago Bears v Carolina Panthers,Rome Odunze,Chicago Bears,Player Touchdowns,2.5,251,Pointsbet,1953296,71200176,12
+Chicago Bears v Carolina Panthers,Roschon Johnson,Chicago Bears,Player Touchdowns,0.5,3.6,Pointsbet,1953296,71200173,11
+Chicago Bears v Carolina Panthers,Roschon Johnson,Chicago Bears,Player Touchdowns,1.5,18,Pointsbet,1953296,71200175,11
+Chicago Bears v Carolina Panthers,Roschon Johnson,Chicago Bears,Player Touchdowns,2.5,301,Pointsbet,1953296,71200176,11
+Chicago Bears v Carolina Panthers,Tommy Tremble,Carolina Panthers,Player Touchdowns,0.5,7.5,Pointsbet,1953296,71200173,19
+Chicago Bears v Carolina Panthers,Tommy Tremble,Carolina Panthers,Player Touchdowns,1.5,67,Pointsbet,1953296,71200175,18
+Chicago Bears v Carolina Panthers,Tommy Tremble,Carolina Panthers,Player Touchdowns,2.5,701,Pointsbet,1953296,71200176,18
+Chicago Bears v Carolina Panthers,Tyler Scott,Chicago Bears,Player Touchdowns,0.5,13,Pointsbet,1953296,71200173,10
+Chicago Bears v Carolina Panthers,Tyler Scott,Chicago Bears,Player Touchdowns,1.5,176,Pointsbet,1953296,71200175,10
+Chicago Bears v Carolina Panthers,Velus Jones Jr.,Chicago Bears,Player Touchdowns,0.5,15,Pointsbet,1953296,71200173,9
+Chicago Bears v Carolina Panthers,Velus Jones Jr.,Chicago Bears,Player Touchdowns,1.5,351,Pointsbet,1953296,71200175,9
+Chicago Bears v Carolina Panthers,Xavier Legette,Carolina Panthers,Player Touchdowns,0.5,3.9,Pointsbet,1953296,71200173,24
+Chicago Bears v Carolina Panthers,Xavier Legette,Carolina Panthers,Player Touchdowns,1.5,21,Pointsbet,1953296,71200175,23
+Chicago Bears v Carolina Panthers,Xavier Legette,Carolina Panthers,Player Touchdowns,2.5,126,Pointsbet,1953296,71200176,23
+Cincinnati Bengals v Baltimore Ravens,Andrei Iosivas,Cincinnati Bengals,Player Touchdowns,0.5,3.9,Pointsbet,1953297,71203238,11
 Cincinnati Bengals v Baltimore Ravens,Andrei Iosivas,Cincinnati Bengals,Player Touchdowns,1.5,18,Pointsbet,1953297,71203240,11
 Cincinnati Bengals v Baltimore Ravens,Andrei Iosivas,Cincinnati Bengals,Player Touchdowns,2.5,126,Pointsbet,1953297,71203241,11
 Cincinnati Bengals v Baltimore Ravens,Baltimore Ravens D/St,NA,Player Touchdowns,0.5,5.75,Pointsbet,1953297,71203238,28
-Cincinnati Bengals v Baltimore Ravens,Charlie Jones,Cincinnati Bengals,Player Touchdowns,0.5,16,Pointsbet,1953297,71203238,9
-Cincinnati Bengals v Baltimore Ravens,Charlie Jones,Cincinnati Bengals,Player Touchdowns,1.5,351,Pointsbet,1953297,71203240,9
+Cincinnati Bengals v Baltimore Ravens,Charlie Jones,Cincinnati Bengals,Player Touchdowns,0.5,17,Pointsbet,1953297,71203238,9
+Cincinnati Bengals v Baltimore Ravens,Charlie Jones,Cincinnati Bengals,Player Touchdowns,1.5,151,Pointsbet,1953297,71203240,9
+Cincinnati Bengals v Baltimore Ravens,Charlie Jones,Cincinnati Bengals,Player Touchdowns,2.5,701,Pointsbet,1953297,71203241,9
 Cincinnati Bengals v Baltimore Ravens,Charlie Kolar,Baltimore Ravens,Player Touchdowns,0.5,13,Pointsbet,1953297,71203238,25
-Cincinnati Bengals v Baltimore Ravens,Charlie Kolar,Baltimore Ravens,Player Touchdowns,1.5,151,Pointsbet,1953297,71203240,24
-Cincinnati Bengals v Baltimore Ravens,Charlie Kolar,Baltimore Ravens,Player Touchdowns,2.5,701,Pointsbet,1953297,71203241,24
-Cincinnati Bengals v Baltimore Ravens,Chase Brown,Cincinnati Bengals,Player Touchdowns,0.5,2.6,Pointsbet,1953297,71203238,10
+Cincinnati Bengals v Baltimore Ravens,Charlie Kolar,Baltimore Ravens,Player Touchdowns,1.5,201,Pointsbet,1953297,71203240,24
+Cincinnati Bengals v Baltimore Ravens,Chase Brown,Cincinnati Bengals,Player Touchdowns,0.5,2.75,Pointsbet,1953297,71203238,10
 Cincinnati Bengals v Baltimore Ravens,Chase Brown,Cincinnati Bengals,Player Touchdowns,1.5,11,Pointsbet,1953297,71203240,10
 Cincinnati Bengals v Baltimore Ravens,Chase Brown,Cincinnati Bengals,Player Touchdowns,2.5,61,Pointsbet,1953297,71203241,10
 Cincinnati Bengals v Baltimore Ravens,Cincinnati Bengals D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953297,71203238,15
-Cincinnati Bengals v Baltimore Ravens,Deonte Harty,Baltimore Ravens,Player Touchdowns,0.5,17,Pointsbet,1953297,71203238,27
-Cincinnati Bengals v Baltimore Ravens,Deonte Harty,Baltimore Ravens,Player Touchdowns,1.5,301,Pointsbet,1953297,71203240,26
-Cincinnati Bengals v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Player Touchdowns,0.5,1.67,Pointsbet,1953297,71203238,18
+Cincinnati Bengals v Baltimore Ravens,Deonte Harty,Baltimore Ravens,Player Touchdowns,0.5,21,Pointsbet,1953297,71203238,27
+Cincinnati Bengals v Baltimore Ravens,Deonte Harty,Baltimore Ravens,Player Touchdowns,1.5,351,Pointsbet,1953297,71203240,26
+Cincinnati Bengals v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Player Touchdowns,0.5,1.63,Pointsbet,1953297,71203238,18
 Cincinnati Bengals v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Player Touchdowns,1.5,4.3,Pointsbet,1953297,71203240,17
 Cincinnati Bengals v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Player Touchdowns,2.5,15,Pointsbet,1953297,71203241,17
-Cincinnati Bengals v Baltimore Ravens,Drew Sample,Cincinnati Bengals,Player Touchdowns,0.5,16,Pointsbet,1953297,71203238,14
-Cincinnati Bengals v Baltimore Ravens,Drew Sample,Cincinnati Bengals,Player Touchdowns,1.5,176,Pointsbet,1953297,71203240,14
-Cincinnati Bengals v Baltimore Ravens,Erick All,Cincinnati Bengals,Player Touchdowns,0.5,8.5,Pointsbet,1953297,71203238,13
-Cincinnati Bengals v Baltimore Ravens,Erick All,Cincinnati Bengals,Player Touchdowns,1.5,71,Pointsbet,1953297,71203240,13
+Cincinnati Bengals v Baltimore Ravens,Drew Sample,Cincinnati Bengals,Player Touchdowns,0.5,17,Pointsbet,1953297,71203238,14
+Cincinnati Bengals v Baltimore Ravens,Drew Sample,Cincinnati Bengals,Player Touchdowns,1.5,101,Pointsbet,1953297,71203240,14
+Cincinnati Bengals v Baltimore Ravens,Erick All,Cincinnati Bengals,Player Touchdowns,0.5,7,Pointsbet,1953297,71203238,13
+Cincinnati Bengals v Baltimore Ravens,Erick All,Cincinnati Bengals,Player Touchdowns,1.5,61,Pointsbet,1953297,71203240,13
 Cincinnati Bengals v Baltimore Ravens,Erick All,Cincinnati Bengals,Player Touchdowns,2.5,601,Pointsbet,1953297,71203241,13
 Cincinnati Bengals v Baltimore Ravens,Isaiah Likely,Baltimore Ravens,Player Touchdowns,0.5,4.2,Pointsbet,1953297,71203238,24
 Cincinnati Bengals v Baltimore Ravens,Isaiah Likely,Baltimore Ravens,Player Touchdowns,1.5,21,Pointsbet,1953297,71203240,23
-Cincinnati Bengals v Baltimore Ravens,Isaiah Likely,Baltimore Ravens,Player Touchdowns,2.5,201,Pointsbet,1953297,71203241,23
-Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Player Touchdowns,0.5,2.2,Pointsbet,1953297,71203238,8
-Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Player Touchdowns,1.5,7.5,Pointsbet,1953297,71203240,8
-Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Player Touchdowns,2.5,31,Pointsbet,1953297,71203241,8
+Cincinnati Bengals v Baltimore Ravens,Isaiah Likely,Baltimore Ravens,Player Touchdowns,2.5,351,Pointsbet,1953297,71203241,23
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Player Touchdowns,0.5,2.1,Pointsbet,1953297,71203238,8
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Player Touchdowns,1.5,7,Pointsbet,1953297,71203240,8
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Player Touchdowns,2.5,29,Pointsbet,1953297,71203241,8
 Cincinnati Bengals v Baltimore Ravens,Jermaine Burton,Cincinnati Bengals,Player Touchdowns,0.5,13,Pointsbet,1953297,71203238,12
-Cincinnati Bengals v Baltimore Ravens,Jermaine Burton,Cincinnati Bengals,Player Touchdowns,1.5,176,Pointsbet,1953297,71203240,12
-Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Player Touchdowns,0.5,6.5,Pointsbet,1953297,71203238,5
+Cincinnati Bengals v Baltimore Ravens,Jermaine Burton,Cincinnati Bengals,Player Touchdowns,1.5,101,Pointsbet,1953297,71203240,12
+Cincinnati Bengals v Baltimore Ravens,Jermaine Burton,Cincinnati Bengals,Player Touchdowns,2.5,701,Pointsbet,1953297,71203241,12
+Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Player Touchdowns,0.5,7,Pointsbet,1953297,71203238,5
 Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Player Touchdowns,1.5,51,Pointsbet,1953297,71203240,5
-Cincinnati Bengals v Baltimore Ravens,Joe Burrow,Cincinnati Bengals,Player Touchdowns,2.5,701,Pointsbet,1953297,71203241,5
-Cincinnati Bengals v Baltimore Ravens,Justice Hill,Baltimore Ravens,Player Touchdowns,0.5,4.5,Pointsbet,1953297,71203238,20
+Cincinnati Bengals v Baltimore Ravens,Justice Hill,Baltimore Ravens,Player Touchdowns,0.5,4.4,Pointsbet,1953297,71203238,20
 Cincinnati Bengals v Baltimore Ravens,Justice Hill,Baltimore Ravens,Player Touchdowns,1.5,21,Pointsbet,1953297,71203240,19
-Cincinnati Bengals v Baltimore Ravens,Justice Hill,Baltimore Ravens,Player Touchdowns,2.5,351,Pointsbet,1953297,71203241,19
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Player Touchdowns,0.5,2.4,Pointsbet,1953297,71203238,21
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Player Touchdowns,1.5,10,Pointsbet,1953297,71203240,20
-Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Player Touchdowns,2.5,51,Pointsbet,1953297,71203241,20
-Cincinnati Bengals v Baltimore Ravens,Mark Andrews,Baltimore Ravens,Player Touchdowns,0.5,3.7,Pointsbet,1953297,71203238,16
+Cincinnati Bengals v Baltimore Ravens,Justice Hill,Baltimore Ravens,Player Touchdowns,2.5,401,Pointsbet,1953297,71203241,19
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Player Touchdowns,0.5,2.55,Pointsbet,1953297,71203238,21
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Player Touchdowns,1.5,11,Pointsbet,1953297,71203240,20
+Cincinnati Bengals v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Player Touchdowns,2.5,61,Pointsbet,1953297,71203241,20
+Cincinnati Bengals v Baltimore Ravens,Mark Andrews,Baltimore Ravens,Player Touchdowns,0.5,3.9,Pointsbet,1953297,71203238,16
 Cincinnati Bengals v Baltimore Ravens,Mark Andrews,Baltimore Ravens,Player Touchdowns,1.5,18,Pointsbet,1953297,71203240,15
-Cincinnati Bengals v Baltimore Ravens,Mark Andrews,Baltimore Ravens,Player Touchdowns,2.5,151,Pointsbet,1953297,71203241,15
-Cincinnati Bengals v Baltimore Ravens,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,0.5,4.4,Pointsbet,1953297,71203238,1
-Cincinnati Bengals v Baltimore Ravens,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,1.5,23,Pointsbet,1953297,71203240,1
+Cincinnati Bengals v Baltimore Ravens,Mark Andrews,Baltimore Ravens,Player Touchdowns,2.5,301,Pointsbet,1953297,71203241,15
+Cincinnati Bengals v Baltimore Ravens,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,0.5,4.75,Pointsbet,1953297,71203238,1
+Cincinnati Bengals v Baltimore Ravens,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,1.5,29,Pointsbet,1953297,71203240,1
 Cincinnati Bengals v Baltimore Ravens,Mike Gesicki,Cincinnati Bengals,Player Touchdowns,2.5,351,Pointsbet,1953297,71203241,1
 Cincinnati Bengals v Baltimore Ravens,Nelson Agholor,Baltimore Ravens,Player Touchdowns,0.5,6,Pointsbet,1953297,71203238,19
-Cincinnati Bengals v Baltimore Ravens,Nelson Agholor,Baltimore Ravens,Player Touchdowns,1.5,46,Pointsbet,1953297,71203240,18
-Cincinnati Bengals v Baltimore Ravens,Nelson Agholor,Baltimore Ravens,Player Touchdowns,2.5,501,Pointsbet,1953297,71203241,18
-Cincinnati Bengals v Baltimore Ravens,Patrick Ricard,Baltimore Ravens,Player Touchdowns,0.5,12,Pointsbet,1953297,71203238,17
-Cincinnati Bengals v Baltimore Ravens,Patrick Ricard,Baltimore Ravens,Player Touchdowns,1.5,201,Pointsbet,1953297,71203240,16
-Cincinnati Bengals v Baltimore Ravens,Rashod Bateman,Baltimore Ravens,Player Touchdowns,0.5,4.2,Pointsbet,1953297,71203238,23
-Cincinnati Bengals v Baltimore Ravens,Rashod Bateman,Baltimore Ravens,Player Touchdowns,1.5,21,Pointsbet,1953297,71203240,22
-Cincinnati Bengals v Baltimore Ravens,Rashod Bateman,Baltimore Ravens,Player Touchdowns,2.5,126,Pointsbet,1953297,71203241,22
-Cincinnati Bengals v Baltimore Ravens,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,0.5,8,Pointsbet,1953297,71203238,2
-Cincinnati Bengals v Baltimore Ravens,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,1.5,61,Pointsbet,1953297,71203240,2
-Cincinnati Bengals v Baltimore Ravens,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,2.5,401,Pointsbet,1953297,71203241,2
-Cincinnati Bengals v Baltimore Ravens,Tee Higgins,Cincinnati Bengals,Player Touchdowns,0.5,2.9,Pointsbet,1953297,71203238,7
+Cincinnati Bengals v Baltimore Ravens,Nelson Agholor,Baltimore Ravens,Player Touchdowns,1.5,51,Pointsbet,1953297,71203240,18
+Cincinnati Bengals v Baltimore Ravens,Nelson Agholor,Baltimore Ravens,Player Touchdowns,2.5,401,Pointsbet,1953297,71203241,18
+Cincinnati Bengals v Baltimore Ravens,Patrick Ricard,Baltimore Ravens,Player Touchdowns,0.5,13,Pointsbet,1953297,71203238,17
+Cincinnati Bengals v Baltimore Ravens,Patrick Ricard,Baltimore Ravens,Player Touchdowns,1.5,251,Pointsbet,1953297,71203240,16
+Cincinnati Bengals v Baltimore Ravens,Rashod Bateman,Baltimore Ravens,Player Touchdowns,0.5,4,Pointsbet,1953297,71203238,23
+Cincinnati Bengals v Baltimore Ravens,Rashod Bateman,Baltimore Ravens,Player Touchdowns,1.5,18,Pointsbet,1953297,71203240,22
+Cincinnati Bengals v Baltimore Ravens,Rashod Bateman,Baltimore Ravens,Player Touchdowns,2.5,201,Pointsbet,1953297,71203241,22
+Cincinnati Bengals v Baltimore Ravens,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,0.5,7,Pointsbet,1953297,71203238,2
+Cincinnati Bengals v Baltimore Ravens,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,1.5,51,Pointsbet,1953297,71203240,2
+Cincinnati Bengals v Baltimore Ravens,Tanner Hudson,Cincinnati Bengals,Player Touchdowns,2.5,701,Pointsbet,1953297,71203241,2
+Cincinnati Bengals v Baltimore Ravens,Tee Higgins,Cincinnati Bengals,Player Touchdowns,0.5,2.85,Pointsbet,1953297,71203238,7
 Cincinnati Bengals v Baltimore Ravens,Tee Higgins,Cincinnati Bengals,Player Touchdowns,1.5,13,Pointsbet,1953297,71203240,7
-Cincinnati Bengals v Baltimore Ravens,Tee Higgins,Cincinnati Bengals,Player Touchdowns,2.5,81,Pointsbet,1953297,71203241,7
-Cincinnati Bengals v Baltimore Ravens,Trayveon Williams,Cincinnati Bengals,Player Touchdowns,0.5,31,Pointsbet,1953297,71203238,3
+Cincinnati Bengals v Baltimore Ravens,Tee Higgins,Cincinnati Bengals,Player Touchdowns,2.5,91,Pointsbet,1953297,71203241,7
+Cincinnati Bengals v Baltimore Ravens,Trayveon Williams,Cincinnati Bengals,Player Touchdowns,0.5,26,Pointsbet,1953297,71203238,3
 Cincinnati Bengals v Baltimore Ravens,Trayveon Williams,Cincinnati Bengals,Player Touchdowns,1.5,501,Pointsbet,1953297,71203240,3
-Cincinnati Bengals v Baltimore Ravens,Trenton Irwin,Cincinnati Bengals,Player Touchdowns,0.5,17,Pointsbet,1953297,71203238,4
+Cincinnati Bengals v Baltimore Ravens,Trenton Irwin,Cincinnati Bengals,Player Touchdowns,0.5,15,Pointsbet,1953297,71203238,4
 Cincinnati Bengals v Baltimore Ravens,Trenton Irwin,Cincinnati Bengals,Player Touchdowns,1.5,301,Pointsbet,1953297,71203240,4
-Cincinnati Bengals v Baltimore Ravens,Tylan Wallace,Baltimore Ravens,Player Touchdowns,0.5,19,Pointsbet,1953297,71203238,22
+Cincinnati Bengals v Baltimore Ravens,Trenton Irwin,Cincinnati Bengals,Player Touchdowns,2.5,701,Pointsbet,1953297,71203241,4
+Cincinnati Bengals v Baltimore Ravens,Tylan Wallace,Baltimore Ravens,Player Touchdowns,0.5,16,Pointsbet,1953297,71203238,22
 Cincinnati Bengals v Baltimore Ravens,Tylan Wallace,Baltimore Ravens,Player Touchdowns,1.5,351,Pointsbet,1953297,71203240,21
-Cincinnati Bengals v Baltimore Ravens,Zack Moss,Cincinnati Bengals,Player Touchdowns,0.5,2.4,Pointsbet,1953297,71203238,6
-Cincinnati Bengals v Baltimore Ravens,Zack Moss,Cincinnati Bengals,Player Touchdowns,1.5,9.5,Pointsbet,1953297,71203240,6
-Cincinnati Bengals v Baltimore Ravens,Zack Moss,Cincinnati Bengals,Player Touchdowns,2.5,51,Pointsbet,1953297,71203241,6
-Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Player Touchdowns,0.5,2.85,Pointsbet,1953297,71203238,26
+Cincinnati Bengals v Baltimore Ravens,Zack Moss,Cincinnati Bengals,Player Touchdowns,0.5,2.35,Pointsbet,1953297,71203238,6
+Cincinnati Bengals v Baltimore Ravens,Zack Moss,Cincinnati Bengals,Player Touchdowns,1.5,9,Pointsbet,1953297,71203240,6
+Cincinnati Bengals v Baltimore Ravens,Zack Moss,Cincinnati Bengals,Player Touchdowns,2.5,46,Pointsbet,1953297,71203241,6
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Player Touchdowns,0.5,2.9,Pointsbet,1953297,71203238,26
 Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Player Touchdowns,1.5,12,Pointsbet,1953297,71203240,25
 Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Player Touchdowns,2.5,91,Pointsbet,1953297,71203241,25
-Denver Broncos v Las Vegas Raiders,Adam Trautman,Denver Broncos,Player Touchdowns,0.5,17,Pointsbet,1953416,71289718,5
+Denver Broncos v Las Vegas Raiders,Adam Trautman,Denver Broncos,Player Touchdowns,0.5,16,Pointsbet,1953416,71289718,5
 Denver Broncos v Las Vegas Raiders,Adam Trautman,Denver Broncos,Player Touchdowns,1.5,301,Pointsbet,1953416,71289720,5
-Denver Broncos v Las Vegas Raiders,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,0.5,2.7,Pointsbet,1953416,71289718,17
-Denver Broncos v Las Vegas Raiders,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,1.5,11.5,Pointsbet,1953416,71289720,16
-Denver Broncos v Las Vegas Raiders,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,2.5,61,Pointsbet,1953416,71289721,16
-Denver Broncos v Las Vegas Raiders,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,0.5,6,Pointsbet,1953416,71289718,16
+Denver Broncos v Las Vegas Raiders,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,0.5,2.5,Pointsbet,1953416,71289718,17
+Denver Broncos v Las Vegas Raiders,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,1.5,11,Pointsbet,1953416,71289720,16
+Denver Broncos v Las Vegas Raiders,Alexander Mattison,Las Vegas Raiders,Player Touchdowns,2.5,67,Pointsbet,1953416,71289721,16
+Denver Broncos v Las Vegas Raiders,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,0.5,5.75,Pointsbet,1953416,71289718,16
 Denver Broncos v Las Vegas Raiders,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,1.5,46,Pointsbet,1953416,71289720,15
-Denver Broncos v Las Vegas Raiders,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,2.5,501,Pointsbet,1953416,71289721,15
-Denver Broncos v Las Vegas Raiders,Blake Watson,Denver Broncos,Player Touchdowns,0.5,10.5,Pointsbet,1953416,71289718,11
-Denver Broncos v Las Vegas Raiders,Blake Watson,Denver Broncos,Player Touchdowns,1.5,201,Pointsbet,1953416,71289720,11
-Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Player Touchdowns,0.5,3.25,Pointsbet,1953416,71289718,13
-Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Player Touchdowns,1.5,15,Pointsbet,1953416,71289720,13
-Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Player Touchdowns,2.5,81,Pointsbet,1953416,71289721,13
-Denver Broncos v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Player Touchdowns,0.5,4,Pointsbet,1953416,71289718,26
-Denver Broncos v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Player Touchdowns,1.5,19,Pointsbet,1953416,71289720,25
-Denver Broncos v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Player Touchdowns,2.5,151,Pointsbet,1953416,71289721,25
-Denver Broncos v Las Vegas Raiders,Courtland Sutton,Denver Broncos,Player Touchdowns,0.5,3.7,Pointsbet,1953416,71289718,1
+Denver Broncos v Las Vegas Raiders,Ameer Abdullah,Las Vegas Raiders,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,15
+Denver Broncos v Las Vegas Raiders,Blake Watson,Denver Broncos,Player Touchdowns,0.5,11,Pointsbet,1953416,71289718,11
+Denver Broncos v Las Vegas Raiders,Blake Watson,Denver Broncos,Player Touchdowns,1.5,151,Pointsbet,1953416,71289720,11
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Player Touchdowns,0.5,3,Pointsbet,1953416,71289718,13
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Player Touchdowns,1.5,13,Pointsbet,1953416,71289720,13
+Denver Broncos v Las Vegas Raiders,Bo Nix,Denver Broncos,Player Touchdowns,2.5,91,Pointsbet,1953416,71289721,13
+Denver Broncos v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Player Touchdowns,0.5,4.2,Pointsbet,1953416,71289718,26
+Denver Broncos v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Player Touchdowns,1.5,21,Pointsbet,1953416,71289720,25
+Denver Broncos v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Player Touchdowns,2.5,401,Pointsbet,1953416,71289721,25
+Denver Broncos v Las Vegas Raiders,Courtland Sutton,Denver Broncos,Player Touchdowns,0.5,3.6,Pointsbet,1953416,71289718,1
 Denver Broncos v Las Vegas Raiders,Courtland Sutton,Denver Broncos,Player Touchdowns,1.5,18,Pointsbet,1953416,71289720,1
-Denver Broncos v Las Vegas Raiders,Courtland Sutton,Denver Broncos,Player Touchdowns,2.5,151,Pointsbet,1953416,71289721,1
+Denver Broncos v Las Vegas Raiders,Courtland Sutton,Denver Broncos,Player Touchdowns,2.5,126,Pointsbet,1953416,71289721,1
 Denver Broncos v Las Vegas Raiders,Denver Broncos D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953416,71289718,15
-Denver Broncos v Las Vegas Raiders,Devaughn Vele,Denver Broncos,Player Touchdowns,0.5,12,Pointsbet,1953416,71289718,12
+Denver Broncos v Las Vegas Raiders,Devaughn Vele,Denver Broncos,Player Touchdowns,0.5,10.5,Pointsbet,1953416,71289718,12
 Denver Broncos v Las Vegas Raiders,Devaughn Vele,Denver Broncos,Player Touchdowns,1.5,101,Pointsbet,1953416,71289720,12
-Denver Broncos v Las Vegas Raiders,Devaughn Vele,Denver Broncos,Player Touchdowns,2.5,601,Pointsbet,1953416,71289721,12
-Denver Broncos v Las Vegas Raiders,Dj Turner,NA,Player Touchdowns,0.5,9.5,Pointsbet,1953416,71289718,21
+Denver Broncos v Las Vegas Raiders,Devaughn Vele,Denver Broncos,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,12
+Denver Broncos v Las Vegas Raiders,Dj Turner,NA,Player Touchdowns,0.5,10.5,Pointsbet,1953416,71289718,21
 Denver Broncos v Las Vegas Raiders,Dj Turner,NA,Player Touchdowns,1.5,81,Pointsbet,1953416,71289720,20
-Denver Broncos v Las Vegas Raiders,Dj Turner,NA,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,20
-Denver Broncos v Las Vegas Raiders,Dylan Laube,Las Vegas Raiders,Player Touchdowns,0.5,20,Pointsbet,1953416,71289718,27
-Denver Broncos v Las Vegas Raiders,Dylan Laube,Las Vegas Raiders,Player Touchdowns,1.5,501,Pointsbet,1953416,71289720,26
-Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,0.5,6.5,Pointsbet,1953416,71289718,19
+Denver Broncos v Las Vegas Raiders,Dylan Laube,Las Vegas Raiders,Player Touchdowns,0.5,19,Pointsbet,1953416,71289718,27
+Denver Broncos v Las Vegas Raiders,Dylan Laube,Las Vegas Raiders,Player Touchdowns,1.5,401,Pointsbet,1953416,71289720,26
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,0.5,7,Pointsbet,1953416,71289718,19
 Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,1.5,61,Pointsbet,1953416,71289720,18
-Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,18
-Denver Broncos v Las Vegas Raiders,Greg Dulcich,Denver Broncos,Player Touchdowns,0.5,6,Pointsbet,1953416,71289718,7
+Denver Broncos v Las Vegas Raiders,Gardner Minshew,Las Vegas Raiders,Player Touchdowns,2.5,501,Pointsbet,1953416,71289721,18
+Denver Broncos v Las Vegas Raiders,Greg Dulcich,Denver Broncos,Player Touchdowns,0.5,6.5,Pointsbet,1953416,71289718,7
 Denver Broncos v Las Vegas Raiders,Greg Dulcich,Denver Broncos,Player Touchdowns,1.5,51,Pointsbet,1953416,71289720,7
-Denver Broncos v Las Vegas Raiders,Greg Dulcich,Denver Broncos,Player Touchdowns,2.5,601,Pointsbet,1953416,71289721,7
-Denver Broncos v Las Vegas Raiders,Harrison Bryant,Las Vegas Raiders,Player Touchdowns,0.5,17,Pointsbet,1953416,71289718,20
-Denver Broncos v Las Vegas Raiders,Harrison Bryant,Las Vegas Raiders,Player Touchdowns,1.5,301,Pointsbet,1953416,71289720,19
+Denver Broncos v Las Vegas Raiders,Greg Dulcich,Denver Broncos,Player Touchdowns,2.5,401,Pointsbet,1953416,71289721,7
+Denver Broncos v Las Vegas Raiders,Harrison Bryant,Las Vegas Raiders,Player Touchdowns,0.5,8.5,Pointsbet,1953416,71289718,20
+Denver Broncos v Las Vegas Raiders,Harrison Bryant,Las Vegas Raiders,Player Touchdowns,1.5,71,Pointsbet,1953416,71289720,19
 Denver Broncos v Las Vegas Raiders,Jakobi Meyers,Las Vegas Raiders,Player Touchdowns,0.5,3.7,Pointsbet,1953416,71289718,18
 Denver Broncos v Las Vegas Raiders,Jakobi Meyers,Las Vegas Raiders,Player Touchdowns,1.5,18,Pointsbet,1953416,71289720,17
-Denver Broncos v Las Vegas Raiders,Jakobi Meyers,Las Vegas Raiders,Player Touchdowns,2.5,126,Pointsbet,1953416,71289721,17
-Denver Broncos v Las Vegas Raiders,Jaleel Mclaughlin,NA,Player Touchdowns,0.5,4.4,Pointsbet,1953416,71289718,8
-Denver Broncos v Las Vegas Raiders,Jaleel Mclaughlin,NA,Player Touchdowns,1.5,23,Pointsbet,1953416,71289720,8
-Denver Broncos v Las Vegas Raiders,Jaleel Mclaughlin,NA,Player Touchdowns,2.5,201,Pointsbet,1953416,71289721,8
+Denver Broncos v Las Vegas Raiders,Jakobi Meyers,Las Vegas Raiders,Player Touchdowns,2.5,151,Pointsbet,1953416,71289721,17
+Denver Broncos v Las Vegas Raiders,Jaleel Mclaughlin,NA,Player Touchdowns,0.5,4.5,Pointsbet,1953416,71289718,8
+Denver Broncos v Las Vegas Raiders,Jaleel Mclaughlin,NA,Player Touchdowns,1.5,29,Pointsbet,1953416,71289720,8
+Denver Broncos v Las Vegas Raiders,Jaleel Mclaughlin,NA,Player Touchdowns,2.5,501,Pointsbet,1953416,71289721,8
 Denver Broncos v Las Vegas Raiders,Javonte Williams,Denver Broncos,Player Touchdowns,0.5,2.6,Pointsbet,1953416,71289718,6
 Denver Broncos v Las Vegas Raiders,Javonte Williams,Denver Broncos,Player Touchdowns,1.5,11,Pointsbet,1953416,71289720,6
 Denver Broncos v Las Vegas Raiders,Javonte Williams,Denver Broncos,Player Touchdowns,2.5,61,Pointsbet,1953416,71289721,6
-Denver Broncos v Las Vegas Raiders,Josh Reynolds,Denver Broncos,Player Touchdowns,0.5,6,Pointsbet,1953416,71289718,3
-Denver Broncos v Las Vegas Raiders,Josh Reynolds,Denver Broncos,Player Touchdowns,1.5,51,Pointsbet,1953416,71289720,3
-Denver Broncos v Las Vegas Raiders,Josh Reynolds,Denver Broncos,Player Touchdowns,2.5,601,Pointsbet,1953416,71289721,3
+Denver Broncos v Las Vegas Raiders,Josh Reynolds,Denver Broncos,Player Touchdowns,0.5,6.5,Pointsbet,1953416,71289718,3
+Denver Broncos v Las Vegas Raiders,Josh Reynolds,Denver Broncos,Player Touchdowns,1.5,46,Pointsbet,1953416,71289720,3
+Denver Broncos v Las Vegas Raiders,Josh Reynolds,Denver Broncos,Player Touchdowns,2.5,401,Pointsbet,1953416,71289721,3
 Denver Broncos v Las Vegas Raiders,Las Vegas Raiders D/St,NA,Player Touchdowns,0.5,5.75,Pointsbet,1953416,71289718,28
 Denver Broncos v Las Vegas Raiders,Lil'jordan Humphrey,NA,Player Touchdowns,0.5,7,Pointsbet,1953416,71289718,4
-Denver Broncos v Las Vegas Raiders,Lil'jordan Humphrey,NA,Player Touchdowns,1.5,51,Pointsbet,1953416,71289720,4
-Denver Broncos v Las Vegas Raiders,Lil'jordan Humphrey,NA,Player Touchdowns,2.5,401,Pointsbet,1953416,71289721,4
-Denver Broncos v Las Vegas Raiders,Marvin Mims Jr,NA,Player Touchdowns,0.5,12,Pointsbet,1953416,71289718,10
-Denver Broncos v Las Vegas Raiders,Marvin Mims Jr,NA,Player Touchdowns,1.5,301,Pointsbet,1953416,71289720,10
-Denver Broncos v Las Vegas Raiders,Marvin Mims Jr,NA,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,10
+Denver Broncos v Las Vegas Raiders,Lil'jordan Humphrey,NA,Player Touchdowns,1.5,61,Pointsbet,1953416,71289720,4
+Denver Broncos v Las Vegas Raiders,Lil'jordan Humphrey,NA,Player Touchdowns,2.5,601,Pointsbet,1953416,71289721,4
+Denver Broncos v Las Vegas Raiders,Marvin Mims Jr,NA,Player Touchdowns,0.5,11,Pointsbet,1953416,71289718,10
+Denver Broncos v Las Vegas Raiders,Marvin Mims Jr,NA,Player Touchdowns,1.5,91,Pointsbet,1953416,71289720,10
 Denver Broncos v Las Vegas Raiders,Michael Burton,Denver Broncos,Player Touchdowns,0.5,26,Pointsbet,1953416,71289718,2
-Denver Broncos v Las Vegas Raiders,Michael Burton,Denver Broncos,Player Touchdowns,1.5,501,Pointsbet,1953416,71289720,2
-Denver Broncos v Las Vegas Raiders,Michael Mayer,Las Vegas Raiders,Player Touchdowns,0.5,11,Pointsbet,1953416,71289718,24
-Denver Broncos v Las Vegas Raiders,Michael Mayer,Las Vegas Raiders,Player Touchdowns,1.5,151,Pointsbet,1953416,71289720,23
-Denver Broncos v Las Vegas Raiders,Michael Mayer,Las Vegas Raiders,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,23
-Denver Broncos v Las Vegas Raiders,Nate Adkins,Denver Broncos,Player Touchdowns,0.5,26,Pointsbet,1953416,71289718,9
-Denver Broncos v Las Vegas Raiders,Nate Adkins,Denver Broncos,Player Touchdowns,1.5,351,Pointsbet,1953416,71289720,9
+Denver Broncos v Las Vegas Raiders,Michael Burton,Denver Broncos,Player Touchdowns,1.5,351,Pointsbet,1953416,71289720,2
+Denver Broncos v Las Vegas Raiders,Michael Mayer,Las Vegas Raiders,Player Touchdowns,0.5,8.5,Pointsbet,1953416,71289718,24
+Denver Broncos v Las Vegas Raiders,Michael Mayer,Las Vegas Raiders,Player Touchdowns,1.5,81,Pointsbet,1953416,71289720,23
+Denver Broncos v Las Vegas Raiders,Michael Mayer,Las Vegas Raiders,Player Touchdowns,2.5,601,Pointsbet,1953416,71289721,23
+Denver Broncos v Las Vegas Raiders,Nate Adkins,Denver Broncos,Player Touchdowns,0.5,29,Pointsbet,1953416,71289718,9
+Denver Broncos v Las Vegas Raiders,Nate Adkins,Denver Broncos,Player Touchdowns,1.5,601,Pointsbet,1953416,71289720,9
 Denver Broncos v Las Vegas Raiders,Tre Tucker,Las Vegas Raiders,Player Touchdowns,0.5,5,Pointsbet,1953416,71289718,25
-Denver Broncos v Las Vegas Raiders,Tre Tucker,Las Vegas Raiders,Player Touchdowns,1.5,41,Pointsbet,1953416,71289720,24
-Denver Broncos v Las Vegas Raiders,Tre Tucker,Las Vegas Raiders,Player Touchdowns,2.5,401,Pointsbet,1953416,71289721,24
-Denver Broncos v Las Vegas Raiders,Troy Franklin,Denver Broncos,Player Touchdowns,0.5,12,Pointsbet,1953416,71289718,14
-Denver Broncos v Las Vegas Raiders,Troy Franklin,Denver Broncos,Player Touchdowns,1.5,176,Pointsbet,1953416,71289720,14
-Denver Broncos v Las Vegas Raiders,Troy Franklin,Denver Broncos,Player Touchdowns,2.5,701,Pointsbet,1953416,71289721,14
-Denver Broncos v Las Vegas Raiders,Tyreik Mcallister,NA,Player Touchdowns,0.5,61,Pointsbet,1953416,71289718,23
-Denver Broncos v Las Vegas Raiders,Zamir White,Las Vegas Raiders,Player Touchdowns,0.5,2.75,Pointsbet,1953416,71289718,22
-Denver Broncos v Las Vegas Raiders,Zamir White,Las Vegas Raiders,Player Touchdowns,1.5,11.5,Pointsbet,1953416,71289720,21
-Denver Broncos v Las Vegas Raiders,Zamir White,Las Vegas Raiders,Player Touchdowns,2.5,61,Pointsbet,1953416,71289721,21
-Houston Texans v Buffalo Bills,British Brooks,Houston Texans,Player Touchdowns,0.5,5.25,Pointsbet,1953298,71199483,13
-Houston Texans v Buffalo Bills,British Brooks,Houston Texans,Player Touchdowns,1.5,46,Pointsbet,1953298,71199485,13
+Denver Broncos v Las Vegas Raiders,Tre Tucker,Las Vegas Raiders,Player Touchdowns,1.5,31,Pointsbet,1953416,71289720,24
+Denver Broncos v Las Vegas Raiders,Tre Tucker,Las Vegas Raiders,Player Touchdowns,2.5,501,Pointsbet,1953416,71289721,24
+Denver Broncos v Las Vegas Raiders,Troy Franklin,Denver Broncos,Player Touchdowns,0.5,10.5,Pointsbet,1953416,71289718,14
+Denver Broncos v Las Vegas Raiders,Troy Franklin,Denver Broncos,Player Touchdowns,1.5,151,Pointsbet,1953416,71289720,14
+Denver Broncos v Las Vegas Raiders,Tyreik Mcallister,NA,Player Touchdowns,0.5,19,Pointsbet,1953416,71289718,23
+Denver Broncos v Las Vegas Raiders,Tyreik Mcallister,NA,Player Touchdowns,1.5,351,Pointsbet,1953416,71289720,22
+Houston Texans v Buffalo Bills,British Brooks,Houston Texans,Player Touchdowns,0.5,5,Pointsbet,1953298,71199483,13
+Houston Texans v Buffalo Bills,British Brooks,Houston Texans,Player Touchdowns,1.5,41,Pointsbet,1953298,71199485,13
 Houston Texans v Buffalo Bills,British Brooks,Houston Texans,Player Touchdowns,2.5,401,Pointsbet,1953298,71199486,13
 Houston Texans v Buffalo Bills,Buffalo Bills D/St,NA,Player Touchdowns,0.5,5.75,Pointsbet,1953298,71199483,29
-Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Player Touchdowns,0.5,7,Pointsbet,1953298,71199483,10
-Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Player Touchdowns,1.5,61,Pointsbet,1953298,71199485,10
-Houston Texans v Buffalo Bills,Cade Stover,Houston Texans,Player Touchdowns,0.5,11,Pointsbet,1953298,71199483,14
-Houston Texans v Buffalo Bills,Cade Stover,Houston Texans,Player Touchdowns,1.5,91,Pointsbet,1953298,71199485,14
-Houston Texans v Buffalo Bills,Cade Stover,Houston Texans,Player Touchdowns,2.5,501,Pointsbet,1953298,71199486,14
-Houston Texans v Buffalo Bills,Cam Akers,Houston Texans,Player Touchdowns,0.5,1.8,Pointsbet,1953298,71199483,7
-Houston Texans v Buffalo Bills,Cam Akers,Houston Texans,Player Touchdowns,1.5,6,Pointsbet,1953298,71199485,7
-Houston Texans v Buffalo Bills,Cam Akers,Houston Texans,Player Touchdowns,2.5,19,Pointsbet,1953298,71199486,7
-Houston Texans v Buffalo Bills,Curtis Samuel,Buffalo Bills,Player Touchdowns,0.5,4.75,Pointsbet,1953298,71199483,19
-Houston Texans v Buffalo Bills,Curtis Samuel,Buffalo Bills,Player Touchdowns,1.5,26,Pointsbet,1953298,71199485,18
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Player Touchdowns,0.5,6.5,Pointsbet,1953298,71199483,10
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Player Touchdowns,1.5,51,Pointsbet,1953298,71199485,10
+Houston Texans v Buffalo Bills,C.J. Stroud,Houston Texans,Player Touchdowns,2.5,701,Pointsbet,1953298,71199486,10
+Houston Texans v Buffalo Bills,Cade Stover,Houston Texans,Player Touchdowns,0.5,10,Pointsbet,1953298,71199483,14
+Houston Texans v Buffalo Bills,Cade Stover,Houston Texans,Player Touchdowns,1.5,71,Pointsbet,1953298,71199485,14
+Houston Texans v Buffalo Bills,Cade Stover,Houston Texans,Player Touchdowns,2.5,701,Pointsbet,1953298,71199486,14
+Houston Texans v Buffalo Bills,Cam Akers,Houston Texans,Player Touchdowns,0.5,1.83,Pointsbet,1953298,71199483,7
+Houston Texans v Buffalo Bills,Cam Akers,Houston Texans,Player Touchdowns,1.5,5.75,Pointsbet,1953298,71199485,7
+Houston Texans v Buffalo Bills,Cam Akers,Houston Texans,Player Touchdowns,2.5,21,Pointsbet,1953298,71199486,7
+Houston Texans v Buffalo Bills,Curtis Samuel,Buffalo Bills,Player Touchdowns,0.5,4.4,Pointsbet,1953298,71199483,19
+Houston Texans v Buffalo Bills,Curtis Samuel,Buffalo Bills,Player Touchdowns,1.5,21,Pointsbet,1953298,71199485,18
 Houston Texans v Buffalo Bills,Curtis Samuel,Buffalo Bills,Player Touchdowns,2.5,351,Pointsbet,1953298,71199486,18
-Houston Texans v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,0.5,3.1,Pointsbet,1953298,71199483,26
-Houston Texans v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,1.5,15,Pointsbet,1953298,71199485,25
-Houston Texans v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,2.5,91,Pointsbet,1953298,71199486,25
-Houston Texans v Buffalo Bills,Dalton Schultz,Houston Texans,Player Touchdowns,0.5,4.5,Pointsbet,1953298,71199483,2
-Houston Texans v Buffalo Bills,Dalton Schultz,Houston Texans,Player Touchdowns,1.5,21,Pointsbet,1953298,71199485,2
-Houston Texans v Buffalo Bills,Dalton Schultz,Houston Texans,Player Touchdowns,2.5,351,Pointsbet,1953298,71199486,2
-Houston Texans v Buffalo Bills,Dare Ogunbowale,Houston Texans,Player Touchdowns,0.5,5.25,Pointsbet,1953298,71199483,5
-Houston Texans v Buffalo Bills,Dare Ogunbowale,Houston Texans,Player Touchdowns,1.5,41,Pointsbet,1953298,71199485,5
-Houston Texans v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,0.5,8,Pointsbet,1953298,71199483,21
-Houston Texans v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,1.5,61,Pointsbet,1953298,71199485,20
-Houston Texans v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,2.5,601,Pointsbet,1953298,71199486,20
-Houston Texans v Buffalo Bills,Houston Texans D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953298,71199483,15
-Houston Texans v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,0.5,2,Pointsbet,1953298,71199483,25
-Houston Texans v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,1.5,7,Pointsbet,1953298,71199485,24
-Houston Texans v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,2.5,29,Pointsbet,1953298,71199486,24
-Houston Texans v Buffalo Bills,Joe Mixon,Houston Texans,Player Touchdowns,0.5,1.8,Pointsbet,1953298,71199483,1
-Houston Texans v Buffalo Bills,Joe Mixon,Houston Texans,Player Touchdowns,1.5,5.5,Pointsbet,1953298,71199485,1
+Houston Texans v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,0.5,3.25,Pointsbet,1953298,71199483,26
+Houston Texans v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,1.5,16,Pointsbet,1953298,71199485,25
+Houston Texans v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,2.5,151,Pointsbet,1953298,71199486,25
+Houston Texans v Buffalo Bills,Dalton Schultz,Houston Texans,Player Touchdowns,0.5,4.75,Pointsbet,1953298,71199483,2
+Houston Texans v Buffalo Bills,Dalton Schultz,Houston Texans,Player Touchdowns,1.5,36,Pointsbet,1953298,71199485,2
+Houston Texans v Buffalo Bills,Dalton Schultz,Houston Texans,Player Touchdowns,2.5,401,Pointsbet,1953298,71199486,2
+Houston Texans v Buffalo Bills,Dare Ogunbowale,Houston Texans,Player Touchdowns,0.5,5,Pointsbet,1953298,71199483,5
+Houston Texans v Buffalo Bills,Dare Ogunbowale,Houston Texans,Player Touchdowns,1.5,29,Pointsbet,1953298,71199485,5
+Houston Texans v Buffalo Bills,Dare Ogunbowale,Houston Texans,Player Touchdowns,2.5,401,Pointsbet,1953298,71199486,5
+Houston Texans v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,0.5,6.5,Pointsbet,1953298,71199483,21
+Houston Texans v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,1.5,46,Pointsbet,1953298,71199485,20
+Houston Texans v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,2.5,401,Pointsbet,1953298,71199486,20
+Houston Texans v Buffalo Bills,Houston Texans D/St,NA,Player Touchdowns,0.5,5.75,Pointsbet,1953298,71199483,15
+Houston Texans v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,0.5,2.2,Pointsbet,1953298,71199483,25
+Houston Texans v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,1.5,7.5,Pointsbet,1953298,71199485,24
+Houston Texans v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,2.5,51,Pointsbet,1953298,71199486,24
+Houston Texans v Buffalo Bills,Joe Mixon,Houston Texans,Player Touchdowns,0.5,1.87,Pointsbet,1953298,71199483,1
+Houston Texans v Buffalo Bills,Joe Mixon,Houston Texans,Player Touchdowns,1.5,6,Pointsbet,1953298,71199485,1
 Houston Texans v Buffalo Bills,Joe Mixon,Houston Texans,Player Touchdowns,2.5,19,Pointsbet,1953298,71199486,1
-Houston Texans v Buffalo Bills,John Metchie Iii,NA,Player Touchdowns,0.5,11,Pointsbet,1953298,71199483,9
-Houston Texans v Buffalo Bills,John Metchie Iii,NA,Player Touchdowns,1.5,151,Pointsbet,1953298,71199485,9
-Houston Texans v Buffalo Bills,John Metchie Iii,NA,Player Touchdowns,2.5,701,Pointsbet,1953298,71199486,9
-Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,0.5,2.1,Pointsbet,1953298,71199483,16
-Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,1.5,7,Pointsbet,1953298,71199485,15
-Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,2.5,23,Pointsbet,1953298,71199486,15
-Houston Texans v Buffalo Bills,Keon Coleman,Buffalo Bills,Player Touchdowns,0.5,3,Pointsbet,1953298,71199483,28
+Houston Texans v Buffalo Bills,John Metchie Iii,NA,Player Touchdowns,0.5,12,Pointsbet,1953298,71199483,9
+Houston Texans v Buffalo Bills,John Metchie Iii,NA,Player Touchdowns,1.5,126,Pointsbet,1953298,71199485,9
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,0.5,2.25,Pointsbet,1953298,71199483,16
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,1.5,8,Pointsbet,1953298,71199485,15
+Houston Texans v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,2.5,51,Pointsbet,1953298,71199486,15
+Houston Texans v Buffalo Bills,Keon Coleman,Buffalo Bills,Player Touchdowns,0.5,3.25,Pointsbet,1953298,71199483,28
 Houston Texans v Buffalo Bills,Keon Coleman,Buffalo Bills,Player Touchdowns,1.5,14,Pointsbet,1953298,71199485,27
-Houston Texans v Buffalo Bills,Keon Coleman,Buffalo Bills,Player Touchdowns,2.5,126,Pointsbet,1953298,71199486,27
-Houston Texans v Buffalo Bills,Khalil Shakir,Buffalo Bills,Player Touchdowns,0.5,3,Pointsbet,1953298,71199483,24
-Houston Texans v Buffalo Bills,Khalil Shakir,Buffalo Bills,Player Touchdowns,1.5,14,Pointsbet,1953298,71199485,23
-Houston Texans v Buffalo Bills,Khalil Shakir,Buffalo Bills,Player Touchdowns,2.5,101,Pointsbet,1953298,71199486,23
-Houston Texans v Buffalo Bills,Mack Hollins,Buffalo Bills,Player Touchdowns,0.5,4.5,Pointsbet,1953298,71199483,17
-Houston Texans v Buffalo Bills,Mack Hollins,Buffalo Bills,Player Touchdowns,1.5,21,Pointsbet,1953298,71199485,16
-Houston Texans v Buffalo Bills,Mack Hollins,Buffalo Bills,Player Touchdowns,2.5,351,Pointsbet,1953298,71199486,16
-Houston Texans v Buffalo Bills,Marquez Valdes-Scantling,Buffalo Bills,Player Touchdowns,0.5,8.5,Pointsbet,1953298,71199483,18
-Houston Texans v Buffalo Bills,Marquez Valdes-Scantling,Buffalo Bills,Player Touchdowns,1.5,81,Pointsbet,1953298,71199485,17
+Houston Texans v Buffalo Bills,Keon Coleman,Buffalo Bills,Player Touchdowns,2.5,91,Pointsbet,1953298,71199486,27
+Houston Texans v Buffalo Bills,Mack Hollins,Buffalo Bills,Player Touchdowns,0.5,4.75,Pointsbet,1953298,71199483,17
+Houston Texans v Buffalo Bills,Mack Hollins,Buffalo Bills,Player Touchdowns,1.5,29,Pointsbet,1953298,71199485,16
+Houston Texans v Buffalo Bills,Mack Hollins,Buffalo Bills,Player Touchdowns,2.5,401,Pointsbet,1953298,71199486,16
+Houston Texans v Buffalo Bills,Marquez Valdes-Scantling,Buffalo Bills,Player Touchdowns,0.5,6,Pointsbet,1953298,71199483,18
+Houston Texans v Buffalo Bills,Marquez Valdes-Scantling,Buffalo Bills,Player Touchdowns,1.5,51,Pointsbet,1953298,71199485,17
+Houston Texans v Buffalo Bills,Marquez Valdes-Scantling,Buffalo Bills,Player Touchdowns,2.5,501,Pointsbet,1953298,71199486,17
 Houston Texans v Buffalo Bills,Nico Collins,Houston Texans,Player Touchdowns,0.5,2.1,Pointsbet,1953298,71199483,8
-Houston Texans v Buffalo Bills,Nico Collins,Houston Texans,Player Touchdowns,1.5,7.5,Pointsbet,1953298,71199485,8
-Houston Texans v Buffalo Bills,Nico Collins,Houston Texans,Player Touchdowns,2.5,36,Pointsbet,1953298,71199486,8
-Houston Texans v Buffalo Bills,Quintin Morris,Buffalo Bills,Player Touchdowns,0.5,21,Pointsbet,1953298,71199483,23
-Houston Texans v Buffalo Bills,Quintin Morris,Buffalo Bills,Player Touchdowns,1.5,301,Pointsbet,1953298,71199485,22
-Houston Texans v Buffalo Bills,Re'mahn Davis,NA,Player Touchdowns,0.5,7.5,Pointsbet,1953298,71199483,27
-Houston Texans v Buffalo Bills,Re'mahn Davis,NA,Player Touchdowns,1.5,51,Pointsbet,1953298,71199485,26
-Houston Texans v Buffalo Bills,Re'mahn Davis,NA,Player Touchdowns,2.5,701,Pointsbet,1953298,71199486,26
-Houston Texans v Buffalo Bills,Reggie Gilliam,Buffalo Bills,Player Touchdowns,0.5,7.5,Pointsbet,1953298,71199483,22
-Houston Texans v Buffalo Bills,Reggie Gilliam,Buffalo Bills,Player Touchdowns,1.5,61,Pointsbet,1953298,71199485,21
+Houston Texans v Buffalo Bills,Nico Collins,Houston Texans,Player Touchdowns,1.5,7,Pointsbet,1953298,71199485,8
+Houston Texans v Buffalo Bills,Nico Collins,Houston Texans,Player Touchdowns,2.5,31,Pointsbet,1953298,71199486,8
+Houston Texans v Buffalo Bills,Quintin Morris,Buffalo Bills,Player Touchdowns,0.5,26,Pointsbet,1953298,71199483,23
+Houston Texans v Buffalo Bills,Quintin Morris,Buffalo Bills,Player Touchdowns,1.5,401,Pointsbet,1953298,71199485,22
+Houston Texans v Buffalo Bills,Re'mahn Davis,NA,Player Touchdowns,0.5,8.5,Pointsbet,1953298,71199483,27
+Houston Texans v Buffalo Bills,Re'mahn Davis,NA,Player Touchdowns,1.5,81,Pointsbet,1953298,71199485,26
+Houston Texans v Buffalo Bills,Reggie Gilliam,Buffalo Bills,Player Touchdowns,0.5,9,Pointsbet,1953298,71199483,22
+Houston Texans v Buffalo Bills,Reggie Gilliam,Buffalo Bills,Player Touchdowns,1.5,71,Pointsbet,1953298,71199485,21
 Houston Texans v Buffalo Bills,Reggie Gilliam,Buffalo Bills,Player Touchdowns,2.5,601,Pointsbet,1953298,71199486,21
-Houston Texans v Buffalo Bills,Robert Woods,Houston Texans,Player Touchdowns,0.5,10.5,Pointsbet,1953298,71199483,4
-Houston Texans v Buffalo Bills,Robert Woods,Houston Texans,Player Touchdowns,1.5,101,Pointsbet,1953298,71199485,4
+Houston Texans v Buffalo Bills,Robert Woods,Houston Texans,Player Touchdowns,0.5,8.5,Pointsbet,1953298,71199483,4
+Houston Texans v Buffalo Bills,Robert Woods,Houston Texans,Player Touchdowns,1.5,67,Pointsbet,1953298,71199485,4
+Houston Texans v Buffalo Bills,Robert Woods,Houston Texans,Player Touchdowns,2.5,701,Pointsbet,1953298,71199486,4
 Houston Texans v Buffalo Bills,Stefon Diggs,Houston Texans,Player Touchdowns,0.5,2.7,Pointsbet,1953298,71199483,3
 Houston Texans v Buffalo Bills,Stefon Diggs,Houston Texans,Player Touchdowns,1.5,11,Pointsbet,1953298,71199485,3
-Houston Texans v Buffalo Bills,Stefon Diggs,Houston Texans,Player Touchdowns,2.5,61,Pointsbet,1953298,71199486,3
-Houston Texans v Buffalo Bills,Steven Sims,Houston Texans,Player Touchdowns,0.5,29,Pointsbet,1953298,71199483,6
-Houston Texans v Buffalo Bills,Steven Sims,Houston Texans,Player Touchdowns,1.5,351,Pointsbet,1953298,71199485,6
-Houston Texans v Buffalo Bills,Tank Dell,Houston Texans,Player Touchdowns,0.5,3.4,Pointsbet,1953298,71199483,11
+Houston Texans v Buffalo Bills,Stefon Diggs,Houston Texans,Player Touchdowns,2.5,67,Pointsbet,1953298,71199486,3
+Houston Texans v Buffalo Bills,Steven Sims,Houston Texans,Player Touchdowns,0.5,26,Pointsbet,1953298,71199483,6
+Houston Texans v Buffalo Bills,Steven Sims,Houston Texans,Player Touchdowns,1.5,501,Pointsbet,1953298,71199485,6
+Houston Texans v Buffalo Bills,Tank Dell,Houston Texans,Player Touchdowns,0.5,3.6,Pointsbet,1953298,71199483,11
 Houston Texans v Buffalo Bills,Tank Dell,Houston Texans,Player Touchdowns,1.5,16,Pointsbet,1953298,71199485,11
-Houston Texans v Buffalo Bills,Tank Dell,Houston Texans,Player Touchdowns,2.5,91,Pointsbet,1953298,71199486,11
-Houston Texans v Buffalo Bills,Ty Johnson,Buffalo Bills,Player Touchdowns,0.5,9,Pointsbet,1953298,71199483,20
-Houston Texans v Buffalo Bills,Ty Johnson,Buffalo Bills,Player Touchdowns,1.5,81,Pointsbet,1953298,71199485,19
-Houston Texans v Buffalo Bills,Ty Johnson,Buffalo Bills,Player Touchdowns,2.5,601,Pointsbet,1953298,71199486,19
-Houston Texans v Buffalo Bills,Xavier Hutchinson,Houston Texans,Player Touchdowns,0.5,11,Pointsbet,1953298,71199483,12
-Houston Texans v Buffalo Bills,Xavier Hutchinson,Houston Texans,Player Touchdowns,1.5,91,Pointsbet,1953298,71199485,12
+Houston Texans v Buffalo Bills,Tank Dell,Houston Texans,Player Touchdowns,2.5,251,Pointsbet,1953298,71199486,11
+Houston Texans v Buffalo Bills,Ty Johnson,Buffalo Bills,Player Touchdowns,0.5,8,Pointsbet,1953298,71199483,20
+Houston Texans v Buffalo Bills,Ty Johnson,Buffalo Bills,Player Touchdowns,1.5,71,Pointsbet,1953298,71199485,19
+Houston Texans v Buffalo Bills,Xavier Hutchinson,Houston Texans,Player Touchdowns,0.5,15,Pointsbet,1953298,71199483,12
+Houston Texans v Buffalo Bills,Xavier Hutchinson,Houston Texans,Player Touchdowns,1.5,151,Pointsbet,1953298,71199485,12
 Houston Texans v Buffalo Bills,Xavier Hutchinson,Houston Texans,Player Touchdowns,2.5,701,Pointsbet,1953298,71199486,12
-Los Angeles Rams v Green Bay Packers,Ben Sims,Green Bay Packers,Player Touchdowns,0.5,7,Pointsbet,1953462,71221162,18
+Kansas City Chiefs v New Orleans Saints,A.T. Perry,New Orleans Saints,Player Touchdowns,0.5,6,Pointsbet,1954736,71310742,22
+Kansas City Chiefs v New Orleans Saints,A.T. Perry,New Orleans Saints,Player Touchdowns,1.5,46,Pointsbet,1954736,71310744,21
+Kansas City Chiefs v New Orleans Saints,A.T. Perry,New Orleans Saints,Player Touchdowns,2.5,401,Pointsbet,1954736,71310745,21
+Kansas City Chiefs v New Orleans Saints,Alvin Kamara,New Orleans Saints,Player Touchdowns,0.5,2,Pointsbet,1954736,71310742,17
+Kansas City Chiefs v New Orleans Saints,Alvin Kamara,New Orleans Saints,Player Touchdowns,1.5,6.5,Pointsbet,1954736,71310744,16
+Kansas City Chiefs v New Orleans Saints,Alvin Kamara,New Orleans Saints,Player Touchdowns,2.5,29,Pointsbet,1954736,71310745,16
+Kansas City Chiefs v New Orleans Saints,Bub Means,New Orleans Saints,Player Touchdowns,0.5,21,Pointsbet,1954736,71310742,23
+Kansas City Chiefs v New Orleans Saints,Bub Means,New Orleans Saints,Player Touchdowns,1.5,301,Pointsbet,1954736,71310744,22
+Kansas City Chiefs v New Orleans Saints,Carson Steele,Kansas City Chiefs,Player Touchdowns,0.5,3.1,Pointsbet,1954736,71310742,9
+Kansas City Chiefs v New Orleans Saints,Carson Steele,Kansas City Chiefs,Player Touchdowns,1.5,15,Pointsbet,1954736,71310744,9
+Kansas City Chiefs v New Orleans Saints,Carson Steele,Kansas City Chiefs,Player Touchdowns,2.5,126,Pointsbet,1954736,71310745,9
+Kansas City Chiefs v New Orleans Saints,Cedrick Wilson,NA,Player Touchdowns,0.5,10.5,Pointsbet,1954736,71310742,15
+Kansas City Chiefs v New Orleans Saints,Cedrick Wilson,NA,Player Touchdowns,1.5,101,Pointsbet,1954736,71310744,14
+Kansas City Chiefs v New Orleans Saints,Chris Olave,New Orleans Saints,Player Touchdowns,0.5,3.1,Pointsbet,1954736,71310742,20
+Kansas City Chiefs v New Orleans Saints,Chris Olave,New Orleans Saints,Player Touchdowns,1.5,14,Pointsbet,1954736,71310744,19
+Kansas City Chiefs v New Orleans Saints,Chris Olave,New Orleans Saints,Player Touchdowns,2.5,91,Pointsbet,1954736,71310745,19
+Kansas City Chiefs v New Orleans Saints,Derek Carr,New Orleans Saints,Player Touchdowns,0.5,10.5,Pointsbet,1954736,71310742,14
+Kansas City Chiefs v New Orleans Saints,Derek Carr,New Orleans Saints,Player Touchdowns,1.5,151,Pointsbet,1954736,71310744,13
+Kansas City Chiefs v New Orleans Saints,Foster Moreau,New Orleans Saints,Player Touchdowns,0.5,8.5,Pointsbet,1954736,71310742,18
+Kansas City Chiefs v New Orleans Saints,Foster Moreau,New Orleans Saints,Player Touchdowns,1.5,67,Pointsbet,1954736,71310744,17
+Kansas City Chiefs v New Orleans Saints,Jamaal Williams,New Orleans Saints,Player Touchdowns,0.5,4.4,Pointsbet,1954736,71310742,16
+Kansas City Chiefs v New Orleans Saints,Jamaal Williams,New Orleans Saints,Player Touchdowns,1.5,21,Pointsbet,1954736,71310744,15
+Kansas City Chiefs v New Orleans Saints,Jamaal Williams,New Orleans Saints,Player Touchdowns,2.5,351,Pointsbet,1954736,71310745,15
+Kansas City Chiefs v New Orleans Saints,Jared Wiley,Kansas City Chiefs,Player Touchdowns,0.5,21,Pointsbet,1954736,71310742,10
+Kansas City Chiefs v New Orleans Saints,Jared Wiley,Kansas City Chiefs,Player Touchdowns,1.5,501,Pointsbet,1954736,71310744,10
+Kansas City Chiefs v New Orleans Saints,Juju Smith-Schuster,NA,Player Touchdowns,0.5,5,Pointsbet,1954736,71310742,1
+Kansas City Chiefs v New Orleans Saints,Juju Smith-Schuster,NA,Player Touchdowns,1.5,31,Pointsbet,1954736,71310744,1
+Kansas City Chiefs v New Orleans Saints,Juju Smith-Schuster,NA,Player Touchdowns,2.5,351,Pointsbet,1954736,71310745,1
+Kansas City Chiefs v New Orleans Saints,Justin Watson,Kansas City Chiefs,Player Touchdowns,0.5,4.2,Pointsbet,1954736,71310742,5
+Kansas City Chiefs v New Orleans Saints,Justin Watson,Kansas City Chiefs,Player Touchdowns,1.5,19,Pointsbet,1954736,71310744,5
+Kansas City Chiefs v New Orleans Saints,Justin Watson,Kansas City Chiefs,Player Touchdowns,2.5,201,Pointsbet,1954736,71310745,5
+Kansas City Chiefs v New Orleans Saints,Juwan Johnson,New Orleans Saints,Player Touchdowns,0.5,6.5,Pointsbet,1954736,71310742,19
+Kansas City Chiefs v New Orleans Saints,Juwan Johnson,New Orleans Saints,Player Touchdowns,1.5,46,Pointsbet,1954736,71310744,18
+Kansas City Chiefs v New Orleans Saints,Juwan Johnson,New Orleans Saints,Player Touchdowns,2.5,501,Pointsbet,1954736,71310745,18
+Kansas City Chiefs v New Orleans Saints,Kansas City Chiefs D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1954736,71310742,13
+Kansas City Chiefs v New Orleans Saints,Kareem Hunt,Kansas City Chiefs,Player Touchdowns,0.5,2.35,Pointsbet,1954736,71310742,12
+Kansas City Chiefs v New Orleans Saints,Kareem Hunt,Kansas City Chiefs,Player Touchdowns,1.5,9.5,Pointsbet,1954736,71310744,12
+Kansas City Chiefs v New Orleans Saints,Kareem Hunt,Kansas City Chiefs,Player Touchdowns,2.5,51,Pointsbet,1954736,71310745,12
+Kansas City Chiefs v New Orleans Saints,Mason Tipton,New Orleans Saints,Player Touchdowns,0.5,11,Pointsbet,1954736,71310742,24
+Kansas City Chiefs v New Orleans Saints,Mason Tipton,New Orleans Saints,Player Touchdowns,1.5,101,Pointsbet,1954736,71310744,23
+Kansas City Chiefs v New Orleans Saints,Mason Tipton,New Orleans Saints,Player Touchdowns,2.5,701,Pointsbet,1954736,71310745,23
+Kansas City Chiefs v New Orleans Saints,Mecole Hardman,Kansas City Chiefs,Player Touchdowns,0.5,5.75,Pointsbet,1954736,71310742,6
+Kansas City Chiefs v New Orleans Saints,Mecole Hardman,Kansas City Chiefs,Player Touchdowns,1.5,41,Pointsbet,1954736,71310744,6
+Kansas City Chiefs v New Orleans Saints,Mecole Hardman,Kansas City Chiefs,Player Touchdowns,2.5,351,Pointsbet,1954736,71310745,6
+Kansas City Chiefs v New Orleans Saints,New Orleans Saints D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1954736,71310742,25
+Kansas City Chiefs v New Orleans Saints,Noah Gray,Kansas City Chiefs,Player Touchdowns,0.5,5.75,Pointsbet,1954736,71310742,7
+Kansas City Chiefs v New Orleans Saints,Noah Gray,Kansas City Chiefs,Player Touchdowns,1.5,46,Pointsbet,1954736,71310744,7
+Kansas City Chiefs v New Orleans Saints,Noah Gray,Kansas City Chiefs,Player Touchdowns,2.5,401,Pointsbet,1954736,71310745,7
+Kansas City Chiefs v New Orleans Saints,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,0.5,4.5,Pointsbet,1954736,71310742,2
+Kansas City Chiefs v New Orleans Saints,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,1.5,29,Pointsbet,1954736,71310744,2
+Kansas City Chiefs v New Orleans Saints,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,2.5,401,Pointsbet,1954736,71310745,2
+Kansas City Chiefs v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Player Touchdowns,0.5,3.7,Pointsbet,1954736,71310742,21
+Kansas City Chiefs v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Player Touchdowns,1.5,19,Pointsbet,1954736,71310744,20
+Kansas City Chiefs v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Player Touchdowns,2.5,126,Pointsbet,1954736,71310745,20
+Kansas City Chiefs v New Orleans Saints,Samaje Perine,Kansas City Chiefs,Player Touchdowns,0.5,6,Pointsbet,1954736,71310742,4
+Kansas City Chiefs v New Orleans Saints,Samaje Perine,Kansas City Chiefs,Player Touchdowns,1.5,51,Pointsbet,1954736,71310744,4
+Kansas City Chiefs v New Orleans Saints,Skyy Moore,Kansas City Chiefs,Player Touchdowns,0.5,11,Pointsbet,1954736,71310742,8
+Kansas City Chiefs v New Orleans Saints,Skyy Moore,Kansas City Chiefs,Player Touchdowns,1.5,91,Pointsbet,1954736,71310744,8
+Kansas City Chiefs v New Orleans Saints,Travis Kelce,Kansas City Chiefs,Player Touchdowns,0.5,2.5,Pointsbet,1954736,71310742,3
+Kansas City Chiefs v New Orleans Saints,Travis Kelce,Kansas City Chiefs,Player Touchdowns,1.5,10,Pointsbet,1954736,71310744,3
+Kansas City Chiefs v New Orleans Saints,Travis Kelce,Kansas City Chiefs,Player Touchdowns,2.5,61,Pointsbet,1954736,71310745,3
+Kansas City Chiefs v New Orleans Saints,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,0.5,2.55,Pointsbet,1954736,71310742,11
+Kansas City Chiefs v New Orleans Saints,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,1.5,11,Pointsbet,1954736,71310744,11
+Kansas City Chiefs v New Orleans Saints,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,2.5,61,Pointsbet,1954736,71310745,11
+Los Angeles Rams v Green Bay Packers,Ben Sims,Green Bay Packers,Player Touchdowns,0.5,6.5,Pointsbet,1953462,71221162,18
 Los Angeles Rams v Green Bay Packers,Ben Sims,Green Bay Packers,Player Touchdowns,1.5,51,Pointsbet,1953462,71221164,17
-Los Angeles Rams v Green Bay Packers,Ben Sims,Green Bay Packers,Player Touchdowns,2.5,401,Pointsbet,1953462,71221165,17
-Los Angeles Rams v Green Bay Packers,Blake Corum,Los Angeles Rams,Player Touchdowns,0.5,23,Pointsbet,1953462,71221162,9
+Los Angeles Rams v Green Bay Packers,Ben Sims,Green Bay Packers,Player Touchdowns,2.5,501,Pointsbet,1953462,71221165,17
+Los Angeles Rams v Green Bay Packers,Blake Corum,Los Angeles Rams,Player Touchdowns,0.5,21,Pointsbet,1953462,71221162,9
 Los Angeles Rams v Green Bay Packers,Blake Corum,Los Angeles Rams,Player Touchdowns,1.5,351,Pointsbet,1953462,71221164,9
-Los Angeles Rams v Green Bay Packers,Bo Melton,Green Bay Packers,Player Touchdowns,0.5,5,Pointsbet,1953462,71221162,16
-Los Angeles Rams v Green Bay Packers,Bo Melton,Green Bay Packers,Player Touchdowns,1.5,29,Pointsbet,1953462,71221164,15
-Los Angeles Rams v Green Bay Packers,Bo Melton,Green Bay Packers,Player Touchdowns,2.5,401,Pointsbet,1953462,71221165,15
+Los Angeles Rams v Green Bay Packers,Bo Melton,Green Bay Packers,Player Touchdowns,0.5,4.5,Pointsbet,1953462,71221162,16
+Los Angeles Rams v Green Bay Packers,Bo Melton,Green Bay Packers,Player Touchdowns,1.5,26,Pointsbet,1953462,71221164,15
+Los Angeles Rams v Green Bay Packers,Bo Melton,Green Bay Packers,Player Touchdowns,2.5,351,Pointsbet,1953462,71221165,15
 Los Angeles Rams v Green Bay Packers,Chris Brooks,Green Bay Packers,Player Touchdowns,0.5,17,Pointsbet,1953462,71221162,17
-Los Angeles Rams v Green Bay Packers,Chris Brooks,Green Bay Packers,Player Touchdowns,1.5,351,Pointsbet,1953462,71221164,16
-Los Angeles Rams v Green Bay Packers,Chris Brooks,Green Bay Packers,Player Touchdowns,2.5,701,Pointsbet,1953462,71221165,16
+Los Angeles Rams v Green Bay Packers,Chris Brooks,Green Bay Packers,Player Touchdowns,1.5,401,Pointsbet,1953462,71221164,16
 Los Angeles Rams v Green Bay Packers,Colby Parkinson,Los Angeles Rams,Player Touchdowns,0.5,4,Pointsbet,1953462,71221162,3
-Los Angeles Rams v Green Bay Packers,Colby Parkinson,Los Angeles Rams,Player Touchdowns,1.5,21,Pointsbet,1953462,71221164,3
-Los Angeles Rams v Green Bay Packers,Colby Parkinson,Los Angeles Rams,Player Touchdowns,2.5,151,Pointsbet,1953462,71221165,3
-Los Angeles Rams v Green Bay Packers,Davis Allen,Los Angeles Rams,Player Touchdowns,0.5,17,Pointsbet,1953462,71221162,8
-Los Angeles Rams v Green Bay Packers,Davis Allen,Los Angeles Rams,Player Touchdowns,1.5,301,Pointsbet,1953462,71221164,8
-Los Angeles Rams v Green Bay Packers,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,0.5,3.25,Pointsbet,1953462,71221162,1
+Los Angeles Rams v Green Bay Packers,Colby Parkinson,Los Angeles Rams,Player Touchdowns,1.5,19,Pointsbet,1953462,71221164,3
+Los Angeles Rams v Green Bay Packers,Colby Parkinson,Los Angeles Rams,Player Touchdowns,2.5,351,Pointsbet,1953462,71221165,3
+Los Angeles Rams v Green Bay Packers,Davis Allen,Los Angeles Rams,Player Touchdowns,0.5,15,Pointsbet,1953462,71221162,8
+Los Angeles Rams v Green Bay Packers,Davis Allen,Los Angeles Rams,Player Touchdowns,1.5,201,Pointsbet,1953462,71221164,8
+Los Angeles Rams v Green Bay Packers,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,0.5,3.4,Pointsbet,1953462,71221162,1
 Los Angeles Rams v Green Bay Packers,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,1.5,16,Pointsbet,1953462,71221164,1
-Los Angeles Rams v Green Bay Packers,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,2.5,101,Pointsbet,1953462,71221165,1
-Los Angeles Rams v Green Bay Packers,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,0.5,2.55,Pointsbet,1953462,71221162,20
-Los Angeles Rams v Green Bay Packers,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,1.5,11,Pointsbet,1953462,71221164,19
+Los Angeles Rams v Green Bay Packers,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,2.5,151,Pointsbet,1953462,71221165,1
+Los Angeles Rams v Green Bay Packers,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,0.5,2.5,Pointsbet,1953462,71221162,20
+Los Angeles Rams v Green Bay Packers,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,1.5,10,Pointsbet,1953462,71221164,19
 Los Angeles Rams v Green Bay Packers,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,2.5,51,Pointsbet,1953462,71221165,19
-Los Angeles Rams v Green Bay Packers,Emanuel Wilson,Green Bay Packers,Player Touchdowns,0.5,3.3,Pointsbet,1953462,71221162,22
-Los Angeles Rams v Green Bay Packers,Emanuel Wilson,Green Bay Packers,Player Touchdowns,1.5,16,Pointsbet,1953462,71221164,21
-Los Angeles Rams v Green Bay Packers,Emanuel Wilson,Green Bay Packers,Player Touchdowns,2.5,101,Pointsbet,1953462,71221165,21
+Los Angeles Rams v Green Bay Packers,Emanuel Wilson,Green Bay Packers,Player Touchdowns,0.5,3.6,Pointsbet,1953462,71221162,22
+Los Angeles Rams v Green Bay Packers,Emanuel Wilson,Green Bay Packers,Player Touchdowns,1.5,18,Pointsbet,1953462,71221164,21
+Los Angeles Rams v Green Bay Packers,Emanuel Wilson,Green Bay Packers,Player Touchdowns,2.5,176,Pointsbet,1953462,71221165,21
 Los Angeles Rams v Green Bay Packers,Green Bay Packers D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953462,71221162,25
-Los Angeles Rams v Green Bay Packers,Hunter Long,Los Angeles Rams,Player Touchdowns,0.5,20,Pointsbet,1953462,71221162,4
+Los Angeles Rams v Green Bay Packers,Hunter Long,Los Angeles Rams,Player Touchdowns,0.5,16,Pointsbet,1953462,71221162,4
 Los Angeles Rams v Green Bay Packers,Hunter Long,Los Angeles Rams,Player Touchdowns,1.5,351,Pointsbet,1953462,71221164,4
-Los Angeles Rams v Green Bay Packers,Hunter Long,Los Angeles Rams,Player Touchdowns,2.5,701,Pointsbet,1953462,71221165,4
-Los Angeles Rams v Green Bay Packers,Jayden Reed,Green Bay Packers,Player Touchdowns,0.5,1.87,Pointsbet,1953462,71221162,19
+Los Angeles Rams v Green Bay Packers,Jayden Reed,Green Bay Packers,Player Touchdowns,0.5,1.83,Pointsbet,1953462,71221162,19
 Los Angeles Rams v Green Bay Packers,Jayden Reed,Green Bay Packers,Player Touchdowns,1.5,5.75,Pointsbet,1953462,71221164,18
 Los Angeles Rams v Green Bay Packers,Jayden Reed,Green Bay Packers,Player Touchdowns,2.5,21,Pointsbet,1953462,71221165,18
 Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Player Touchdowns,0.5,7,Pointsbet,1953462,71221162,14
 Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Player Touchdowns,1.5,67,Pointsbet,1953462,71221164,13
-Los Angeles Rams v Green Bay Packers,Jordan Love,Green Bay Packers,Player Touchdowns,2.5,401,Pointsbet,1953462,71221165,13
 Los Angeles Rams v Green Bay Packers,Jordan Whittington,Los Angeles Rams,Player Touchdowns,0.5,3.6,Pointsbet,1953462,71221162,10
-Los Angeles Rams v Green Bay Packers,Jordan Whittington,Los Angeles Rams,Player Touchdowns,1.5,16,Pointsbet,1953462,71221164,10
-Los Angeles Rams v Green Bay Packers,Jordan Whittington,Los Angeles Rams,Player Touchdowns,2.5,126,Pointsbet,1953462,71221165,10
+Los Angeles Rams v Green Bay Packers,Jordan Whittington,Los Angeles Rams,Player Touchdowns,1.5,18,Pointsbet,1953462,71221164,10
+Los Angeles Rams v Green Bay Packers,Jordan Whittington,Los Angeles Rams,Player Touchdowns,2.5,151,Pointsbet,1953462,71221165,10
 Los Angeles Rams v Green Bay Packers,Josh Jacobs,Green Bay Packers,Player Touchdowns,0.5,1.71,Pointsbet,1953462,71221162,13
 Los Angeles Rams v Green Bay Packers,Josh Jacobs,Green Bay Packers,Player Touchdowns,1.5,4.75,Pointsbet,1953462,71221164,12
 Los Angeles Rams v Green Bay Packers,Josh Jacobs,Green Bay Packers,Player Touchdowns,2.5,18,Pointsbet,1953462,71221165,12
-Los Angeles Rams v Green Bay Packers,Kyren Williams,Los Angeles Rams,Player Touchdowns,0.5,1.4,Pointsbet,1953462,71221162,6
-Los Angeles Rams v Green Bay Packers,Kyren Williams,Los Angeles Rams,Player Touchdowns,1.5,3.3,Pointsbet,1953462,71221164,6
-Los Angeles Rams v Green Bay Packers,Kyren Williams,Los Angeles Rams,Player Touchdowns,2.5,11,Pointsbet,1953462,71221165,6
+Los Angeles Rams v Green Bay Packers,Kyren Williams,Los Angeles Rams,Player Touchdowns,0.5,1.36,Pointsbet,1953462,71221162,6
+Los Angeles Rams v Green Bay Packers,Kyren Williams,Los Angeles Rams,Player Touchdowns,1.5,3.2,Pointsbet,1953462,71221164,6
+Los Angeles Rams v Green Bay Packers,Kyren Williams,Los Angeles Rams,Player Touchdowns,2.5,9.5,Pointsbet,1953462,71221165,6
 Los Angeles Rams v Green Bay Packers,Los Angeles Rams D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953462,71221162,12
-Los Angeles Rams v Green Bay Packers,Luke Musgrave,Green Bay Packers,Player Touchdowns,0.5,6.5,Pointsbet,1953462,71221162,24
-Los Angeles Rams v Green Bay Packers,Luke Musgrave,Green Bay Packers,Player Touchdowns,1.5,51,Pointsbet,1953462,71221164,23
+Los Angeles Rams v Green Bay Packers,Luke Musgrave,Green Bay Packers,Player Touchdowns,0.5,7,Pointsbet,1953462,71221162,24
+Los Angeles Rams v Green Bay Packers,Luke Musgrave,Green Bay Packers,Player Touchdowns,1.5,67,Pointsbet,1953462,71221164,23
 Los Angeles Rams v Green Bay Packers,Luke Musgrave,Green Bay Packers,Player Touchdowns,2.5,501,Pointsbet,1953462,71221165,23
-Los Angeles Rams v Green Bay Packers,Malik Heath,Green Bay Packers,Player Touchdowns,0.5,5.25,Pointsbet,1953462,71221162,21
-Los Angeles Rams v Green Bay Packers,Malik Heath,Green Bay Packers,Player Touchdowns,1.5,29,Pointsbet,1953462,71221164,20
+Los Angeles Rams v Green Bay Packers,Malik Heath,Green Bay Packers,Player Touchdowns,0.5,4.4,Pointsbet,1953462,71221162,21
+Los Angeles Rams v Green Bay Packers,Malik Heath,Green Bay Packers,Player Touchdowns,1.5,23,Pointsbet,1953462,71221164,20
 Los Angeles Rams v Green Bay Packers,Malik Heath,Green Bay Packers,Player Touchdowns,2.5,401,Pointsbet,1953462,71221165,20
 Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Player Touchdowns,0.5,13,Pointsbet,1953462,71221162,2
-Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Player Touchdowns,1.5,151,Pointsbet,1953462,71221164,2
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Player Touchdowns,1.5,176,Pointsbet,1953462,71221164,2
+Los Angeles Rams v Green Bay Packers,Matthew Stafford,Los Angeles Rams,Player Touchdowns,2.5,701,Pointsbet,1953462,71221165,2
 Los Angeles Rams v Green Bay Packers,Romeo Doubs,Green Bay Packers,Player Touchdowns,0.5,2.9,Pointsbet,1953462,71221162,15
 Los Angeles Rams v Green Bay Packers,Romeo Doubs,Green Bay Packers,Player Touchdowns,1.5,13,Pointsbet,1953462,71221164,14
-Los Angeles Rams v Green Bay Packers,Romeo Doubs,Green Bay Packers,Player Touchdowns,2.5,101,Pointsbet,1953462,71221165,14
+Los Angeles Rams v Green Bay Packers,Romeo Doubs,Green Bay Packers,Player Touchdowns,2.5,81,Pointsbet,1953462,71221165,14
 Los Angeles Rams v Green Bay Packers,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,0.5,5.75,Pointsbet,1953462,71221162,7
 Los Angeles Rams v Green Bay Packers,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,1.5,46,Pointsbet,1953462,71221164,7
-Los Angeles Rams v Green Bay Packers,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,2.5,501,Pointsbet,1953462,71221165,7
+Los Angeles Rams v Green Bay Packers,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,2.5,401,Pointsbet,1953462,71221165,7
 Los Angeles Rams v Green Bay Packers,Tucker Kraft,Green Bay Packers,Player Touchdowns,0.5,3,Pointsbet,1953462,71221162,23
-Los Angeles Rams v Green Bay Packers,Tucker Kraft,Green Bay Packers,Player Touchdowns,1.5,15,Pointsbet,1953462,71221164,22
-Los Angeles Rams v Green Bay Packers,Tucker Kraft,Green Bay Packers,Player Touchdowns,2.5,126,Pointsbet,1953462,71221165,22
-Los Angeles Rams v Green Bay Packers,Tutu Atwell,Los Angeles Rams,Player Touchdowns,0.5,3.3,Pointsbet,1953462,71221162,5
+Los Angeles Rams v Green Bay Packers,Tucker Kraft,Green Bay Packers,Player Touchdowns,1.5,14,Pointsbet,1953462,71221164,22
+Los Angeles Rams v Green Bay Packers,Tucker Kraft,Green Bay Packers,Player Touchdowns,2.5,91,Pointsbet,1953462,71221165,22
+Los Angeles Rams v Green Bay Packers,Tutu Atwell,Los Angeles Rams,Player Touchdowns,0.5,3.6,Pointsbet,1953462,71221162,5
 Los Angeles Rams v Green Bay Packers,Tutu Atwell,Los Angeles Rams,Player Touchdowns,1.5,18,Pointsbet,1953462,71221164,5
-Los Angeles Rams v Green Bay Packers,Tutu Atwell,Los Angeles Rams,Player Touchdowns,2.5,126,Pointsbet,1953462,71221165,5
+Los Angeles Rams v Green Bay Packers,Tutu Atwell,Los Angeles Rams,Player Touchdowns,2.5,151,Pointsbet,1953462,71221165,5
 Los Angeles Rams v Green Bay Packers,Tyler Johnson,Los Angeles Rams,Player Touchdowns,0.5,6.5,Pointsbet,1953462,71221162,11
 Los Angeles Rams v Green Bay Packers,Tyler Johnson,Los Angeles Rams,Player Touchdowns,1.5,51,Pointsbet,1953462,71221164,11
-Los Angeles Rams v Green Bay Packers,Tyler Johnson,Los Angeles Rams,Player Touchdowns,2.5,701,Pointsbet,1953462,71221165,11
-Minnesota Vikings v New York Jets,Aaron Jones,Minnesota Vikings,Player Touchdowns,0.5,2.05,Pointsbet,1953146,71188177,3
-Minnesota Vikings v New York Jets,Aaron Jones,Minnesota Vikings,Player Touchdowns,1.5,6.5,Pointsbet,1953146,71188179,3
-Minnesota Vikings v New York Jets,Aaron Jones,Minnesota Vikings,Player Touchdowns,2.5,26,Pointsbet,1953146,71188180,3
-Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Player Touchdowns,0.5,16,Pointsbet,1953146,71188177,17
+Los Angeles Rams v Green Bay Packers,Tyler Johnson,Los Angeles Rams,Player Touchdowns,2.5,601,Pointsbet,1953462,71221165,11
+Minnesota Vikings v New York Jets,Aaron Jones,Minnesota Vikings,Player Touchdowns,0.5,2.15,Pointsbet,1953146,71188177,3
+Minnesota Vikings v New York Jets,Aaron Jones,Minnesota Vikings,Player Touchdowns,1.5,7.5,Pointsbet,1953146,71188179,3
+Minnesota Vikings v New York Jets,Aaron Jones,Minnesota Vikings,Player Touchdowns,2.5,29,Pointsbet,1953146,71188180,3
+Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Player Touchdowns,0.5,13,Pointsbet,1953146,71188177,17
 Minnesota Vikings v New York Jets,Aaron Rodgers,New York Jets,Player Touchdowns,1.5,351,Pointsbet,1953146,71188179,16
-Minnesota Vikings v New York Jets,Allen Lazard,New York Jets,Player Touchdowns,0.5,4,Pointsbet,1953146,71188177,15
-Minnesota Vikings v New York Jets,Allen Lazard,New York Jets,Player Touchdowns,1.5,19,Pointsbet,1953146,71188179,14
-Minnesota Vikings v New York Jets,Allen Lazard,New York Jets,Player Touchdowns,2.5,151,Pointsbet,1953146,71188180,14
-Minnesota Vikings v New York Jets,Braelon Allen,New York Jets,Player Touchdowns,0.5,3.7,Pointsbet,1953146,71188177,23
-Minnesota Vikings v New York Jets,Braelon Allen,New York Jets,Player Touchdowns,1.5,18,Pointsbet,1953146,71188179,22
-Minnesota Vikings v New York Jets,Braelon Allen,New York Jets,Player Touchdowns,2.5,126,Pointsbet,1953146,71188180,22
+Minnesota Vikings v New York Jets,Allen Lazard,New York Jets,Player Touchdowns,0.5,4.2,Pointsbet,1953146,71188177,15
+Minnesota Vikings v New York Jets,Allen Lazard,New York Jets,Player Touchdowns,1.5,26,Pointsbet,1953146,71188179,14
+Minnesota Vikings v New York Jets,Allen Lazard,New York Jets,Player Touchdowns,2.5,351,Pointsbet,1953146,71188180,14
+Minnesota Vikings v New York Jets,Braelon Allen,New York Jets,Player Touchdowns,0.5,3.9,Pointsbet,1953146,71188177,23
+Minnesota Vikings v New York Jets,Braelon Allen,New York Jets,Player Touchdowns,1.5,21,Pointsbet,1953146,71188179,22
+Minnesota Vikings v New York Jets,Braelon Allen,New York Jets,Player Touchdowns,2.5,201,Pointsbet,1953146,71188180,22
 Minnesota Vikings v New York Jets,Brandon Powell,Minnesota Vikings,Player Touchdowns,0.5,8,Pointsbet,1953146,71188177,2
-Minnesota Vikings v New York Jets,Brandon Powell,Minnesota Vikings,Player Touchdowns,1.5,67,Pointsbet,1953146,71188179,2
-Minnesota Vikings v New York Jets,Brandon Powell,Minnesota Vikings,Player Touchdowns,2.5,601,Pointsbet,1953146,71188180,2
-Minnesota Vikings v New York Jets,Breece Hall,New York Jets,Player Touchdowns,0.5,2.1,Pointsbet,1953146,71188177,20
-Minnesota Vikings v New York Jets,Breece Hall,New York Jets,Player Touchdowns,1.5,7,Pointsbet,1953146,71188179,19
-Minnesota Vikings v New York Jets,Breece Hall,New York Jets,Player Touchdowns,2.5,29,Pointsbet,1953146,71188180,19
-Minnesota Vikings v New York Jets,Brenden Bates,New York Jets,Player Touchdowns,0.5,12,Pointsbet,1953146,71188177,25
-Minnesota Vikings v New York Jets,Brenden Bates,New York Jets,Player Touchdowns,1.5,151,Pointsbet,1953146,71188179,24
-Minnesota Vikings v New York Jets,C.J. Ham,Minnesota Vikings,Player Touchdowns,0.5,23,Pointsbet,1953146,71188177,5
+Minnesota Vikings v New York Jets,Brandon Powell,Minnesota Vikings,Player Touchdowns,1.5,51,Pointsbet,1953146,71188179,2
+Minnesota Vikings v New York Jets,Brandon Powell,Minnesota Vikings,Player Touchdowns,2.5,501,Pointsbet,1953146,71188180,2
+Minnesota Vikings v New York Jets,Breece Hall,New York Jets,Player Touchdowns,0.5,2.15,Pointsbet,1953146,71188177,20
+Minnesota Vikings v New York Jets,Breece Hall,New York Jets,Player Touchdowns,1.5,7.5,Pointsbet,1953146,71188179,19
+Minnesota Vikings v New York Jets,Breece Hall,New York Jets,Player Touchdowns,2.5,46,Pointsbet,1953146,71188180,19
+Minnesota Vikings v New York Jets,Brenden Bates,New York Jets,Player Touchdowns,0.5,11,Pointsbet,1953146,71188177,25
+Minnesota Vikings v New York Jets,Brenden Bates,New York Jets,Player Touchdowns,1.5,101,Pointsbet,1953146,71188179,24
+Minnesota Vikings v New York Jets,C.J. Ham,Minnesota Vikings,Player Touchdowns,0.5,21,Pointsbet,1953146,71188177,5
+Minnesota Vikings v New York Jets,C.J. Ham,Minnesota Vikings,Player Touchdowns,1.5,401,Pointsbet,1953146,71188179,5
 Minnesota Vikings v New York Jets,Garrett Wilson,New York Jets,Player Touchdowns,0.5,2.9,Pointsbet,1953146,71188177,19
 Minnesota Vikings v New York Jets,Garrett Wilson,New York Jets,Player Touchdowns,1.5,14,Pointsbet,1953146,71188179,18
-Minnesota Vikings v New York Jets,Garrett Wilson,New York Jets,Player Touchdowns,2.5,91,Pointsbet,1953146,71188180,18
+Minnesota Vikings v New York Jets,Garrett Wilson,New York Jets,Player Touchdowns,2.5,101,Pointsbet,1953146,71188180,18
 Minnesota Vikings v New York Jets,Isaiah Davis,New York Jets,Player Touchdowns,0.5,31,Pointsbet,1953146,71188177,24
 Minnesota Vikings v New York Jets,Isaiah Davis,New York Jets,Player Touchdowns,1.5,601,Pointsbet,1953146,71188179,23
 Minnesota Vikings v New York Jets,Jalen Nailor,Minnesota Vikings,Player Touchdowns,0.5,6,Pointsbet,1953146,71188177,12
 Minnesota Vikings v New York Jets,Jalen Nailor,Minnesota Vikings,Player Touchdowns,1.5,46,Pointsbet,1953146,71188179,12
 Minnesota Vikings v New York Jets,Jalen Nailor,Minnesota Vikings,Player Touchdowns,2.5,401,Pointsbet,1953146,71188180,12
-Minnesota Vikings v New York Jets,Jeremy Ruckert,New York Jets,Player Touchdowns,0.5,11,Pointsbet,1953146,71188177,21
-Minnesota Vikings v New York Jets,Jeremy Ruckert,New York Jets,Player Touchdowns,1.5,251,Pointsbet,1953146,71188179,20
-Minnesota Vikings v New York Jets,Johnny Mundt,Minnesota Vikings,Player Touchdowns,0.5,5.75,Pointsbet,1953146,71188177,7
-Minnesota Vikings v New York Jets,Johnny Mundt,Minnesota Vikings,Player Touchdowns,1.5,46,Pointsbet,1953146,71188179,7
-Minnesota Vikings v New York Jets,Johnny Mundt,Minnesota Vikings,Player Touchdowns,2.5,401,Pointsbet,1953146,71188180,7
-Minnesota Vikings v New York Jets,Jordan Addison,Minnesota Vikings,Player Touchdowns,0.5,3.7,Pointsbet,1953146,71188177,13
-Minnesota Vikings v New York Jets,Jordan Addison,Minnesota Vikings,Player Touchdowns,1.5,18,Pointsbet,1953146,71188179,13
-Minnesota Vikings v New York Jets,Jordan Addison,Minnesota Vikings,Player Touchdowns,2.5,126,Pointsbet,1953146,71188180,13
-Minnesota Vikings v New York Jets,Josh Oliver,Minnesota Vikings,Player Touchdowns,0.5,10.5,Pointsbet,1953146,71188177,9
-Minnesota Vikings v New York Jets,Josh Oliver,Minnesota Vikings,Player Touchdowns,1.5,91,Pointsbet,1953146,71188179,9
-Minnesota Vikings v New York Jets,Josh Oliver,Minnesota Vikings,Player Touchdowns,2.5,601,Pointsbet,1953146,71188180,9
-Minnesota Vikings v New York Jets,Justin Jefferson,Minnesota Vikings,Player Touchdowns,0.5,2,Pointsbet,1953146,71188177,10
-Minnesota Vikings v New York Jets,Justin Jefferson,Minnesota Vikings,Player Touchdowns,1.5,6.5,Pointsbet,1953146,71188179,10
+Minnesota Vikings v New York Jets,Jeremy Ruckert,New York Jets,Player Touchdowns,0.5,12,Pointsbet,1953146,71188177,21
+Minnesota Vikings v New York Jets,Jeremy Ruckert,New York Jets,Player Touchdowns,1.5,101,Pointsbet,1953146,71188179,20
+Minnesota Vikings v New York Jets,Johnny Mundt,Minnesota Vikings,Player Touchdowns,0.5,6,Pointsbet,1953146,71188177,7
+Minnesota Vikings v New York Jets,Johnny Mundt,Minnesota Vikings,Player Touchdowns,1.5,61,Pointsbet,1953146,71188179,7
+Minnesota Vikings v New York Jets,Johnny Mundt,Minnesota Vikings,Player Touchdowns,2.5,701,Pointsbet,1953146,71188180,7
+Minnesota Vikings v New York Jets,Jordan Addison,Minnesota Vikings,Player Touchdowns,0.5,3.4,Pointsbet,1953146,71188177,13
+Minnesota Vikings v New York Jets,Jordan Addison,Minnesota Vikings,Player Touchdowns,1.5,16,Pointsbet,1953146,71188179,13
+Minnesota Vikings v New York Jets,Jordan Addison,Minnesota Vikings,Player Touchdowns,2.5,101,Pointsbet,1953146,71188180,13
+Minnesota Vikings v New York Jets,Josh Oliver,Minnesota Vikings,Player Touchdowns,0.5,9.5,Pointsbet,1953146,71188177,9
+Minnesota Vikings v New York Jets,Josh Oliver,Minnesota Vikings,Player Touchdowns,1.5,71,Pointsbet,1953146,71188179,9
+Minnesota Vikings v New York Jets,Justin Jefferson,Minnesota Vikings,Player Touchdowns,0.5,2.05,Pointsbet,1953146,71188177,10
+Minnesota Vikings v New York Jets,Justin Jefferson,Minnesota Vikings,Player Touchdowns,1.5,7,Pointsbet,1953146,71188179,10
 Minnesota Vikings v New York Jets,Justin Jefferson,Minnesota Vikings,Player Touchdowns,2.5,23,Pointsbet,1953146,71188180,10
-Minnesota Vikings v New York Jets,Malachi Corley,New York Jets,Player Touchdowns,0.5,12,Pointsbet,1953146,71188177,26
-Minnesota Vikings v New York Jets,Malachi Corley,New York Jets,Player Touchdowns,1.5,151,Pointsbet,1953146,71188179,25
+Minnesota Vikings v New York Jets,Malachi Corley,New York Jets,Player Touchdowns,0.5,15,Pointsbet,1953146,71188177,26
+Minnesota Vikings v New York Jets,Malachi Corley,New York Jets,Player Touchdowns,1.5,201,Pointsbet,1953146,71188179,25
+Minnesota Vikings v New York Jets,Malachi Corley,New York Jets,Player Touchdowns,2.5,701,Pointsbet,1953146,71188180,25
 Minnesota Vikings v New York Jets,Mike Williams,New York Jets,Player Touchdowns,0.5,4.5,Pointsbet,1953146,71188177,16
-Minnesota Vikings v New York Jets,Mike Williams,New York Jets,Player Touchdowns,1.5,23,Pointsbet,1953146,71188179,15
+Minnesota Vikings v New York Jets,Mike Williams,New York Jets,Player Touchdowns,1.5,21,Pointsbet,1953146,71188179,15
 Minnesota Vikings v New York Jets,Mike Williams,New York Jets,Player Touchdowns,2.5,351,Pointsbet,1953146,71188180,15
 Minnesota Vikings v New York Jets,Minnesota Vikings D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953146,71188177,14
 Minnesota Vikings v New York Jets,Myles Gaskin,Minnesota Vikings,Player Touchdowns,0.5,26,Pointsbet,1953146,71188177,8
-Minnesota Vikings v New York Jets,Myles Gaskin,Minnesota Vikings,Player Touchdowns,1.5,601,Pointsbet,1953146,71188179,8
+Minnesota Vikings v New York Jets,Myles Gaskin,Minnesota Vikings,Player Touchdowns,1.5,501,Pointsbet,1953146,71188179,8
 Minnesota Vikings v New York Jets,New York Jets D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953146,71188177,27
-Minnesota Vikings v New York Jets,Robert Tonyan,Minnesota Vikings,Player Touchdowns,0.5,10.5,Pointsbet,1953146,71188177,4
-Minnesota Vikings v New York Jets,Robert Tonyan,Minnesota Vikings,Player Touchdowns,1.5,91,Pointsbet,1953146,71188179,4
-Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Player Touchdowns,0.5,6.5,Pointsbet,1953146,71188177,1
-Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Player Touchdowns,1.5,61,Pointsbet,1953146,71188179,1
-Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Player Touchdowns,2.5,701,Pointsbet,1953146,71188180,1
+Minnesota Vikings v New York Jets,Robert Tonyan,Minnesota Vikings,Player Touchdowns,0.5,11,Pointsbet,1953146,71188177,4
+Minnesota Vikings v New York Jets,Robert Tonyan,Minnesota Vikings,Player Touchdowns,1.5,101,Pointsbet,1953146,71188179,4
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Player Touchdowns,0.5,8,Pointsbet,1953146,71188177,1
+Minnesota Vikings v New York Jets,Sam Darnold,Minnesota Vikings,Player Touchdowns,1.5,81,Pointsbet,1953146,71188179,1
 Minnesota Vikings v New York Jets,Trent Sherfield,Minnesota Vikings,Player Touchdowns,0.5,8.5,Pointsbet,1953146,71188177,6
-Minnesota Vikings v New York Jets,Trent Sherfield,Minnesota Vikings,Player Touchdowns,1.5,91,Pointsbet,1953146,71188179,6
-Minnesota Vikings v New York Jets,Ty Chandler,Minnesota Vikings,Player Touchdowns,0.5,6,Pointsbet,1953146,71188177,11
-Minnesota Vikings v New York Jets,Ty Chandler,Minnesota Vikings,Player Touchdowns,1.5,51,Pointsbet,1953146,71188179,11
-Minnesota Vikings v New York Jets,Ty Chandler,Minnesota Vikings,Player Touchdowns,2.5,601,Pointsbet,1953146,71188180,11
-Minnesota Vikings v New York Jets,Tyler Conklin,New York Jets,Player Touchdowns,0.5,5.25,Pointsbet,1953146,71188177,18
+Minnesota Vikings v New York Jets,Trent Sherfield,Minnesota Vikings,Player Touchdowns,1.5,71,Pointsbet,1953146,71188179,6
+Minnesota Vikings v New York Jets,Ty Chandler,Minnesota Vikings,Player Touchdowns,0.5,5.25,Pointsbet,1953146,71188177,11
+Minnesota Vikings v New York Jets,Ty Chandler,Minnesota Vikings,Player Touchdowns,1.5,41,Pointsbet,1953146,71188179,11
+Minnesota Vikings v New York Jets,Ty Chandler,Minnesota Vikings,Player Touchdowns,2.5,401,Pointsbet,1953146,71188180,11
+Minnesota Vikings v New York Jets,Tyler Conklin,New York Jets,Player Touchdowns,0.5,5.75,Pointsbet,1953146,71188177,18
 Minnesota Vikings v New York Jets,Tyler Conklin,New York Jets,Player Touchdowns,1.5,46,Pointsbet,1953146,71188179,17
-Minnesota Vikings v New York Jets,Tyler Conklin,New York Jets,Player Touchdowns,2.5,501,Pointsbet,1953146,71188180,17
+Minnesota Vikings v New York Jets,Tyler Conklin,New York Jets,Player Touchdowns,2.5,401,Pointsbet,1953146,71188180,17
 Minnesota Vikings v New York Jets,Xavier Gipson,New York Jets,Player Touchdowns,0.5,13,Pointsbet,1953146,71188177,22
-Minnesota Vikings v New York Jets,Xavier Gipson,New York Jets,Player Touchdowns,1.5,201,Pointsbet,1953146,71188179,21
-Minnesota Vikings v New York Jets,Xavier Gipson,New York Jets,Player Touchdowns,2.5,701,Pointsbet,1953146,71188180,21
-New England Patriots v Miami Dolphins,Alec Ingold,Miami Dolphins,Player Touchdowns,0.5,21,Pointsbet,1953300,71278575,20
-New England Patriots v Miami Dolphins,Alec Ingold,Miami Dolphins,Player Touchdowns,1.5,351,Pointsbet,1953300,71278577,19
-New England Patriots v Miami Dolphins,Antonio Gibson,New England Patriots,Player Touchdowns,0.5,3.4,Pointsbet,1953300,71278575,6
-New England Patriots v Miami Dolphins,Antonio Gibson,New England Patriots,Player Touchdowns,1.5,18,Pointsbet,1953300,71278577,6
-New England Patriots v Miami Dolphins,Antonio Gibson,New England Patriots,Player Touchdowns,2.5,126,Pointsbet,1953300,71278578,6
-New England Patriots v Miami Dolphins,Austin Hooper,New England Patriots,Player Touchdowns,0.5,9,Pointsbet,1953300,71278575,3
-New England Patriots v Miami Dolphins,Austin Hooper,New England Patriots,Player Touchdowns,1.5,101,Pointsbet,1953300,71278577,3
-New England Patriots v Miami Dolphins,Braxton Berrios,Miami Dolphins,Player Touchdowns,0.5,15,Pointsbet,1953300,71278575,15
-New England Patriots v Miami Dolphins,Braxton Berrios,Miami Dolphins,Player Touchdowns,1.5,151,Pointsbet,1953300,71278577,14
-New England Patriots v Miami Dolphins,De'Von Achane,Miami Dolphins,Player Touchdowns,0.5,2.25,Pointsbet,1953300,71278575,24
-New England Patriots v Miami Dolphins,De'Von Achane,Miami Dolphins,Player Touchdowns,1.5,8,Pointsbet,1953300,71278577,23
-New England Patriots v Miami Dolphins,De'Von Achane,Miami Dolphins,Player Touchdowns,2.5,51,Pointsbet,1953300,71278578,23
+Minnesota Vikings v New York Jets,Xavier Gipson,New York Jets,Player Touchdowns,1.5,301,Pointsbet,1953146,71188179,21
+New England Patriots v Miami Dolphins,Alec Ingold,Miami Dolphins,Player Touchdowns,0.5,23,Pointsbet,1953300,71278575,20
+New England Patriots v Miami Dolphins,Alec Ingold,Miami Dolphins,Player Touchdowns,1.5,401,Pointsbet,1953300,71278577,19
+New England Patriots v Miami Dolphins,Antonio Gibson,New England Patriots,Player Touchdowns,0.5,2.55,Pointsbet,1953300,71278575,6
+New England Patriots v Miami Dolphins,Antonio Gibson,New England Patriots,Player Touchdowns,1.5,11,Pointsbet,1953300,71278577,6
+New England Patriots v Miami Dolphins,Antonio Gibson,New England Patriots,Player Touchdowns,2.5,61,Pointsbet,1953300,71278578,6
+New England Patriots v Miami Dolphins,Austin Hooper,New England Patriots,Player Touchdowns,0.5,10.5,Pointsbet,1953300,71278575,3
+New England Patriots v Miami Dolphins,Austin Hooper,New England Patriots,Player Touchdowns,1.5,91,Pointsbet,1953300,71278577,3
+New England Patriots v Miami Dolphins,Austin Hooper,New England Patriots,Player Touchdowns,2.5,701,Pointsbet,1953300,71278578,3
+New England Patriots v Miami Dolphins,Braxton Berrios,Miami Dolphins,Player Touchdowns,0.5,16,Pointsbet,1953300,71278575,15
+New England Patriots v Miami Dolphins,Braxton Berrios,Miami Dolphins,Player Touchdowns,1.5,351,Pointsbet,1953300,71278577,14
+New England Patriots v Miami Dolphins,Braxton Berrios,Miami Dolphins,Player Touchdowns,2.5,701,Pointsbet,1953300,71278578,14
+New England Patriots v Miami Dolphins,De'Von Achane,Miami Dolphins,Player Touchdowns,0.5,2.4,Pointsbet,1953300,71278575,24
+New England Patriots v Miami Dolphins,De'Von Achane,Miami Dolphins,Player Touchdowns,1.5,9.5,Pointsbet,1953300,71278577,23
+New England Patriots v Miami Dolphins,De'Von Achane,Miami Dolphins,Player Touchdowns,2.5,61,Pointsbet,1953300,71278578,23
 New England Patriots v Miami Dolphins,Demario Douglas,New England Patriots,Player Touchdowns,0.5,5.75,Pointsbet,1953300,71278575,10
-New England Patriots v Miami Dolphins,Demario Douglas,New England Patriots,Player Touchdowns,1.5,46,Pointsbet,1953300,71278577,10
-New England Patriots v Miami Dolphins,Demario Douglas,New England Patriots,Player Touchdowns,2.5,501,Pointsbet,1953300,71278578,10
-New England Patriots v Miami Dolphins,Durham Smythe,Miami Dolphins,Player Touchdowns,0.5,17,Pointsbet,1953300,71278575,14
-New England Patriots v Miami Dolphins,Durham Smythe,Miami Dolphins,Player Touchdowns,1.5,351,Pointsbet,1953300,71278577,13
-New England Patriots v Miami Dolphins,Hunter Henry,New England Patriots,Player Touchdowns,0.5,5.25,Pointsbet,1953300,71278575,2
-New England Patriots v Miami Dolphins,Hunter Henry,New England Patriots,Player Touchdowns,1.5,41,Pointsbet,1953300,71278577,2
-New England Patriots v Miami Dolphins,Hunter Henry,New England Patriots,Player Touchdowns,2.5,351,Pointsbet,1953300,71278578,2
-New England Patriots v Miami Dolphins,Ja'Lynn Polk,New England Patriots,Player Touchdowns,0.5,5.25,Pointsbet,1953300,71278575,12
-New England Patriots v Miami Dolphins,Ja'Lynn Polk,New England Patriots,Player Touchdowns,1.5,41,Pointsbet,1953300,71278577,12
+New England Patriots v Miami Dolphins,Demario Douglas,New England Patriots,Player Touchdowns,1.5,41,Pointsbet,1953300,71278577,10
+New England Patriots v Miami Dolphins,Demario Douglas,New England Patriots,Player Touchdowns,2.5,401,Pointsbet,1953300,71278578,10
+New England Patriots v Miami Dolphins,Durham Smythe,Miami Dolphins,Player Touchdowns,0.5,19,Pointsbet,1953300,71278575,14
+New England Patriots v Miami Dolphins,Durham Smythe,Miami Dolphins,Player Touchdowns,1.5,501,Pointsbet,1953300,71278577,13
+New England Patriots v Miami Dolphins,Hunter Henry,New England Patriots,Player Touchdowns,0.5,5.75,Pointsbet,1953300,71278575,2
+New England Patriots v Miami Dolphins,Hunter Henry,New England Patriots,Player Touchdowns,1.5,46,Pointsbet,1953300,71278577,2
+New England Patriots v Miami Dolphins,Hunter Henry,New England Patriots,Player Touchdowns,2.5,501,Pointsbet,1953300,71278578,2
+New England Patriots v Miami Dolphins,Ja'Lynn Polk,New England Patriots,Player Touchdowns,0.5,5.75,Pointsbet,1953300,71278575,12
+New England Patriots v Miami Dolphins,Ja'Lynn Polk,New England Patriots,Player Touchdowns,1.5,51,Pointsbet,1953300,71278577,12
 New England Patriots v Miami Dolphins,Ja'Lynn Polk,New England Patriots,Player Touchdowns,2.5,601,Pointsbet,1953300,71278578,12
-New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Player Touchdowns,0.5,6,Pointsbet,1953300,71278575,1
-New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Player Touchdowns,1.5,51,Pointsbet,1953300,71278577,1
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Player Touchdowns,0.5,6.5,Pointsbet,1953300,71278575,1
+New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Player Touchdowns,1.5,61,Pointsbet,1953300,71278577,1
 New England Patriots v Miami Dolphins,Jacoby Brissett,New England Patriots,Player Touchdowns,2.5,401,Pointsbet,1953300,71278578,1
 New England Patriots v Miami Dolphins,Jaheim Bell,New England Patriots,Player Touchdowns,0.5,36,Pointsbet,1953300,71278575,11
 New England Patriots v Miami Dolphins,Jaheim Bell,New England Patriots,Player Touchdowns,1.5,501,Pointsbet,1953300,71278577,11
 New England Patriots v Miami Dolphins,Jamycal Hasty,NA,Player Touchdowns,0.5,11,Pointsbet,1953300,71278575,4
-New England Patriots v Miami Dolphins,Jamycal Hasty,NA,Player Touchdowns,1.5,201,Pointsbet,1953300,71278577,4
-New England Patriots v Miami Dolphins,Jaylen Waddle,Miami Dolphins,Player Touchdowns,0.5,3.7,Pointsbet,1953300,71278575,22
+New England Patriots v Miami Dolphins,Jamycal Hasty,NA,Player Touchdowns,1.5,301,Pointsbet,1953300,71278577,4
+New England Patriots v Miami Dolphins,Jaylen Waddle,Miami Dolphins,Player Touchdowns,0.5,3.9,Pointsbet,1953300,71278575,22
 New England Patriots v Miami Dolphins,Jaylen Waddle,Miami Dolphins,Player Touchdowns,1.5,21,Pointsbet,1953300,71278577,21
-New England Patriots v Miami Dolphins,Jaylen Waddle,Miami Dolphins,Player Touchdowns,2.5,301,Pointsbet,1953300,71278578,21
+New England Patriots v Miami Dolphins,Jaylen Waddle,Miami Dolphins,Player Touchdowns,2.5,126,Pointsbet,1953300,71278578,21
 New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Player Touchdowns,0.5,4.5,Pointsbet,1953300,71278575,26
-New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Player Touchdowns,1.5,26,Pointsbet,1953300,71278577,25
-New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Player Touchdowns,2.5,401,Pointsbet,1953300,71278578,25
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Player Touchdowns,1.5,23,Pointsbet,1953300,71278577,25
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Player Touchdowns,2.5,351,Pointsbet,1953300,71278578,25
 New England Patriots v Miami Dolphins,Jeffery Wilson,NA,Player Touchdowns,0.5,13,Pointsbet,1953300,71278575,18
 New England Patriots v Miami Dolphins,Jeffery Wilson,NA,Player Touchdowns,1.5,351,Pointsbet,1953300,71278577,17
-New England Patriots v Miami Dolphins,Jonnu Smith,Miami Dolphins,Player Touchdowns,0.5,9.5,Pointsbet,1953300,71278575,16
-New England Patriots v Miami Dolphins,Jonnu Smith,Miami Dolphins,Player Touchdowns,1.5,91,Pointsbet,1953300,71278577,15
-New England Patriots v Miami Dolphins,Julian Hill,Miami Dolphins,Player Touchdowns,0.5,19,Pointsbet,1953300,71278575,25
-New England Patriots v Miami Dolphins,Julian Hill,Miami Dolphins,Player Touchdowns,1.5,351,Pointsbet,1953300,71278577,24
-New England Patriots v Miami Dolphins,K.J. Osborn,New England Patriots,Player Touchdowns,0.5,8,Pointsbet,1953300,71278575,5
-New England Patriots v Miami Dolphins,K.J. Osborn,New England Patriots,Player Touchdowns,1.5,81,Pointsbet,1953300,71278577,5
+New England Patriots v Miami Dolphins,Jonnu Smith,Miami Dolphins,Player Touchdowns,0.5,10,Pointsbet,1953300,71278575,16
+New England Patriots v Miami Dolphins,Jonnu Smith,Miami Dolphins,Player Touchdowns,1.5,101,Pointsbet,1953300,71278577,15
+New England Patriots v Miami Dolphins,Julian Hill,Miami Dolphins,Player Touchdowns,0.5,20,Pointsbet,1953300,71278575,25
+New England Patriots v Miami Dolphins,K.J. Osborn,New England Patriots,Player Touchdowns,0.5,10.5,Pointsbet,1953300,71278575,5
+New England Patriots v Miami Dolphins,K.J. Osborn,New England Patriots,Player Touchdowns,1.5,91,Pointsbet,1953300,71278577,5
 New England Patriots v Miami Dolphins,Kayshon Boutte,New England Patriots,Player Touchdowns,0.5,12,Pointsbet,1953300,71278575,9
-New England Patriots v Miami Dolphins,Kayshon Boutte,New England Patriots,Player Touchdowns,1.5,251,Pointsbet,1953300,71278577,9
+New England Patriots v Miami Dolphins,Kayshon Boutte,New England Patriots,Player Touchdowns,1.5,151,Pointsbet,1953300,71278577,9
+New England Patriots v Miami Dolphins,Kayshon Boutte,New England Patriots,Player Touchdowns,2.5,701,Pointsbet,1953300,71278578,9
 New England Patriots v Miami Dolphins,Malik Washington,Miami Dolphins,Player Touchdowns,0.5,15,Pointsbet,1953300,71278575,27
-New England Patriots v Miami Dolphins,Malik Washington,Miami Dolphins,Player Touchdowns,1.5,251,Pointsbet,1953300,71278577,26
-New England Patriots v Miami Dolphins,Miami Dolphins D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953300,71278575,28
+New England Patriots v Miami Dolphins,Malik Washington,Miami Dolphins,Player Touchdowns,1.5,351,Pointsbet,1953300,71278577,26
+New England Patriots v Miami Dolphins,Miami Dolphins D/St,NA,Player Touchdowns,0.5,6.5,Pointsbet,1953300,71278575,28
 New England Patriots v Miami Dolphins,New England Patriots D/St,NA,Player Touchdowns,0.5,5.75,Pointsbet,1953300,71278575,13
-New England Patriots v Miami Dolphins,Raheem Mostert,Miami Dolphins,Player Touchdowns,0.5,4.5,Pointsbet,1953300,71278575,19
-New England Patriots v Miami Dolphins,Raheem Mostert,Miami Dolphins,Player Touchdowns,1.5,29,Pointsbet,1953300,71278577,18
-New England Patriots v Miami Dolphins,Raheem Mostert,Miami Dolphins,Player Touchdowns,2.5,351,Pointsbet,1953300,71278578,18
-New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Player Touchdowns,0.5,1.9,Pointsbet,1953300,71278575,7
-New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Player Touchdowns,1.5,6.5,Pointsbet,1953300,71278577,7
-New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Player Touchdowns,2.5,21,Pointsbet,1953300,71278578,7
+New England Patriots v Miami Dolphins,Raheem Mostert,Miami Dolphins,Player Touchdowns,0.5,4.4,Pointsbet,1953300,71278575,19
+New England Patriots v Miami Dolphins,Raheem Mostert,Miami Dolphins,Player Touchdowns,1.5,23,Pointsbet,1953300,71278577,18
+New England Patriots v Miami Dolphins,Raheem Mostert,Miami Dolphins,Player Touchdowns,2.5,401,Pointsbet,1953300,71278578,18
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Player Touchdowns,0.5,2.75,Pointsbet,1953300,71278575,7
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Player Touchdowns,1.5,12,Pointsbet,1953300,71278577,7
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Player Touchdowns,2.5,67,Pointsbet,1953300,71278578,7
 New England Patriots v Miami Dolphins,Tanner Conner,Miami Dolphins,Player Touchdowns,0.5,41,Pointsbet,1953300,71278575,23
-New England Patriots v Miami Dolphins,Tanner Conner,Miami Dolphins,Player Touchdowns,1.5,501,Pointsbet,1953300,71278577,22
+New England Patriots v Miami Dolphins,Tanner Conner,Miami Dolphins,Player Touchdowns,1.5,601,Pointsbet,1953300,71278577,22
 New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Player Touchdowns,0.5,4.2,Pointsbet,1953300,71278575,21
-New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Player Touchdowns,1.5,23,Pointsbet,1953300,71278577,20
-New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Player Touchdowns,2.5,151,Pointsbet,1953300,71278578,20
-New England Patriots v Miami Dolphins,Tyquan Thornton,New England Patriots,Player Touchdowns,0.5,11,Pointsbet,1953300,71278575,8
-New England Patriots v Miami Dolphins,Tyquan Thornton,New England Patriots,Player Touchdowns,1.5,126,Pointsbet,1953300,71278577,8
-New England Patriots v Miami Dolphins,Tyquan Thornton,New England Patriots,Player Touchdowns,2.5,701,Pointsbet,1953300,71278578,8
-New England Patriots v Miami Dolphins,Tyreek Hill,Miami Dolphins,Player Touchdowns,0.5,2.75,Pointsbet,1953300,71278575,17
-New England Patriots v Miami Dolphins,Tyreek Hill,Miami Dolphins,Player Touchdowns,1.5,12,Pointsbet,1953300,71278577,16
-New England Patriots v Miami Dolphins,Tyreek Hill,Miami Dolphins,Player Touchdowns,2.5,91,Pointsbet,1953300,71278578,16
-Pittsburgh Steelers v Dallas Cowboys,Aaron Shampklin,Pittsburgh Steelers,Player Touchdowns,0.5,4,Pointsbet,1953524,71254617,12
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Player Touchdowns,1.5,21,Pointsbet,1953300,71278577,20
+New England Patriots v Miami Dolphins,Tyler Huntley,Miami Dolphins,Player Touchdowns,2.5,401,Pointsbet,1953300,71278578,20
+New England Patriots v Miami Dolphins,Tyquan Thornton,New England Patriots,Player Touchdowns,0.5,12,Pointsbet,1953300,71278575,8
+New England Patriots v Miami Dolphins,Tyquan Thornton,New England Patriots,Player Touchdowns,1.5,201,Pointsbet,1953300,71278577,8
+New England Patriots v Miami Dolphins,Tyreek Hill,Miami Dolphins,Player Touchdowns,0.5,3.1,Pointsbet,1953300,71278575,17
+New England Patriots v Miami Dolphins,Tyreek Hill,Miami Dolphins,Player Touchdowns,1.5,15,Pointsbet,1953300,71278577,16
+New England Patriots v Miami Dolphins,Tyreek Hill,Miami Dolphins,Player Touchdowns,2.5,101,Pointsbet,1953300,71278578,16
+Pittsburgh Steelers v Dallas Cowboys,Aaron Shampklin,Pittsburgh Steelers,Player Touchdowns,0.5,4.2,Pointsbet,1953524,71254617,12
 Pittsburgh Steelers v Dallas Cowboys,Aaron Shampklin,Pittsburgh Steelers,Player Touchdowns,1.5,21,Pointsbet,1953524,71254619,12
-Pittsburgh Steelers v Dallas Cowboys,Aaron Shampklin,Pittsburgh Steelers,Player Touchdowns,2.5,126,Pointsbet,1953524,71254620,12
-Pittsburgh Steelers v Dallas Cowboys,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,0.5,15,Pointsbet,1953524,71254617,26
-Pittsburgh Steelers v Dallas Cowboys,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,1.5,176,Pointsbet,1953524,71254619,25
+Pittsburgh Steelers v Dallas Cowboys,Aaron Shampklin,Pittsburgh Steelers,Player Touchdowns,2.5,351,Pointsbet,1953524,71254620,12
+Pittsburgh Steelers v Dallas Cowboys,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,0.5,12,Pointsbet,1953524,71254617,26
+Pittsburgh Steelers v Dallas Cowboys,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,1.5,151,Pointsbet,1953524,71254619,25
 Pittsburgh Steelers v Dallas Cowboys,Calvin Austin,NA,Player Touchdowns,0.5,6,Pointsbet,1953524,71254617,8
 Pittsburgh Steelers v Dallas Cowboys,Calvin Austin,NA,Player Touchdowns,1.5,46,Pointsbet,1953524,71254619,8
-Pittsburgh Steelers v Dallas Cowboys,Calvin Austin,NA,Player Touchdowns,2.5,701,Pointsbet,1953524,71254620,8
-Pittsburgh Steelers v Dallas Cowboys,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,0.5,1.9,Pointsbet,1953524,71254617,16
-Pittsburgh Steelers v Dallas Cowboys,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,1.5,6,Pointsbet,1953524,71254619,15
-Pittsburgh Steelers v Dallas Cowboys,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,2.5,21,Pointsbet,1953524,71254620,15
-Pittsburgh Steelers v Dallas Cowboys,Connor Heyward,Pittsburgh Steelers,Player Touchdowns,0.5,23,Pointsbet,1953524,71254617,9
+Pittsburgh Steelers v Dallas Cowboys,Calvin Austin,NA,Player Touchdowns,2.5,601,Pointsbet,1953524,71254620,8
+Pittsburgh Steelers v Dallas Cowboys,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,0.5,2.2,Pointsbet,1953524,71254617,16
+Pittsburgh Steelers v Dallas Cowboys,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,1.5,7.5,Pointsbet,1953524,71254619,15
+Pittsburgh Steelers v Dallas Cowboys,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,2.5,46,Pointsbet,1953524,71254620,15
+Pittsburgh Steelers v Dallas Cowboys,Connor Heyward,Pittsburgh Steelers,Player Touchdowns,0.5,21,Pointsbet,1953524,71254617,9
 Pittsburgh Steelers v Dallas Cowboys,Connor Heyward,Pittsburgh Steelers,Player Touchdowns,1.5,351,Pointsbet,1953524,71254619,9
-Pittsburgh Steelers v Dallas Cowboys,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,0.5,4.2,Pointsbet,1953524,71254617,1
-Pittsburgh Steelers v Dallas Cowboys,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,1.5,21,Pointsbet,1953524,71254619,1
-Pittsburgh Steelers v Dallas Cowboys,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,2.5,201,Pointsbet,1953524,71254620,1
-Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Player Touchdowns,0.5,9,Pointsbet,1953524,71254617,14
-Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Player Touchdowns,1.5,71,Pointsbet,1953524,71254619,13
-Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Player Touchdowns,2.5,401,Pointsbet,1953524,71254620,13
-Pittsburgh Steelers v Dallas Cowboys,Dallas Cowboys D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953524,71254617,27
-Pittsburgh Steelers v Dallas Cowboys,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,0.5,9,Pointsbet,1953524,71254617,11
-Pittsburgh Steelers v Dallas Cowboys,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,1.5,101,Pointsbet,1953524,71254619,11
+Pittsburgh Steelers v Dallas Cowboys,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,0.5,3.9,Pointsbet,1953524,71254617,1
+Pittsburgh Steelers v Dallas Cowboys,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,1.5,19,Pointsbet,1953524,71254619,1
+Pittsburgh Steelers v Dallas Cowboys,Cordarrelle Patterson,Pittsburgh Steelers,Player Touchdowns,2.5,351,Pointsbet,1953524,71254620,1
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Player Touchdowns,0.5,7,Pointsbet,1953524,71254617,14
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Player Touchdowns,1.5,61,Pointsbet,1953524,71254619,13
+Pittsburgh Steelers v Dallas Cowboys,Dak Prescott,Dallas Cowboys,Player Touchdowns,2.5,501,Pointsbet,1953524,71254620,13
+Pittsburgh Steelers v Dallas Cowboys,Dallas Cowboys D/St,NA,Player Touchdowns,0.5,6.5,Pointsbet,1953524,71254617,27
+Pittsburgh Steelers v Dallas Cowboys,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,0.5,10,Pointsbet,1953524,71254617,11
+Pittsburgh Steelers v Dallas Cowboys,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,1.5,91,Pointsbet,1953524,71254619,11
 Pittsburgh Steelers v Dallas Cowboys,Darnell Washington,Pittsburgh Steelers,Player Touchdowns,2.5,701,Pointsbet,1953524,71254620,11
-Pittsburgh Steelers v Dallas Cowboys,Deuce Vaughn,Dallas Cowboys,Player Touchdowns,0.5,15,Pointsbet,1953524,71254617,21
-Pittsburgh Steelers v Dallas Cowboys,Deuce Vaughn,Dallas Cowboys,Player Touchdowns,1.5,301,Pointsbet,1953524,71254619,20
-Pittsburgh Steelers v Dallas Cowboys,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,0.5,5,Pointsbet,1953524,71254617,15
-Pittsburgh Steelers v Dallas Cowboys,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,1.5,41,Pointsbet,1953524,71254619,14
-Pittsburgh Steelers v Dallas Cowboys,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,2.5,501,Pointsbet,1953524,71254620,14
-Pittsburgh Steelers v Dallas Cowboys,George Pickens,Pittsburgh Steelers,Player Touchdowns,0.5,2.7,Pointsbet,1953524,71254617,7
-Pittsburgh Steelers v Dallas Cowboys,George Pickens,Pittsburgh Steelers,Player Touchdowns,1.5,11.5,Pointsbet,1953524,71254619,7
-Pittsburgh Steelers v Dallas Cowboys,George Pickens,Pittsburgh Steelers,Player Touchdowns,2.5,67,Pointsbet,1953524,71254620,7
-Pittsburgh Steelers v Dallas Cowboys,Hunter Luepke,Dallas Cowboys,Player Touchdowns,0.5,9,Pointsbet,1953524,71254617,22
-Pittsburgh Steelers v Dallas Cowboys,Hunter Luepke,Dallas Cowboys,Player Touchdowns,1.5,81,Pointsbet,1953524,71254619,21
-Pittsburgh Steelers v Dallas Cowboys,Hunter Luepke,Dallas Cowboys,Player Touchdowns,2.5,701,Pointsbet,1953524,71254620,21
-Pittsburgh Steelers v Dallas Cowboys,Jake Ferguson,Dallas Cowboys,Player Touchdowns,0.5,3.6,Pointsbet,1953524,71254617,20
-Pittsburgh Steelers v Dallas Cowboys,Jake Ferguson,Dallas Cowboys,Player Touchdowns,1.5,18,Pointsbet,1953524,71254619,19
+Pittsburgh Steelers v Dallas Cowboys,Deuce Vaughn,Dallas Cowboys,Player Touchdowns,0.5,19,Pointsbet,1953524,71254617,21
+Pittsburgh Steelers v Dallas Cowboys,Deuce Vaughn,Dallas Cowboys,Player Touchdowns,1.5,401,Pointsbet,1953524,71254619,20
+Pittsburgh Steelers v Dallas Cowboys,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,0.5,3.7,Pointsbet,1953524,71254617,15
+Pittsburgh Steelers v Dallas Cowboys,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,1.5,18,Pointsbet,1953524,71254619,14
+Pittsburgh Steelers v Dallas Cowboys,Ezekiel Elliott,Dallas Cowboys,Player Touchdowns,2.5,351,Pointsbet,1953524,71254620,14
+Pittsburgh Steelers v Dallas Cowboys,George Pickens,Pittsburgh Steelers,Player Touchdowns,0.5,2.75,Pointsbet,1953524,71254617,7
+Pittsburgh Steelers v Dallas Cowboys,George Pickens,Pittsburgh Steelers,Player Touchdowns,1.5,12,Pointsbet,1953524,71254619,7
+Pittsburgh Steelers v Dallas Cowboys,George Pickens,Pittsburgh Steelers,Player Touchdowns,2.5,71,Pointsbet,1953524,71254620,7
+Pittsburgh Steelers v Dallas Cowboys,Hunter Luepke,Dallas Cowboys,Player Touchdowns,0.5,10.5,Pointsbet,1953524,71254617,22
+Pittsburgh Steelers v Dallas Cowboys,Hunter Luepke,Dallas Cowboys,Player Touchdowns,1.5,151,Pointsbet,1953524,71254619,21
+Pittsburgh Steelers v Dallas Cowboys,Jake Ferguson,Dallas Cowboys,Player Touchdowns,0.5,4,Pointsbet,1953524,71254617,20
+Pittsburgh Steelers v Dallas Cowboys,Jake Ferguson,Dallas Cowboys,Player Touchdowns,1.5,21,Pointsbet,1953524,71254619,19
 Pittsburgh Steelers v Dallas Cowboys,Jake Ferguson,Dallas Cowboys,Player Touchdowns,2.5,301,Pointsbet,1953524,71254620,19
-Pittsburgh Steelers v Dallas Cowboys,Jalen Brooks,Dallas Cowboys,Player Touchdowns,0.5,8.5,Pointsbet,1953524,71254617,23
-Pittsburgh Steelers v Dallas Cowboys,Jalen Brooks,Dallas Cowboys,Player Touchdowns,1.5,61,Pointsbet,1953524,71254619,22
-Pittsburgh Steelers v Dallas Cowboys,Jalen Brooks,Dallas Cowboys,Player Touchdowns,2.5,601,Pointsbet,1953524,71254620,22
-Pittsburgh Steelers v Dallas Cowboys,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,0.5,3.6,Pointsbet,1953524,71254617,19
-Pittsburgh Steelers v Dallas Cowboys,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,1.5,18,Pointsbet,1953524,71254619,18
-Pittsburgh Steelers v Dallas Cowboys,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,2.5,176,Pointsbet,1953524,71254620,18
+Pittsburgh Steelers v Dallas Cowboys,Jalen Brooks,Dallas Cowboys,Player Touchdowns,0.5,9.5,Pointsbet,1953524,71254617,23
+Pittsburgh Steelers v Dallas Cowboys,Jalen Brooks,Dallas Cowboys,Player Touchdowns,1.5,91,Pointsbet,1953524,71254619,22
+Pittsburgh Steelers v Dallas Cowboys,Jalen Brooks,Dallas Cowboys,Player Touchdowns,2.5,701,Pointsbet,1953524,71254620,22
+Pittsburgh Steelers v Dallas Cowboys,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,0.5,4,Pointsbet,1953524,71254617,19
+Pittsburgh Steelers v Dallas Cowboys,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,1.5,21,Pointsbet,1953524,71254619,18
+Pittsburgh Steelers v Dallas Cowboys,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,2.5,301,Pointsbet,1953524,71254620,18
 Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Player Touchdowns,0.5,2.5,Pointsbet,1953524,71254617,6
-Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Player Touchdowns,1.5,11,Pointsbet,1953524,71254619,6
-Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Player Touchdowns,2.5,61,Pointsbet,1953524,71254620,6
-Pittsburgh Steelers v Dallas Cowboys,Kavontae Turpin,NA,Player Touchdowns,0.5,5,Pointsbet,1953524,71254617,18
-Pittsburgh Steelers v Dallas Cowboys,Kavontae Turpin,NA,Player Touchdowns,1.5,41,Pointsbet,1953524,71254619,17
-Pittsburgh Steelers v Dallas Cowboys,Kavontae Turpin,NA,Player Touchdowns,2.5,601,Pointsbet,1953524,71254620,17
-Pittsburgh Steelers v Dallas Cowboys,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,0.5,15,Pointsbet,1953524,71254617,24
-Pittsburgh Steelers v Dallas Cowboys,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,1.5,151,Pointsbet,1953524,71254619,23
-Pittsburgh Steelers v Dallas Cowboys,Najee Harris,Pittsburgh Steelers,Player Touchdowns,0.5,1.9,Pointsbet,1953524,71254617,4
-Pittsburgh Steelers v Dallas Cowboys,Najee Harris,Pittsburgh Steelers,Player Touchdowns,1.5,6.5,Pointsbet,1953524,71254619,4
-Pittsburgh Steelers v Dallas Cowboys,Najee Harris,Pittsburgh Steelers,Player Touchdowns,2.5,23,Pointsbet,1953524,71254620,4
-Pittsburgh Steelers v Dallas Cowboys,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,0.5,3.9,Pointsbet,1953524,71254617,5
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Player Touchdowns,1.5,9.5,Pointsbet,1953524,71254619,6
+Pittsburgh Steelers v Dallas Cowboys,Justin Fields,Pittsburgh Steelers,Player Touchdowns,2.5,51,Pointsbet,1953524,71254620,6
+Pittsburgh Steelers v Dallas Cowboys,Kavontae Turpin,NA,Player Touchdowns,0.5,6,Pointsbet,1953524,71254617,18
+Pittsburgh Steelers v Dallas Cowboys,Kavontae Turpin,NA,Player Touchdowns,1.5,46,Pointsbet,1953524,71254619,17
+Pittsburgh Steelers v Dallas Cowboys,Kavontae Turpin,NA,Player Touchdowns,2.5,401,Pointsbet,1953524,71254620,17
+Pittsburgh Steelers v Dallas Cowboys,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,0.5,11,Pointsbet,1953524,71254617,24
+Pittsburgh Steelers v Dallas Cowboys,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,1.5,126,Pointsbet,1953524,71254619,23
+Pittsburgh Steelers v Dallas Cowboys,Najee Harris,Pittsburgh Steelers,Player Touchdowns,0.5,1.95,Pointsbet,1953524,71254617,4
+Pittsburgh Steelers v Dallas Cowboys,Najee Harris,Pittsburgh Steelers,Player Touchdowns,1.5,6,Pointsbet,1953524,71254619,4
+Pittsburgh Steelers v Dallas Cowboys,Najee Harris,Pittsburgh Steelers,Player Touchdowns,2.5,21,Pointsbet,1953524,71254620,4
+Pittsburgh Steelers v Dallas Cowboys,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,0.5,4,Pointsbet,1953524,71254617,5
 Pittsburgh Steelers v Dallas Cowboys,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,1.5,21,Pointsbet,1953524,71254619,5
-Pittsburgh Steelers v Dallas Cowboys,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,2.5,126,Pointsbet,1953524,71254620,5
+Pittsburgh Steelers v Dallas Cowboys,Pat Freiermuth,Pittsburgh Steelers,Player Touchdowns,2.5,351,Pointsbet,1953524,71254620,5
 Pittsburgh Steelers v Dallas Cowboys,Pittsburgh Steelers D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953524,71254617,13
-Pittsburgh Steelers v Dallas Cowboys,Rico Dowdle,Dallas Cowboys,Player Touchdowns,0.5,3.1,Pointsbet,1953524,71254617,17
-Pittsburgh Steelers v Dallas Cowboys,Rico Dowdle,Dallas Cowboys,Player Touchdowns,1.5,15,Pointsbet,1953524,71254619,16
-Pittsburgh Steelers v Dallas Cowboys,Rico Dowdle,Dallas Cowboys,Player Touchdowns,2.5,101,Pointsbet,1953524,71254620,16
-Pittsburgh Steelers v Dallas Cowboys,Rodney Williams,NA,Player Touchdowns,0.5,23,Pointsbet,1953524,71254617,10
-Pittsburgh Steelers v Dallas Cowboys,Rodney Williams,NA,Player Touchdowns,1.5,501,Pointsbet,1953524,71254619,10
-Pittsburgh Steelers v Dallas Cowboys,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,0.5,8,Pointsbet,1953524,71254617,25
-Pittsburgh Steelers v Dallas Cowboys,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,1.5,61,Pointsbet,1953524,71254619,24
-Pittsburgh Steelers v Dallas Cowboys,Scott Miller,Pittsburgh Steelers,Player Touchdowns,0.5,11,Pointsbet,1953524,71254617,2
-Pittsburgh Steelers v Dallas Cowboys,Scott Miller,Pittsburgh Steelers,Player Touchdowns,1.5,201,Pointsbet,1953524,71254619,2
-Pittsburgh Steelers v Dallas Cowboys,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,0.5,6,Pointsbet,1953524,71254617,3
-Pittsburgh Steelers v Dallas Cowboys,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,1.5,46,Pointsbet,1953524,71254619,3
-Pittsburgh Steelers v Dallas Cowboys,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,2.5,601,Pointsbet,1953524,71254620,3
-Washington Commanders v Cleveland Browns,Amari Cooper,Cleveland Browns,Player Touchdowns,0.5,3.25,Pointsbet,1953301,71200760,19
-Washington Commanders v Cleveland Browns,Amari Cooper,Cleveland Browns,Player Touchdowns,1.5,15,Pointsbet,1953301,71200762,18
-Washington Commanders v Cleveland Browns,Amari Cooper,Cleveland Browns,Player Touchdowns,2.5,126,Pointsbet,1953301,71200763,18
-Washington Commanders v Cleveland Browns,Austin Ekeler,Washington Commanders,Player Touchdowns,0.5,2.1,Pointsbet,1953301,71200760,2
-Washington Commanders v Cleveland Browns,Austin Ekeler,Washington Commanders,Player Touchdowns,1.5,7,Pointsbet,1953301,71200762,2
-Washington Commanders v Cleveland Browns,Austin Ekeler,Washington Commanders,Player Touchdowns,2.5,26,Pointsbet,1953301,71200763,2
-Washington Commanders v Cleveland Browns,Ben Sinnott,Washington Commanders,Player Touchdowns,0.5,11,Pointsbet,1953301,71200760,12
-Washington Commanders v Cleveland Browns,Ben Sinnott,Washington Commanders,Player Touchdowns,1.5,301,Pointsbet,1953301,71200762,12
-Washington Commanders v Cleveland Browns,Blake Whiteheart,Cleveland Browns,Player Touchdowns,0.5,15,Pointsbet,1953301,71200760,26
-Washington Commanders v Cleveland Browns,Blake Whiteheart,Cleveland Browns,Player Touchdowns,1.5,201,Pointsbet,1953301,71200762,25
+Pittsburgh Steelers v Dallas Cowboys,Rico Dowdle,Dallas Cowboys,Player Touchdowns,0.5,2.75,Pointsbet,1953524,71254617,17
+Pittsburgh Steelers v Dallas Cowboys,Rico Dowdle,Dallas Cowboys,Player Touchdowns,1.5,12,Pointsbet,1953524,71254619,16
+Pittsburgh Steelers v Dallas Cowboys,Rico Dowdle,Dallas Cowboys,Player Touchdowns,2.5,67,Pointsbet,1953524,71254620,16
+Pittsburgh Steelers v Dallas Cowboys,Rodney Williams,NA,Player Touchdowns,0.5,21,Pointsbet,1953524,71254617,10
+Pittsburgh Steelers v Dallas Cowboys,Rodney Williams,NA,Player Touchdowns,1.5,351,Pointsbet,1953524,71254619,10
+Pittsburgh Steelers v Dallas Cowboys,Rodney Williams,NA,Player Touchdowns,2.5,701,Pointsbet,1953524,71254620,10
+Pittsburgh Steelers v Dallas Cowboys,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,0.5,9,Pointsbet,1953524,71254617,25
+Pittsburgh Steelers v Dallas Cowboys,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,1.5,81,Pointsbet,1953524,71254619,24
+Pittsburgh Steelers v Dallas Cowboys,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,2.5,601,Pointsbet,1953524,71254620,24
+Pittsburgh Steelers v Dallas Cowboys,Scott Miller,Pittsburgh Steelers,Player Touchdowns,0.5,10.5,Pointsbet,1953524,71254617,2
+Pittsburgh Steelers v Dallas Cowboys,Scott Miller,Pittsburgh Steelers,Player Touchdowns,1.5,101,Pointsbet,1953524,71254619,2
+Pittsburgh Steelers v Dallas Cowboys,Scott Miller,Pittsburgh Steelers,Player Touchdowns,2.5,701,Pointsbet,1953524,71254620,2
+Pittsburgh Steelers v Dallas Cowboys,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,0.5,7,Pointsbet,1953524,71254617,3
+Pittsburgh Steelers v Dallas Cowboys,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,1.5,67,Pointsbet,1953524,71254619,3
+Pittsburgh Steelers v Dallas Cowboys,Van Jefferson,Pittsburgh Steelers,Player Touchdowns,2.5,401,Pointsbet,1953524,71254620,3
+San Francisco 49ers v Arizona Cardinals,Arizona Cardinals D/St,NA,Player Touchdowns,0.5,7,Pointsbet,1953417,71359358,27
+San Francisco 49ers v Arizona Cardinals,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,0.5,2.7,Pointsbet,1953417,71359358,7
+San Francisco 49ers v Arizona Cardinals,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,1.5,11,Pointsbet,1953417,71359360,7
+San Francisco 49ers v Arizona Cardinals,Brandon Aiyuk,San Francisco 49ers,Player Touchdowns,2.5,67,Pointsbet,1953417,71359361,7
+San Francisco 49ers v Arizona Cardinals,Brock Purdy,San Francisco 49ers,Player Touchdowns,0.5,6.5,Pointsbet,1953417,71359358,10
+San Francisco 49ers v Arizona Cardinals,Brock Purdy,San Francisco 49ers,Player Touchdowns,1.5,51,Pointsbet,1953417,71359360,10
+San Francisco 49ers v Arizona Cardinals,Chris Conley,San Francisco 49ers,Player Touchdowns,0.5,19,Pointsbet,1953417,71359358,1
+San Francisco 49ers v Arizona Cardinals,Chris Conley,San Francisco 49ers,Player Touchdowns,1.5,351,Pointsbet,1953417,71359360,1
+San Francisco 49ers v Arizona Cardinals,Chris Moore,Arizona Cardinals,Player Touchdowns,0.5,20,Pointsbet,1953417,71359358,14
+San Francisco 49ers v Arizona Cardinals,Chris Moore,Arizona Cardinals,Player Touchdowns,1.5,401,Pointsbet,1953417,71359360,13
+San Francisco 49ers v Arizona Cardinals,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,0.5,1.87,Pointsbet,1953417,71359358,5
+San Francisco 49ers v Arizona Cardinals,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,1.5,6,Pointsbet,1953417,71359360,5
+San Francisco 49ers v Arizona Cardinals,Deebo Samuel Sr.,San Francisco 49ers,Player Touchdowns,2.5,23,Pointsbet,1953417,71359361,5
+San Francisco 49ers v Arizona Cardinals,Deejay Dallas,NA,Player Touchdowns,0.5,31,Pointsbet,1953417,71359358,19
+San Francisco 49ers v Arizona Cardinals,Deejay Dallas,NA,Player Touchdowns,1.5,501,Pointsbet,1953417,71359360,18
+San Francisco 49ers v Arizona Cardinals,Elijah Higgins,Arizona Cardinals,Player Touchdowns,0.5,10.5,Pointsbet,1953417,71359358,21
+San Francisco 49ers v Arizona Cardinals,Elijah Higgins,Arizona Cardinals,Player Touchdowns,1.5,91,Pointsbet,1953417,71359360,20
+San Francisco 49ers v Arizona Cardinals,Emari Demercado,Arizona Cardinals,Player Touchdowns,0.5,11,Pointsbet,1953417,71359358,23
+San Francisco 49ers v Arizona Cardinals,Emari Demercado,Arizona Cardinals,Player Touchdowns,1.5,176,Pointsbet,1953417,71359360,22
+San Francisco 49ers v Arizona Cardinals,Eric Saubert,San Francisco 49ers,Player Touchdowns,0.5,8.5,Pointsbet,1953417,71359358,2
+San Francisco 49ers v Arizona Cardinals,Eric Saubert,San Francisco 49ers,Player Touchdowns,1.5,61,Pointsbet,1953417,71359360,2
+San Francisco 49ers v Arizona Cardinals,Eric Saubert,San Francisco 49ers,Player Touchdowns,2.5,601,Pointsbet,1953417,71359361,2
+San Francisco 49ers v Arizona Cardinals,George Kittle,San Francisco 49ers,Player Touchdowns,0.5,2.55,Pointsbet,1953417,71359358,3
+San Francisco 49ers v Arizona Cardinals,George Kittle,San Francisco 49ers,Player Touchdowns,1.5,11,Pointsbet,1953417,71359360,3
+San Francisco 49ers v Arizona Cardinals,George Kittle,San Francisco 49ers,Player Touchdowns,2.5,61,Pointsbet,1953417,71359361,3
+San Francisco 49ers v Arizona Cardinals,Greg Dortch,Arizona Cardinals,Player Touchdowns,0.5,5,Pointsbet,1953417,71359358,17
+San Francisco 49ers v Arizona Cardinals,Greg Dortch,Arizona Cardinals,Player Touchdowns,1.5,46,Pointsbet,1953417,71359360,16
+San Francisco 49ers v Arizona Cardinals,Greg Dortch,Arizona Cardinals,Player Touchdowns,2.5,401,Pointsbet,1953417,71359361,16
+San Francisco 49ers v Arizona Cardinals,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,0.5,5.75,Pointsbet,1953417,71359358,12
+San Francisco 49ers v Arizona Cardinals,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,1.5,46,Pointsbet,1953417,71359360,12
+San Francisco 49ers v Arizona Cardinals,Isaac Guerendo,San Francisco 49ers,Player Touchdowns,2.5,601,Pointsbet,1953417,71359361,12
+San Francisco 49ers v Arizona Cardinals,Jake Tonges,San Francisco 49ers,Player Touchdowns,0.5,8,Pointsbet,1953417,71359358,9
+San Francisco 49ers v Arizona Cardinals,Jake Tonges,San Francisco 49ers,Player Touchdowns,1.5,67,Pointsbet,1953417,71359360,9
+San Francisco 49ers v Arizona Cardinals,Jake Tonges,San Francisco 49ers,Player Touchdowns,2.5,601,Pointsbet,1953417,71359361,9
+San Francisco 49ers v Arizona Cardinals,James Conner,Arizona Cardinals,Player Touchdowns,0.5,2,Pointsbet,1953417,71359358,15
+San Francisco 49ers v Arizona Cardinals,James Conner,Arizona Cardinals,Player Touchdowns,1.5,7,Pointsbet,1953417,71359360,14
+San Francisco 49ers v Arizona Cardinals,James Conner,Arizona Cardinals,Player Touchdowns,2.5,29,Pointsbet,1953417,71359361,14
+San Francisco 49ers v Arizona Cardinals,Jauan Jennings,San Francisco 49ers,Player Touchdowns,0.5,3.25,Pointsbet,1953417,71359358,6
+San Francisco 49ers v Arizona Cardinals,Jauan Jennings,San Francisco 49ers,Player Touchdowns,1.5,15,Pointsbet,1953417,71359360,6
+San Francisco 49ers v Arizona Cardinals,Jauan Jennings,San Francisco 49ers,Player Touchdowns,2.5,81,Pointsbet,1953417,71359361,6
+San Francisco 49ers v Arizona Cardinals,Jordan Mason,San Francisco 49ers,Player Touchdowns,0.5,1.42,Pointsbet,1953417,71359358,11
+San Francisco 49ers v Arizona Cardinals,Jordan Mason,San Francisco 49ers,Player Touchdowns,1.5,3.5,Pointsbet,1953417,71359360,11
+San Francisco 49ers v Arizona Cardinals,Jordan Mason,San Francisco 49ers,Player Touchdowns,2.5,11.5,Pointsbet,1953417,71359361,11
+San Francisco 49ers v Arizona Cardinals,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,0.5,6,Pointsbet,1953417,71359358,4
+San Francisco 49ers v Arizona Cardinals,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,1.5,51,Pointsbet,1953417,71359360,4
+San Francisco 49ers v Arizona Cardinals,Kyle Juszczyk,San Francisco 49ers,Player Touchdowns,2.5,351,Pointsbet,1953417,71359361,4
+San Francisco 49ers v Arizona Cardinals,Kyler Murray,Arizona Cardinals,Player Touchdowns,0.5,3.9,Pointsbet,1953417,71359358,18
+San Francisco 49ers v Arizona Cardinals,Kyler Murray,Arizona Cardinals,Player Touchdowns,1.5,21,Pointsbet,1953417,71359360,17
+San Francisco 49ers v Arizona Cardinals,Kyler Murray,Arizona Cardinals,Player Touchdowns,2.5,176,Pointsbet,1953417,71359361,17
+San Francisco 49ers v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Player Touchdowns,0.5,2.6,Pointsbet,1953417,71359358,25
+San Francisco 49ers v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Player Touchdowns,1.5,11.5,Pointsbet,1953417,71359360,24
+San Francisco 49ers v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Player Touchdowns,2.5,71,Pointsbet,1953417,71359361,24
+San Francisco 49ers v Arizona Cardinals,Michael Wilson,Arizona Cardinals,Player Touchdowns,0.5,4.2,Pointsbet,1953417,71359358,22
+San Francisco 49ers v Arizona Cardinals,Michael Wilson,Arizona Cardinals,Player Touchdowns,1.5,21,Pointsbet,1953417,71359360,21
+San Francisco 49ers v Arizona Cardinals,Michael Wilson,Arizona Cardinals,Player Touchdowns,2.5,201,Pointsbet,1953417,71359361,21
+San Francisco 49ers v Arizona Cardinals,Patrick Taylor,San Francisco 49ers,Player Touchdowns,0.5,5.75,Pointsbet,1953417,71359358,8
+San Francisco 49ers v Arizona Cardinals,Patrick Taylor,San Francisco 49ers,Player Touchdowns,1.5,46,Pointsbet,1953417,71359360,8
+San Francisco 49ers v Arizona Cardinals,Patrick Taylor,San Francisco 49ers,Player Touchdowns,2.5,401,Pointsbet,1953417,71359361,8
+San Francisco 49ers v Arizona Cardinals,San Francisco 49ers D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953417,71359358,13
+San Francisco 49ers v Arizona Cardinals,Tip Reiman,Arizona Cardinals,Player Touchdowns,0.5,9.5,Pointsbet,1953417,71359358,24
+San Francisco 49ers v Arizona Cardinals,Tip Reiman,Arizona Cardinals,Player Touchdowns,1.5,81,Pointsbet,1953417,71359360,23
+San Francisco 49ers v Arizona Cardinals,Tip Reiman,Arizona Cardinals,Player Touchdowns,2.5,601,Pointsbet,1953417,71359361,23
+San Francisco 49ers v Arizona Cardinals,Trey Benson,Arizona Cardinals,Player Touchdowns,0.5,9.5,Pointsbet,1953417,71359358,26
+San Francisco 49ers v Arizona Cardinals,Trey Benson,Arizona Cardinals,Player Touchdowns,1.5,71,Pointsbet,1953417,71359360,25
+San Francisco 49ers v Arizona Cardinals,Trey McBride,Arizona Cardinals,Player Touchdowns,0.5,3.1,Pointsbet,1953417,71359358,20
+San Francisco 49ers v Arizona Cardinals,Trey McBride,Arizona Cardinals,Player Touchdowns,1.5,14,Pointsbet,1953417,71359360,19
+San Francisco 49ers v Arizona Cardinals,Trey McBride,Arizona Cardinals,Player Touchdowns,2.5,101,Pointsbet,1953417,71359361,19
+San Francisco 49ers v Arizona Cardinals,Zach Pascal,Arizona Cardinals,Player Touchdowns,0.5,20,Pointsbet,1953417,71359358,16
+San Francisco 49ers v Arizona Cardinals,Zach Pascal,Arizona Cardinals,Player Touchdowns,1.5,301,Pointsbet,1953417,71359360,15
+Seattle Seahawks v New York Giants,Aj Barner,NA,Player Touchdowns,0.5,9,Pointsbet,1953463,71305799,14
+Seattle Seahawks v New York Giants,Aj Barner,NA,Player Touchdowns,1.5,71,Pointsbet,1953463,71305801,14
+Seattle Seahawks v New York Giants,Aj Barner,NA,Player Touchdowns,2.5,701,Pointsbet,1953463,71305802,14
+Seattle Seahawks v New York Giants,Brady Russell,Seattle Seahawks,Player Touchdowns,0.5,31,Pointsbet,1953463,71305799,9
+Seattle Seahawks v New York Giants,Brady Russell,Seattle Seahawks,Player Touchdowns,1.5,401,Pointsbet,1953463,71305801,9
+Seattle Seahawks v New York Giants,Bryce Ford-Wheaton,New York Giants,Player Touchdowns,0.5,16,Pointsbet,1953463,71305799,22
+Seattle Seahawks v New York Giants,Bryce Ford-Wheaton,New York Giants,Player Touchdowns,1.5,301,Pointsbet,1953463,71305801,21
+Seattle Seahawks v New York Giants,Chris Manhertz,New York Giants,Player Touchdowns,0.5,26,Pointsbet,1953463,71305799,16
+Seattle Seahawks v New York Giants,Chris Manhertz,New York Giants,Player Touchdowns,1.5,351,Pointsbet,1953463,71305801,15
+Seattle Seahawks v New York Giants,DK Metcalf,Seattle Seahawks,Player Touchdowns,0.5,2.5,Pointsbet,1953463,71305799,5
+Seattle Seahawks v New York Giants,DK Metcalf,Seattle Seahawks,Player Touchdowns,1.5,10,Pointsbet,1953463,71305801,5
+Seattle Seahawks v New York Giants,DK Metcalf,Seattle Seahawks,Player Touchdowns,2.5,61,Pointsbet,1953463,71305802,5
+Seattle Seahawks v New York Giants,Daniel Bellinger,New York Giants,Player Touchdowns,0.5,19,Pointsbet,1953463,71305799,21
+Seattle Seahawks v New York Giants,Daniel Bellinger,New York Giants,Player Touchdowns,1.5,301,Pointsbet,1953463,71305801,20
+Seattle Seahawks v New York Giants,Daniel Jones,New York Giants,Player Touchdowns,0.5,3.6,Pointsbet,1953463,71305799,17
+Seattle Seahawks v New York Giants,Daniel Jones,New York Giants,Player Touchdowns,1.5,18,Pointsbet,1953463,71305801,16
+Seattle Seahawks v New York Giants,Daniel Jones,New York Giants,Player Touchdowns,2.5,126,Pointsbet,1953463,71305802,16
+Seattle Seahawks v New York Giants,Dareke Young,Seattle Seahawks,Player Touchdowns,0.5,26,Pointsbet,1953463,71305799,8
+Seattle Seahawks v New York Giants,Dareke Young,Seattle Seahawks,Player Touchdowns,1.5,501,Pointsbet,1953463,71305801,8
+Seattle Seahawks v New York Giants,Darius Slayton,New York Giants,Player Touchdowns,0.5,3.6,Pointsbet,1953463,71305799,18
+Seattle Seahawks v New York Giants,Darius Slayton,New York Giants,Player Touchdowns,1.5,18,Pointsbet,1953463,71305801,17
+Seattle Seahawks v New York Giants,Darius Slayton,New York Giants,Player Touchdowns,2.5,151,Pointsbet,1953463,71305802,17
+Seattle Seahawks v New York Giants,Eric Gray,New York Giants,Player Touchdowns,0.5,6.5,Pointsbet,1953463,71305799,23
+Seattle Seahawks v New York Giants,Eric Gray,New York Giants,Player Touchdowns,1.5,51,Pointsbet,1953463,71305801,22
+Seattle Seahawks v New York Giants,Eric Gray,New York Giants,Player Touchdowns,2.5,601,Pointsbet,1953463,71305802,22
+Seattle Seahawks v New York Giants,Geno Smith,Seattle Seahawks,Player Touchdowns,0.5,5.75,Pointsbet,1953463,71305799,2
+Seattle Seahawks v New York Giants,Geno Smith,Seattle Seahawks,Player Touchdowns,1.5,41,Pointsbet,1953463,71305801,2
+Seattle Seahawks v New York Giants,Geno Smith,Seattle Seahawks,Player Touchdowns,2.5,401,Pointsbet,1953463,71305802,2
+Seattle Seahawks v New York Giants,Ihmir Smith-Marsette,New York Giants,Player Touchdowns,0.5,15,Pointsbet,1953463,71305799,19
+Seattle Seahawks v New York Giants,Ihmir Smith-Marsette,New York Giants,Player Touchdowns,1.5,201,Pointsbet,1953463,71305801,18
+Seattle Seahawks v New York Giants,Jake Bobo,Seattle Seahawks,Player Touchdowns,0.5,9.5,Pointsbet,1953463,71305799,11
+Seattle Seahawks v New York Giants,Jake Bobo,Seattle Seahawks,Player Touchdowns,1.5,81,Pointsbet,1953463,71305801,11
+Seattle Seahawks v New York Giants,Jake Bobo,Seattle Seahawks,Player Touchdowns,2.5,701,Pointsbet,1953463,71305802,11
+Seattle Seahawks v New York Giants,Jalin Hyatt,New York Giants,Player Touchdowns,0.5,6,Pointsbet,1953463,71305799,24
+Seattle Seahawks v New York Giants,Jalin Hyatt,New York Giants,Player Touchdowns,1.5,51,Pointsbet,1953463,71305801,23
+Seattle Seahawks v New York Giants,Jalin Hyatt,New York Giants,Player Touchdowns,2.5,601,Pointsbet,1953463,71305802,23
+Seattle Seahawks v New York Giants,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,0.5,3,Pointsbet,1953463,71305799,10
+Seattle Seahawks v New York Giants,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,1.5,13,Pointsbet,1953463,71305801,10
+Seattle Seahawks v New York Giants,Jaxon Smith-Njigba,Seattle Seahawks,Player Touchdowns,2.5,91,Pointsbet,1953463,71305802,10
+Seattle Seahawks v New York Giants,Kenneth Walker III,Seattle Seahawks,Player Touchdowns,0.5,1.65,Pointsbet,1953463,71305799,7
+Seattle Seahawks v New York Giants,Kenneth Walker III,Seattle Seahawks,Player Touchdowns,1.5,4.3,Pointsbet,1953463,71305801,7
+Seattle Seahawks v New York Giants,Kenneth Walker III,Seattle Seahawks,Player Touchdowns,2.5,15,Pointsbet,1953463,71305802,7
+Seattle Seahawks v New York Giants,Kenny Mcintosh,NA,Player Touchdowns,0.5,21,Pointsbet,1953463,71305799,12
+Seattle Seahawks v New York Giants,Kenny Mcintosh,NA,Player Touchdowns,1.5,501,Pointsbet,1953463,71305801,12
+Seattle Seahawks v New York Giants,Laviska Shenault Jr,NA,Player Touchdowns,0.5,13,Pointsbet,1953463,71305799,6
+Seattle Seahawks v New York Giants,Laviska Shenault Jr,NA,Player Touchdowns,1.5,101,Pointsbet,1953463,71305801,6
+Seattle Seahawks v New York Giants,New York Giants D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953463,71305799,27
+Seattle Seahawks v New York Giants,Noah Fant,Seattle Seahawks,Player Touchdowns,0.5,6,Pointsbet,1953463,71305799,4
+Seattle Seahawks v New York Giants,Noah Fant,Seattle Seahawks,Player Touchdowns,1.5,46,Pointsbet,1953463,71305801,4
+Seattle Seahawks v New York Giants,Noah Fant,Seattle Seahawks,Player Touchdowns,2.5,601,Pointsbet,1953463,71305802,4
+Seattle Seahawks v New York Giants,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,0.5,17,Pointsbet,1953463,71305799,1
+Seattle Seahawks v New York Giants,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,1.5,301,Pointsbet,1953463,71305801,1
+Seattle Seahawks v New York Giants,Pharaoh Brown,Seattle Seahawks,Player Touchdowns,2.5,601,Pointsbet,1953463,71305802,1
+Seattle Seahawks v New York Giants,Seattle Seahawks D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953463,71305799,15
+Seattle Seahawks v New York Giants,Theo Johnson,New York Giants,Player Touchdowns,0.5,10,Pointsbet,1953463,71305799,25
+Seattle Seahawks v New York Giants,Theo Johnson,New York Giants,Player Touchdowns,1.5,101,Pointsbet,1953463,71305801,24
+Seattle Seahawks v New York Giants,Tyler Lockett,Seattle Seahawks,Player Touchdowns,0.5,3.6,Pointsbet,1953463,71305799,3
+Seattle Seahawks v New York Giants,Tyler Lockett,Seattle Seahawks,Player Touchdowns,1.5,18,Pointsbet,1953463,71305801,3
+Seattle Seahawks v New York Giants,Tyler Lockett,Seattle Seahawks,Player Touchdowns,2.5,126,Pointsbet,1953463,71305802,3
+Seattle Seahawks v New York Giants,Tyrone Tracy,NA,Player Touchdowns,0.5,2.3,Pointsbet,1953463,71305799,26
+Seattle Seahawks v New York Giants,Tyrone Tracy,NA,Player Touchdowns,1.5,9,Pointsbet,1953463,71305801,25
+Seattle Seahawks v New York Giants,Tyrone Tracy,NA,Player Touchdowns,2.5,51,Pointsbet,1953463,71305802,25
+Seattle Seahawks v New York Giants,Wan'Dale Robinson,New York Giants,Player Touchdowns,0.5,3.7,Pointsbet,1953463,71305799,20
+Seattle Seahawks v New York Giants,Wan'Dale Robinson,New York Giants,Player Touchdowns,1.5,18,Pointsbet,1953463,71305801,19
+Seattle Seahawks v New York Giants,Wan'Dale Robinson,New York Giants,Player Touchdowns,2.5,151,Pointsbet,1953463,71305802,19
+Seattle Seahawks v New York Giants,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,0.5,4,Pointsbet,1953463,71305799,13
+Seattle Seahawks v New York Giants,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,1.5,21,Pointsbet,1953463,71305801,13
+Seattle Seahawks v New York Giants,Zach Charbonnet,Seattle Seahawks,Player Touchdowns,2.5,351,Pointsbet,1953463,71305802,13
+Washington Commanders v Cleveland Browns,Amari Cooper,Cleveland Browns,Player Touchdowns,0.5,2.75,Pointsbet,1953301,71200760,19
+Washington Commanders v Cleveland Browns,Amari Cooper,Cleveland Browns,Player Touchdowns,1.5,12,Pointsbet,1953301,71200762,18
+Washington Commanders v Cleveland Browns,Amari Cooper,Cleveland Browns,Player Touchdowns,2.5,71,Pointsbet,1953301,71200763,18
+Washington Commanders v Cleveland Browns,Austin Ekeler,Washington Commanders,Player Touchdowns,0.5,2,Pointsbet,1953301,71200760,2
+Washington Commanders v Cleveland Browns,Austin Ekeler,Washington Commanders,Player Touchdowns,1.5,6.5,Pointsbet,1953301,71200762,2
+Washington Commanders v Cleveland Browns,Austin Ekeler,Washington Commanders,Player Touchdowns,2.5,29,Pointsbet,1953301,71200763,2
+Washington Commanders v Cleveland Browns,Ben Sinnott,Washington Commanders,Player Touchdowns,0.5,15,Pointsbet,1953301,71200760,12
+Washington Commanders v Cleveland Browns,Ben Sinnott,Washington Commanders,Player Touchdowns,1.5,351,Pointsbet,1953301,71200762,12
+Washington Commanders v Cleveland Browns,Blake Whiteheart,Cleveland Browns,Player Touchdowns,0.5,19,Pointsbet,1953301,71200760,26
+Washington Commanders v Cleveland Browns,Blake Whiteheart,Cleveland Browns,Player Touchdowns,1.5,301,Pointsbet,1953301,71200762,25
 Washington Commanders v Cleveland Browns,Brian Robinson,Washington Commanders,Player Touchdowns,0.5,2,Pointsbet,1953301,71200760,9
 Washington Commanders v Cleveland Browns,Brian Robinson,Washington Commanders,Player Touchdowns,1.5,6.5,Pointsbet,1953301,71200762,9
-Washington Commanders v Cleveland Browns,Brian Robinson,Washington Commanders,Player Touchdowns,2.5,21,Pointsbet,1953301,71200763,9
-Washington Commanders v Cleveland Browns,Cedric Tillman,Cleveland Browns,Player Touchdowns,0.5,10,Pointsbet,1953301,71200760,25
-Washington Commanders v Cleveland Browns,Cedric Tillman,Cleveland Browns,Player Touchdowns,1.5,91,Pointsbet,1953301,71200762,24
+Washington Commanders v Cleveland Browns,Brian Robinson,Washington Commanders,Player Touchdowns,2.5,26,Pointsbet,1953301,71200763,9
+Washington Commanders v Cleveland Browns,Cedric Tillman,Cleveland Browns,Player Touchdowns,0.5,10.5,Pointsbet,1953301,71200760,25
+Washington Commanders v Cleveland Browns,Cedric Tillman,Cleveland Browns,Player Touchdowns,1.5,81,Pointsbet,1953301,71200762,24
 Washington Commanders v Cleveland Browns,Cleveland Browns D/St,NA,Player Touchdowns,0.5,6,Pointsbet,1953301,71200760,27
-Washington Commanders v Cleveland Browns,D'onta Foreman,NA,Player Touchdowns,0.5,4.2,Pointsbet,1953301,71200760,15
+Washington Commanders v Cleveland Browns,D'onta Foreman,NA,Player Touchdowns,0.5,4.5,Pointsbet,1953301,71200760,15
 Washington Commanders v Cleveland Browns,D'onta Foreman,NA,Player Touchdowns,1.5,21,Pointsbet,1953301,71200762,14
 Washington Commanders v Cleveland Browns,D'onta Foreman,NA,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,14
-Washington Commanders v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,0.5,4,Pointsbet,1953301,71200760,14
-Washington Commanders v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,1.5,21,Pointsbet,1953301,71200762,13
-Washington Commanders v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,2.5,251,Pointsbet,1953301,71200763,13
-Washington Commanders v Cleveland Browns,Deshaun Watson,Cleveland Browns,Player Touchdowns,0.5,4.4,Pointsbet,1953301,71200760,17
-Washington Commanders v Cleveland Browns,Deshaun Watson,Cleveland Browns,Player Touchdowns,1.5,23,Pointsbet,1953301,71200762,16
-Washington Commanders v Cleveland Browns,Deshaun Watson,Cleveland Browns,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,16
-Washington Commanders v Cleveland Browns,Dyami Brown,Washington Commanders,Player Touchdowns,0.5,5.75,Pointsbet,1953301,71200760,7
+Washington Commanders v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,0.5,4.2,Pointsbet,1953301,71200760,14
+Washington Commanders v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,1.5,19,Pointsbet,1953301,71200762,13
+Washington Commanders v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,2.5,301,Pointsbet,1953301,71200763,13
+Washington Commanders v Cleveland Browns,Deshaun Watson,Cleveland Browns,Player Touchdowns,0.5,5,Pointsbet,1953301,71200760,17
+Washington Commanders v Cleveland Browns,Deshaun Watson,Cleveland Browns,Player Touchdowns,1.5,31,Pointsbet,1953301,71200762,16
+Washington Commanders v Cleveland Browns,Deshaun Watson,Cleveland Browns,Player Touchdowns,2.5,401,Pointsbet,1953301,71200763,16
+Washington Commanders v Cleveland Browns,Dyami Brown,Washington Commanders,Player Touchdowns,0.5,6,Pointsbet,1953301,71200760,7
 Washington Commanders v Cleveland Browns,Dyami Brown,Washington Commanders,Player Touchdowns,1.5,46,Pointsbet,1953301,71200762,7
-Washington Commanders v Cleveland Browns,Dyami Brown,Washington Commanders,Player Touchdowns,2.5,501,Pointsbet,1953301,71200763,7
-Washington Commanders v Cleveland Browns,Elijah Moore,Cleveland Browns,Player Touchdowns,0.5,4.75,Pointsbet,1953301,71200760,23
-Washington Commanders v Cleveland Browns,Elijah Moore,Cleveland Browns,Player Touchdowns,1.5,41,Pointsbet,1953301,71200762,22
-Washington Commanders v Cleveland Browns,Elijah Moore,Cleveland Browns,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,22
-Washington Commanders v Cleveland Browns,Gary Brightwell,Cleveland Browns,Player Touchdowns,0.5,20,Pointsbet,1953301,71200760,22
-Washington Commanders v Cleveland Browns,Gary Brightwell,Cleveland Browns,Player Touchdowns,1.5,501,Pointsbet,1953301,71200762,21
-Washington Commanders v Cleveland Browns,Geoff Swaim,Cleveland Browns,Player Touchdowns,0.5,23,Pointsbet,1953301,71200760,18
-Washington Commanders v Cleveland Browns,Geoff Swaim,Cleveland Browns,Player Touchdowns,1.5,301,Pointsbet,1953301,71200762,17
-Washington Commanders v Cleveland Browns,James Proche,Cleveland Browns,Player Touchdowns,0.5,29,Pointsbet,1953301,71200760,20
-Washington Commanders v Cleveland Browns,James Proche,Cleveland Browns,Player Touchdowns,1.5,501,Pointsbet,1953301,71200762,19
-Washington Commanders v Cleveland Browns,Jayden Daniels,Washington Commanders,Player Touchdowns,0.5,2.2,Pointsbet,1953301,71200760,11
-Washington Commanders v Cleveland Browns,Jayden Daniels,Washington Commanders,Player Touchdowns,1.5,7.5,Pointsbet,1953301,71200762,11
-Washington Commanders v Cleveland Browns,Jayden Daniels,Washington Commanders,Player Touchdowns,2.5,31,Pointsbet,1953301,71200763,11
-Washington Commanders v Cleveland Browns,Jeremy Mcnichols,NA,Player Touchdowns,0.5,3.3,Pointsbet,1953301,71200760,1
+Washington Commanders v Cleveland Browns,Dyami Brown,Washington Commanders,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,7
+Washington Commanders v Cleveland Browns,Elijah Moore,Cleveland Browns,Player Touchdowns,0.5,5,Pointsbet,1953301,71200760,23
+Washington Commanders v Cleveland Browns,Elijah Moore,Cleveland Browns,Player Touchdowns,1.5,31,Pointsbet,1953301,71200762,22
+Washington Commanders v Cleveland Browns,Elijah Moore,Cleveland Browns,Player Touchdowns,2.5,401,Pointsbet,1953301,71200763,22
+Washington Commanders v Cleveland Browns,Gary Brightwell,Cleveland Browns,Player Touchdowns,0.5,13,Pointsbet,1953301,71200760,22
+Washington Commanders v Cleveland Browns,Gary Brightwell,Cleveland Browns,Player Touchdowns,1.5,176,Pointsbet,1953301,71200762,21
+Washington Commanders v Cleveland Browns,Gary Brightwell,Cleveland Browns,Player Touchdowns,2.5,501,Pointsbet,1953301,71200763,21
+Washington Commanders v Cleveland Browns,Geoff Swaim,Cleveland Browns,Player Touchdowns,0.5,13,Pointsbet,1953301,71200760,18
+Washington Commanders v Cleveland Browns,Geoff Swaim,Cleveland Browns,Player Touchdowns,1.5,101,Pointsbet,1953301,71200762,17
+Washington Commanders v Cleveland Browns,Geoff Swaim,Cleveland Browns,Player Touchdowns,2.5,601,Pointsbet,1953301,71200763,17
+Washington Commanders v Cleveland Browns,James Proche,Cleveland Browns,Player Touchdowns,0.5,26,Pointsbet,1953301,71200760,20
+Washington Commanders v Cleveland Browns,James Proche,Cleveland Browns,Player Touchdowns,1.5,401,Pointsbet,1953301,71200762,19
+Washington Commanders v Cleveland Browns,Jayden Daniels,Washington Commanders,Player Touchdowns,0.5,2.4,Pointsbet,1953301,71200760,11
+Washington Commanders v Cleveland Browns,Jayden Daniels,Washington Commanders,Player Touchdowns,1.5,9.5,Pointsbet,1953301,71200762,11
+Washington Commanders v Cleveland Browns,Jayden Daniels,Washington Commanders,Player Touchdowns,2.5,51,Pointsbet,1953301,71200763,11
+Washington Commanders v Cleveland Browns,Jeremy Mcnichols,NA,Player Touchdowns,0.5,3.9,Pointsbet,1953301,71200760,1
 Washington Commanders v Cleveland Browns,Jeremy Mcnichols,NA,Player Touchdowns,1.5,18,Pointsbet,1953301,71200762,1
-Washington Commanders v Cleveland Browns,Jeremy Mcnichols,NA,Player Touchdowns,2.5,126,Pointsbet,1953301,71200763,1
-Washington Commanders v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,0.5,2.25,Pointsbet,1953301,71200760,24
-Washington Commanders v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,1.5,8,Pointsbet,1953301,71200762,23
-Washington Commanders v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,2.5,51,Pointsbet,1953301,71200763,23
-Washington Commanders v Cleveland Browns,Jerry Jeudy,Cleveland Browns,Player Touchdowns,0.5,4,Pointsbet,1953301,71200760,21
+Washington Commanders v Cleveland Browns,Jeremy Mcnichols,NA,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,1
+Washington Commanders v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,0.5,2.4,Pointsbet,1953301,71200760,24
+Washington Commanders v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,1.5,9.5,Pointsbet,1953301,71200762,23
+Washington Commanders v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,2.5,61,Pointsbet,1953301,71200763,23
+Washington Commanders v Cleveland Browns,Jerry Jeudy,Cleveland Browns,Player Touchdowns,0.5,3.7,Pointsbet,1953301,71200760,21
 Washington Commanders v Cleveland Browns,Jerry Jeudy,Cleveland Browns,Player Touchdowns,1.5,18,Pointsbet,1953301,71200762,20
-Washington Commanders v Cleveland Browns,Jerry Jeudy,Cleveland Browns,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,20
+Washington Commanders v Cleveland Browns,Jerry Jeudy,Cleveland Browns,Player Touchdowns,2.5,176,Pointsbet,1953301,71200763,20
 Washington Commanders v Cleveland Browns,John Bates,Washington Commanders,Player Touchdowns,0.5,11,Pointsbet,1953301,71200760,8
-Washington Commanders v Cleveland Browns,John Bates,Washington Commanders,Player Touchdowns,1.5,151,Pointsbet,1953301,71200762,8
-Washington Commanders v Cleveland Browns,Jordan Akins,Cleveland Browns,Player Touchdowns,0.5,4,Pointsbet,1953301,71200760,16
-Washington Commanders v Cleveland Browns,Jordan Akins,Cleveland Browns,Player Touchdowns,1.5,21,Pointsbet,1953301,71200762,15
-Washington Commanders v Cleveland Browns,Jordan Akins,Cleveland Browns,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,15
-Washington Commanders v Cleveland Browns,Luke Mccaffrey,NA,Player Touchdowns,0.5,4.4,Pointsbet,1953301,71200760,10
-Washington Commanders v Cleveland Browns,Luke Mccaffrey,NA,Player Touchdowns,1.5,21,Pointsbet,1953301,71200762,10
+Washington Commanders v Cleveland Browns,John Bates,Washington Commanders,Player Touchdowns,1.5,101,Pointsbet,1953301,71200762,8
+Washington Commanders v Cleveland Browns,Jordan Akins,Cleveland Browns,Player Touchdowns,0.5,5.25,Pointsbet,1953301,71200760,16
+Washington Commanders v Cleveland Browns,Jordan Akins,Cleveland Browns,Player Touchdowns,1.5,41,Pointsbet,1953301,71200762,15
+Washington Commanders v Cleveland Browns,Jordan Akins,Cleveland Browns,Player Touchdowns,2.5,401,Pointsbet,1953301,71200763,15
+Washington Commanders v Cleveland Browns,Luke Mccaffrey,NA,Player Touchdowns,0.5,4.75,Pointsbet,1953301,71200760,10
+Washington Commanders v Cleveland Browns,Luke Mccaffrey,NA,Player Touchdowns,1.5,26,Pointsbet,1953301,71200762,10
 Washington Commanders v Cleveland Browns,Luke Mccaffrey,NA,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,10
 Washington Commanders v Cleveland Browns,Noah Brown,Washington Commanders,Player Touchdowns,0.5,4.2,Pointsbet,1953301,71200760,3
 Washington Commanders v Cleveland Browns,Noah Brown,Washington Commanders,Player Touchdowns,1.5,21,Pointsbet,1953301,71200762,3
-Washington Commanders v Cleveland Browns,Noah Brown,Washington Commanders,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,3
-Washington Commanders v Cleveland Browns,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,0.5,6,Pointsbet,1953301,71200760,5
-Washington Commanders v Cleveland Browns,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,1.5,46,Pointsbet,1953301,71200762,5
+Washington Commanders v Cleveland Browns,Noah Brown,Washington Commanders,Player Touchdowns,2.5,201,Pointsbet,1953301,71200763,3
+Washington Commanders v Cleveland Browns,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,0.5,5.25,Pointsbet,1953301,71200760,5
+Washington Commanders v Cleveland Browns,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,1.5,41,Pointsbet,1953301,71200762,5
 Washington Commanders v Cleveland Browns,Olamide Zaccheaus,Washington Commanders,Player Touchdowns,2.5,401,Pointsbet,1953301,71200763,5
-Washington Commanders v Cleveland Browns,Terry McLaurin,Washington Commanders,Player Touchdowns,0.5,2.7,Pointsbet,1953301,71200760,6
+Washington Commanders v Cleveland Browns,Terry McLaurin,Washington Commanders,Player Touchdowns,0.5,2.75,Pointsbet,1953301,71200760,6
 Washington Commanders v Cleveland Browns,Terry McLaurin,Washington Commanders,Player Touchdowns,1.5,11.5,Pointsbet,1953301,71200762,6
-Washington Commanders v Cleveland Browns,Terry McLaurin,Washington Commanders,Player Touchdowns,2.5,71,Pointsbet,1953301,71200763,6
-Washington Commanders v Cleveland Browns,Washington Commanders D/St,NA,Player Touchdowns,0.5,5,Pointsbet,1953301,71200760,13
-Washington Commanders v Cleveland Browns,Zach Ertz,Washington Commanders,Player Touchdowns,0.5,4.2,Pointsbet,1953301,71200760,4
+Washington Commanders v Cleveland Browns,Terry McLaurin,Washington Commanders,Player Touchdowns,2.5,67,Pointsbet,1953301,71200763,6
+Washington Commanders v Cleveland Browns,Washington Commanders D/St,NA,Player Touchdowns,0.5,5.25,Pointsbet,1953301,71200760,13
+Washington Commanders v Cleveland Browns,Zach Ertz,Washington Commanders,Player Touchdowns,0.5,4,Pointsbet,1953301,71200760,4
 Washington Commanders v Cleveland Browns,Zach Ertz,Washington Commanders,Player Touchdowns,1.5,21,Pointsbet,1953301,71200762,4
-Washington Commanders v Cleveland Browns,Zach Ertz,Washington Commanders,Player Touchdowns,2.5,351,Pointsbet,1953301,71200763,4
+Washington Commanders v Cleveland Browns,Zach Ertz,Washington Commanders,Player Touchdowns,2.5,201,Pointsbet,1953301,71200763,4

@@ -53,3 +53,72 @@ anytime_td_pinnacle = pd.concat(anytime_td_dfs, ignore_index=True)
 
 # Write to csv
 anytime_td_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_tds_raw.csv")
+
+# Get receptions Markets------------------------------------------
+
+# Empty list to append to
+receptions_dfs = []
+
+# Loop through and append to list
+for event in json_data['specials']:
+    if (event['category'] == "Player Props") and ("Receptions" in event.get('name', '')):
+        name = event['name']
+        home_team = event['event']['home']
+        away_team = event['event']['away']
+        receptions_df = pd.DataFrame(event['lines']).T
+        receptions_df['selection'] = name
+        receptions_df['home_team'] = home_team
+        receptions_df['away_team'] = away_team
+        receptions_dfs.append(receptions_df)
+
+# Concatenate DataFrames
+receptions_pinnacle = pd.concat(receptions_dfs, ignore_index=True)
+
+# Write to csv
+receptions_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_receptions_raw.csv")
+
+# Get TD Passes Markets------------------------------------------
+
+# Empty list to append to
+td_passes_dfs = []
+
+# Loop through and append to list
+for event in json_data['specials']:
+    if (event['category'] == "Player Props") and ("TD Passes" in event.get('name', '')):
+        name = event['name']
+        home_team = event['event']['home']
+        away_team = event['event']['away']
+        td_passes_df = pd.DataFrame(event['lines']).T
+        td_passes_df['selection'] = name
+        td_passes_df['home_team'] = home_team
+        td_passes_df['away_team'] = away_team
+        td_passes_dfs.append(td_passes_df)
+
+# Concatenate DataFrames
+td_passes_pinnacle = pd.concat(td_passes_dfs, ignore_index=True)
+
+# Write to csv
+td_passes_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_td_passes_raw.csv")
+
+# Get Passing Attempts Markets------------------------------------------
+
+# Empty list to append to
+passing_attempts_dfs = []
+
+# Loop through and append to list
+for event in json_data['specials']:
+    if (event['category'] == "Player Props") and ("Pass Attempts" in event.get('name', '')):
+        name = event['name']
+        home_team = event['event']['home']
+        away_team = event['event']['away']
+        passing_attempts_df = pd.DataFrame(event['lines']).T
+        passing_attempts_df['selection'] = name
+        passing_attempts_df['home_team'] = home_team
+        passing_attempts_df['away_team'] = away_team
+        passing_attempts_dfs.append(passing_attempts_df)
+
+# Concatenate DataFrames
+passing_attempts_pinnacle = pd.concat(passing_attempts_dfs, ignore_index=True)
+
+# Write to csv
+passing_attempts_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_passing_attempts_raw.csv")
