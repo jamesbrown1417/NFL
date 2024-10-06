@@ -50,10 +50,10 @@ player_teams_db <-
   mutate(player_team = ifelse(player_team == "LA", "Los Angeles Rams", player_team))
 
 # Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
+source("Scripts/fix_team_names.R")
 
 # Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
+source("Scripts/fix_player_names.R")
 
 #===============================================================================
 # Use rvest to get main market information-------------------------------------#
@@ -343,6 +343,35 @@ player_props_function <- function() {
     left_join(team_names, by = "match_id") |>
     mutate(match = paste(home_team, "v", away_team)) |>
     left_join(player_prop_metadata)
+  
+  # Anytime Touchdown-----------------------------------------------------------
+  
+  anytime_td <-
+    top_market_data |>
+    filter(str_detect(prop_market_name, "Any Time Touchdown Scorer"))
+    
+  # Overs
+  anytime_td_overs <-
+    anytime_td |>
+    mutate(player_name = selection_name_prop) |>
+    mutate(line = 0.5) |>
+    mutate(market = "Player Touchdowns") |>
+    select(match,
+           home_team,
+           away_team,
+           player_name,
+           market,
+           line,
+           over_price = prop_market_price)
+  
+  # Combine
+  anytime_td_all <-
+    anytime_td_overs |>
+    mutate(agency = "Sportsbet") |> 
+    left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr, player_teams_te, player_teams_db), by = "player_name") |>
+    select(match, player_name, player_team, market, line, over_price, agency) |> 
+    distinct(match, player_name, line, over_price, .keep_all = TRUE) |> 
+    arrange(match, player_name, line)
   
   #===========================================================================
   # Quarterback Prop Markets
@@ -908,6 +937,9 @@ player_props_function <- function() {
   #===========================================================================
   # Write all to CSV
   #===========================================================================
+  
+  # Anytime Touchdowns
+  write_csv(anytime_td_all, "Data/scraped_odds/sportsbet_anytime_td.csv")
   
   # Passing Yards
   write_csv(passing_yards_all, "Data/scraped_odds/sportsbet_passing_yards.csv")

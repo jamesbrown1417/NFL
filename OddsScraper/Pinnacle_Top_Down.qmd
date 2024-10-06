@@ -99,4 +99,33 @@ over_markets <-
   mutate(diff = pinnacle_over_implied_prob - over_implied_prob) |>
   mutate(diff = round(diff, 4)) |>
   arrange(desc(diff))
+
+over_markets |> 
+  select(-margin) |>
+  filter(diff >= 0.02)
+```
+
+# Unders
+
+```{r}
+# Get Under Implied Probabilities
+pinnacle_under_implied_prob <-
+  pinnacle_markets_devigged |>
+  mutate(pinnacle_under_implied_prob = 1 / under_price) |> 
+  select(match:line, pinnacle_under_implied_prob)
+
+# Get All Under Odds and Add Implied Probabilities
+under_markets <-
+  processed_odds_data |>
+  filter(agency != "Pinnacle") |> 
+  select(-over_price) |> 
+  mutate(under_implied_prob = 1/under_price) |> 
+  inner_join(pinnacle_under_implied_prob) |> 
+  mutate(diff = pinnacle_under_implied_prob - under_implied_prob) |>
+  mutate(diff = round(diff, 4)) |>
+  arrange(desc(diff))
+
+under_markets |>
+  select(-margin) |>
+  filter(diff >= 0.02)
 ```
