@@ -1,53 +1,5 @@
 ,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1598371780,Over,452,4453916173,1.97,32.5,Aaron Rodgers (Pass Attempts),Minnesota Vikings,New York Jets
-1,1598371781,Under,453,4453916174,1.854,32.5,Aaron Rodgers (Pass Attempts),Minnesota Vikings,New York Jets
-2,1598371786,Over,452,4453249959,1.806,29.5,Sam Darnold (Pass Attempts),Minnesota Vikings,New York Jets
-3,1598371787,Under,453,4453249960,2.02,29.5,Sam Darnold (Pass Attempts),Minnesota Vikings,New York Jets
-4,1598365344,Over,458,4453884724,2.03,31.5,Josh Allen (BUF) (Pass Attempts),Houston Texans,Buffalo Bills
-5,1598365345,Under,459,4453884725,1.8,31.5,Josh Allen (BUF) (Pass Attempts),Houston Texans,Buffalo Bills
-6,1598365710,Over,456,4453418000,1.819,28.5,Lamar Jackson (Pass Attempts),Cincinnati Bengals,Baltimore Ravens
-7,1598365711,Under,457,4453418001,2.01,28.5,Lamar Jackson (Pass Attempts),Cincinnati Bengals,Baltimore Ravens
-8,1598365803,Over,458,4453887178,1.884,34.5,C.J. Stroud (Pass Attempts),Houston Texans,Buffalo Bills
-9,1598365804,Under,459,4453887179,1.943,34.5,C.J. Stroud (Pass Attempts),Houston Texans,Buffalo Bills
-10,1598367150,Over,454,4453358439,2.0,31.5,Caleb Williams (Pass Attempts),Chicago Bears,Carolina Panthers
-11,1598367151,Under,455,4453358440,1.826,31.5,Caleb Williams (Pass Attempts),Chicago Bears,Carolina Panthers
-12,1598367159,Over,454,4453708311,1.869,32.5,Andy Dalton (Pass Attempts),Chicago Bears,Carolina Panthers
-13,1598367160,Under,455,4453708312,1.952,32.5,Andy Dalton (Pass Attempts),Chicago Bears,Carolina Panthers
-14,1598383605,Over,456,4453802164,2.0,36.5,Joe Burrow (Pass Attempts),Cincinnati Bengals,Baltimore Ravens
-15,1598383606,Under,457,4453802165,1.819,36.5,Joe Burrow (Pass Attempts),Cincinnati Bengals,Baltimore Ravens
-16,1598429885,Over,460,4453559349,1.943,33.5,Trevor Lawrence (Pass Attempts),Jacksonville Jaguars,Indianapolis Colts
-17,1598429886,Under,461,4453559350,1.877,33.5,Trevor Lawrence (Pass Attempts),Jacksonville Jaguars,Indianapolis Colts
-18,1598439031,Over,462,4453885620,1.943,26.5,Tyler Huntley (Pass Attempts),New England Patriots,Miami Dolphins
-19,1598439032,Under,463,4453885621,1.877,26.5,Tyler Huntley (Pass Attempts),New England Patriots,Miami Dolphins
-20,1598440420,Over,462,4453885542,1.98,27.5,Jacoby Brissett (Pass Attempts),New England Patriots,Miami Dolphins
-21,1598440421,Under,463,4453885543,1.833,27.5,Jacoby Brissett (Pass Attempts),New England Patriots,Miami Dolphins
-22,1598442761,Over,464,4453547381,1.787,27.5,Jayden Daniels (Pass Attempts),Washington Commanders,Cleveland Browns
-23,1598442762,Under,465,4453547382,2.05,27.5,Jayden Daniels (Pass Attempts),Washington Commanders,Cleveland Browns
-24,1598472491,Over,464,4453796444,1.98,33.5,Deshaun Watson (Pass Attempts),Washington Commanders,Cleveland Browns
-25,1598472492,Under,465,4453796445,1.84,33.5,Deshaun Watson (Pass Attempts),Washington Commanders,Cleveland Browns
-26,1598560801,Over,460,4453331637,1.961,34.5,Joe Flacco (Pass Attempts),Jacksonville Jaguars,Indianapolis Colts
-27,1598560802,Under,461,4453331638,1.862,34.5,Joe Flacco (Pass Attempts),Jacksonville Jaguars,Indianapolis Colts
-28,1598424807,Over,466,4453621368,1.943,29.5,Bo Nix (Pass Attempts),Denver Broncos,Las Vegas Raiders
-29,1598424808,Under,467,4453621369,1.869,29.5,Bo Nix (Pass Attempts),Denver Broncos,Las Vegas Raiders
-30,1598424988,Over,468,4453535323,2.02,33.5,Kyler Murray (Pass Attempts),San Francisco 49ers,Arizona Cardinals
-31,1598424989,Under,469,4453535324,1.806,33.5,Kyler Murray (Pass Attempts),San Francisco 49ers,Arizona Cardinals
-32,1598434884,Over,466,4453621300,1.877,29.5,Gardner Minshew II (Pass Attempts),Denver Broncos,Las Vegas Raiders
-33,1598434885,Under,467,4453621301,1.952,29.5,Gardner Minshew II (Pass Attempts),Denver Broncos,Las Vegas Raiders
-34,1598472476,Over,468,4453302682,2.03,30.5,Brock Purdy (Pass Attempts),San Francisco 49ers,Arizona Cardinals
-35,1598472477,Under,469,4453302683,1.806,30.5,Brock Purdy (Pass Attempts),San Francisco 49ers,Arizona Cardinals
-36,1598383641,Over,470,4453621004,1.909,33.5,Jordan Love (Pass Attempts),Los Angeles Rams,Green Bay Packers
-37,1598383642,Under,471,4453621005,1.909,33.5,Jordan Love (Pass Attempts),Los Angeles Rams,Green Bay Packers
-38,1598424864,Over,470,4452916547,1.833,32.5,Matthew Stafford (Pass Attempts),Los Angeles Rams,Green Bay Packers
-39,1598424865,Under,471,4452916548,1.99,32.5,Matthew Stafford (Pass Attempts),Los Angeles Rams,Green Bay Packers
-40,1598429897,Over,472,4453622979,2.01,34.5,Geno Smith (Pass Attempts),Seattle Seahawks,New York Giants
-41,1598429898,Under,473,4453622980,1.819,34.5,Geno Smith (Pass Attempts),Seattle Seahawks,New York Giants
-42,1598476359,Over,472,4453923047,1.952,30.5,Daniel Jones (Pass Attempts),Seattle Seahawks,New York Giants
-43,1598476360,Under,473,4453923048,1.869,30.5,Daniel Jones (Pass Attempts),Seattle Seahawks,New York Giants
-44,1598435621,Over,474,4453709350,1.862,34.5,Dak Prescott (Pass Attempts),Pittsburgh Steelers,Dallas Cowboys
-45,1598435622,Under,475,4453709351,1.961,34.5,Dak Prescott (Pass Attempts),Pittsburgh Steelers,Dallas Cowboys
-46,1598472485,Over,474,4453205833,1.826,25.5,Justin Fields (Pass Attempts),Pittsburgh Steelers,Dallas Cowboys
-47,1598472486,Under,475,4453205834,2.0,25.5,Justin Fields (Pass Attempts),Pittsburgh Steelers,Dallas Cowboys
-48,1598387396,Over,476,4452869488,1.862,31.5,Derek Carr (Pass Attempts),Kansas City Chiefs,New Orleans Saints
-49,1598387397,Under,477,4452869489,1.961,31.5,Derek Carr (Pass Attempts),Kansas City Chiefs,New Orleans Saints
-50,1598475130,Over,476,4452869567,1.909,33.5,Patrick Mahomes (Pass Attempts),Kansas City Chiefs,New Orleans Saints
-51,1598475131,Under,477,4452869568,1.909,33.5,Patrick Mahomes (Pass Attempts),Kansas City Chiefs,New Orleans Saints
+0,1598387396,Over,476,4459191144,1.862,31.5,Derek Carr (Pass Attempts),Kansas City Chiefs,New Orleans Saints
+1,1598387397,Under,477,4459191145,1.952,31.5,Derek Carr (Pass Attempts),Kansas City Chiefs,New Orleans Saints
+2,1598475130,Over,476,4459159491,1.813,33.5,Patrick Mahomes (Pass Attempts),Kansas City Chiefs,New Orleans Saints
+3,1598475131,Under,477,4459159492,2.02,33.5,Patrick Mahomes (Pass Attempts),Kansas City Chiefs,New Orleans Saints
