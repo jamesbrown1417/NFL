@@ -122,3 +122,72 @@ passing_attempts_pinnacle = pd.concat(passing_attempts_dfs, ignore_index=True)
 
 # Write to csv
 passing_attempts_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_passing_attempts_raw.csv")
+
+# Get Passing Yards Markets------------------------------------------
+
+# Empty list to append to
+passing_yards_dfs = []
+
+# Loop through and append to list
+for event in json_data['specials']:
+    if (event['category'] == "Player Props") and ("Passing Yards" in event.get('name', '')):
+        name = event['name']
+        home_team = event['event']['home']
+        away_team = event['event']['away']
+        passing_yards_df = pd.DataFrame(event['lines']).T
+        passing_yards_df['selection'] = name
+        passing_yards_df['home_team'] = home_team
+        passing_yards_df['away_team'] = away_team
+        passing_yards_dfs.append(passing_yards_df)
+
+# Concatenate DataFrames
+passing_yards_pinnacle = pd.concat(passing_yards_dfs, ignore_index=True)
+
+# Write to csv
+passing_yards_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_passing_yards_raw.csv")
+
+# Get Rushing Yards Markets------------------------------------------
+
+# Empty list to append to
+rushing_yards_dfs = []
+
+# Loop through and append to list
+for event in json_data['specials']:
+    if (event['category'] == "Player Props") and ("Rushing Yards" in event.get('name', '')):
+        name = event['name']
+        home_team = event['event']['home']
+        away_team = event['event']['away']
+        rushing_yards_df = pd.DataFrame(event['lines']).T
+        rushing_yards_df['selection'] = name
+        rushing_yards_df['home_team'] = home_team
+        rushing_yards_df['away_team'] = away_team
+        rushing_yards_dfs.append(rushing_yards_df)
+
+# Concatenate DataFrames
+rushing_yards_pinnacle = pd.concat(rushing_yards_dfs, ignore_index=True)
+
+# Write to csv
+rushing_yards_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_rushing_yards_raw.csv")
+
+# Get Receiving Yards Markets------------------------------------------
+
+# Empty list to append to
+receiving_yards_dfs = []
+
+# Loop through and append to list
+for event in json_data['specials']:
+    if (event['category'] == "Player Props") and ("Receiving Yards" in event.get('name', '')):
+        name = event['name']
+        home_team = event['event']['home']
+        away_team = event['event']['away']
+        receiving_yards_df = pd.DataFrame(event['lines']).T
+        receiving_yards_df['selection'] = name
+        receiving_yards_df['home_team'] = home_team
+        receiving_yards_df['away_team'] = away_team
+        receiving_yards_dfs.append(receiving_yards_df)
+
+# Concatenate DataFrames
+receiving_yards_pinnacle = pd.concat(receiving_yards_dfs, ignore_index=True)
+
+# Write to csv
+receiving_yards_pinnacle.to_csv("OddsScraper/Pinnacle/pinnacle_receiving_yards_raw.csv")

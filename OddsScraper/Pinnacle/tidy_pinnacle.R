@@ -372,3 +372,243 @@ receptions_data <-
 # Write out
 receptions_data |> 
   write_csv("Data/scraped_odds/pinnacle_receptions.csv")
+
+#===============================================================================
+# Passing Yards
+#===============================================================================
+
+# Get all passing yards Markets
+passing_yards_markets <-
+  all_pinnacle_data |> 
+  filter(str_detect(selection, "Passing Yards"))
+
+# Passing Yards - over
+passing_yards_over <-
+  passing_yards_markets |> 
+  mutate(player_name = str_remove(selection, " \\(Passing Yards\\)")) |>
+  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  filter(str_detect(name, "Over")) |>
+  mutate(home_team = fix_team_names(home_team),
+         away_team = fix_team_names(away_team),
+         player_name = fix_player_names(player_name)) |>
+  mutate(match = glue("{home_team} v {away_team}")) |> 
+  mutate(agency = "Pinnacle") |>
+  mutate(market = "Passing Yards") |>
+  mutate(line = handicap) |> 
+  left_join(
+    bind_rows(
+      player_teams_qb
+    ),
+    by = "player_name"
+  ) |>
+  select(
+    match,
+    player_name,
+    player_team,
+    market,
+    line,
+    over_price = price,
+    agency) |> 
+  filter(!is.na(over_price))
+
+# Passing Yards - under
+passing_yards_under <-
+  passing_yards_markets |> 
+  mutate(player_name = str_remove(selection, " \\(Passing Yards\\)")) |>
+  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  filter(str_detect(name, "Under")) |>
+  mutate(home_team = fix_team_names(home_team),
+         away_team = fix_team_names(away_team),
+         player_name = fix_player_names(player_name)) |>
+  mutate(match = glue("{home_team} v {away_team}")) |> 
+  mutate(agency = "Pinnacle") |>
+  mutate(market = "Passing Yards") |>
+  mutate(line = handicap) |> 
+  left_join(
+    bind_rows(
+      player_teams_qb
+    ),
+    by = "player_name"
+  ) |>
+  select(
+    match,
+    player_name,
+    player_team,
+    market,
+    line,
+    under_price = price,
+    agency) |> 
+  filter(!is.na(under_price))
+
+# Combine
+passing_yards_data <-
+  inner_join(passing_yards_over, passing_yards_under) |> 
+  arrange(match, player_name, line, desc(over_price))
+
+# Write out
+passing_yards_data |> 
+  write_csv("Data/scraped_odds/pinnacle_passing_yards.csv")
+
+#===============================================================================
+# Receiving Yards
+#===============================================================================
+
+# Get all receiving yards Markets
+receiving_yards_markets <-
+  all_pinnacle_data |> 
+  filter(str_detect(selection, "Receiving Yards"))
+
+# Receiving Yards - over
+receiving_yards_over <-
+  receiving_yards_markets |> 
+  mutate(player_name = str_remove(selection, " \\(Receiving Yards\\)")) |>
+  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  filter(str_detect(name, "Over")) |>
+  mutate(home_team = fix_team_names(home_team),
+         away_team = fix_team_names(away_team),
+         player_name = fix_player_names(player_name)) |>
+  mutate(match = glue("{home_team} v {away_team}")) |> 
+  mutate(agency = "Pinnacle") |>
+  mutate(market = "Receiving Yards") |>
+  mutate(line = handicap) |> 
+  left_join(
+    bind_rows(
+      player_teams_rb,
+      player_teams_qb,
+      player_teams_wr,
+      player_teams_te
+    ),
+    by = "player_name"
+  ) |>
+  select(
+    match,
+    player_name,
+    player_team,
+    market,
+    line,
+    over_price = price,
+    agency) |> 
+  filter(!is.na(over_price))
+
+# Receiving Yards - under
+receiving_yards_under <-
+  receiving_yards_markets |> 
+  mutate(player_name = str_remove(selection, " \\(Receiving Yards\\)")) |>
+  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  filter(str_detect(name, "Under")) |>
+  mutate(home_team = fix_team_names(home_team),
+         away_team = fix_team_names(away_team),
+         player_name = fix_player_names(player_name)) |>
+  mutate(match = glue("{home_team} v {away_team}")) |> 
+  mutate(agency = "Pinnacle") |>
+  mutate(market = "Receiving Yards") |>
+  mutate(line = handicap) |> 
+  left_join(
+    bind_rows(
+      player_teams_rb,
+      player_teams_qb,
+      player_teams_wr,
+      player_teams_te
+    ),
+    by = "player_name"
+  ) |>
+  select(
+    match,
+    player_name,
+    player_team,
+    market,
+    line,
+    under_price = price,
+    agency) |> 
+  filter(!is.na(under_price))
+
+# Combine
+receiving_yards_data <-
+  inner_join(receiving_yards_over, receiving_yards_under) |> 
+  arrange(match, player_name, line, desc(over_price))
+
+# Write out
+receiving_yards_data |> 
+  write_csv("Data/scraped_odds/pinnacle_receiving_yards.csv")
+
+#===============================================================================
+# Rushing Yards
+#===============================================================================
+
+# Get all rushing yards Markets
+rushing_yards_markets <-
+  all_pinnacle_data |> 
+  filter(str_detect(selection, "Rushing Yards"))
+
+# Rushing Yards - over
+rushing_yards_over <-
+  rushing_yards_markets |> 
+  mutate(player_name = str_remove(selection, " \\(Rushing Yards\\)")) |>
+  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  filter(str_detect(name, "Over")) |>
+  mutate(home_team = fix_team_names(home_team),
+         away_team = fix_team_names(away_team),
+         player_name = fix_player_names(player_name)) |>
+  mutate(match = glue("{home_team} v {away_team}")) |> 
+  mutate(agency = "Pinnacle") |>
+  mutate(market = "Rushing Yards") |>
+  mutate(line = handicap) |> 
+  left_join(
+    bind_rows(
+      player_teams_rb,
+      player_teams_qb,
+      player_teams_wr,
+      player_teams_te
+    ),
+    by = "player_name"
+  ) |>
+  select(
+    match,
+    player_name,
+    player_team,
+    market,
+    line,
+    over_price = price,
+    agency) |> 
+  filter(!is.na(over_price))
+
+# Rushing Yards - under
+rushing_yards_under <-
+  rushing_yards_markets |> 
+  mutate(player_name = str_remove(selection, " \\(Rushing Yards\\)")) |>
+  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  filter(str_detect(name, "Under")) |>
+  mutate(home_team = fix_team_names(home_team),
+         away_team = fix_team_names(away_team),
+         player_name = fix_player_names(player_name)) |>
+  mutate(match = glue("{home_team} v {away_team}")) |> 
+  mutate(agency = "Pinnacle") |>
+  mutate(market = "Rushing Yards") |>
+  mutate(line = handicap) |> 
+  left_join(
+    bind_rows(
+      player_teams_rb,
+      player_teams_qb,
+      player_teams_wr,
+      player_teams_te
+    ),
+    by = "player_name"
+  ) |>
+  select(
+    match,
+    player_name,
+    player_team,
+    market,
+    line,
+    under_price = price,
+    agency) |> 
+  filter(!is.na(under_price))
+
+# Combine
+rushing_yards_data <-
+  inner_join(rushing_yards_over, rushing_yards_under) |> 
+  arrange(match, player_name, line, desc(over_price))
+
+# Write out
+rushing_yards_data |> 
+  write_csv("Data/scraped_odds/pinnacle_rushing_yards.csv")
