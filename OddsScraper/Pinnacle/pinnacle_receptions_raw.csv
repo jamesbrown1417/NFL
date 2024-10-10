@@ -1,25 +1,57 @@
 ,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1598387985,Over,476,4459188377,1.8,5.5,Travis Kelce (Receptions),Kansas City Chiefs,New Orleans Saints
-1,1598387986,Under,477,4459188378,2.03,5.5,Travis Kelce (Receptions),Kansas City Chiefs,New Orleans Saints
-2,1598434872,Over,476,4459185781,1.909,3.5,Xavier Worthy (Receptions),Kansas City Chiefs,New Orleans Saints
-3,1598434873,Under,477,4459185782,1.909,3.5,Xavier Worthy (Receptions),Kansas City Chiefs,New Orleans Saints
-4,1598434875,Over,476,4459180129,2.37,2.5,Justin Watson (Receptions),Kansas City Chiefs,New Orleans Saints
-5,1598434876,Under,477,4459180130,1.591,2.5,Justin Watson (Receptions),Kansas City Chiefs,New Orleans Saints
-6,1598475438,Over,476,4459154837,1.68,3.5,Rashid Shaheed (Receptions),Kansas City Chiefs,New Orleans Saints
-7,1598475439,Under,477,4459154838,2.21,3.5,Rashid Shaheed (Receptions),Kansas City Chiefs,New Orleans Saints
-8,1598475950,Over,476,4459140589,2.34,2.5,Noah Gray (Receptions),Kansas City Chiefs,New Orleans Saints
-9,1598475951,Under,477,4459140590,1.606,2.5,Noah Gray (Receptions),Kansas City Chiefs,New Orleans Saints
-10,1598476346,Over,476,4459165212,1.645,4.5,Chris Olave (Receptions),Kansas City Chiefs,New Orleans Saints
-11,1598476347,Under,477,4459165213,2.27,4.5,Chris Olave (Receptions),Kansas City Chiefs,New Orleans Saints
-12,1598499087,Over,476,4459140513,1.628,4.5,Alvin Kamara (Receptions),Kansas City Chiefs,New Orleans Saints
-13,1598499088,Under,477,4459140514,2.3,4.5,Alvin Kamara (Receptions),Kansas City Chiefs,New Orleans Saints
-14,1598558697,Over,476,4459186099,2.26,2.5,Kareem Hunt (Receptions),Kansas City Chiefs,New Orleans Saints
-15,1598558698,Under,477,4459186100,1.649,2.5,Kareem Hunt (Receptions),Kansas City Chiefs,New Orleans Saints
-16,1598564611,Over,476,4459137804,2.34,2.5,Juwan Johnson (Receptions),Kansas City Chiefs,New Orleans Saints
-17,1598564612,Under,477,4459137805,1.609,2.5,Juwan Johnson (Receptions),Kansas City Chiefs,New Orleans Saints
-18,1598564621,Over,476,4459190681,2.38,1.5,Foster Moreau (Receptions),Kansas City Chiefs,New Orleans Saints
-19,1598564622,Under,477,4459190682,1.588,1.5,Foster Moreau (Receptions),Kansas City Chiefs,New Orleans Saints
-20,1598603112,Over,476,4459188759,1.581,1.5,JuJu Smith-Schuster (Receptions),Kansas City Chiefs,New Orleans Saints
-21,1598603113,Under,477,4459188760,2.4,1.5,JuJu Smith-Schuster (Receptions),Kansas City Chiefs,New Orleans Saints
-22,1598603232,Over,476,4459191673,2.6,2.5,Samaje Perine (Receptions),Kansas City Chiefs,New Orleans Saints
-23,1598603233,Under,477,4459191674,1.497,2.5,Samaje Perine (Receptions),Kansas City Chiefs,New Orleans Saints
+0,1598639432,Over,106,4460683471,1.699,4.5,DK Metcalf (Receptions),Seattle Seahawks,San Francisco 49ers
+1,1598639433,Under,107,4460683472,2.18,4.5,DK Metcalf (Receptions),Seattle Seahawks,San Francisco 49ers
+2,1598639435,Over,106,4460683451,1.952,4.5,Deebo Samuel Sr. (Receptions),Seattle Seahawks,San Francisco 49ers
+3,1598639436,Under,107,4460683452,1.869,4.5,Deebo Samuel Sr. (Receptions),Seattle Seahawks,San Francisco 49ers
+4,1598639441,Over,106,4460683507,1.704,4.5,Jaxon Smith-Njigba (Receptions),Seattle Seahawks,San Francisco 49ers
+5,1598639442,Under,107,4460683508,2.17,4.5,Jaxon Smith-Njigba (Receptions),Seattle Seahawks,San Francisco 49ers
+6,1598639450,Over,106,4460683442,2.23,4.5,George Kittle (Receptions),Seattle Seahawks,San Francisco 49ers
+7,1598639451,Under,107,4460683443,1.666,4.5,George Kittle (Receptions),Seattle Seahawks,San Francisco 49ers
+8,1598639453,Over,106,4460615859,1.813,4.5,Brandon Aiyuk (Receptions),Seattle Seahawks,San Francisco 49ers
+9,1598639454,Under,107,4460615860,2.02,4.5,Brandon Aiyuk (Receptions),Seattle Seahawks,San Francisco 49ers
+10,1598639461,Over,106,4460751637,2.07,2.5,Jauan Jennings (Receptions),Seattle Seahawks,San Francisco 49ers
+11,1598639462,Under,107,4460751638,1.769,2.5,Jauan Jennings (Receptions),Seattle Seahawks,San Francisco 49ers
+12,1598639476,Over,106,4460731230,1.625,3.5,Tyler Lockett (Receptions),Seattle Seahawks,San Francisco 49ers
+13,1598639477,Under,107,4460731231,2.3,3.5,Tyler Lockett (Receptions),Seattle Seahawks,San Francisco 49ers
+14,1598639485,Over,106,4460683467,1.97,2.5,Noah Fant (Receptions),Seattle Seahawks,San Francisco 49ers
+15,1598639486,Under,107,4460683468,1.847,2.5,Noah Fant (Receptions),Seattle Seahawks,San Francisco 49ers
+16,1598639497,Over,106,4460615871,1.892,1.5,Jordan Mason (Receptions),Seattle Seahawks,San Francisco 49ers
+17,1598639498,Under,107,4460615872,1.917,1.5,Jordan Mason (Receptions),Seattle Seahawks,San Francisco 49ers
+18,1598639930,Over,106,4460751076,2.23,3.5,Kenneth Walker III (Receptions),Seattle Seahawks,San Francisco 49ers
+19,1598639931,Under,107,4460751077,1.666,3.5,Kenneth Walker III (Receptions),Seattle Seahawks,San Francisco 49ers
+20,1598640301,Over,106,4460612226,2.29,2.5,Zach Charbonnet (Receptions),Seattle Seahawks,San Francisco 49ers
+21,1598640302,Under,107,4460612227,1.632,2.5,Zach Charbonnet (Receptions),Seattle Seahawks,San Francisco 49ers
+22,1598660070,Over,264,4460624598,1.877,4.5,Christian Kirk (Receptions),Chicago Bears,Jacksonville Jaguars
+23,1598660071,Under,265,4460624599,1.943,4.5,Christian Kirk (Receptions),Chicago Bears,Jacksonville Jaguars
+24,1598660073,Over,264,4460752692,1.793,4.5,Brian Thomas Jr. (Receptions),Chicago Bears,Jacksonville Jaguars
+25,1598660074,Under,265,4460752693,2.04,4.5,Brian Thomas Jr. (Receptions),Chicago Bears,Jacksonville Jaguars
+26,1598660076,Over,264,4460730048,1.645,2.5,Gabe Davis (Receptions),Chicago Bears,Jacksonville Jaguars
+27,1598660077,Under,265,4460730049,2.27,2.5,Gabe Davis (Receptions),Chicago Bears,Jacksonville Jaguars
+28,1598677990,Over,264,4460730106,2.23,3.5,Rome Odunze (Receptions),Chicago Bears,Jacksonville Jaguars
+29,1598677991,Under,265,4460730107,1.662,3.5,Rome Odunze (Receptions),Chicago Bears,Jacksonville Jaguars
+30,1598677996,Over,264,4460730002,1.99,4.5,Keenan Allen (Receptions),Chicago Bears,Jacksonville Jaguars
+31,1598677997,Under,265,4460730003,1.84,4.5,Keenan Allen (Receptions),Chicago Bears,Jacksonville Jaguars
+32,1598677999,Over,264,4460730066,2.3,3.5,Cole Kmet (Receptions),Chicago Bears,Jacksonville Jaguars
+33,1598678000,Under,265,4460730067,1.625,3.5,Cole Kmet (Receptions),Chicago Bears,Jacksonville Jaguars
+34,1598678174,Over,264,4460730036,2.28,5.5,DJ Moore (Receptions),Chicago Bears,Jacksonville Jaguars
+35,1598678175,Under,265,4460730037,1.636,5.5,DJ Moore (Receptions),Chicago Bears,Jacksonville Jaguars
+36,1598678457,Over,264,4460730076,1.813,2.5,D'Andre Swift (Receptions),Chicago Bears,Jacksonville Jaguars
+37,1598678458,Under,265,4460730077,2.01,2.5,D'Andre Swift (Receptions),Chicago Bears,Jacksonville Jaguars
+38,1598678296,Over,266,4460624822,2.2,2.5,Mark Andrews (Receptions),Baltimore Ravens,Washington Commanders
+39,1598678297,Under,267,4460624823,1.68,2.5,Mark Andrews (Receptions),Baltimore Ravens,Washington Commanders
+40,1598678299,Over,266,4460747619,2.23,2.5,Isaiah Likely (Receptions),Baltimore Ravens,Washington Commanders
+41,1598678300,Under,267,4460747620,1.662,2.5,Isaiah Likely (Receptions),Baltimore Ravens,Washington Commanders
+42,1598678302,Over,266,4460687219,1.724,4.5,Zay Flowers (Receptions),Baltimore Ravens,Washington Commanders
+43,1598678303,Under,267,4460687220,2.14,4.5,Zay Flowers (Receptions),Baltimore Ravens,Washington Commanders
+44,1598680006,Over,268,4460731559,2.2,2.5,Josh Jacobs (Receptions),Green Bay Packers,Arizona Cardinals
+45,1598680007,Under,269,4460731560,1.68,2.5,Josh Jacobs (Receptions),Green Bay Packers,Arizona Cardinals
+46,1598680015,Over,268,4460748697,1.746,4.5,Jayden Reed (Receptions),Green Bay Packers,Arizona Cardinals
+47,1598680016,Under,269,4460748698,2.11,4.5,Jayden Reed (Receptions),Green Bay Packers,Arizona Cardinals
+48,1598680549,Over,268,4460731633,2.02,4.5,Marvin Harrison Jr. (Receptions),Green Bay Packers,Arizona Cardinals
+49,1598680550,Under,269,4460731634,1.806,4.5,Marvin Harrison Jr. (Receptions),Green Bay Packers,Arizona Cardinals
+50,1598680552,Over,268,4460748954,2.04,5.5,Trey McBride (Receptions),Green Bay Packers,Arizona Cardinals
+51,1598680553,Under,269,4460748955,1.793,5.5,Trey McBride (Receptions),Green Bay Packers,Arizona Cardinals
+52,1598678506,Over,280,4460656465,,3.5,Pat Freiermuth (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+53,1598678507,Under,281,4460656466,,3.5,Pat Freiermuth (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+54,1598678509,Over,280,4460656291,,3.5,George Pickens (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+55,1598678510,Under,281,4460656292,,3.5,George Pickens (Receptions),Las Vegas Raiders,Pittsburgh Steelers
