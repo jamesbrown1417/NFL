@@ -15,7 +15,7 @@ run_scraping <- function(script_name) {
 }
 
 # Run all odds scraping scripts
-run_scraping("OddsScraper/scrape_TAB.R")
+run_scraping("OddsScraper/TAB/scrape_TAB.R")
 run_scraping("OddsScraper/scrape_Sportsbet.R")
 run_scraping("OddsScraper/scrape_pointsbet.R")
 run_scraping("OddsScraper/Neds/scrape_neds.R")
