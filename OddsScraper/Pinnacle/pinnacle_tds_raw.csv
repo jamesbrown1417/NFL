@@ -1,6 +1,6 @@
 ,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1598636090,Yes,264,4466007697,6.7,0.5,Trevor Lawrence (Anytime TD),Chicago Bears,Jacksonville Jaguars
-1,1598636091,No,265,4466007698,1.093,0.5,Trevor Lawrence (Anytime TD),Chicago Bears,Jacksonville Jaguars
+0,1598636090,Yes,264,4466665247,6.71,,Trevor Lawrence (Anytime TD),Chicago Bears,Jacksonville Jaguars
+1,1598636091,No,265,4466665248,1.093,,Trevor Lawrence (Anytime TD),Chicago Bears,Jacksonville Jaguars
 2,1598636273,Yes,264,4466311128,2.63,,Travis Etienne Jr. (Anytime TD),Chicago Bears,Jacksonville Jaguars
 3,1598636274,No,265,4466311129,1.487,,Travis Etienne Jr. (Anytime TD),Chicago Bears,Jacksonville Jaguars
 4,1598636499,Yes,264,4466336851,4.4,,Gabe Davis (Anytime TD),Chicago Bears,Jacksonville Jaguars
@@ -23,14 +23,14 @@
 21,1598637734,No,265,4466320659,1.543,,DJ Moore (Anytime TD),Chicago Bears,Jacksonville Jaguars
 22,1598637742,Yes,264,4466007717,3.54,0.5,Rome Odunze (Anytime TD),Chicago Bears,Jacksonville Jaguars
 23,1598637743,No,265,4466007718,1.287,0.5,Rome Odunze (Anytime TD),Chicago Bears,Jacksonville Jaguars
-24,1598637751,Yes,264,4466007605,3.39,0.5,Keenan Allen (Anytime TD),Chicago Bears,Jacksonville Jaguars
-25,1598637752,No,265,4466007606,1.31,0.5,Keenan Allen (Anytime TD),Chicago Bears,Jacksonville Jaguars
+24,1598637751,Yes,264,4466535080,3.39,,Keenan Allen (Anytime TD),Chicago Bears,Jacksonville Jaguars
+25,1598637752,No,265,4466535081,1.311,,Keenan Allen (Anytime TD),Chicago Bears,Jacksonville Jaguars
 26,1598637760,Yes,264,4466007673,4.28,0.5,Cole Kmet (Anytime TD),Chicago Bears,Jacksonville Jaguars
 27,1598637761,No,265,4466007674,1.206,0.5,Cole Kmet (Anytime TD),Chicago Bears,Jacksonville Jaguars
 28,1598637763,Yes,264,4466007623,10.48,0.5,Gerald Everett (Anytime TD),Chicago Bears,Jacksonville Jaguars
 29,1598637764,No,265,4466007624,1.039,0.5,Gerald Everett (Anytime TD),Chicago Bears,Jacksonville Jaguars
-30,1598702349,Yes,264,4466435177,3.2,,Tank Bigsby (Anytime TD),Chicago Bears,Jacksonville Jaguars
-31,1598702350,No,265,4466435178,1.343,,Tank Bigsby (Anytime TD),Chicago Bears,Jacksonville Jaguars
+30,1598702349,Yes,264,4466741867,3.18,,Tank Bigsby (Anytime TD),Chicago Bears,Jacksonville Jaguars
+31,1598702350,No,265,4466741868,1.348,,Tank Bigsby (Anytime TD),Chicago Bears,Jacksonville Jaguars
 32,1598702356,Yes,264,4466004669,12.32,0.5,D'Ernest Johnson (Anytime TD),Chicago Bears,Jacksonville Jaguars
 33,1598702357,No,265,4466004670,1.028,0.5,D'Ernest Johnson (Anytime TD),Chicago Bears,Jacksonville Jaguars
 34,1598707739,Yes,264,4466005558,6.49,0.5,Brenton Strange (Anytime TD),Chicago Bears,Jacksonville Jaguars
@@ -45,8 +45,8 @@
 43,1598623987,No,267,4466234414,1.208,0.5,Mark Andrews (Anytime TD),Baltimore Ravens,Washington Commanders
 44,1598623995,Yes,266,4466234429,2.83,0.5,Terry McLaurin (Anytime TD),Baltimore Ravens,Washington Commanders
 45,1598623996,No,267,4466234430,1.427,0.5,Terry McLaurin (Anytime TD),Baltimore Ravens,Washington Commanders
-46,1598624007,Yes,266,4466234451,2.47,0.5,Lamar Jackson (Anytime TD),Baltimore Ravens,Washington Commanders
-47,1598624008,No,267,4466234452,1.546,0.5,Lamar Jackson (Anytime TD),Baltimore Ravens,Washington Commanders
+46,1598624007,Yes,266,4466629766,2.47,,Lamar Jackson (Anytime TD),Baltimore Ravens,Washington Commanders
+47,1598624008,No,267,4466629767,1.549,,Lamar Jackson (Anytime TD),Baltimore Ravens,Washington Commanders
 48,1598624010,Yes,266,4466233625,8.37,0.5,Olamide Zaccheaus (Anytime TD),Baltimore Ravens,Washington Commanders
 49,1598624011,No,267,4466233626,1.061,0.5,Olamide Zaccheaus (Anytime TD),Baltimore Ravens,Washington Commanders
 50,1598624019,Yes,266,4466234461,4.53,0.5,Justice Hill (Anytime TD),Baltimore Ravens,Washington Commanders
@@ -73,8 +73,8 @@
 71,1598624074,No,267,4466234510,1.024,0.5,Ben Sinnott (Anytime TD),Baltimore Ravens,Washington Commanders
 72,1598636800,Yes,274,4465946073,3.62,0.5,Amari Cooper (Anytime TD),Philadelphia Eagles,Cleveland Browns
 73,1598636801,No,275,4465946074,1.276,0.5,Amari Cooper (Anytime TD),Philadelphia Eagles,Cleveland Browns
-74,1598636809,Yes,274,4465946081,4.34,0.5,Dallas Goedert (Anytime TD),Philadelphia Eagles,Cleveland Browns
-75,1598636810,No,275,4465946082,1.201,0.5,Dallas Goedert (Anytime TD),Philadelphia Eagles,Cleveland Browns
+74,1598636809,Yes,274,4466555723,4.32,,Dallas Goedert (Anytime TD),Philadelphia Eagles,Cleveland Browns
+75,1598636810,No,275,4466555724,1.204,,Dallas Goedert (Anytime TD),Philadelphia Eagles,Cleveland Browns
 76,1598636818,Yes,274,4465946087,5.11,0.5,Deshaun Watson (Anytime TD),Philadelphia Eagles,Cleveland Browns
 77,1598636819,No,275,4465946088,1.151,0.5,Deshaun Watson (Anytime TD),Philadelphia Eagles,Cleveland Browns
 78,1598636827,Yes,274,4465938637,5.6,0.5,David Njoku (Anytime TD),Philadelphia Eagles,Cleveland Browns
@@ -85,8 +85,8 @@
 83,1598636846,No,275,4466212054,2.33,,Saquon Barkley (Anytime TD),Philadelphia Eagles,Cleveland Browns
 84,1598636860,Yes,274,4465946115,2.11,0.5,Jalen Hurts (Anytime TD),Philadelphia Eagles,Cleveland Browns
 85,1598636861,No,275,4465946116,1.751,0.5,Jalen Hurts (Anytime TD),Philadelphia Eagles,Cleveland Browns
-86,1598636869,Yes,274,4466476412,2.71,,A.J. Brown (Anytime TD),Philadelphia Eagles,Cleveland Browns
-87,1598636870,No,275,4466476413,1.46,,A.J. Brown (Anytime TD),Philadelphia Eagles,Cleveland Browns
+86,1598636869,Yes,274,4466668888,2.71,,A.J. Brown (Anytime TD),Philadelphia Eagles,Cleveland Browns
+87,1598636870,No,275,4466668889,1.462,,A.J. Brown (Anytime TD),Philadelphia Eagles,Cleveland Browns
 88,1598636878,Yes,274,4465938053,4.1,0.5,Jerry Jeudy (Anytime TD),Philadelphia Eagles,Cleveland Browns
 89,1598636879,No,275,4465938054,1.222,0.5,Jerry Jeudy (Anytime TD),Philadelphia Eagles,Cleveland Browns
 90,1598636884,Yes,274,4465938689,11.83,0.5,Pierre Strong Jr. (Anytime TD),Philadelphia Eagles,Cleveland Browns
@@ -139,8 +139,8 @@
 137,1598648038,No,271,4465936136,1.044,0.5,Austin Hooper (Anytime TD),New England Patriots,Houston Texans
 138,1598648097,Yes,276,4466189437,2.17,0.5,Tony Pollard (Anytime TD),Tennessee Titans,Indianapolis Colts
 139,1598648098,No,277,4466189438,1.699,0.5,Tony Pollard (Anytime TD),Tennessee Titans,Indianapolis Colts
-140,1598648106,Yes,276,4466189493,3.5,0.5,Tyjae Spears (Anytime TD),Tennessee Titans,Indianapolis Colts
-141,1598648107,No,277,4466189494,1.293,0.5,Tyjae Spears (Anytime TD),Tennessee Titans,Indianapolis Colts
+140,1598648106,Yes,276,4466550641,3.49,,Tyjae Spears (Anytime TD),Tennessee Titans,Indianapolis Colts
+141,1598648107,No,277,4466550642,1.294,,Tyjae Spears (Anytime TD),Tennessee Titans,Indianapolis Colts
 142,1598648115,Yes,276,4465943425,3.47,0.5,Calvin Ridley (Anytime TD),Tennessee Titans,Indianapolis Colts
 143,1598648116,No,277,4465943426,1.297,0.5,Calvin Ridley (Anytime TD),Tennessee Titans,Indianapolis Colts
 144,1598648124,Yes,276,4466189419,3.76,0.5,DeAndre Hopkins (Anytime TD),Tennessee Titans,Indianapolis Colts
@@ -175,8 +175,8 @@
 173,1598672155,No,269,4466150699,1.333,0.5,Dontayvion Wicks (Anytime TD),Green Bay Packers,Arizona Cardinals
 174,1598675719,Yes,272,4463725144,,0.5,Taysom Hill (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 175,1598675720,No,273,4463725145,,0.5,Taysom Hill (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
-176,1598675722,Yes,272,4466110766,7.59,0.5,Jamaal Williams (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
-177,1598675723,No,273,4466110767,1.074,0.5,Jamaal Williams (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
+176,1598675722,Yes,272,4466556405,7.05,,Jamaal Williams (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
+177,1598675723,No,273,4466556406,1.084,,Jamaal Williams (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 178,1598675731,Yes,272,4466417543,1.917,,Alvin Kamara (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 179,1598675732,No,273,4466417544,1.9,,Alvin Kamara (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 180,1598675734,Yes,272,4466011668,9.45,0.5,Foster Moreau (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
@@ -223,8 +223,8 @@
 221,1598680025,No,269,4466150709,1.03,0.5,Malik Heath (Anytime TD),Green Bay Packers,Arizona Cardinals
 222,1598680027,Yes,268,4466150660,8.79,0.5,Bo Melton (Anytime TD),Green Bay Packers,Arizona Cardinals
 223,1598680028,No,269,4466150661,1.055,0.5,Bo Melton (Anytime TD),Green Bay Packers,Arizona Cardinals
-224,1598682771,Yes,272,4466532981,5.37,,Spencer Rattler (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
-225,1598682772,No,273,4466532982,1.139,,Spencer Rattler (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
+224,1598682771,Yes,272,4466730969,5.35,,Spencer Rattler (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
+225,1598682772,No,273,4466730971,1.139,,Spencer Rattler (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 226,1598703122,Yes,268,4466150710,11.86,0.5,Trey Benson (Anytime TD),Green Bay Packers,Arizona Cardinals
 227,1598703123,No,269,4466150711,1.03,0.5,Trey Benson (Anytime TD),Green Bay Packers,Arizona Cardinals
 228,1598705088,No,271,4465953727,1.129,0.5,Ja'Lynn Polk (Anytime TD),New England Patriots,Houston Texans
@@ -273,8 +273,8 @@
 271,1598760022,No,277,4466189510,1.386,0.5,Anthony Richardson (Anytime TD),Tennessee Titans,Indianapolis Colts
 272,1598760027,Yes,276,4465943501,11.06,0.5,Evan Hull (Anytime TD),Tennessee Titans,Indianapolis Colts
 273,1598760028,No,277,4465943502,1.035,0.5,Evan Hull (Anytime TD),Tennessee Titans,Indianapolis Colts
-274,1598761195,Yes,272,4466011220,7.83,0.5,Sean Tucker (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
-275,1598761196,No,273,4466011221,1.069,0.5,Sean Tucker (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
+274,1598761195,Yes,272,4466660483,7.83,,Sean Tucker (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
+275,1598761196,No,273,4466660484,1.069,,Sean Tucker (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 276,1598761202,Yes,272,4466110846,11.2,0.5,D.J. Williams (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 277,1598761203,No,273,4466110847,1.034,0.5,D.J. Williams (Anytime TD),New Orleans Saints,Tampa Bay Buccaneers
 278,1598811910,Yes,270,4466293238,7.4,,Dameon Pierce (Anytime TD),New England Patriots,Houston Texans
@@ -349,8 +349,8 @@
 347,1598716298,No,281,4466029201,,0.5,Jakobi Meyers (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
 348,1598716307,Yes,280,4466043525,4.66,0.5,Tre Tucker (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
 349,1598716308,No,281,4466043526,1.177,0.5,Tre Tucker (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
-350,1598716328,Yes,280,4466043557,4.1,0.5,Brock Bowers (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
-351,1598716329,No,281,4466043558,1.223,0.5,Brock Bowers (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
+350,1598716328,Yes,280,4466622082,3.82,,Brock Bowers (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
+351,1598716329,No,281,4466622083,1.251,,Brock Bowers (Anytime TD),Las Vegas Raiders,Pittsburgh Steelers
 352,1598717012,Yes,278,4466527703,11.42,,Audric Estime (Anytime TD),Denver Broncos,Los Angeles Chargers
 353,1598717013,No,279,4466527704,1.032,,Audric Estime (Anytime TD),Denver Broncos,Los Angeles Chargers
 354,1598740669,Yes,278,4466084574,13.22,0.5,Derius Davis (Anytime TD),Denver Broncos,Los Angeles Chargers
@@ -381,16 +381,16 @@
 379,1598638339,No,285,4466235318,1.286,0.5,Ezekiel Elliott (Anytime TD),Dallas Cowboys,Detroit Lions
 380,1598638341,Yes,284,4466196513,6.07,0.5,Tim Patrick (Anytime TD),Dallas Cowboys,Detroit Lions
 381,1598638342,No,285,4466196514,1.11,0.5,Tim Patrick (Anytime TD),Dallas Cowboys,Detroit Lions
-382,1598638350,Yes,284,4466235334,5.02,0.5,KaVontae Turpin (Anytime TD),Dallas Cowboys,Detroit Lions
-383,1598638351,No,285,4466235335,1.156,0.5,KaVontae Turpin (Anytime TD),Dallas Cowboys,Detroit Lions
-384,1598638359,Yes,284,4466235338,2.85,0.5,Rico Dowdle (Anytime TD),Dallas Cowboys,Detroit Lions
-385,1598638360,No,285,4466235339,1.421,0.5,Rico Dowdle (Anytime TD),Dallas Cowboys,Detroit Lions
+382,1598638350,Yes,284,4466734702,5.01,,KaVontae Turpin (Anytime TD),Dallas Cowboys,Detroit Lions
+383,1598638351,No,285,4466734703,1.157,,KaVontae Turpin (Anytime TD),Dallas Cowboys,Detroit Lions
+384,1598638359,Yes,284,4466555387,2.85,,Rico Dowdle (Anytime TD),Dallas Cowboys,Detroit Lions
+385,1598638360,No,285,4466555388,1.423,,Rico Dowdle (Anytime TD),Dallas Cowboys,Detroit Lions
 386,1598638368,Yes,284,4466235344,1.769,0.5,David Montgomery (Anytime TD),Dallas Cowboys,Detroit Lions
 387,1598638369,No,285,4466235345,2.07,0.5,David Montgomery (Anytime TD),Dallas Cowboys,Detroit Lions
 388,1598638371,Yes,284,4466235346,9.51,0.5,Brock Wright (Anytime TD),Dallas Cowboys,Detroit Lions
 389,1598638372,No,285,4466235347,1.047,0.5,Brock Wright (Anytime TD),Dallas Cowboys,Detroit Lions
-390,1598638380,Yes,284,4466465971,1.84,,CeeDee Lamb (Anytime TD),Dallas Cowboys,Detroit Lions
-391,1598638381,No,285,4466465972,1.99,,CeeDee Lamb (Anytime TD),Dallas Cowboys,Detroit Lions
+390,1598638380,Yes,284,4466737036,1.84,,CeeDee Lamb (Anytime TD),Dallas Cowboys,Detroit Lions
+391,1598638381,No,285,4466737037,1.98,,CeeDee Lamb (Anytime TD),Dallas Cowboys,Detroit Lions
 392,1598638389,Yes,284,4466196571,3.18,0.5,Jake Ferguson (Anytime TD),Dallas Cowboys,Detroit Lions
 393,1598638390,No,285,4466196572,1.346,0.5,Jake Ferguson (Anytime TD),Dallas Cowboys,Detroit Lions
 394,1598638398,Yes,284,4466196583,3.51,0.5,Jalen Tolbert (Anytime TD),Dallas Cowboys,Detroit Lions
@@ -417,8 +417,8 @@
 415,1598669732,No,283,4466001337,1.037,0.5,Andy Dalton (Anytime TD),Carolina Panthers,Atlanta Falcons
 416,1598671216,Yes,282,4465981414,,0.5,Kirk Cousins (Anytime TD),Carolina Panthers,Atlanta Falcons
 417,1598671217,No,283,4465981415,,0.5,Kirk Cousins (Anytime TD),Carolina Panthers,Atlanta Falcons
-418,1598671242,Yes,282,4466282348,2.31,,Drake London (Anytime TD),Carolina Panthers,Atlanta Falcons
-419,1598671243,No,283,4466282349,1.625,,Drake London (Anytime TD),Carolina Panthers,Atlanta Falcons
+418,1598671242,Yes,282,4466591502,2.31,,Drake London (Anytime TD),Carolina Panthers,Atlanta Falcons
+419,1598671243,No,283,4466591503,1.621,,Drake London (Anytime TD),Carolina Panthers,Atlanta Falcons
 420,1598671251,Yes,282,4466065111,2.78,,Darnell Mooney (Anytime TD),Carolina Panthers,Atlanta Falcons
 421,1598671252,No,283,4466065112,1.44,,Darnell Mooney (Anytime TD),Carolina Panthers,Atlanta Falcons
 422,1598671260,Yes,282,4466001362,3.38,0.5,Ray-Ray McCloud III (Anytime TD),Carolina Panthers,Atlanta Falcons
@@ -427,8 +427,8 @@
 425,1598671270,No,283,4466244210,1.364,,Kyle Pitts (Anytime TD),Carolina Panthers,Atlanta Falcons
 426,1598671272,Yes,282,4465986246,10.43,0.5,KhaDarel Hodge (Anytime TD),Carolina Panthers,Atlanta Falcons
 427,1598671273,No,283,4465986247,1.039,0.5,KhaDarel Hodge (Anytime TD),Carolina Panthers,Atlanta Falcons
-428,1598671284,Yes,282,4466001420,3.16,0.5,Tyler Allgeier (Anytime TD),Carolina Panthers,Atlanta Falcons
-429,1598671285,No,283,4466001421,1.35,0.5,Tyler Allgeier (Anytime TD),Carolina Panthers,Atlanta Falcons
+428,1598671284,Yes,282,4466554910,3.16,,Tyler Allgeier (Anytime TD),Carolina Panthers,Atlanta Falcons
+429,1598671285,No,283,4466554911,1.352,,Tyler Allgeier (Anytime TD),Carolina Panthers,Atlanta Falcons
 430,1598638446,Yes,284,4463956198,,0.5,Deuce Vaughn (Anytime TD),Dallas Cowboys,Detroit Lions
 431,1598638447,No,285,4463956199,,0.5,Deuce Vaughn (Anytime TD),Dallas Cowboys,Detroit Lions
 432,1598715549,Yes,282,4466001446,3.43,0.5,Xavier Legette (Anytime TD),Carolina Panthers,Atlanta Falcons
@@ -459,8 +459,8 @@
 457,1598646623,Yes,286,4466029736,11.49,0.5,Drew Sample (Anytime TD),New York Giants,Cincinnati Bengals
 458,1598646672,Yes,286,4466029873,6.56,0.5,Erick All Jr. (Anytime TD),New York Giants,Cincinnati Bengals
 459,1598646673,No,287,4466029874,1.096,0.5,Erick All Jr. (Anytime TD),New York Giants,Cincinnati Bengals
-460,1598647705,Yes,286,4466030621,2.59,0.5,Tee Higgins (Anytime TD),New York Giants,Cincinnati Bengals
-461,1598647706,No,287,4466030622,1.502,0.5,Tee Higgins (Anytime TD),New York Giants,Cincinnati Bengals
+460,1598647705,Yes,286,4466738774,2.63,,Tee Higgins (Anytime TD),New York Giants,Cincinnati Bengals
+461,1598647706,No,287,4466738775,1.49,,Tee Higgins (Anytime TD),New York Giants,Cincinnati Bengals
 462,1598715891,Yes,286,4466030587,3.84,0.5,Daniel Jones (Anytime TD),New York Giants,Cincinnati Bengals
 463,1598715892,No,287,4466030588,1.25,0.5,Daniel Jones (Anytime TD),New York Giants,Cincinnati Bengals
 464,1598715897,Yes,286,4466030691,5.06,0.5,Theo Johnson (Anytime TD),New York Giants,Cincinnati Bengals
@@ -473,8 +473,8 @@
 471,1598755198,No,287,4466032354,1.066,0.5,Jalin Hyatt (Anytime TD),New York Giants,Cincinnati Bengals
 472,1598755233,Yes,286,4466030641,13.81,0.5,Daniel Bellinger (Anytime TD),New York Giants,Cincinnati Bengals
 473,1598755234,No,287,4466030642,1.022,0.5,Daniel Bellinger (Anytime TD),New York Giants,Cincinnati Bengals
-474,1598755435,Yes,286,4466229597,2.24,,Zack Moss (Anytime TD),New York Giants,Cincinnati Bengals
-475,1598755436,No,287,4466229598,1.662,,Zack Moss (Anytime TD),New York Giants,Cincinnati Bengals
+474,1598755435,Yes,286,4466610855,2.22,,Zack Moss (Anytime TD),New York Giants,Cincinnati Bengals
+475,1598755436,No,287,4466610856,1.671,,Zack Moss (Anytime TD),New York Giants,Cincinnati Bengals
 476,1598755853,Yes,286,4466095493,2.57,,Chase Brown (Anytime TD),New York Giants,Cincinnati Bengals
 477,1598755854,No,287,4466095494,1.51,,Chase Brown (Anytime TD),New York Giants,Cincinnati Bengals
 478,1598756810,Yes,286,4466015292,,0.5,Devin Singletary (Anytime TD),New York Giants,Cincinnati Bengals
@@ -513,8 +513,8 @@
 511,1598705718,No,289,4465946817,1.531,0.5,James Cook (Anytime TD),New York Jets,Buffalo Bills
 512,1598705726,Yes,288,4465946822,4.34,0.5,Dalton Kincaid (Anytime TD),New York Jets,Buffalo Bills
 513,1598705727,No,289,4465946823,1.201,0.5,Dalton Kincaid (Anytime TD),New York Jets,Buffalo Bills
-514,1598705738,Yes,288,4466430445,2.17,,Breece Hall (Anytime TD),New York Jets,Buffalo Bills
-515,1598705739,No,289,4466430446,1.699,,Breece Hall (Anytime TD),New York Jets,Buffalo Bills
+514,1598705738,Yes,288,4466636711,2.17,,Breece Hall (Anytime TD),New York Jets,Buffalo Bills
+515,1598705739,No,289,4466636712,1.704,,Breece Hall (Anytime TD),New York Jets,Buffalo Bills
 516,1598705753,Yes,288,4465946836,2.89,0.5,Garrett Wilson (Anytime TD),New York Jets,Buffalo Bills
 517,1598705754,No,289,4465946837,1.411,0.5,Garrett Wilson (Anytime TD),New York Jets,Buffalo Bills
 518,1598705756,Yes,288,4465909207,13.23,0.5,Xavier Gipson (Anytime TD),New York Jets,Buffalo Bills

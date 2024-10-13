@@ -1,6 +1,6 @@
 ,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1598660070,Over,264,4466437774,2.44,4.5,Christian Kirk (Receptions),Chicago Bears,Jacksonville Jaguars
-1,1598660071,Under,265,4466437775,1.561,4.5,Christian Kirk (Receptions),Chicago Bears,Jacksonville Jaguars
+0,1598660070,Over,264,4466603947,2.42,4.5,Christian Kirk (Receptions),Chicago Bears,Jacksonville Jaguars
+1,1598660071,Under,265,4466603948,1.571,4.5,Christian Kirk (Receptions),Chicago Bears,Jacksonville Jaguars
 2,1598660073,Over,264,4466143464,2.1,4.5,Brian Thomas Jr. (Receptions),Chicago Bears,Jacksonville Jaguars
 3,1598660074,Under,265,4466143465,1.751,4.5,Brian Thomas Jr. (Receptions),Chicago Bears,Jacksonville Jaguars
 4,1598660076,Over,264,4466007645,2.18,2.5,Gabe Davis (Receptions),Chicago Bears,Jacksonville Jaguars
@@ -25,8 +25,8 @@
 23,1598678300,Under,267,4466233650,1.625,2.5,Isaiah Likely (Receptions),Baltimore Ravens,Washington Commanders
 24,1598678302,Over,266,4466234503,2.31,5.5,Zay Flowers (Receptions),Baltimore Ravens,Washington Commanders
 25,1598678303,Under,267,4466234504,1.625,5.5,Zay Flowers (Receptions),Baltimore Ravens,Washington Commanders
-26,1598678305,Over,266,4466364868,1.735,4.5,Terry McLaurin (Receptions),Baltimore Ravens,Washington Commanders
-27,1598678306,Under,267,4466364869,2.11,4.5,Terry McLaurin (Receptions),Baltimore Ravens,Washington Commanders
+26,1598678305,Over,266,4466621613,1.735,4.5,Terry McLaurin (Receptions),Baltimore Ravens,Washington Commanders
+27,1598678306,Under,267,4466621614,2.12,4.5,Terry McLaurin (Receptions),Baltimore Ravens,Washington Commanders
 28,1598678308,Over,266,4466290735,2.04,3.5,Zach Ertz (Receptions),Baltimore Ravens,Washington Commanders
 29,1598678309,Under,267,4466290736,1.793,3.5,Zach Ertz (Receptions),Baltimore Ravens,Washington Commanders
 30,1598680006,Over,268,4466404682,2.28,2.5,Josh Jacobs (Receptions),Green Bay Packers,Arizona Cardinals
@@ -47,8 +47,8 @@
 45,1598702415,Under,269,4466241533,1.537,2.5,James Conner (Receptions),Green Bay Packers,Arizona Cardinals
 46,1598704429,Over,270,4465953612,1.909,5.5,Stefon Diggs (Receptions),New England Patriots,Houston Texans
 47,1598704430,Under,271,4465953613,1.909,5.5,Stefon Diggs (Receptions),New England Patriots,Houston Texans
-48,1598704587,Over,270,4466306717,2.28,4.5,Tank Dell (Receptions),New England Patriots,Houston Texans
-49,1598704588,Under,271,4466306718,1.636,4.5,Tank Dell (Receptions),New England Patriots,Houston Texans
+48,1598704587,Over,270,4466719327,2.27,4.5,Tank Dell (Receptions),New England Patriots,Houston Texans
+49,1598704588,Under,271,4466719328,1.641,4.5,Tank Dell (Receptions),New England Patriots,Houston Texans
 50,1598704611,Over,270,4466191139,1.97,3.5,Dalton Schultz (Receptions),New England Patriots,Houston Texans
 51,1598704612,Under,271,4466191140,1.847,3.5,Dalton Schultz (Receptions),New England Patriots,Houston Texans
 52,1598704978,Over,272,4462417809,,2.5,Rachaad White (Receptions),New Orleans Saints,Tampa Bay Buccaneers
@@ -57,22 +57,22 @@
 55,1598705082,Under,271,4466163475,2.13,2.5,Hunter Henry (Receptions),New England Patriots,Houston Texans
 56,1598705097,Over,270,4465953720,1.99,2.5,Ja'Lynn Polk (Receptions),New England Patriots,Houston Texans
 57,1598705098,Under,271,4465953721,1.84,2.5,Ja'Lynn Polk (Receptions),New England Patriots,Houston Texans
-58,1598705107,Over,270,4466306869,2.12,3.5,DeMario Douglas (Receptions),New England Patriots,Houston Texans
-59,1598705108,Under,271,4466306870,1.735,3.5,DeMario Douglas (Receptions),New England Patriots,Houston Texans
+58,1598705107,Over,270,4466539751,2.11,3.5,DeMario Douglas (Receptions),New England Patriots,Houston Texans
+59,1598705108,Under,271,4466539752,1.746,3.5,DeMario Douglas (Receptions),New England Patriots,Houston Texans
 60,1598706382,Over,272,4466331151,1.709,5.5,Chris Godwin (Receptions),New Orleans Saints,Tampa Bay Buccaneers
 61,1598706383,Under,273,4466331152,2.16,5.5,Chris Godwin (Receptions),New Orleans Saints,Tampa Bay Buccaneers
 62,1598706385,Over,272,4466266293,2.21,4.5,Mike Evans (Receptions),New Orleans Saints,Tampa Bay Buccaneers
 63,1598706386,Under,273,4466266294,1.675,4.5,Mike Evans (Receptions),New Orleans Saints,Tampa Bay Buccaneers
-64,1598706390,Over,274,4465965731,2.04,4.5,Amari Cooper (Receptions),Philadelphia Eagles,Cleveland Browns
-65,1598706391,Under,275,4465965732,1.793,4.5,Amari Cooper (Receptions),Philadelphia Eagles,Cleveland Browns
+64,1598706390,Over,274,4466573975,2.03,4.5,Amari Cooper (Receptions),Philadelphia Eagles,Cleveland Browns
+65,1598706391,Under,275,4466573976,1.8,4.5,Amari Cooper (Receptions),Philadelphia Eagles,Cleveland Browns
 66,1598707749,Over,274,4465946077,1.675,3.5,Dallas Goedert (Receptions),Philadelphia Eagles,Cleveland Browns
 67,1598707750,Under,275,4465946078,2.21,3.5,Dallas Goedert (Receptions),Philadelphia Eagles,Cleveland Browns
-68,1598707752,Over,274,4465946131,1.704,4.5,DeVonta Smith (Receptions),Philadelphia Eagles,Cleveland Browns
-69,1598707753,Under,275,4465946132,2.16,4.5,DeVonta Smith (Receptions),Philadelphia Eagles,Cleveland Browns
+68,1598707752,Over,274,4466611636,1.709,4.5,DeVonta Smith (Receptions),Philadelphia Eagles,Cleveland Browns
+69,1598707753,Under,275,4466611637,2.16,4.5,DeVonta Smith (Receptions),Philadelphia Eagles,Cleveland Browns
 70,1598707758,Over,274,4465946119,2.04,5.5,A.J. Brown (Receptions),Philadelphia Eagles,Cleveland Browns
 71,1598707759,Under,275,4465946120,1.8,5.5,A.J. Brown (Receptions),Philadelphia Eagles,Cleveland Browns
-72,1598714226,Over,274,4466036653,2.06,2.5,Saquon Barkley (Receptions),Philadelphia Eagles,Cleveland Browns
-73,1598714227,Under,275,4466036654,1.775,2.5,Saquon Barkley (Receptions),Philadelphia Eagles,Cleveland Browns
+72,1598714226,Over,274,4466538051,2.05,2.5,Saquon Barkley (Receptions),Philadelphia Eagles,Cleveland Browns
+73,1598714227,Under,275,4466538052,1.781,2.5,Saquon Barkley (Receptions),Philadelphia Eagles,Cleveland Browns
 74,1598715477,Over,266,4466072075,1.909,2.5,Rashod Bateman (Receptions),Baltimore Ravens,Washington Commanders
 75,1598715478,Under,267,4466072076,1.909,2.5,Rashod Bateman (Receptions),Baltimore Ravens,Washington Commanders
 76,1598715734,Over,276,4466315900,2.1,3.5,DeAndre Hopkins (Receptions),Tennessee Titans,Indianapolis Colts
@@ -107,8 +107,8 @@
 105,1598759396,Under,271,4466401846,1.74,1.5,Austin Hooper (Receptions),New England Patriots,Houston Texans
 106,1598760892,Over,272,4466426842,1.884,4.5,Alvin Kamara (Receptions),New Orleans Saints,Tampa Bay Buccaneers
 107,1598760893,Under,273,4466426843,1.934,4.5,Alvin Kamara (Receptions),New Orleans Saints,Tampa Bay Buccaneers
-108,1598760896,Under,273,4466011693,1.699,4.5,Chris Olave (Receptions),New Orleans Saints,Tampa Bay Buccaneers
-109,1598760895,Over,272,4466011692,2.18,4.5,Chris Olave (Receptions),New Orleans Saints,Tampa Bay Buccaneers
+108,1598760896,Under,273,4466539294,1.699,4.5,Chris Olave (Receptions),New Orleans Saints,Tampa Bay Buccaneers
+109,1598760895,Over,272,4466539293,2.17,4.5,Chris Olave (Receptions),New Orleans Saints,Tampa Bay Buccaneers
 110,1598761187,Over,266,4466234375,2.03,1.5,Nelson Agholor (Receptions),Baltimore Ravens,Washington Commanders
 111,1598761188,Under,267,4466234376,1.8,1.5,Nelson Agholor (Receptions),Baltimore Ravens,Washington Commanders
 112,1598761199,Over,272,4466110874,1.613,2.5,Bucky Irving (Receptions),New Orleans Saints,Tampa Bay Buccaneers
@@ -121,16 +121,16 @@
 119,1598804964,Under,277,4465899741,1.492,1.5,Josh Whyle (Receptions),Tennessee Titans,Indianapolis Colts
 120,1598811828,Over,266,4466279227,2.15,2.5,Noah Brown (Receptions),Baltimore Ravens,Washington Commanders
 121,1598811829,Under,267,4466279228,1.714,2.5,Noah Brown (Receptions),Baltimore Ravens,Washington Commanders
-122,1598811837,Over,266,4466270250,1.671,1.5,Luke McCaffrey (Receptions),Baltimore Ravens,Washington Commanders
-123,1598811838,Under,267,4466270251,2.22,1.5,Luke McCaffrey (Receptions),Baltimore Ravens,Washington Commanders
+122,1598811837,Over,266,4466735021,1.675,1.5,Luke McCaffrey (Receptions),Baltimore Ravens,Washington Commanders
+123,1598811838,Under,267,4466735022,2.21,1.5,Luke McCaffrey (Receptions),Baltimore Ravens,Washington Commanders
 124,1598811852,Over,268,4466150722,2.83,1.5,Emanuel Wilson (Receptions),Green Bay Packers,Arizona Cardinals
 125,1598811853,Under,269,4466150723,1.427,1.5,Emanuel Wilson (Receptions),Green Bay Packers,Arizona Cardinals
 126,1598811867,Over,270,4466235478,1.518,1.5,Xavier Hutchinson (Receptions),New England Patriots,Houston Texans
 127,1598811868,Under,271,4466235479,2.55,1.5,Xavier Hutchinson (Receptions),New England Patriots,Houston Texans
 128,1598811876,Over,270,4465953642,2.06,2.5,Joe Mixon (Receptions),New England Patriots,Houston Texans
 129,1598811877,Under,271,4465953643,1.781,2.5,Joe Mixon (Receptions),New England Patriots,Houston Texans
-130,1598812078,Over,274,4465946139,2.64,1.5,Jahan Dotson (Receptions),Philadelphia Eagles,Cleveland Browns
-131,1598812079,Under,275,4465946140,1.483,1.5,Jahan Dotson (Receptions),Philadelphia Eagles,Cleveland Browns
+130,1598812078,Over,274,4466735023,2.65,1.5,Jahan Dotson (Receptions),Philadelphia Eagles,Cleveland Browns
+131,1598812079,Under,275,4466735024,1.48,1.5,Jahan Dotson (Receptions),Philadelphia Eagles,Cleveland Browns
 132,1598812171,Over,276,4466313503,1.833,1.5,Trey Sermon (Receptions),Tennessee Titans,Indianapolis Colts
 133,1598812172,Under,277,4466313504,1.99,1.5,Trey Sermon (Receptions),Tennessee Titans,Indianapolis Colts
 134,1598812950,Over,266,4466234395,1.555,2.5,Austin Ekeler (Receptions),Baltimore Ravens,Washington Commanders
@@ -139,8 +139,8 @@
 137,1598678507,Under,281,4466043508,1.704,3.5,Pat Freiermuth (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 138,1598678509,Over,280,4466219342,1.793,3.5,George Pickens (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 139,1598678510,Under,281,4466219343,2.04,3.5,George Pickens (Receptions),Las Vegas Raiders,Pittsburgh Steelers
-140,1598711045,Over,278,4465930807,1.97,4.5,Ladd McConkey (Receptions),Denver Broncos,Los Angeles Chargers
-141,1598711046,Under,279,4465930808,1.847,4.5,Ladd McConkey (Receptions),Denver Broncos,Los Angeles Chargers
+140,1598711045,Over,278,4466593043,2.0,4.5,Ladd McConkey (Receptions),Denver Broncos,Los Angeles Chargers
+141,1598711046,Under,279,4466593044,1.826,4.5,Ladd McConkey (Receptions),Denver Broncos,Los Angeles Chargers
 142,1598711054,Over,278,4466084540,1.649,2.5,Joshua Palmer (Receptions),Denver Broncos,Los Angeles Chargers
 143,1598711055,Under,279,4466084541,2.27,2.5,Joshua Palmer (Receptions),Denver Broncos,Los Angeles Chargers
 144,1598711057,Over,278,4466166061,1.689,2.5,Quentin Johnston (Receptions),Denver Broncos,Los Angeles Chargers
@@ -151,20 +151,20 @@
 149,1598717010,Under,279,4466242964,2.33,2.5,Javonte Williams (Receptions),Denver Broncos,Los Angeles Chargers
 150,1598756162,Over,280,4466043435,1.714,1.5,Van Jefferson (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 151,1598756163,Under,281,4466043436,2.15,1.5,Van Jefferson (Receptions),Las Vegas Raiders,Pittsburgh Steelers
-152,1598756175,Over,280,4466127822,1.775,1.5,Calvin Austin III (Receptions),Las Vegas Raiders,Pittsburgh Steelers
-153,1598756176,Under,281,4466127823,2.07,1.5,Calvin Austin III (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+152,1598756175,Over,280,4466603277,1.781,1.5,Calvin Austin III (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+153,1598756176,Under,281,4466603278,2.05,1.5,Calvin Austin III (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 154,1598757769,Over,278,4466084482,2.23,4.5,Courtland Sutton (Receptions),Denver Broncos,Los Angeles Chargers
 155,1598757770,Under,279,4466084483,1.662,4.5,Courtland Sutton (Receptions),Denver Broncos,Los Angeles Chargers
 156,1598800213,Over,280,4466043455,2.27,2.5,Najee Harris (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 157,1598800214,Under,281,4466043456,1.641,2.5,Najee Harris (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 158,1598811907,Over,278,4466084528,2.02,2.5,J.K. Dobbins (Receptions),Denver Broncos,Los Angeles Chargers
 159,1598811908,Under,279,4466084529,1.813,2.5,J.K. Dobbins (Receptions),Denver Broncos,Los Angeles Chargers
-160,1598811926,Over,278,4466084476,2.11,1.5,Will Dissly (Receptions),Denver Broncos,Los Angeles Chargers
-161,1598811927,Under,279,4466084477,1.746,1.5,Will Dissly (Receptions),Denver Broncos,Los Angeles Chargers
+160,1598811926,Over,278,4466735497,2.1,1.5,Will Dissly (Receptions),Denver Broncos,Los Angeles Chargers
+161,1598811927,Under,279,4466735498,1.746,1.5,Will Dissly (Receptions),Denver Broncos,Los Angeles Chargers
 162,1598812123,Over,280,4466061512,1.925,5.5,Brock Bowers (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 163,1598812124,Under,281,4466061513,1.9,5.5,Brock Bowers (Receptions),Las Vegas Raiders,Pittsburgh Steelers
-164,1598812168,Over,280,4466529486,1.606,1.5,Jaylen Warren (Receptions),Las Vegas Raiders,Pittsburgh Steelers
-165,1598812169,Under,281,4466529487,2.34,1.5,Jaylen Warren (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+164,1598812168,Over,280,4466735146,1.617,1.5,Jaylen Warren (Receptions),Las Vegas Raiders,Pittsburgh Steelers
+165,1598812169,Under,281,4466735147,2.32,1.5,Jaylen Warren (Receptions),Las Vegas Raiders,Pittsburgh Steelers
 166,1598704432,Over,282,4466001432,1.751,5.5,Drake London (Receptions),Carolina Panthers,Atlanta Falcons
 167,1598704433,Under,283,4466001433,2.09,5.5,Drake London (Receptions),Carolina Panthers,Atlanta Falcons
 168,1598704590,Over,282,4466001366,2.05,5.5,Diontae Johnson (Receptions),Carolina Panthers,Atlanta Falcons
@@ -215,8 +215,8 @@
 213,1598806461,Under,285,4466199360,1.793,2.5,KaVontae Turpin (Receptions),Dallas Cowboys,Detroit Lions
 214,1598706432,Under,287,4466341153,2.21,4.5,Tee Higgins (Receptions),New York Giants,Cincinnati Bengals
 215,1598706431,Over,286,4466341152,1.68,4.5,Tee Higgins (Receptions),New York Giants,Cincinnati Bengals
-216,1598706434,Over,286,4466030635,1.694,5.5,Ja'Marr Chase (Receptions),New York Giants,Cincinnati Bengals
-217,1598706435,Under,287,4466030636,2.19,5.5,Ja'Marr Chase (Receptions),New York Giants,Cincinnati Bengals
+216,1598706434,Over,286,4466720607,1.666,5.5,Ja'Marr Chase (Receptions),New York Giants,Cincinnati Bengals
+217,1598706435,Under,287,4466720608,2.23,5.5,Ja'Marr Chase (Receptions),New York Giants,Cincinnati Bengals
 218,1598755164,Over,286,4466033230,1.671,5.5,Wan'Dale Robinson (Receptions),New York Giants,Cincinnati Bengals
 219,1598755165,Under,287,4466033231,2.22,5.5,Wan'Dale Robinson (Receptions),New York Giants,Cincinnati Bengals
 220,1598755269,Over,286,4466033220,2.32,4.5,Darius Slayton (Receptions),New York Giants,Cincinnati Bengals
@@ -241,8 +241,8 @@
 239,1598718134,Under,289,4465909202,2.07,5.5,Garrett Wilson (Receptions),New York Jets,Buffalo Bills
 240,1598718139,Over,288,4465900262,2.33,3.5,Tyler Conklin (Receptions),New York Jets,Buffalo Bills
 241,1598718140,Under,289,4465900263,1.613,3.5,Tyler Conklin (Receptions),New York Jets,Buffalo Bills
-242,1598718148,Over,288,4466042019,1.746,3.5,Breece Hall (Receptions),New York Jets,Buffalo Bills
-243,1598718149,Under,289,4466042020,2.11,3.5,Breece Hall (Receptions),New York Jets,Buffalo Bills
+242,1598718148,Over,288,4466705659,1.746,3.5,Breece Hall (Receptions),New York Jets,Buffalo Bills
+243,1598718149,Under,289,4466705660,2.1,3.5,Breece Hall (Receptions),New York Jets,Buffalo Bills
 244,1598718157,Over,288,4465946774,2.06,2.5,Mike Williams (Receptions),New York Jets,Buffalo Bills
 245,1598718158,Under,289,4465946775,1.775,2.5,Mike Williams (Receptions),New York Jets,Buffalo Bills
 246,1598812988,Over,288,4465946808,2.23,2.5,James Cook (Receptions),New York Jets,Buffalo Bills
