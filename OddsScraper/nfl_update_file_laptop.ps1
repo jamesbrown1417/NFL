@@ -6,10 +6,10 @@ Set-Location -Path "C:\Users\james\Documents\projects\NFL"
 Remove-Item -Path "C:\Users\james\Documents\projects\NFL\OddsScraper\Neds\*.json"
 
 # Execute Python and R scripts
-& "C:/Python312/python.exe" "c:/Users/james/OneDrive/Desktop/Projects/NFL/OddsScraper/Pinnacle/scrape_pinnacle.py"
-& "C:/Python312/python.exe" "c:/Users/james/OneDrive/Desktop/Projects/NFL/OddsScraper/Neds/get_neds_urls.py"
+& "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/Pinnacle/scrape_pinnacle.py"
+& "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/Neds/get_neds_urls.py"
 & "Rscript" "OddsScraper\Neds\get_neds_match_urls.R"
-& "C:/Python312/python.exe" "c:/Users/james/OneDrive/Desktop/Projects/NFL/OddsScraper/Neds/get_match_json.py"
+& "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/Neds/get_match_json.py"
 
 # Execute R script for getting all odds
 & "Rscript" "OddsScraper\master_processing_script.R"
