@@ -7,6 +7,7 @@ Remove-Item -Path "C:\Users\james\Documents\projects\NFL\OddsScraper\Neds\*.json
 
 # Execute Python and R scripts
 & "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/Pinnacle/scrape_pinnacle.py"
+& "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/TAB/get-TAB-response.py"
 & "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/Neds/get_neds_urls.py"
 & "Rscript" "OddsScraper\Neds\get_neds_match_urls.R"
 & "C:/Python312/python.exe" "C:/Users/james/Documents/projects/NFL/OddsScraper/Neds/get_match_json.py"
