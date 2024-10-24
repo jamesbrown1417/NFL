@@ -1,51 +1,53 @@
 ,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1598636851,Over,274,4467287326,2.42,1.5,Jalen Hurts (TD Passes),Philadelphia Eagles,Cleveland Browns
-1,1598636852,Under,275,4467287327,1.561,1.5,Jalen Hurts (TD Passes),Philadelphia Eagles,Cleveland Browns
-2,1598637957,Over,268,4467419065,1.543,1.5,Jordan Love (TD Passes),Green Bay Packers,Arizona Cardinals
-3,1598637958,Under,269,4467419066,2.49,1.5,Jordan Love (TD Passes),Green Bay Packers,Arizona Cardinals
-4,1598643025,Over,266,4467398671,2.32,1.5,Jayden Daniels (TD Passes),Baltimore Ravens,Washington Commanders
-5,1598643026,Under,267,4467398672,1.617,1.5,Jayden Daniels (TD Passes),Baltimore Ravens,Washington Commanders
-6,1598643028,Over,266,4467350568,1.787,1.5,Lamar Jackson (TD Passes),Baltimore Ravens,Washington Commanders
-7,1598643029,Under,267,4467350569,2.05,1.5,Lamar Jackson (TD Passes),Baltimore Ravens,Washington Commanders
-8,1598647408,Over,270,4467376712,2.12,1.5,C.J. Stroud (TD Passes),New England Patriots,Houston Texans
-9,1598647409,Under,271,4467376713,1.735,1.5,C.J. Stroud (TD Passes),New England Patriots,Houston Texans
-10,1598647977,Over,270,4467376726,1.694,0.5,Drake Maye (TD Passes),New England Patriots,Houston Texans
-11,1598647978,Under,271,4467376727,2.18,0.5,Drake Maye (TD Passes),New England Patriots,Houston Texans
-12,1598659949,Over,268,4467419051,2.54,1.5,Kyler Murray (TD Passes),Green Bay Packers,Arizona Cardinals
-13,1598659950,Under,269,4467419052,1.52,1.5,Kyler Murray (TD Passes),Green Bay Packers,Arizona Cardinals
-14,1598669700,Over,274,4466842475,1.495,0.5,Deshaun Watson (TD Passes),Philadelphia Eagles,Cleveland Browns
-15,1598669701,Under,275,4466842476,2.61,0.5,Deshaun Watson (TD Passes),Philadelphia Eagles,Cleveland Browns
-16,1598676373,Over,272,4467439418,1.925,1.5,Baker Mayfield (TD Passes),New Orleans Saints,Tampa Bay Buccaneers
-17,1598676374,Under,273,4467439419,1.892,1.5,Baker Mayfield (TD Passes),New Orleans Saints,Tampa Bay Buccaneers
-18,1598682777,Over,272,4467380000,1.531,0.5,Spencer Rattler (TD Passes),New Orleans Saints,Tampa Bay Buccaneers
-19,1598682778,Under,273,4467380001,2.5,0.5,Spencer Rattler (TD Passes),New Orleans Saints,Tampa Bay Buccaneers
-20,1598755290,Over,276,4467415364,2.8,1.5,Will Levis (TD Passes),Tennessee Titans,Indianapolis Colts
-21,1598755291,Under,277,4467415365,1.436,1.5,Will Levis (TD Passes),Tennessee Titans,Indianapolis Colts
-22,1598800192,Under,277,4467220789,,0.5,Anthony Richardson (TD Passes),Tennessee Titans,Indianapolis Colts
-23,1598800191,Over,276,4467220788,,0.5,Anthony Richardson (TD Passes),Tennessee Titans,Indianapolis Colts
-24,1598836174,Over,276,4467421634,2.3,1.5,Joe Flacco (TD Passes),Tennessee Titans,Indianapolis Colts
-25,1598836175,Under,277,4467421635,1.632,1.5,Joe Flacco (TD Passes),Tennessee Titans,Indianapolis Colts
-26,1598665912,Over,278,4467661493,3.14,1.5,Justin Herbert (TD Passes),Denver Broncos,Los Angeles Chargers
-27,1598665913,Under,279,4467661494,1.355,1.5,Justin Herbert (TD Passes),Denver Broncos,Los Angeles Chargers
-28,1598678491,Over,280,4467717919,1.558,0.5,Aidan O'Connell (TD Passes),Las Vegas Raiders,Pittsburgh Steelers
-29,1598678492,Under,281,4467717920,2.45,0.5,Aidan O'Connell (TD Passes),Las Vegas Raiders,Pittsburgh Steelers
-30,1598680752,Over,278,4467634185,1.526,0.5,Bo Nix (TD Passes),Denver Broncos,Los Angeles Chargers
-31,1598680753,Under,279,4467634186,2.53,0.5,Bo Nix (TD Passes),Denver Broncos,Los Angeles Chargers
-32,1598716452,Over,280,4467717927,1.5,0.5,Justin Fields (TD Passes),Las Vegas Raiders,Pittsburgh Steelers
-33,1598716453,Under,281,4467717928,2.6,0.5,Justin Fields (TD Passes),Las Vegas Raiders,Pittsburgh Steelers
-34,1598638320,Over,284,4467741434,1.714,1.5,Dak Prescott (TD Passes),Dallas Cowboys,Detroit Lions
-35,1598638321,Under,285,4467741435,2.15,1.5,Dak Prescott (TD Passes),Dallas Cowboys,Detroit Lions
-36,1598638326,Over,284,4467666199,1.869,1.5,Jared Goff (TD Passes),Dallas Cowboys,Detroit Lions
-37,1598638327,Under,285,4467666200,1.952,1.5,Jared Goff (TD Passes),Dallas Cowboys,Detroit Lions
-38,1598669728,Over,282,4467668316,2.43,1.5,Andy Dalton (TD Passes),Carolina Panthers,Atlanta Falcons
-39,1598669729,Under,283,4467668317,1.564,1.5,Andy Dalton (TD Passes),Carolina Panthers,Atlanta Falcons
-40,1598669758,Over,282,4467721684,1.793,1.5,Kirk Cousins (TD Passes),Carolina Panthers,Atlanta Falcons
-41,1598669759,Under,283,4467721685,2.04,1.5,Kirk Cousins (TD Passes),Carolina Panthers,Atlanta Falcons
-42,1598646629,Over,286,4467883951,1.543,1.5,Joe Burrow (TD Passes),New York Giants,Cincinnati Bengals
-43,1598646630,Under,287,4467883952,2.49,1.5,Joe Burrow (TD Passes),New York Giants,Cincinnati Bengals
-44,1598755248,Over,286,4467883965,2.47,1.5,Daniel Jones (TD Passes),New York Giants,Cincinnati Bengals
-45,1598755249,Under,287,4467883966,1.549,1.5,Daniel Jones (TD Passes),New York Giants,Cincinnati Bengals
-46,1598705615,Over,288,4467392376,2.6,1.5,Aaron Rodgers (TD Passes),New York Jets,Buffalo Bills
-47,1598705616,Under,289,4467392377,1.502,1.5,Aaron Rodgers (TD Passes),New York Jets,Buffalo Bills
-48,1598705681,Over,288,4467392408,2.6,1.5,Josh Allen (BUF) (TD Passes),New York Jets,Buffalo Bills
-49,1598705682,Under,289,4467392409,1.497,1.5,Josh Allen (BUF) (TD Passes),New York Jets,Buffalo Bills
+0,1599340693,Over,110,4495677227,2.24,1.5,Matthew Stafford (TD Passes),Los Angeles Rams,Minnesota Vikings
+1,1599340694,Under,111,4495677228,1.662,1.5,Matthew Stafford (TD Passes),Los Angeles Rams,Minnesota Vikings
+2,1599340774,Over,110,4496023041,1.757,1.5,Sam Darnold (TD Passes),Los Angeles Rams,Minnesota Vikings
+3,1599340775,Under,111,4496023042,2.09,1.5,Sam Darnold (TD Passes),Los Angeles Rams,Minnesota Vikings
+4,1599350440,Over,268,4495116617,2.75,2.5,Jordan Love (TD Passes),Jacksonville Jaguars,Green Bay Packers
+5,1599350441,Under,269,4495116618,1.45,2.5,Jordan Love (TD Passes),Jacksonville Jaguars,Green Bay Packers
+6,1599350482,Over,268,4495116647,2.07,1.5,Trevor Lawrence (TD Passes),Jacksonville Jaguars,Green Bay Packers
+7,1599350483,Under,269,4495116648,1.769,1.5,Trevor Lawrence (TD Passes),Jacksonville Jaguars,Green Bay Packers
+8,1599355907,Over,284,4495121225,1.628,1.5,Joe Burrow (TD Passes),Cincinnati Bengals,Philadelphia Eagles
+9,1599355908,Under,285,4495121226,2.29,1.5,Joe Burrow (TD Passes),Cincinnati Bengals,Philadelphia Eagles
+10,1599355936,Under,285,4495080690,1.49,1.5,Jalen Hurts (TD Passes),Cincinnati Bengals,Philadelphia Eagles
+11,1599355935,Over,284,4495080689,2.63,1.5,Jalen Hurts (TD Passes),Cincinnati Bengals,Philadelphia Eagles
+12,1599421798,Over,278,4495416593,1.395,0.5,Drake Maye (TD Passes),New England Patriots,New York Jets
+13,1599421799,Under,279,4495416594,2.96,0.5,Drake Maye (TD Passes),New England Patriots,New York Jets
+14,1599421804,Over,278,4495259416,1.925,1.5,Aaron Rodgers (TD Passes),New England Patriots,New York Jets
+15,1599421805,Under,279,4495259417,1.892,1.5,Aaron Rodgers (TD Passes),New England Patriots,New York Jets
+16,1599425593,Over,270,4495200199,2.08,1.5,C.J. Stroud (TD Passes),Houston Texans,Indianapolis Colts
+17,1599425594,Under,271,4495200200,1.763,1.5,C.J. Stroud (TD Passes),Houston Texans,Indianapolis Colts
+18,1599425605,Over,270,4495251776,1.492,0.5,Anthony Richardson (TD Passes),Houston Texans,Indianapolis Colts
+19,1599425606,Under,271,4495251777,2.62,0.5,Anthony Richardson (TD Passes),Houston Texans,Indianapolis Colts
+20,1599465349,Over,264,4495185097,1.813,1.5,Jared Goff (TD Passes),Detroit Lions,Tennessee Titans
+21,1599465350,Under,265,4495185098,2.01,1.5,Jared Goff (TD Passes),Detroit Lions,Tennessee Titans
+22,1599473577,Over,272,4495261244,2.46,1.5,Kyler Murray (TD Passes),Miami Dolphins,Arizona Cardinals
+23,1599473578,Under,273,4495261245,1.555,1.5,Kyler Murray (TD Passes),Miami Dolphins,Arizona Cardinals
+24,1599475814,Over,274,4495476588,1.757,1.5,Kirk Cousins (TD Passes),Tampa Bay Buccaneers,Atlanta Falcons
+25,1599475815,Under,275,4495476589,2.08,1.5,Kirk Cousins (TD Passes),Tampa Bay Buccaneers,Atlanta Falcons
+26,1599475841,Over,274,4495476602,2.39,1.5,Baker Mayfield (TD Passes),Tampa Bay Buccaneers,Atlanta Falcons
+27,1599475842,Under,275,4495476603,1.581,1.5,Baker Mayfield (TD Passes),Tampa Bay Buccaneers,Atlanta Falcons
+28,1599485889,Over,272,4495261260,1.98,1.5,Tua Tagovailoa (TD Passes),Miami Dolphins,Arizona Cardinals
+29,1599485890,Under,273,4495261261,1.847,1.5,Tua Tagovailoa (TD Passes),Miami Dolphins,Arizona Cardinals
+30,1599495552,Under,267,4495659045,1.45,1.5,Jameis Winston (TD Passes),Cleveland Browns,Baltimore Ravens
+31,1599495551,Over,266,4495659044,2.75,1.5,Jameis Winston (TD Passes),Cleveland Browns,Baltimore Ravens
+32,1599421816,Over,280,4495268101,2.14,1.5,Geno Smith (TD Passes),Seattle Seahawks,Buffalo Bills
+33,1599421817,Under,281,4495268102,1.719,1.5,Geno Smith (TD Passes),Seattle Seahawks,Buffalo Bills
+34,1599421846,Over,280,4495268123,1.854,1.5,Josh Allen (BUF) (TD Passes),Seattle Seahawks,Buffalo Bills
+35,1599421847,Under,281,4495268124,1.961,1.5,Josh Allen (BUF) (TD Passes),Seattle Seahawks,Buffalo Bills
+36,1599473661,Over,282,4495465374,2.39,1.5,Justin Herbert (TD Passes),Los Angeles Chargers,New Orleans Saints
+37,1599473662,Under,283,4495465375,1.581,1.5,Justin Herbert (TD Passes),Los Angeles Chargers,New Orleans Saints
+38,1599473721,Over,282,4495549279,1.641,0.5,Spencer Rattler (TD Passes),Los Angeles Chargers,New Orleans Saints
+39,1599473722,Under,283,4495549280,2.27,0.5,Spencer Rattler (TD Passes),Los Angeles Chargers,New Orleans Saints
+40,1599352081,Over,276,4495420631,2.09,1.5,Caleb Williams (TD Passes),Washington Commanders,Chicago Bears
+41,1599352082,Under,277,4495420632,1.757,1.5,Caleb Williams (TD Passes),Washington Commanders,Chicago Bears
+42,1599362882,Over,288,4494265961,,0.5,Andy Dalton (TD Passes),Denver Broncos,Carolina Panthers
+43,1599362883,Under,289,4494265962,,0.5,Andy Dalton (TD Passes),Denver Broncos,Carolina Panthers
+44,1599362933,Over,288,4494795482,2.4,1.5,Bo Nix (TD Passes),Denver Broncos,Carolina Panthers
+45,1599362934,Under,289,4494795483,1.578,1.5,Bo Nix (TD Passes),Denver Broncos,Carolina Panthers
+46,1599373950,Over,286,4495097619,1.98,1.5,Patrick Mahomes (TD Passes),Las Vegas Raiders,Kansas City Chiefs
+47,1599373951,Under,287,4495097620,1.84,1.5,Patrick Mahomes (TD Passes),Las Vegas Raiders,Kansas City Chiefs
+48,1599427004,Over,290,4495433523,2.15,1.5,Dak Prescott (TD Passes),San Francisco 49ers,Dallas Cowboys
+49,1599427005,Under,291,4495433524,1.714,1.5,Dak Prescott (TD Passes),San Francisco 49ers,Dallas Cowboys
+50,1599427070,Over,290,4495433571,1.757,1.5,Brock Purdy (TD Passes),San Francisco 49ers,Dallas Cowboys
+51,1599427071,Under,291,4495433572,2.08,1.5,Brock Purdy (TD Passes),San Francisco 49ers,Dallas Cowboys
