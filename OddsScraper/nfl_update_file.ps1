@@ -11,6 +11,8 @@ Remove-Item -Path "C:\Users\james\OneDrive\Desktop\Projects\NFL\OddsScraper\Neds
 & "Rscript" "OddsScraper\Neds\get_neds_match_urls.R"
 & "C:/Users/james/AppData/Local/Microsoft/WindowsApps/python3.12.exe" "c:/Users/james/OneDrive/Desktop/Projects/NFL/OddsScraper/Neds/get_match_json.py"
 
+& "C:/Users/james/AppData/Local/Microsoft/WindowsApps/python3.12.exe" "c:/Users/james/OneDrive/Desktop/Projects/NFL/OddsScraper/TAB/get-TAB-response.py"
+
 # Execute R script for getting all odds
 & "Rscript" "OddsScraper\master_processing_script.R"
 

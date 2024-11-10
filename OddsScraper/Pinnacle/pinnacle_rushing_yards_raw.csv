@@ -1,59 +1,155 @@
 ,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1599340753,Over,110,4496039426,1.869,67.5,Aaron Jones (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-1,1599340754,Under,111,4496039427,1.943,67.5,Aaron Jones (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-2,1599340858,Over,110,4496023079,1.925,73.5,Kyren Williams (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-3,1599340859,Under,111,4496023080,1.884,73.5,Kyren Williams (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-4,1599341022,Over,110,4494856932,,0.5,Tutu Atwell (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-5,1599341023,Under,111,4494856933,,0.5,Tutu Atwell (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-6,1599380572,Over,110,4496007714,2.07,19.5,Ty Chandler (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-7,1599380573,Under,111,4496007715,1.769,19.5,Ty Chandler (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-8,1599380577,Over,110,4496023051,1.943,14.5,Sam Darnold (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-9,1599380578,Under,111,4496023052,1.869,14.5,Sam Darnold (Rushing Yards),Los Angeles Rams,Minnesota Vikings
-10,1599483442,Over,274,4495476688,1.909,63.5,Bijan Robinson (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-11,1599483443,Under,275,4495476689,1.909,63.5,Bijan Robinson (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-12,1599483454,Over,274,4495476656,1.934,37.5,Tyler Allgeier (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-13,1599483455,Under,275,4495476657,1.884,37.5,Tyler Allgeier (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-14,1599484441,Over,274,4495476698,1.925,34.5,Bucky Irving (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-15,1599484442,Under,275,4495476699,1.892,34.5,Bucky Irving (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-16,1599484444,Over,274,4495476389,1.925,38.5,Rachaad White (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-17,1599484445,Under,275,4495476390,1.892,38.5,Rachaad White (Rushing Yards),Tampa Bay Buccaneers,Atlanta Falcons
-18,1599492847,Over,266,4495581310,1.925,98.5,Derrick Henry (Rushing Yards),Cleveland Browns,Baltimore Ravens
-19,1599492848,Under,267,4495581311,1.892,98.5,Derrick Henry (Rushing Yards),Cleveland Browns,Baltimore Ravens
-20,1599494523,Over,284,4495563062,1.97,12.5,Joe Burrow (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-21,1599494524,Under,285,4495563063,1.854,12.5,Joe Burrow (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-22,1599494537,Over,284,4495567049,1.862,34.5,Jalen Hurts (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-23,1599494538,Under,285,4495567050,1.952,34.5,Jalen Hurts (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-24,1599494542,Over,284,4495548167,1.943,78.5,Saquon Barkley (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-25,1599494543,Under,285,4495548168,1.877,78.5,Saquon Barkley (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-26,1599494555,Over,284,4495310527,1.952,53.5,Chase Brown (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-27,1599494556,Under,285,4495310528,1.869,53.5,Chase Brown (Rushing Yards),Cincinnati Bengals,Philadelphia Eagles
-28,1599494936,Over,268,4495116631,1.909,68.5,Josh Jacobs (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-29,1599494937,Under,269,4495116632,1.909,68.5,Josh Jacobs (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-30,1599495001,Over,268,4495424094,1.925,7.5,Jordan Love (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-31,1599495002,Under,269,4495424095,1.892,7.5,Jordan Love (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-32,1599495031,Over,268,4495116655,1.9,12.5,Trevor Lawrence (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-33,1599495032,Under,269,4495116656,1.917,12.5,Trevor Lawrence (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-34,1599495507,Over,268,4495115685,,0.5,Brian Thomas Jr. (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-35,1599495508,Under,269,4495115686,,0.5,Brian Thomas Jr. (Rushing Yards),Jacksonville Jaguars,Green Bay Packers
-36,1599495511,Over,266,4495473892,1.9,46.5,Nick Chubb (Rushing Yards),Cleveland Browns,Baltimore Ravens
-37,1599495512,Under,267,4495473893,1.917,46.5,Nick Chubb (Rushing Yards),Cleveland Browns,Baltimore Ravens
-38,1599504245,Over,280,4495268145,1.892,62.5,Kenneth Walker III (Rushing Yards),Seattle Seahawks,Buffalo Bills
-39,1599504246,Under,281,4495268146,1.925,62.5,Kenneth Walker III (Rushing Yards),Seattle Seahawks,Buffalo Bills
-40,1599504484,Over,280,4495807484,1.862,59.5,James Cook (Rushing Yards),Seattle Seahawks,Buffalo Bills
-41,1599504485,Under,281,4495807485,1.961,59.5,James Cook (Rushing Yards),Seattle Seahawks,Buffalo Bills
-42,1599511486,Over,282,4495985857,1.862,75.5,J.K. Dobbins (Rushing Yards),Los Angeles Chargers,New Orleans Saints
-43,1599511487,Under,283,4495985858,1.952,75.5,J.K. Dobbins (Rushing Yards),Los Angeles Chargers,New Orleans Saints
-44,1599511652,Over,282,4495549281,1.925,25.5,Spencer Rattler (Rushing Yards),Los Angeles Chargers,New Orleans Saints
-45,1599511653,Under,283,4495549282,1.892,25.5,Spencer Rattler (Rushing Yards),Los Angeles Chargers,New Orleans Saints
-46,1599477411,Over,288,4495433404,1.892,62.5,Javonte Williams (Rushing Yards),Denver Broncos,Carolina Panthers
-47,1599477412,Under,289,4495433405,1.925,62.5,Javonte Williams (Rushing Yards),Denver Broncos,Carolina Panthers
-48,1599477753,Over,288,4495433414,1.869,26.5,Bo Nix (Rushing Yards),Denver Broncos,Carolina Panthers
-49,1599477754,Under,289,4495433415,1.952,26.5,Bo Nix (Rushing Yards),Denver Broncos,Carolina Panthers
-50,1599480693,Over,276,4495599201,1.869,56.5,D'Andre Swift (Rushing Yards),Washington Commanders,Chicago Bears
-51,1599480694,Under,277,4495599202,1.943,56.5,D'Andre Swift (Rushing Yards),Washington Commanders,Chicago Bears
-52,1599494596,Over,286,4495096615,1.943,19.5,Patrick Mahomes (Rushing Yards),Las Vegas Raiders,Kansas City Chiefs
-53,1599494597,Under,287,4495096616,1.877,19.5,Patrick Mahomes (Rushing Yards),Las Vegas Raiders,Kansas City Chiefs
-54,1599494887,Over,286,4495549887,1.934,67.5,Kareem Hunt (Rushing Yards),Las Vegas Raiders,Kansas City Chiefs
-55,1599494888,Under,287,4495549888,1.884,67.5,Kareem Hunt (Rushing Yards),Las Vegas Raiders,Kansas City Chiefs
-56,1599504242,Over,290,4495590759,1.869,79.5,Jordan Mason (Rushing Yards),San Francisco 49ers,Dallas Cowboys
-57,1599504243,Under,291,4495590760,1.952,79.5,Jordan Mason (Rushing Yards),San Francisco 49ers,Dallas Cowboys
+0,1600334482,Over,262,4549026178,1.98,26.5,Daniel Jones (Rushing Yards),Carolina Panthers,New York Giants
+1,1600334483,Under,263,4549026179,1.84,26.5,Daniel Jones (Rushing Yards),Carolina Panthers,New York Giants
+2,1600373681,Over,262,4538090646,,0.5,Wan'Dale Robinson (Rushing Yards),Carolina Panthers,New York Giants
+3,1600373682,Under,263,4538090647,,0.5,Wan'Dale Robinson (Rushing Yards),Carolina Panthers,New York Giants
+4,1600373704,Over,262,4549026206,1.917,74.5,Tyrone Tracy Jr. (Rushing Yards),Carolina Panthers,New York Giants
+5,1600373705,Under,263,4549026207,1.9,74.5,Tyrone Tracy Jr. (Rushing Yards),Carolina Panthers,New York Giants
+6,1600374581,Over,262,4548990577,,6.5,Bryce Young (Rushing Yards),Carolina Panthers,New York Giants
+7,1600374582,Under,263,4548990578,,6.5,Bryce Young (Rushing Yards),Carolina Panthers,New York Giants
+8,1600376069,Over,262,4548983255,,79.5,Chuba Hubbard (Rushing Yards),Carolina Panthers,New York Giants
+9,1600376070,Under,263,4548983256,,79.5,Chuba Hubbard (Rushing Yards),Carolina Panthers,New York Giants
+10,1600555810,Over,262,4549026188,1.934,21.5,Devin Singletary (Rushing Yards),Carolina Panthers,New York Giants
+11,1600555811,Under,263,4549026189,1.884,21.5,Devin Singletary (Rushing Yards),Carolina Panthers,New York Giants
+12,1600267020,Over,270,4548550883,1.869,68.5,Alvin Kamara (Rushing Yards),New Orleans Saints,Atlanta Falcons
+13,1600267021,Under,271,4548550884,1.952,68.5,Alvin Kamara (Rushing Yards),New Orleans Saints,Atlanta Falcons
+14,1600267086,Over,270,4547221747,1.925,35.5,Tyler Allgeier (Rushing Yards),New Orleans Saints,Atlanta Falcons
+15,1600267087,Under,271,4547221748,1.892,35.5,Tyler Allgeier (Rushing Yards),New Orleans Saints,Atlanta Falcons
+16,1600267116,Over,270,4548717573,1.884,70.5,Bijan Robinson (Rushing Yards),New Orleans Saints,Atlanta Falcons
+17,1600267117,Under,271,4548717574,1.934,70.5,Bijan Robinson (Rushing Yards),New Orleans Saints,Atlanta Falcons
+18,1600282612,Over,276,4546650316,1.892,56.5,Rhamondre Stevenson (Rushing Yards),Chicago Bears,New England Patriots
+19,1600282613,Under,277,4546650317,1.925,56.5,Rhamondre Stevenson (Rushing Yards),Chicago Bears,New England Patriots
+20,1600282621,Over,276,4546624660,1.877,73.5,D'Andre Swift (Rushing Yards),Chicago Bears,New England Patriots
+21,1600282622,Under,277,4546624661,1.934,73.5,D'Andre Swift (Rushing Yards),Chicago Bears,New England Patriots
+22,1600295887,Over,272,4548100664,1.862,37.5,Javonte Williams (Rushing Yards),Kansas City Chiefs,Denver Broncos
+23,1600295888,Under,273,4548100665,1.952,37.5,Javonte Williams (Rushing Yards),Kansas City Chiefs,Denver Broncos
+24,1600295911,Over,272,4548013947,1.877,27.5,Bo Nix (Rushing Yards),Kansas City Chiefs,Denver Broncos
+25,1600295912,Under,273,4548013948,1.943,27.5,Bo Nix (Rushing Yards),Kansas City Chiefs,Denver Broncos
+26,1600355268,Over,266,4549013893,1.99,72.5,Aaron Jones (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+27,1600355269,Under,267,4549013894,1.84,72.5,Aaron Jones (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+28,1600357927,Over,264,4548658331,1.9,78.5,Jonathan Taylor (Rushing Yards),Indianapolis Colts,Buffalo Bills
+29,1600357928,Under,265,4548658332,1.917,78.5,Jonathan Taylor (Rushing Yards),Indianapolis Colts,Buffalo Bills
+30,1600360599,Over,264,4546574372,1.934,64.5,James Cook (Rushing Yards),Indianapolis Colts,Buffalo Bills
+31,1600360600,Under,265,4546574373,1.884,64.5,James Cook (Rushing Yards),Indianapolis Colts,Buffalo Bills
+32,1600360614,Over,264,4546654589,1.884,24.5,Josh Allen (BUF) (Rushing Yards),Indianapolis Colts,Buffalo Bills
+33,1600360615,Under,265,4546654590,1.925,24.5,Josh Allen (BUF) (Rushing Yards),Indianapolis Colts,Buffalo Bills
+34,1600362385,Over,264,4545817825,,0.5,Khalil Shakir (Rushing Yards),Indianapolis Colts,Buffalo Bills
+35,1600362386,Under,265,4545817826,,0.5,Khalil Shakir (Rushing Yards),Indianapolis Colts,Buffalo Bills
+36,1600368930,Over,276,4548845768,1.952,21.5,Caleb Williams (Rushing Yards),Chicago Bears,New England Patriots
+37,1600368931,Under,277,4548845769,1.869,21.5,Caleb Williams (Rushing Yards),Chicago Bears,New England Patriots
+38,1600368954,Over,276,4546624932,1.934,29.5,Drake Maye (Rushing Yards),Chicago Bears,New England Patriots
+39,1600368955,Under,277,4546624933,1.884,29.5,Drake Maye (Rushing Yards),Chicago Bears,New England Patriots
+40,1600370024,Over,268,4546508605,1.934,47.5,Jayden Daniels (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+41,1600370025,Under,269,4546508606,1.884,47.5,Jayden Daniels (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+42,1600370576,Over,276,4540152130,,0.5,Kendrick Bourne (Rushing Yards),Chicago Bears,New England Patriots
+43,1600370577,Under,277,4540152131,,0.5,Kendrick Bourne (Rushing Yards),Chicago Bears,New England Patriots
+44,1600371210,Over,274,4548617565,1.84,13.5,Baker Mayfield (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+45,1600371211,Under,275,4548617566,1.98,13.5,Baker Mayfield (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+46,1600422631,Over,268,4546507386,1.9,13.5,Russell Wilson (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+47,1600422632,Under,269,4546507387,1.917,13.5,Russell Wilson (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+48,1600422645,Over,268,4548462947,1.813,63.5,Najee Harris (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+49,1600422646,Under,269,4548462948,2.02,63.5,Najee Harris (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+50,1600428482,Over,272,4548675784,1.917,72.5,Kareem Hunt (Rushing Yards),Kansas City Chiefs,Denver Broncos
+51,1600428483,Under,273,4548675785,1.9,72.5,Kareem Hunt (Rushing Yards),Kansas City Chiefs,Denver Broncos
+52,1600429854,Over,270,4547032051,2.12,1.5,Kirk Cousins (Rushing Yards),New Orleans Saints,Atlanta Falcons
+53,1600429855,Under,271,4547032052,1.735,1.5,Kirk Cousins (Rushing Yards),New Orleans Saints,Atlanta Falcons
+54,1600432857,Over,264,4547294111,1.925,21.5,Ray Davis (Rushing Yards),Indianapolis Colts,Buffalo Bills
+55,1600432858,Under,265,4547294112,1.892,21.5,Ray Davis (Rushing Yards),Indianapolis Colts,Buffalo Bills
+56,1600433774,Over,274,4546716539,1.925,34.5,Bucky Irving (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+57,1600433775,Under,275,4546716540,1.892,34.5,Bucky Irving (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+58,1600433789,Over,274,4548301127,1.909,16.5,Brock Purdy (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+59,1600433790,Under,275,4548301128,1.909,16.5,Brock Purdy (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+60,1600434068,Over,270,4548692446,2.02,2.5,Derek Carr (Rushing Yards),New Orleans Saints,Atlanta Falcons
+61,1600434069,Under,271,4548692447,1.813,2.5,Derek Carr (Rushing Yards),New Orleans Saints,Atlanta Falcons
+62,1600434606,Over,274,4546644746,1.952,24.5,Rachaad White (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+63,1600434607,Under,275,4546644747,1.869,24.5,Rachaad White (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+64,1600416967,Over,266,4546364602,1.9,12.5,Sam Darnold (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+65,1600416968,Under,267,4546364603,1.917,12.5,Sam Darnold (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+66,1600479066,Over,264,4545550023,,0.5,Josh Downs (Rushing Yards),Indianapolis Colts,Buffalo Bills
+67,1600479067,Under,265,4545550024,,0.5,Josh Downs (Rushing Yards),Indianapolis Colts,Buffalo Bills
+68,1600482932,Over,266,4547274753,1.961,44.5,Tank Bigsby (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+69,1600482933,Under,267,4547274754,1.862,44.5,Tank Bigsby (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+70,1600482940,Over,266,4548980964,1.869,28.5,Travis Etienne Jr. (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+71,1600482941,Under,267,4548980965,1.952,28.5,Travis Etienne Jr. (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+72,1600485870,Over,268,4548639687,1.813,28.5,Jaylen Warren (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+73,1600485871,Under,269,4548639688,2.01,28.5,Jaylen Warren (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+74,1600487146,Over,270,4548692448,1.98,27.5,Taysom Hill (Rushing Yards),New Orleans Saints,Atlanta Falcons
+75,1600487147,Under,271,4548692451,1.84,27.5,Taysom Hill (Rushing Yards),New Orleans Saints,Atlanta Falcons
+76,1600487162,Over,274,4546643684,1.943,63.5,Christian McCaffrey (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+77,1600487163,Under,275,4546643685,1.877,63.5,Christian McCaffrey (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+78,1600496667,Over,272,4548014224,1.961,16.5,Patrick Mahomes (Rushing Yards),Kansas City Chiefs,Denver Broncos
+79,1600496668,Under,273,4548014225,1.862,16.5,Patrick Mahomes (Rushing Yards),Kansas City Chiefs,Denver Broncos
+80,1600499040,Under,273,4547110160,1.934,0.5,Xavier Worthy (Rushing Yards),Kansas City Chiefs,Denver Broncos
+81,1600499039,Over,272,4547110159,1.884,0.5,Xavier Worthy (Rushing Yards),Kansas City Chiefs,Denver Broncos
+82,1600543414,Over,268,4546508508,1.892,43.5,Austin Ekeler (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+83,1600543415,Under,269,4546508509,1.925,43.5,Austin Ekeler (Rushing Yards),Washington Commanders,Pittsburgh Steelers
+84,1600555862,Over,276,4546650304,1.925,19.5,Roschon Johnson (Rushing Yards),Chicago Bears,New England Patriots
+85,1600555863,Under,277,4546650305,1.892,19.5,Roschon Johnson (Rushing Yards),Chicago Bears,New England Patriots
+86,1600555868,Over,272,4547110139,1.877,13.5,Jaleel McLaughlin (Rushing Yards),Kansas City Chiefs,Denver Broncos
+87,1600555869,Under,273,4547110140,1.943,13.5,Jaleel McLaughlin (Rushing Yards),Kansas City Chiefs,Denver Broncos
+88,1600555881,Over,274,4547987238,1.854,7.5,Deebo Samuel Sr. (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+89,1600555882,Under,275,4547987239,1.961,7.5,Deebo Samuel Sr. (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+90,1600555890,Over,272,4546551418,,11.5,Carson Steele (Rushing Yards),Kansas City Chiefs,Denver Broncos
+91,1600555891,Under,273,4546551419,,11.5,Carson Steele (Rushing Yards),Kansas City Chiefs,Denver Broncos
+92,1600555902,Over,274,4547949462,1.854,19.5,Jordan Mason (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+93,1600555903,Under,275,4547949463,1.97,19.5,Jordan Mason (Rushing Yards),Tampa Bay Buccaneers,San Francisco 49ers
+94,1600555914,Over,276,4546650296,1.884,10.5,Antonio Gibson (Rushing Yards),Chicago Bears,New England Patriots
+95,1600555915,Under,277,4546650297,1.925,10.5,Antonio Gibson (Rushing Yards),Chicago Bears,New England Patriots
+96,1600555977,Over,266,4547134715,1.854,15.5,Cam Akers (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+97,1600555978,Under,267,4547134716,1.961,15.5,Cam Akers (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+98,1600556782,Over,266,4546663084,1.98,6.5,Mac Jones (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+99,1600556783,Under,267,4546663085,1.84,6.5,Mac Jones (Rushing Yards),Jacksonville Jaguars,Minnesota Vikings
+100,1600370723,Over,278,4546740068,1.934,64.5,Tony Pollard (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+101,1600370724,Under,279,4546740069,1.884,64.5,Tony Pollard (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+102,1600370884,Over,278,4548715993,1.943,64.5,J.K. Dobbins (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+103,1600370885,Under,279,4548715994,1.877,64.5,J.K. Dobbins (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+104,1600480596,Over,278,4546740150,1.884,11.5,Will Levis (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+105,1600480597,Under,279,4546740151,1.934,11.5,Will Levis (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+106,1600480760,Over,278,4548328369,1.9,7.5,Justin Herbert (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+107,1600480761,Under,279,4548328370,1.917,7.5,Justin Herbert (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+108,1600556879,Over,278,4546739813,1.892,23.5,Tyjae Spears (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+109,1600556880,Under,279,4546739814,1.925,23.5,Tyjae Spears (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+110,1600559941,Over,278,4548715997,1.934,17.5,Gus Edwards (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+111,1600559942,Under,279,4548715998,1.884,17.5,Gus Edwards (Rushing Yards),Los Angeles Chargers,Tennessee Titans
+112,1600360119,Over,282,4546655450,1.892,76.5,James Conner (Rushing Yards),Arizona Cardinals,New York Jets
+113,1600360120,Under,283,4546655451,1.925,76.5,James Conner (Rushing Yards),Arizona Cardinals,New York Jets
+114,1600360125,Over,282,4548726481,1.862,29.5,Kyler Murray (Rushing Yards),Arizona Cardinals,New York Jets
+115,1600360126,Under,283,4548726483,1.952,29.5,Kyler Murray (Rushing Yards),Arizona Cardinals,New York Jets
+116,1600360204,Over,282,4548726482,1.943,69.5,Breece Hall (Rushing Yards),Arizona Cardinals,New York Jets
+117,1600360205,Under,283,4548726484,1.877,69.5,Breece Hall (Rushing Yards),Arizona Cardinals,New York Jets
+118,1600432854,Over,280,4546744360,1.943,35.5,Jalen Hurts (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+119,1600432855,Under,281,4546744361,1.877,35.5,Jalen Hurts (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+120,1600432869,Over,280,4546956648,1.877,44.5,Rico Dowdle (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+121,1600432870,Under,281,4546956649,1.934,44.5,Rico Dowdle (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+122,1600433747,Over,282,4546557664,1.934,20.5,Braelon Allen (Rushing Yards),Arizona Cardinals,New York Jets
+123,1600433748,Under,283,4546557665,1.884,20.5,Braelon Allen (Rushing Yards),Arizona Cardinals,New York Jets
+124,1600482953,Over,280,4546744342,1.917,88.5,Saquon Barkley (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+125,1600482954,Under,281,4546744343,1.9,88.5,Saquon Barkley (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+126,1600491143,Over,280,4548797969,2.03,13.5,Kenneth Gainwell (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+127,1600491144,Under,281,4548797970,1.8,13.5,Kenneth Gainwell (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+128,1600507320,Over,280,4546744412,1.934,2.5,CeeDee Lamb (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+129,1600507321,Under,281,4546744413,1.884,2.5,CeeDee Lamb (Rushing Yards),Dallas Cowboys,Philadelphia Eagles
+130,1600365301,Over,284,4548021596,1.917,75.5,Joe Mixon (Rushing Yards),Houston Texans,Detroit Lions
+131,1600365302,Under,285,4548021597,1.9,75.5,Joe Mixon (Rushing Yards),Houston Texans,Detroit Lions
+132,1600365509,Over,284,4548822028,1.934,63.5,Jahmyr Gibbs (Rushing Yards),Houston Texans,Detroit Lions
+133,1600365510,Under,285,4548822029,1.884,63.5,Jahmyr Gibbs (Rushing Yards),Houston Texans,Detroit Lions
+134,1600365518,Over,284,4548072268,1.9,57.5,David Montgomery (Rushing Yards),Houston Texans,Detroit Lions
+135,1600365519,Under,285,4548072269,1.917,57.5,David Montgomery (Rushing Yards),Houston Texans,Detroit Lions
+136,1600371192,Over,284,4548756106,1.9,12.5,C.J. Stroud (Rushing Yards),Houston Texans,Detroit Lions
+137,1600371193,Under,285,4548756107,1.917,12.5,C.J. Stroud (Rushing Yards),Houston Texans,Detroit Lions
+138,1600434699,Over,284,4546544412,,0.5,Tank Dell (Rushing Yards),Houston Texans,Detroit Lions
+139,1600434700,Under,285,4546544413,,0.5,Tank Dell (Rushing Yards),Houston Texans,Detroit Lions
+140,1600491819,Over,284,4548072228,1.98,1.5,Jared Goff (Rushing Yards),Houston Texans,Detroit Lions
+141,1600491820,Under,285,4548072229,1.84,1.5,Jared Goff (Rushing Yards),Houston Texans,Detroit Lions
+142,1600499862,Over,284,4548072324,1.909,2.5,Jameson Williams (Rushing Yards),Houston Texans,Detroit Lions
+143,1600499863,Under,285,4548072325,1.909,2.5,Jameson Williams (Rushing Yards),Houston Texans,Detroit Lions
+144,1600370493,Over,286,4546612901,1.909,84.5,Kyren Williams (Rushing Yards),Los Angeles Rams,Miami Dolphins
+145,1600370494,Under,287,4546612902,1.909,84.5,Kyren Williams (Rushing Yards),Los Angeles Rams,Miami Dolphins
+146,1600370517,Over,286,4547317619,1.9,57.5,De'Von Achane (Rushing Yards),Los Angeles Rams,Miami Dolphins
+147,1600370518,Under,287,4547317620,1.917,57.5,De'Von Achane (Rushing Yards),Los Angeles Rams,Miami Dolphins
+148,1600425570,Over,286,4546612725,1.917,33.5,Raheem Mostert (Rushing Yards),Los Angeles Rams,Miami Dolphins
+149,1600425571,Under,287,4546612726,1.9,33.5,Raheem Mostert (Rushing Yards),Los Angeles Rams,Miami Dolphins
+150,1600438022,Over,286,4546553354,1.862,1.5,Puka Nacua (Rushing Yards),Los Angeles Rams,Miami Dolphins
+151,1600438023,Under,287,4546553355,1.961,1.5,Puka Nacua (Rushing Yards),Los Angeles Rams,Miami Dolphins
+152,1600437754,Over,286,4546612719,2.89,0.5,Matthew Stafford (Rushing Yards),Los Angeles Rams,Miami Dolphins
+153,1600437755,Under,287,4546612720,1.411,0.5,Matthew Stafford (Rushing Yards),Los Angeles Rams,Miami Dolphins

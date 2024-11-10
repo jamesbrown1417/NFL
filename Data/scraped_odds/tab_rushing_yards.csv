@@ -1,90 +1,550 @@
 match,start_time,player_name,player_team,market,line,over_price,under_price,margin,agency
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,29.5,1.24,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,34.5,1.38,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,39.5,1.55,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,44.5,1.75,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,49.5,2.05,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,54.5,2.4,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,59.5,2.8,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,64.5,3.3,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Yards,69.5,4,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,14.5,1.08,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,19.5,1.21,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,24.5,1.38,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,29.5,1.6,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,34.5,1.85,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,39.5,2.2,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,44.5,2.65,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,49.5,3.2,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Daniel Jones,New York Giants,Rushing Yards,54.5,4,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,9.5,1.36,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,14.5,1.72,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,19.5,2.2,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,24.5,2.9,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,29.5,3.8,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,34.5,5,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,39.5,7,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,44.5,9,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Eric Gray,New York Giants,Rushing Yards,NA,1.09,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,9.5,1.9,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,14.5,2.65,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,19.5,3.7,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,24.5,5.25,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,29.5,7.5,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,34.5,10,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,39.5,13,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,44.5,17,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Joe Burrow,Cincinnati Bengals,Rushing Yards,NA,1.38,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,39.5,1.24,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,44.5,1.36,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,49.5,1.5,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,54.5,1.68,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,59.5,1.9,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,64.5,2.15,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,69.5,2.45,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,74.5,2.9,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,T Tracy,NA,Rushing Yards,79.5,3.3,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,29.5,1.32,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,34.5,1.48,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,39.5,1.72,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,44.5,1.95,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,49.5,2.3,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,54.5,2.7,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,59.5,3.3,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,64.5,3.9,NA,NA,TAB
-New York Giants v Cincinnati Bengals,2024-10-14T00:20:00.000Z,Zack Moss,Cincinnati Bengals,Rushing Yards,69.5,4.8,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,14.5,1.11,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,19.5,1.26,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,24.5,1.44,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,29.5,1.68,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,34.5,2,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,39.5,2.4,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,44.5,2.9,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Brae Allen,NA,Rushing Yards,49.5,3.6,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,34.5,1.21,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,39.5,1.34,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,44.5,1.48,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,49.5,1.65,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,54.5,1.9,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,59.5,2.15,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,64.5,2.5,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,69.5,2.9,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Breece Hall,New York Jets,Rushing Yards,74.5,3.4,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,34.5,1.21,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,39.5,1.32,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,44.5,1.46,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,49.5,1.65,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,54.5,1.85,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,59.5,2.1,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,64.5,2.45,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,69.5,2.8,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,James Cook,Buffalo Bills,Rushing Yards,74.5,3.3,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,14.5,1.1,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,19.5,1.24,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,24.5,1.42,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,29.5,1.65,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,34.5,1.95,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,39.5,2.35,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,44.5,2.8,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,49.5,3.5,NA,NA,TAB
-New York Jets v Buffalo Bills,2024-10-15T00:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,54.5,4.25,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,9.5,1.09,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,14.5,1.26,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,19.5,1.46,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,24.5,1.75,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,29.5,2.15,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,34.5,2.65,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,39.5,3.3,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,44.5,4.25,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Daniel Jones,New York Giants,Rushing Yards,49.5,5.25,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,9.5,1.18,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,14.5,1.42,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,19.5,1.75,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,24.5,2.15,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,29.5,2.75,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,34.5,3.5,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,39.5,4.5,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,Devin Singletary,New York Giants,Rushing Yards,44.5,6,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,54.5,1.26,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,59.5,1.36,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,64.5,1.48,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,69.5,1.62,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,74.5,1.8,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,79.5,2,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,84.5,2.25,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,89.5,2.55,NA,NA,TAB
+Carolina Panthers v New York Giants,2024-11-10T14:30:00.000Z,T Tracy,NA,Rushing Yards,94.5,2.9,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,9.5,1.8,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,14.5,2.45,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,19.5,3.4,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,24.5,4.8,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,29.5,6.5,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,34.5,9,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,39.5,11,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,44.5,15,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,A Gibson,NA,Rushing Yards,NA,1.32,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,9.5,1.17,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,14.5,1.39,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,19.5,1.68,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,24.5,2.1,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,29.5,2.6,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,34.5,3.3,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,39.5,4.25,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Caleb Williams,Chicago Bears,Rushing Yards,44.5,5.5,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,54.5,1.3,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,59.5,1.42,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,64.5,1.55,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,69.5,1.72,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,74.5,1.9,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,79.5,2.15,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,84.5,2.4,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,89.5,2.7,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,D'Andre Swift,Chicago Bears,Rushing Yards,94.5,3.1,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,9.5,1.05,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,14.5,1.17,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,19.5,1.34,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,24.5,1.55,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,29.5,1.85,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,34.5,2.25,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,39.5,2.7,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,44.5,3.4,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Drake Maye,New England Patriots,Rushing Yards,49.5,4.25,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,29.5,1.08,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,34.5,1.17,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,39.5,1.28,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,44.5,1.39,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,49.5,1.55,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,54.5,1.72,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,59.5,1.95,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,64.5,2.25,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Yards,69.5,2.55,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,9.5,1.24,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,14.5,1.52,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,19.5,1.9,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,24.5,2.4,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,29.5,3.1,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,34.5,4,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,39.5,5.25,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,44.5,7,NA,NA,TAB
+Chicago Bears v New England Patriots,2024-11-10T18:00:00.000Z,Ros Johnson,NA,Rushing Yards,NA,1.05,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,44.5,1.22,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,49.5,1.34,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,54.5,1.46,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,59.5,1.62,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,64.5,1.8,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,69.5,2.05,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,74.5,2.3,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,79.5,2.65,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,James Cook,Buffalo Bills,Rushing Yards,84.5,3.1,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,64.5,1.4,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,69.5,1.55,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,74.5,1.68,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,79.5,1.85,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,84.5,2.05,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,89.5,2.3,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,94.5,2.6,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,99.5,3,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Rushing Yards,104.5,3.4,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,9.5,1.1,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,14.5,1.29,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,19.5,1.52,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,24.5,1.85,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,29.5,2.25,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,34.5,2.8,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,39.5,3.5,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Josh Allen,Buffalo Bills,Rushing Yards,44.5,4.5,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,9.5,1.18,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,14.5,1.4,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,19.5,1.72,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,24.5,2.1,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,29.5,2.65,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,34.5,3.4,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,39.5,4.5,NA,NA,TAB
+Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00.000Z,Ray Davis,Buffalo Bills,Rushing Yards,44.5,5.75,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,49.5,1.24,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,54.5,1.34,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,59.5,1.46,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,64.5,1.62,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,69.5,1.8,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,74.5,2,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,79.5,2.25,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,84.5,2.55,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Aaron Jones,Minnesota Vikings,Rushing Yards,89.5,2.9,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,9.5,2.7,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,14.5,4,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,19.5,6,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,24.5,8.5,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,29.5,11,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,34.5,15,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,39.5,21,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Mac Jones,Jacksonville Jaguars,Rushing Yards,NA,1.8,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,9.5,1.58,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,14.5,2.05,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,19.5,2.75,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,24.5,3.7,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,29.5,5,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,34.5,7,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,39.5,9,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,44.5,11,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Sam Darnold,Minnesota Vikings,Rushing Yards,NA,1.2,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,29.5,1.36,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,34.5,1.55,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,39.5,1.75,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,44.5,2.05,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,49.5,2.4,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,54.5,2.8,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,59.5,3.4,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,64.5,4,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Tank Bigsby,Jacksonville Jaguars,Rushing Yards,69.5,4.8,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,9.5,1.06,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,14.5,1.18,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,19.5,1.36,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,24.5,1.6,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,29.5,1.9,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,34.5,2.3,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,39.5,2.8,NA,NA,TAB
+Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00.000Z,Travis Etienne,Jacksonville Jaguars,Rushing Yards,44.5,3.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,9.5,1.07,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,14.5,1.21,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,19.5,1.42,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,24.5,1.68,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,29.5,2,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,34.5,2.45,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,39.5,3.1,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,44.5,3.8,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,9.5,1.52,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,14.5,2,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,19.5,2.65,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,24.5,3.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,29.5,4.8,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,34.5,6.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,39.5,8.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,44.5,11,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,J McLaughln,NA,Rushing Yards,NA,1.18,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,19.5,1.15,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,24.5,1.29,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,29.5,1.46,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,34.5,1.68,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,39.5,2,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,44.5,2.35,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,49.5,2.8,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,54.5,3.4,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Javonte Williams,Denver Broncos,Rushing Yards,59.5,4.25,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,54.5,1.34,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,59.5,1.45,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,64.5,1.6,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,69.5,1.75,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,74.5,1.95,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,79.5,2.2,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,84.5,2.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,89.5,2.9,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,94.5,3.3,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,9.5,1.36,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,14.5,1.72,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,19.5,2.2,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,24.5,2.8,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,29.5,3.7,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,34.5,5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,39.5,6.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,44.5,8.5,NA,NA,TAB
+Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,NA,1.09,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,54.5,1.38,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,59.5,1.52,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,64.5,1.68,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,69.5,1.85,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,74.5,2.1,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,79.5,2.35,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,84.5,2.7,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,89.5,3.1,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Alvin Kamara,New Orleans Saints,Rushing Yards,94.5,3.6,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,54.5,1.34,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,59.5,1.46,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,64.5,1.62,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,69.5,1.8,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,74.5,2,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,79.5,2.25,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,84.5,2.55,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,89.5,2.9,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Yards,94.5,3.4,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Derek Carr,New Orleans Saints,Rushing Yards,9.5,4.5,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Derek Carr,New Orleans Saints,Rushing Yards,14.5,7,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Derek Carr,New Orleans Saints,Rushing Yards,19.5,10,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Derek Carr,New Orleans Saints,Rushing Yards,24.5,13,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Derek Carr,New Orleans Saints,Rushing Yards,29.5,19,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Derek Carr,New Orleans Saints,Rushing Yards,NA,2.7,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Kirk Cousins,Atlanta Falcons,Rushing Yards,9.5,5.25,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Kirk Cousins,Atlanta Falcons,Rushing Yards,14.5,8,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Kirk Cousins,Atlanta Falcons,Rushing Yards,19.5,11,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Kirk Cousins,Atlanta Falcons,Rushing Yards,24.5,15,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Kirk Cousins,Atlanta Falcons,Rushing Yards,29.5,21,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Kirk Cousins,Atlanta Falcons,Rushing Yards,NA,3.2,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,9.5,1.07,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,14.5,1.2,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,19.5,1.39,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,24.5,1.65,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,29.5,2,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,34.5,2.4,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,39.5,3,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,44.5,3.7,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Taysom Hill,NA,Rushing Yards,49.5,4.8,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,19.5,1.18,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,24.5,1.34,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,29.5,1.55,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,34.5,1.8,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,39.5,2.1,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,44.5,2.55,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,49.5,3.1,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,54.5,3.7,NA,NA,TAB
+New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,59.5,4.6,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,14.5,1.08,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,19.5,1.2,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,24.5,1.38,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,29.5,1.58,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,34.5,1.85,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,39.5,2.2,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,44.5,2.65,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,B Irving,NA,Rushing Yards,49.5,3.2,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,9.5,1.48,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,14.5,1.95,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,19.5,2.55,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,24.5,3.4,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,29.5,4.6,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,34.5,6.5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,39.5,8.5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,44.5,11,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Rushing Yards,NA,1.16,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,9.5,1.34,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,14.5,1.68,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,19.5,2.15,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,24.5,2.8,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,29.5,3.7,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,34.5,4.8,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,39.5,6.5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,44.5,8.5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Brock Purdy,San Francisco 49ers,Rushing Yards,NA,1.09,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,49.5,1.39,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,54.5,1.52,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,59.5,1.72,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,64.5,1.9,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,69.5,2.15,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,74.5,2.45,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,79.5,2.8,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,84.5,3.3,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Christian McCaffrey,San Francisco 49ers,Rushing Yards,89.5,3.8,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,9.5,2.1,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,14.5,3,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,19.5,4.25,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,24.5,6,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,29.5,8.5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,34.5,11,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,39.5,15,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,44.5,21,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Deebo Samuel Sr.,San Francisco 49ers,Rushing Yards,NA,1.48,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,9.5,1.22,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,14.5,1.48,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,19.5,1.85,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,24.5,2.3,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,29.5,2.9,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,34.5,3.8,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,39.5,5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,J Mason,NA,Rushing Yards,44.5,6.5,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,9.5,1.11,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,14.5,1.3,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,19.5,1.55,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,24.5,1.85,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,29.5,2.3,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,34.5,2.9,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,39.5,3.6,NA,NA,TAB
+Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00.000Z,Rachaad White,Tampa Bay Buccaneers,Rushing Yards,44.5,4.6,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,24.5,1.17,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,29.5,1.3,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,34.5,1.45,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,39.5,1.65,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,44.5,1.9,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,49.5,2.25,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,54.5,2.6,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,59.5,3.1,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Austin Ekeler,Washington Commanders,Rushing Yards,64.5,3.7,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,9.5,1.06,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,14.5,1.18,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,19.5,1.36,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,24.5,1.6,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,29.5,1.9,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,34.5,2.35,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,39.5,2.9,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,44.5,3.6,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,J Warren,NA,Rushing Yards,49.5,4.5,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,24.5,1.11,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,29.5,1.21,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,34.5,1.34,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,39.5,1.5,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,44.5,1.72,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,49.5,1.95,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,54.5,2.3,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,59.5,2.65,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Jayden Daniels,Washington Commanders,Rushing Yards,64.5,3.1,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,44.5,1.26,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,49.5,1.36,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,54.5,1.5,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,59.5,1.65,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,64.5,1.85,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,69.5,2.1,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,74.5,2.4,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,79.5,2.7,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Najee Harris,Pittsburgh Steelers,Rushing Yards,84.5,3.2,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,9.5,1.55,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,14.5,2,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,19.5,2.65,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,24.5,3.6,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,29.5,5,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,34.5,6.5,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,39.5,9,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,44.5,11,NA,NA,TAB
+Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00.000Z,Russell Wilson,Pittsburgh Steelers,Rushing Yards,NA,1.18,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,9.5,1.3,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,14.5,1.62,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,19.5,2.05,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,24.5,2.65,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,29.5,3.5,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,34.5,4.6,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,39.5,6,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,44.5,8,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Gus Edwards,Los Angeles Chargers,Rushing Yards,NA,1.07,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,44.5,1.26,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,49.5,1.36,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,54.5,1.5,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,59.5,1.68,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,64.5,1.85,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,69.5,2.1,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,74.5,2.4,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,79.5,2.75,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,JK Dobbins,NA,Rushing Yards,84.5,3.2,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,9.5,2.15,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,14.5,3,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,19.5,4.25,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,24.5,6,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,29.5,8.5,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,34.5,11,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,39.5,15,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,44.5,21,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Justin Herbert,Los Angeles Chargers,Rushing Yards,NA,1.48,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,49.5,1.36,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,54.5,1.48,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,59.5,1.65,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,64.5,1.85,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,69.5,2.05,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,74.5,2.35,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,79.5,2.7,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,84.5,3.1,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Yards,89.5,3.6,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,9.5,1.12,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,14.5,1.32,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,19.5,1.58,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,24.5,1.9,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,29.5,2.35,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,34.5,3,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,39.5,3.7,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Tyjae Spears,Tennessee Titans,Rushing Yards,44.5,4.8,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,9.5,1.6,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,14.5,2.15,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,19.5,2.9,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,24.5,4,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,29.5,5.5,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,34.5,7.5,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,39.5,10,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,44.5,13,NA,NA,TAB
+Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00.000Z,Will Levis,Tennessee Titans,Rushing Yards,NA,1.21,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,9.5,1.2,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,14.5,1.46,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,19.5,1.8,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,24.5,2.25,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,29.5,2.8,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,34.5,3.7,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,39.5,4.8,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Brae Allen,NA,Rushing Yards,44.5,6.5,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,49.5,1.28,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,54.5,1.38,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,59.5,1.52,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,64.5,1.68,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,69.5,1.85,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,74.5,2.1,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,79.5,2.35,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,84.5,2.7,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Breece Hall,New York Jets,Rushing Yards,89.5,3.1,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,59.5,1.34,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,64.5,1.45,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,69.5,1.6,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,74.5,1.75,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,79.5,1.95,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,84.5,2.15,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,89.5,2.45,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,94.5,2.75,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,James Conner,Arizona Cardinals,Rushing Yards,99.5,3.1,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,14.5,1.15,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,19.5,1.3,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,24.5,1.52,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,29.5,1.8,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,34.5,2.15,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,39.5,2.6,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,44.5,3.2,NA,NA,TAB
+Arizona Cardinals v New York Jets,2024-11-10T21:25:00.000Z,Kyler Murray,Arizona Cardinals,Rushing Yards,49.5,3.9,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,24.5,1.36,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,29.5,1.58,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,34.5,1.85,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,39.5,2.2,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,44.5,2.6,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,49.5,3.2,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,54.5,3.9,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,59.5,4.8,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Yards,64.5,6,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,9.5,1.55,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,14.5,2,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,19.5,2.65,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,24.5,3.6,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,29.5,4.8,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,34.5,6.5,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,39.5,9,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,44.5,11,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,K Gainwell,NA,Rushing Yards,NA,1.18,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,24.5,1.13,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,29.5,1.26,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,34.5,1.39,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,39.5,1.58,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,44.5,1.8,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,49.5,2.1,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,54.5,2.4,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,59.5,2.9,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Rico Dowdle,Dallas Cowboys,Rushing Yards,64.5,3.4,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,64.5,1.18,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,69.5,1.24,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,74.5,1.34,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,79.5,1.44,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,84.5,1.55,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,89.5,1.72,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,94.5,1.85,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,99.5,2.05,NA,NA,TAB
+Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Yards,104.5,2.3,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,9.5,1.52,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,14.5,2,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,19.5,2.7,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,24.5,3.6,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,29.5,5,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,34.5,7,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,39.5,9,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,44.5,11,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,C.J. Stroud,Houston Texans,Rushing Yards,NA,1.18,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,39.5,1.3,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,44.5,1.44,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,49.5,1.6,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,54.5,1.8,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,59.5,2.05,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,64.5,2.35,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,69.5,2.7,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,74.5,3.1,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,David Montgomery,Detroit Lions,Rushing Yards,79.5,3.7,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,44.5,1.26,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,49.5,1.38,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,54.5,1.52,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,59.5,1.68,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,64.5,1.9,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,69.5,2.15,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,74.5,2.45,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,79.5,2.8,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Yards,84.5,3.2,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,9.5,5,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,14.5,7.5,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,19.5,11,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,24.5,15,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,29.5,21,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,NA,3,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,59.5,1.36,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,64.5,1.48,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,69.5,1.62,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,74.5,1.8,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,79.5,2,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,84.5,2.25,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,89.5,2.55,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,94.5,2.9,NA,NA,TAB
+Houston Texans v Detroit Lions,2024-11-11T01:20:00.000Z,Joe Mixon,Houston Texans,Rushing Yards,99.5,3.3,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,34.5,1.16,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,39.5,1.26,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,44.5,1.38,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,49.5,1.52,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,54.5,1.72,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,59.5,1.9,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,64.5,2.2,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,69.5,2.5,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,De'Von Achane,Miami Dolphins,Rushing Yards,74.5,2.9,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,64.5,1.32,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,69.5,1.44,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,74.5,1.55,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,79.5,1.72,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,84.5,1.9,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,89.5,2.1,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,94.5,2.35,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,99.5,2.6,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Kyren Williams,Los Angeles Rams,Rushing Yards,104.5,3,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Yards,9.5,9,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Yards,14.5,13,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Yards,19.5,19,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Yards,NA,5.5,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,14.5,1.09,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,19.5,1.22,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,24.5,1.4,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,29.5,1.62,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,34.5,1.9,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,39.5,2.3,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,44.5,2.75,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,49.5,3.4,NA,NA,TAB
+Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00.000Z,Raheem Mostert,Miami Dolphins,Rushing Yards,54.5,4.25,NA,NA,TAB

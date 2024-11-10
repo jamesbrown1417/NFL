@@ -1,28 +1,102 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Cincinnati Bengals v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,0.5,1.27,NA,NA,Pointsbet,1974568,73104022,7,NA
-Cincinnati Bengals v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,1.5,2.6,1.48,1.06,Pointsbet,1974568,73104026,9,10
-Cincinnati Bengals v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,1.5,2.6,NA,NA,Pointsbet,1974568,73104022,8,NA
-Cincinnati Bengals v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,2.5,7,NA,NA,Pointsbet,1974568,73104022,9,NA
-Cincinnati Bengals v Philadelphia Eagles,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,0.5,1.1,NA,NA,Pointsbet,1974568,73104022,1,NA
-Cincinnati Bengals v Philadelphia Eagles,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,1.5,1.67,2.2,1.053,Pointsbet,1974568,73104026,1,2
-Cincinnati Bengals v Philadelphia Eagles,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,1.5,1.67,NA,NA,Pointsbet,1974568,73104022,2,NA
-Cincinnati Bengals v Philadelphia Eagles,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,2.5,3.4,NA,NA,Pointsbet,1974568,73104022,3,NA
-Cincinnati Bengals v Philadelphia Eagles,Joe Burrow,Cincinnati Bengals,Passing Touchdowns,3.5,11,NA,NA,Pointsbet,1974568,73104022,4,NA
-Los Angeles Rams v Minnesota Vikings,Matthew Stafford,Los Angeles Rams,Passing Touchdowns,0.5,1.2,NA,NA,Pointsbet,1972053,72846683,1,NA
-Los Angeles Rams v Minnesota Vikings,Matthew Stafford,Los Angeles Rams,Passing Touchdowns,1.5,2.15,1.69,1.057,Pointsbet,1972053,72846686,3,4
-Los Angeles Rams v Minnesota Vikings,Matthew Stafford,Los Angeles Rams,Passing Touchdowns,1.5,2.15,NA,NA,Pointsbet,1972053,72846683,2,NA
-Los Angeles Rams v Minnesota Vikings,Matthew Stafford,Los Angeles Rams,Passing Touchdowns,2.5,5.75,NA,NA,Pointsbet,1972053,72846683,3,NA
-Los Angeles Rams v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,0.5,1.13,NA,NA,Pointsbet,1972053,72846683,7,NA
-Los Angeles Rams v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,1.5,1.83,1.9,1.073,Pointsbet,1972053,72846686,7,8
-Los Angeles Rams v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,1.5,1.83,NA,NA,Pointsbet,1972053,72846683,8,NA
-Los Angeles Rams v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,2.5,4.3,NA,NA,Pointsbet,1972053,72846683,9,NA
-Los Angeles Rams v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,3.5,13,NA,NA,Pointsbet,1972053,72846683,10,NA
-New England Patriots v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,0.5,1.17,NA,NA,Pointsbet,1974501,73166029,7,NA
-New England Patriots v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,1.5,2,1.77,1.065,Pointsbet,1974501,73166032,9,10
-New England Patriots v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,1.5,2,NA,NA,Pointsbet,1974501,73166029,8,NA
-New England Patriots v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,2.5,5,NA,NA,Pointsbet,1974501,73166029,9,NA
-New England Patriots v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,3.5,16,NA,NA,Pointsbet,1974501,73166029,10,NA
-New England Patriots v New York Jets,Drake Maye,New England Patriots,Passing Touchdowns,0.5,1.42,2.75,1.068,Pointsbet,1974501,73166032,1,2
-New England Patriots v New York Jets,Drake Maye,New England Patriots,Passing Touchdowns,0.5,1.42,NA,NA,Pointsbet,1974501,73166029,1,NA
-New England Patriots v New York Jets,Drake Maye,New England Patriots,Passing Touchdowns,1.5,3.3,NA,NA,Pointsbet,1974501,73166029,2,NA
-New England Patriots v New York Jets,Drake Maye,New England Patriots,Passing Touchdowns,2.5,11,NA,NA,Pointsbet,1974501,73166029,3,NA
+Arizona Cardinals v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,0.5,1.13,NA,NA,Pointsbet,1990230,74447143,7,NA
+Arizona Cardinals v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,1.5,1.87,1.87,1.07,Pointsbet,1990230,74447148,9,10
+Arizona Cardinals v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,1.5,1.87,NA,NA,Pointsbet,1990230,74447143,8,NA
+Arizona Cardinals v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,2.5,4.5,NA,NA,Pointsbet,1990230,74447143,9,NA
+Arizona Cardinals v New York Jets,Aaron Rodgers,New York Jets,Passing Touchdowns,3.5,15,NA,NA,Pointsbet,1990230,74447143,10,NA
+Arizona Cardinals v New York Jets,Kyler Murray,Arizona Cardinals,Passing Touchdowns,0.5,1.33,NA,NA,Pointsbet,1990230,74447143,1,NA
+Arizona Cardinals v New York Jets,Kyler Murray,Arizona Cardinals,Passing Touchdowns,1.5,2.9,1.4,1.059,Pointsbet,1990230,74447148,3,4
+Arizona Cardinals v New York Jets,Kyler Murray,Arizona Cardinals,Passing Touchdowns,1.5,2.9,NA,NA,Pointsbet,1990230,74447143,2,NA
+Arizona Cardinals v New York Jets,Kyler Murray,Arizona Cardinals,Passing Touchdowns,2.5,9,NA,NA,Pointsbet,1990230,74447143,3,NA
+Carolina Panthers v New York Giants,Bryce Young,Carolina Panthers,Passing Touchdowns,0.5,1.57,2.35,1.062,Pointsbet,1989756,74418788,1,2
+Carolina Panthers v New York Giants,Bryce Young,Carolina Panthers,Passing Touchdowns,0.5,1.57,NA,NA,Pointsbet,1989756,74418783,1,NA
+Carolina Panthers v New York Giants,Bryce Young,Carolina Panthers,Passing Touchdowns,1.5,4.3,NA,NA,Pointsbet,1989756,74418783,2,NA
+Carolina Panthers v New York Giants,Bryce Young,Carolina Panthers,Passing Touchdowns,2.5,16,NA,NA,Pointsbet,1989756,74418783,3,NA
+Carolina Panthers v New York Giants,Daniel Jones,New York Giants,Passing Touchdowns,0.5,1.31,NA,NA,Pointsbet,1989756,74418783,7,NA
+Carolina Panthers v New York Giants,Daniel Jones,New York Giants,Passing Touchdowns,1.5,2.75,1.42,1.068,Pointsbet,1989756,74418788,9,10
+Carolina Panthers v New York Giants,Daniel Jones,New York Giants,Passing Touchdowns,1.5,2.85,NA,NA,Pointsbet,1989756,74418783,8,NA
+Carolina Panthers v New York Giants,Daniel Jones,New York Giants,Passing Touchdowns,2.5,9,NA,NA,Pointsbet,1989756,74418783,9,NA
+Chicago Bears v New England Patriots,Caleb Williams,Chicago Bears,Passing Touchdowns,0.5,1.29,NA,NA,Pointsbet,1989986,74395269,1,NA
+Chicago Bears v New England Patriots,Caleb Williams,Chicago Bears,Passing Touchdowns,1.5,2.65,1.44,1.072,Pointsbet,1989986,74395272,3,4
+Chicago Bears v New England Patriots,Caleb Williams,Chicago Bears,Passing Touchdowns,1.5,2.6,NA,NA,Pointsbet,1989986,74395269,2,NA
+Chicago Bears v New England Patriots,Caleb Williams,Chicago Bears,Passing Touchdowns,2.5,7.5,NA,NA,Pointsbet,1989986,74395269,3,NA
+Chicago Bears v New England Patriots,Drake Maye,New England Patriots,Passing Touchdowns,0.5,1.5,2.5,1.067,Pointsbet,1989986,74395272,7,8
+Chicago Bears v New England Patriots,Drake Maye,New England Patriots,Passing Touchdowns,0.5,1.5,NA,NA,Pointsbet,1989986,74395269,7,NA
+Chicago Bears v New England Patriots,Drake Maye,New England Patriots,Passing Touchdowns,1.5,3.6,NA,NA,Pointsbet,1989986,74395269,8,NA
+Chicago Bears v New England Patriots,Drake Maye,New England Patriots,Passing Touchdowns,2.5,13,NA,NA,Pointsbet,1989986,74395269,9,NA
+Dallas Cowboys v Philadelphia Eagles,Cooper Rush,Dallas Cowboys,Passing Touchdowns,0.5,1.36,NA,NA,Pointsbet,1990231,74500626,1,NA
+Dallas Cowboys v Philadelphia Eagles,Cooper Rush,Dallas Cowboys,Passing Touchdowns,1.5,2.9,1.4,1.059,Pointsbet,1990231,74483010,3,4
+Dallas Cowboys v Philadelphia Eagles,Cooper Rush,Dallas Cowboys,Passing Touchdowns,1.5,2.9,NA,NA,Pointsbet,1990231,74500626,2,NA
+Dallas Cowboys v Philadelphia Eagles,Cooper Rush,Dallas Cowboys,Passing Touchdowns,2.5,9.5,NA,NA,Pointsbet,1990231,74500626,3,NA
+Dallas Cowboys v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,0.5,1.31,NA,NA,Pointsbet,1990231,74500626,7,NA
+Dallas Cowboys v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,1.5,2.65,1.44,1.072,Pointsbet,1990231,74483010,7,8
+Dallas Cowboys v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,1.5,2.65,NA,NA,Pointsbet,1990231,74500626,8,NA
+Dallas Cowboys v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Passing Touchdowns,2.5,8,NA,NA,Pointsbet,1990231,74500626,9,NA
+Houston Texans v Detroit Lions,C.J. Stroud,Houston Texans,Passing Touchdowns,0.5,1.2,NA,NA,Pointsbet,1990416,74414479,1,NA
+Houston Texans v Detroit Lions,C.J. Stroud,Houston Texans,Passing Touchdowns,1.5,2.15,1.69,1.057,Pointsbet,1990416,74414484,3,4
+Houston Texans v Detroit Lions,C.J. Stroud,Houston Texans,Passing Touchdowns,1.5,2.15,NA,NA,Pointsbet,1990416,74414479,2,NA
+Houston Texans v Detroit Lions,C.J. Stroud,Houston Texans,Passing Touchdowns,2.5,5.5,NA,NA,Pointsbet,1990416,74414479,3,NA
+Houston Texans v Detroit Lions,Jared Goff,Detroit Lions,Passing Touchdowns,0.5,1.13,NA,NA,Pointsbet,1990416,74414479,7,NA
+Houston Texans v Detroit Lions,Jared Goff,Detroit Lions,Passing Touchdowns,1.5,1.87,1.87,1.07,Pointsbet,1990416,74414484,9,10
+Houston Texans v Detroit Lions,Jared Goff,Detroit Lions,Passing Touchdowns,1.5,1.87,NA,NA,Pointsbet,1990416,74414479,8,NA
+Houston Texans v Detroit Lions,Jared Goff,Detroit Lions,Passing Touchdowns,2.5,4.3,NA,NA,Pointsbet,1990416,74414479,9,NA
+Houston Texans v Detroit Lions,Jared Goff,Detroit Lions,Passing Touchdowns,3.5,14,NA,NA,Pointsbet,1990416,74414479,10,NA
+Indianapolis Colts v Buffalo Bills,Joe Flacco,Indianapolis Colts,Passing Touchdowns,0.5,1.24,NA,NA,Pointsbet,1989991,74415791,1,NA
+Indianapolis Colts v Buffalo Bills,Joe Flacco,Indianapolis Colts,Passing Touchdowns,1.5,2.35,1.57,1.062,Pointsbet,1989991,74415795,3,4
+Indianapolis Colts v Buffalo Bills,Joe Flacco,Indianapolis Colts,Passing Touchdowns,1.5,2.35,NA,NA,Pointsbet,1989991,74415791,2,NA
+Indianapolis Colts v Buffalo Bills,Joe Flacco,Indianapolis Colts,Passing Touchdowns,2.5,6,NA,NA,Pointsbet,1989991,74415791,3,NA
+Indianapolis Colts v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Touchdowns,0.5,1.14,NA,NA,Pointsbet,1989991,74415791,7,NA
+Indianapolis Colts v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Touchdowns,1.5,1.87,1.87,1.07,Pointsbet,1989991,74415795,9,10
+Indianapolis Colts v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Touchdowns,1.5,1.87,NA,NA,Pointsbet,1989991,74415791,8,NA
+Indianapolis Colts v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Touchdowns,2.5,4.5,NA,NA,Pointsbet,1989991,74415791,9,NA
+Indianapolis Colts v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Touchdowns,3.5,14,NA,NA,Pointsbet,1989991,74415791,10,NA
+Jacksonville Jaguars v Minnesota Vikings,Mac Jones,Jacksonville Jaguars,Passing Touchdowns,0.5,1.36,NA,NA,Pointsbet,1989992,74396309,7,NA
+Jacksonville Jaguars v Minnesota Vikings,Mac Jones,Jacksonville Jaguars,Passing Touchdowns,1.5,3,NA,NA,Pointsbet,1989992,74396309,8,NA
+Jacksonville Jaguars v Minnesota Vikings,Mac Jones,Jacksonville Jaguars,Passing Touchdowns,2.5,9.5,NA,NA,Pointsbet,1989992,74396309,9,NA
+Jacksonville Jaguars v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,0.5,1.11,NA,NA,Pointsbet,1989992,74396309,1,NA
+Jacksonville Jaguars v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,1.5,1.74,2.05,1.063,Pointsbet,1989992,74396312,7,8
+Jacksonville Jaguars v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,1.5,1.74,NA,NA,Pointsbet,1989992,74396309,2,NA
+Jacksonville Jaguars v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,2.5,3.8,NA,NA,Pointsbet,1989992,74396309,3,NA
+Jacksonville Jaguars v Minnesota Vikings,Sam Darnold,Minnesota Vikings,Passing Touchdowns,3.5,11.5,NA,NA,Pointsbet,1989992,74396309,4,NA
+Kansas City Chiefs v Denver Broncos,Bo Nix,Denver Broncos,Passing Touchdowns,0.5,1.48,2.6,1.06,Pointsbet,1989993,74477090,7,8
+Kansas City Chiefs v Denver Broncos,Bo Nix,Denver Broncos,Passing Touchdowns,0.5,1.48,NA,NA,Pointsbet,1989993,74477087,7,NA
+Kansas City Chiefs v Denver Broncos,Bo Nix,Denver Broncos,Passing Touchdowns,1.5,3.6,NA,NA,Pointsbet,1989993,74477087,8,NA
+Kansas City Chiefs v Denver Broncos,Bo Nix,Denver Broncos,Passing Touchdowns,2.5,13,NA,NA,Pointsbet,1989993,74477087,9,NA
+Kansas City Chiefs v Denver Broncos,Patrick Mahomes,Kansas City Chiefs,Passing Touchdowns,0.5,1.16,NA,NA,Pointsbet,1989993,74477087,1,NA
+Kansas City Chiefs v Denver Broncos,Patrick Mahomes,Kansas City Chiefs,Passing Touchdowns,1.5,2.05,1.74,1.063,Pointsbet,1989993,74477090,3,4
+Kansas City Chiefs v Denver Broncos,Patrick Mahomes,Kansas City Chiefs,Passing Touchdowns,1.5,2.05,NA,NA,Pointsbet,1989993,74477087,2,NA
+Kansas City Chiefs v Denver Broncos,Patrick Mahomes,Kansas City Chiefs,Passing Touchdowns,2.5,5.25,NA,NA,Pointsbet,1989993,74477087,3,NA
+Los Angeles Chargers v Tennessee Titans,Justin Herbert,Los Angeles Chargers,Passing Touchdowns,0.5,1.25,NA,NA,Pointsbet,1990210,74549140,1,NA
+Los Angeles Chargers v Tennessee Titans,Justin Herbert,Los Angeles Chargers,Passing Touchdowns,1.5,2.4,1.56,1.058,Pointsbet,1990210,74549144,3,4
+Los Angeles Chargers v Tennessee Titans,Justin Herbert,Los Angeles Chargers,Passing Touchdowns,1.5,2.4,NA,NA,Pointsbet,1990210,74549140,2,NA
+Los Angeles Chargers v Tennessee Titans,Justin Herbert,Los Angeles Chargers,Passing Touchdowns,2.5,6.5,NA,NA,Pointsbet,1990210,74549140,3,NA
+Los Angeles Chargers v Tennessee Titans,Will Levis,Tennessee Titans,Passing Touchdowns,0.5,1.63,2.25,1.058,Pointsbet,1990210,74549144,7,8
+Los Angeles Chargers v Tennessee Titans,Will Levis,Tennessee Titans,Passing Touchdowns,0.5,1.63,NA,NA,Pointsbet,1990210,74549140,7,NA
+Los Angeles Chargers v Tennessee Titans,Will Levis,Tennessee Titans,Passing Touchdowns,1.5,4.5,NA,NA,Pointsbet,1990210,74549140,8,NA
+New Orleans Saints v Atlanta Falcons,Derek Carr,New Orleans Saints,Passing Touchdowns,0.5,1.31,NA,NA,Pointsbet,1989994,74550308,1,NA
+New Orleans Saints v Atlanta Falcons,Derek Carr,New Orleans Saints,Passing Touchdowns,1.5,2.75,1.42,1.068,Pointsbet,1989994,74485874,3,4
+New Orleans Saints v Atlanta Falcons,Derek Carr,New Orleans Saints,Passing Touchdowns,1.5,2.75,NA,NA,Pointsbet,1989994,74550308,2,NA
+New Orleans Saints v Atlanta Falcons,Derek Carr,New Orleans Saints,Passing Touchdowns,2.5,8,NA,NA,Pointsbet,1989994,74550308,3,NA
+New Orleans Saints v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,0.5,1.13,NA,NA,Pointsbet,1989994,74550308,7,NA
+New Orleans Saints v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,1.5,1.8,1.95,1.068,Pointsbet,1989994,74485874,7,8
+New Orleans Saints v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,1.5,1.8,NA,NA,Pointsbet,1989994,74550308,8,NA
+New Orleans Saints v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,2.5,4,NA,NA,Pointsbet,1989994,74550308,9,NA
+New Orleans Saints v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Touchdowns,3.5,13,NA,NA,Pointsbet,1989994,74550308,10,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,0.5,1.16,NA,NA,Pointsbet,1989995,74485592,1,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,1.5,1.9,1.83,1.073,Pointsbet,1989995,74485595,3,4
+Tampa Bay Buccaneers v San Francisco 49ers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,1.5,1.9,NA,NA,Pointsbet,1989995,74485592,2,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,2.5,4.5,NA,NA,Pointsbet,1989995,74485592,3,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Baker Mayfield,Tampa Bay Buccaneers,Passing Touchdowns,3.5,14,NA,NA,Pointsbet,1989995,74485592,4,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Touchdowns,0.5,1.1,NA,NA,Pointsbet,1989995,74485592,7,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Touchdowns,1.5,1.63,2.25,1.058,Pointsbet,1989995,74485595,7,8
+Tampa Bay Buccaneers v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Touchdowns,1.5,1.63,NA,NA,Pointsbet,1989995,74485592,8,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Touchdowns,2.5,3.4,NA,NA,Pointsbet,1989995,74485592,9,NA
+Tampa Bay Buccaneers v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Touchdowns,3.5,9.5,NA,NA,Pointsbet,1989995,74485592,10,NA
+Washington Commanders v Pittsburgh Steelers,Jayden Daniels,Washington Commanders,Passing Touchdowns,0.5,1.2,NA,NA,Pointsbet,1989996,74412959,1,NA
+Washington Commanders v Pittsburgh Steelers,Jayden Daniels,Washington Commanders,Passing Touchdowns,1.5,2.25,1.63,1.058,Pointsbet,1989996,74412962,3,4
+Washington Commanders v Pittsburgh Steelers,Jayden Daniels,Washington Commanders,Passing Touchdowns,1.5,2.25,NA,NA,Pointsbet,1989996,74412959,2,NA
+Washington Commanders v Pittsburgh Steelers,Jayden Daniels,Washington Commanders,Passing Touchdowns,2.5,6,NA,NA,Pointsbet,1989996,74412959,3,NA
+Washington Commanders v Pittsburgh Steelers,Russell Wilson,Pittsburgh Steelers,Passing Touchdowns,0.5,1.24,NA,NA,Pointsbet,1989996,74412959,7,NA
+Washington Commanders v Pittsburgh Steelers,Russell Wilson,Pittsburgh Steelers,Passing Touchdowns,1.5,2.35,1.57,1.062,Pointsbet,1989996,74412962,9,10
+Washington Commanders v Pittsburgh Steelers,Russell Wilson,Pittsburgh Steelers,Passing Touchdowns,1.5,2.35,NA,NA,Pointsbet,1989996,74412959,8,NA
+Washington Commanders v Pittsburgh Steelers,Russell Wilson,Pittsburgh Steelers,Passing Touchdowns,2.5,6,NA,NA,Pointsbet,1989996,74412959,9,NA

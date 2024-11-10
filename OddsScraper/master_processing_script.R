@@ -110,9 +110,9 @@ passing_attempts_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price)) |> 
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 
 # Write out
@@ -135,7 +135,7 @@ passing_completions_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price))
 
 # Write out
@@ -158,7 +158,7 @@ interceptions_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price))
 
 # Write out
@@ -181,9 +181,9 @@ rushing_yards_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price)) |> 
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 # Write out
 write_rds(rushing_yards_data, "Data/processed_odds/rushing_yards_data.rds")
@@ -205,7 +205,7 @@ rushing_attempts_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price))
 
 # Write out
@@ -228,9 +228,9 @@ receiving_yards_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price)) |> 
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 # Write out
 write_rds(receiving_yards_data, "Data/processed_odds/receiving_yards_data.rds")
@@ -252,9 +252,9 @@ receptions_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   arrange(match) |> 
-  select(match:agency) |> 
+  select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price)) |> 
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 # Write out
 write_rds(receptions_data, "Data/processed_odds/receptions_data.rds")
@@ -280,7 +280,7 @@ touchdowns_data <-
   select(match:agency, under_price) |> 
   arrange(match, player_name, line, desc(over_price)) |> 
   relocate(under_price, .after = over_price) |>
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 # Write out
 write_rds(touchdowns_data, "Data/processed_odds/player_touchdowns_data.rds")
