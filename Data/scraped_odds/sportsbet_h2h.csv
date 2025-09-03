@@ -1,27 +1,33 @@
-match,market_name,home_team,home_win,away_team,away_win,margin,agency
-Carolina Panthers v New York Giants,Head To Head,Carolina Panthers,3.44,New York Giants,1.33,1.043,Sportsbet
-Chicago Bears v New England Patriots,Head To Head,Chicago Bears,1.38,New England Patriots,3.18,1.039,Sportsbet
-Indianapolis Colts v Buffalo Bills,Head To Head,Indianapolis Colts,2.75,Buffalo Bills,1.48,1.039,Sportsbet
-Jacksonville Jaguars v Minnesota Vikings,Head To Head,Jacksonville Jaguars,3.55,Minnesota Vikings,1.32,1.039,Sportsbet
-Kansas City Chiefs v Denver Broncos,Head To Head,Kansas City Chiefs,1.25,Denver Broncos,4.15,1.041,Sportsbet
-New Orleans Saints v Atlanta Falcons,Head To Head,New Orleans Saints,2.56,Atlanta Falcons,1.54,1.04,Sportsbet
-Tampa Bay Buccaneers v San Francisco 49ers,Head To Head,Tampa Bay Buccaneers,3.35,San Francisco 49ers,1.35,1.039,Sportsbet
-Washington Commanders v Pittsburgh Steelers,Head To Head,Washington Commanders,1.67,Pittsburgh Steelers,2.26,1.041,Sportsbet
-Los Angeles Chargers v Tennessee Titans,Head To Head,Los Angeles Chargers,1.27,Tennessee Titans,3.95,1.041,Sportsbet
-Arizona Cardinals v New York Jets,Head To Head,Arizona Cardinals,2.13,New York Jets,1.76,1.038,Sportsbet
-Dallas Cowboys v Philadelphia Eagles,Head To Head,Dallas Cowboys,3.6,Philadelphia Eagles,1.31,1.041,Sportsbet
-Houston Texans v Detroit Lions,Head To Head,Houston Texans,2.55,Detroit Lions,1.54,1.042,Sportsbet
-Los Angeles Rams v Miami Dolphins,Head To Head,Los Angeles Rams,1.77,Miami Dolphins,2.1,1.041,Sportsbet
-Philadelphia Eagles v Washington Commanders,Head To Head,Philadelphia Eagles,1.6,Washington Commanders,2.41,1.04,Sportsbet
-Chicago Bears v Green Bay Packers,Head To Head,Chicago Bears,2.43,Green Bay Packers,1.59,1.04,Sportsbet
-New England Patriots v Los Angeles Rams,Head To Head,New England Patriots,3.39,Los Angeles Rams,1.34,1.041,Sportsbet
-New Orleans Saints v Cleveland Browns,Head To Head,New Orleans Saints,1.9,Cleveland Browns,1.94,1.042,Sportsbet
-Tennessee Titans v Minnesota Vikings,Head To Head,Tennessee Titans,3.39,Minnesota Vikings,1.34,1.041,Sportsbet
-Miami Dolphins v Las Vegas Raiders,Head To Head,Miami Dolphins,1.26,Las Vegas Raiders,4.05,1.041,Sportsbet
-New York Jets v Indianapolis Colts,Head To Head,New York Jets,1.45,Indianapolis Colts,2.86,1.039,Sportsbet
-Pittsburgh Steelers v Baltimore Ravens,Head To Head,Pittsburgh Steelers,2.44,Baltimore Ravens,1.59,1.039,Sportsbet
-Denver Broncos v Atlanta Falcons,Head To Head,Denver Broncos,1.96,Atlanta Falcons,1.88,1.042,Sportsbet
-San Francisco 49ers v Seattle Seahawks,Head To Head,San Francisco 49ers,1.29,Seattle Seahawks,3.75,1.042,Sportsbet
-Buffalo Bills v Kansas City Chiefs,Head To Head,Buffalo Bills,1.9,Kansas City Chiefs,1.94,1.042,Sportsbet
-Los Angeles Chargers v Cincinnati Bengals,Head To Head,Los Angeles Chargers,1.89,Cincinnati Bengals,1.95,1.042,Sportsbet
-Dallas Cowboys v Houston Texans,Head To Head,Dallas Cowboys,3.32,Houston Texans,1.35,1.042,Sportsbet
+match,market,home_team,home_win,away_team,away_win,margin,agency
+Philadelphia Eagles v Dallas Cowboys,Head To Head,Philadelphia Eagles,1.22,Dallas Cowboys,4.55,1.039,Sportsbet
+Los Angeles Chargers v Kansas City Chiefs,Head To Head,Los Angeles Chargers,2.42,Kansas City Chiefs,1.59,1.042,Sportsbet
+Washington Commanders v New York Giants,Head To Head,Washington Commanders,1.37,New York Giants,3.21,1.041,Sportsbet
+Jacksonville Jaguars v Carolina Panthers,Head To Head,Jacksonville Jaguars,1.54,Carolina Panthers,2.55,1.042,Sportsbet
+New York Jets v Pittsburgh Steelers,Head To Head,New York Jets,2.21,Pittsburgh Steelers,1.7,1.041,Sportsbet
+New England Patriots v Las Vegas Raiders,Head To Head,New England Patriots,1.69,Las Vegas Raiders,2.22,1.042,Sportsbet
+New Orleans Saints v Arizona Cardinals,Head To Head,New Orleans Saints,3.38,Arizona Cardinals,1.34,1.042,Sportsbet
+Cleveland Browns v Cincinnati Bengals,Head To Head,Cleveland Browns,2.87,Cincinnati Bengals,1.44,1.043,Sportsbet
+Indianapolis Colts v Miami Dolphins,Head To Head,Indianapolis Colts,1.9,Miami Dolphins,1.94,1.042,Sportsbet
+Atlanta Falcons v Tampa Bay Buccaneers,Head To Head,Atlanta Falcons,2.13,Tampa Bay Buccaneers,1.75,1.041,Sportsbet
+Denver Broncos v Tennessee Titans,Head To Head,Denver Broncos,1.23,Tennessee Titans,4.35,1.043,Sportsbet
+Seattle Seahawks v San Francisco 49ers,Head To Head,Seattle Seahawks,2.16,San Francisco 49ers,1.73,1.041,Sportsbet
+Green Bay Packers v Detroit Lions,Head To Head,Green Bay Packers,1.71,Detroit Lions,2.2,1.039,Sportsbet
+Los Angeles Rams v Houston Texans,Head To Head,Los Angeles Rams,1.69,Houston Texans,2.23,1.04,Sportsbet
+Buffalo Bills v Baltimore Ravens,Head To Head,Buffalo Bills,1.92,Baltimore Ravens,1.92,1.042,Sportsbet
+Chicago Bears v Minnesota Vikings,Head To Head,Chicago Bears,1.94,Minnesota Vikings,1.9,1.042,Sportsbet
+Green Bay Packers v Washington Commanders,Head To Head,Green Bay Packers,1.57,Washington Commanders,2.47,1.042,Sportsbet
+Baltimore Ravens v Cleveland Browns,Head To Head,Baltimore Ravens,1.14,Cleveland Browns,6.15,1.04,Sportsbet
+Tennessee Titans v Los Angeles Rams,Head To Head,Tennessee Titans,2.98,Los Angeles Rams,1.42,1.04,Sportsbet
+Detroit Lions v Chicago Bears,Head To Head,Detroit Lions,1.4,Chicago Bears,3.08,1.039,Sportsbet
+Dallas Cowboys v New York Giants,Head To Head,Dallas Cowboys,1.7,New York Giants,2.22,1.039,Sportsbet
+New York Jets v Buffalo Bills,Head To Head,New York Jets,4.55,Buffalo Bills,1.22,1.039,Sportsbet
+New Orleans Saints v San Francisco 49ers,Head To Head,New Orleans Saints,3.8,San Francisco 49ers,1.29,1.038,Sportsbet
+Miami Dolphins v New England Patriots,Head To Head,Miami Dolphins,1.67,New England Patriots,2.27,1.039,Sportsbet
+Cincinnati Bengals v Jacksonville Jaguars,Head To Head,Cincinnati Bengals,1.42,Jacksonville Jaguars,2.95,1.043,Sportsbet
+Pittsburgh Steelers v Seattle Seahawks,Head To Head,Pittsburgh Steelers,1.75,Seattle Seahawks,2.13,1.041,Sportsbet
+Indianapolis Colts v Denver Broncos,Head To Head,Indianapolis Colts,2.39,Denver Broncos,1.61,1.04,Sportsbet
+Arizona Cardinals v Carolina Panthers,Head To Head,Arizona Cardinals,1.44,Carolina Panthers,2.89,1.04,Sportsbet
+Kansas City Chiefs v Philadelphia Eagles,Head To Head,Kansas City Chiefs,1.88,Philadelphia Eagles,1.96,1.042,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Head To Head,Minnesota Vikings,1.48,Atlanta Falcons,2.74,1.041,Sportsbet
+Houston Texans v Tampa Bay Buccaneers,Head To Head,Houston Texans,1.78,Tampa Bay Buccaneers,2.09,1.04,Sportsbet
+Las Vegas Raiders v Los Angeles Chargers,Head To Head,Las Vegas Raiders,2.28,Los Angeles Chargers,1.66,1.041,Sportsbet

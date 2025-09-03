@@ -5,6 +5,15 @@
 library(tidyverse)
 `%notin%` <- Negate(`%in%`)
 
+# Helper: ensure column is consistently named `market`
+normalize_market <- function(df) {
+  if ("market_name" %in% names(df) && !("market" %in% names(df))) {
+    dplyr::rename(df, market = market_name)
+  } else {
+    df
+  }
+}
+
 # # Run all odds scraping scripts-----------------------------------------------
 run_scraping <- function(script_name) {
   tryCatch({
@@ -18,6 +27,7 @@ run_scraping <- function(script_name) {
 run_scraping("OddsScraper/TAB/scrape_TAB.R")
 run_scraping("OddsScraper/scrape_Sportsbet.R")
 run_scraping("OddsScraper/scrape_pointsbet.R")
+run_scraping("OddsScraper/scrape_betright.R")
 run_scraping("OddsScraper/Neds/scrape_neds.R")
 run_scraping("OddsScraper/Pinnacle/tidy_pinnacle.R")
 
@@ -37,9 +47,20 @@ h2h_data <-
   list_of_h2h_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(-start_time) |> 
-  select(match:agency)
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  )))
 
 # Write out
 write_rds(h2h_data, "Data/processed_odds/h2h_data.rds")
@@ -60,10 +81,22 @@ passing_yards_data <-
   list_of_passing_yards_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 # Write out
 write_rds(passing_yards_data, "Data/processed_odds/passing_yards_data.rds")
@@ -84,11 +117,22 @@ passing_td_data <-
   list_of_passing_td_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  relocate(under_price, .after = over_price) |>
-  select(match:agency) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
-  select(-home_team, -away_team, -opposition_team)
+  select(-any_of(c("home_team", "away_team", "opposition_team")))
 
 # Write out
 write_rds(passing_td_data, "Data/processed_odds/passing_td_data.rds")
@@ -109,8 +153,20 @@ passing_attempts_data <-
   list_of_passing_attempts_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
   select(-any_of(c("home_team", "away_team", "opposition_team")))
 
@@ -134,8 +190,20 @@ passing_completions_data <-
   list_of_passing_completions_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price))
 
 # Write out
@@ -157,8 +225,20 @@ interceptions_data <-
   list_of_interceptions_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price))
 
 # Write out
@@ -180,8 +260,20 @@ rushing_yards_data <-
   list_of_rushing_yards_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
   select(-any_of(c("home_team", "away_team", "opposition_team")))
 
@@ -204,8 +296,20 @@ rushing_attempts_data <-
   list_of_rushing_attempts_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price))
 
 # Write out
@@ -227,8 +331,20 @@ receiving_yards_data <-
   list_of_receiving_yards_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
   select(-any_of(c("home_team", "away_team", "opposition_team")))
 
@@ -251,8 +367,20 @@ receptions_data <-
   list_of_receptions_data |> 
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
   select(-any_of(c("home_team", "away_team", "opposition_team")))
 
@@ -276,8 +404,20 @@ touchdowns_data <-
   keep(~nrow(.x) > 0) |>
   bind_rows() |> 
   filter(market != "Passing Touchdowns") |>
-  arrange(match) |> 
-  select(match:agency, under_price) |> 
+  arrange(match) |>
+  normalize_market() |>
+  select(any_of(c(
+    "match",
+    "start_time",
+    "player_name",
+    "player_team",
+    "market",
+    "line",
+    "over_price",
+    "under_price",
+    "margin",
+    "agency"
+  ))) |>
   arrange(match, player_name, line, desc(over_price)) |> 
   relocate(under_price, .after = over_price) |>
   select(-any_of(c("home_team", "away_team", "opposition_team")))

@@ -4,10 +4,13 @@ library(rvest)
 library(httr2)
 library(glue)
 library(nflreadr)
+source("Scripts/constants.R")
+source("Scripts/fix_team_names.R")
+source("Scripts/fix_player_names.R")
 
 # Get squads
 player_teams <-
-  load_rosters(seasons = 2024) |> 
+  load_rosters(seasons = CURRENT_SEASON) |> 
   select(player_name = full_name, position, player_team = team)
 
 player_teams_qb <-
@@ -45,11 +48,7 @@ player_teams_db <-
   select(player_name, player_team) |> 
   mutate(player_team = ifelse(player_team == "LA", "Los Angeles Rams", player_team))
 
-# Get Fix Team Names Function
-source("Scripts/fix_team_names.R")
-
-# Get Fix Player Names Function
-source("Scripts/fix_player_names.R")
+# Fix helpers are sourced above
 
 # URL to get responses
 betright_url = "https://next-api.betright.com.au/Sports/Category?categoryId=1751"
@@ -138,7 +137,7 @@ away_teams <-
 betright_head_to_head_markets <-
   home_teams |>
   left_join(away_teams) |> 
-  select(match, start_time, market_name, home_team, home_win, away_team, away_win) |> 
+  select(match, start_time, market = market_name, home_team, home_win, away_team, away_win) |> 
   mutate(margin = round((1/home_win + 1/away_win), digits = 3)) |> 
   mutate(agency = "BetRight")
 
@@ -317,7 +316,7 @@ betright_rushing_yards <-
     match = paste0(home_team, " v ", away_team),
     home_team,
     away_team,
-    market_name = "Player Rushing Yards",
+    market = "Player Rushing Yards",
     player_name,
     player_team,
     line,
@@ -438,7 +437,7 @@ betright_receiving_yards <-
     match = paste0(home_team, " v ", away_team),
     home_team,
     away_team,
-    market_name = "Player Receiving Yards",
+    market = "Player Receiving Yards",
     player_name,
     player_team,
     line,

@@ -1,53 +1,65 @@
-,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1600334464,Under,263,4549060545,1.9,196.5,Daniel Jones (Passing Yards),Carolina Panthers,New York Giants
-1,1600334463,Over,262,4549060544,1.917,196.5,Daniel Jones (Passing Yards),Carolina Panthers,New York Giants
-2,1600368787,Over,262,4549038104,1.909,184.5,Bryce Young (Passing Yards),Carolina Panthers,New York Giants
-3,1600368788,Under,263,4549038105,1.909,184.5,Bryce Young (Passing Yards),Carolina Panthers,New York Giants
-4,1600281353,Over,276,4548319167,1.925,205.5,Caleb Williams (Passing Yards),Chicago Bears,New England Patriots
-5,1600281354,Under,277,4548319168,1.892,205.5,Caleb Williams (Passing Yards),Chicago Bears,New England Patriots
-6,1600281893,Over,276,4548317887,1.909,189.5,Drake Maye (Passing Yards),Chicago Bears,New England Patriots
-7,1600281894,Under,277,4548317888,1.909,189.5,Drake Maye (Passing Yards),Chicago Bears,New England Patriots
-8,1600295845,Over,272,4548020068,1.909,231.5,Patrick Mahomes (Passing Yards),Kansas City Chiefs,Denver Broncos
-9,1600295846,Under,273,4548020069,1.909,231.5,Patrick Mahomes (Passing Yards),Kansas City Chiefs,Denver Broncos
-10,1600295899,Over,272,4547114268,1.943,203.5,Bo Nix (Passing Yards),Kansas City Chiefs,Denver Broncos
-11,1600295900,Under,273,4547114269,1.877,203.5,Bo Nix (Passing Yards),Kansas City Chiefs,Denver Broncos
-12,1600355289,Over,266,4548965901,1.961,245.5,Sam Darnold (Passing Yards),Jacksonville Jaguars,Minnesota Vikings
-13,1600355290,Under,267,4548965902,1.862,245.5,Sam Darnold (Passing Yards),Jacksonville Jaguars,Minnesota Vikings
-14,1600357895,Over,264,4548237981,1.892,233.5,Josh Allen (BUF) (Passing Yards),Indianapolis Colts,Buffalo Bills
-15,1600357896,Under,265,4548237982,1.925,233.5,Josh Allen (BUF) (Passing Yards),Indianapolis Colts,Buffalo Bills
-16,1600357939,Over,264,4546632175,1.909,235.5,Joe Flacco (Passing Yards),Indianapolis Colts,Buffalo Bills
-17,1600357940,Under,265,4546632176,1.909,235.5,Joe Flacco (Passing Yards),Indianapolis Colts,Buffalo Bills
-18,1600368997,Over,274,4546644623,1.9,245.5,Baker Mayfield (Passing Yards),Tampa Bay Buccaneers,San Francisco 49ers
-19,1600368998,Under,275,4546644624,1.917,245.5,Baker Mayfield (Passing Yards),Tampa Bay Buccaneers,San Francisco 49ers
-20,1600369913,Over,268,4548647910,1.952,211.5,Russell Wilson (Passing Yards),Washington Commanders,Pittsburgh Steelers
-21,1600369914,Under,269,4548647911,1.869,211.5,Russell Wilson (Passing Yards),Washington Commanders,Pittsburgh Steelers
-22,1600370012,Over,268,4548317090,1.909,223.5,Jayden Daniels (Passing Yards),Washington Commanders,Pittsburgh Steelers
-23,1600370013,Under,269,4548317091,1.909,223.5,Jayden Daniels (Passing Yards),Washington Commanders,Pittsburgh Steelers
-24,1600371201,Over,274,4548720521,1.952,259.5,Brock Purdy (Passing Yards),Tampa Bay Buccaneers,San Francisco 49ers
-25,1600371202,Under,275,4548720522,1.869,259.5,Brock Purdy (Passing Yards),Tampa Bay Buccaneers,San Francisco 49ers
-26,1600376433,Over,270,4548177309,1.892,206.5,Derek Carr (Passing Yards),New Orleans Saints,Atlanta Falcons
-27,1600376434,Under,271,4548177310,1.925,206.5,Derek Carr (Passing Yards),New Orleans Saints,Atlanta Falcons
-28,1600417423,Over,270,4546858101,1.9,242.5,Kirk Cousins (Passing Yards),New Orleans Saints,Atlanta Falcons
-29,1600417424,Under,271,4546858102,1.917,242.5,Kirk Cousins (Passing Yards),New Orleans Saints,Atlanta Falcons
-30,1600482301,Over,266,4546392569,1.9,205.5,Mac Jones (Passing Yards),Jacksonville Jaguars,Minnesota Vikings
-31,1600482302,Under,267,4546392570,1.917,205.5,Mac Jones (Passing Yards),Jacksonville Jaguars,Minnesota Vikings
-32,1600345280,Under,279,4547876356,1.917,224.5,Justin Herbert (Passing Yards),Los Angeles Chargers,Tennessee Titans
-33,1600345279,Over,278,4547876355,1.9,224.5,Justin Herbert (Passing Yards),Los Angeles Chargers,Tennessee Titans
-34,1600480578,Over,278,4546740138,1.909,184.5,Will Levis (Passing Yards),Los Angeles Chargers,Tennessee Titans
-35,1600480579,Under,279,4546740139,1.909,184.5,Will Levis (Passing Yards),Los Angeles Chargers,Tennessee Titans
-36,1600360087,Over,282,4548113510,1.909,203.5,Kyler Murray (Passing Yards),Arizona Cardinals,New York Jets
-37,1600360088,Under,283,4548113511,1.909,203.5,Kyler Murray (Passing Yards),Arizona Cardinals,New York Jets
-38,1600360096,Over,282,4546655426,1.909,244.5,Aaron Rodgers (Passing Yards),Arizona Cardinals,New York Jets
-39,1600360097,Under,283,4546655427,1.909,244.5,Aaron Rodgers (Passing Yards),Arizona Cardinals,New York Jets
-40,1600432839,Over,280,4547172678,1.98,224.5,Jalen Hurts (Passing Yards),Dallas Cowboys,Philadelphia Eagles
-41,1600432840,Under,281,4547172679,1.84,224.5,Jalen Hurts (Passing Yards),Dallas Cowboys,Philadelphia Eagles
-42,1600434666,Over,280,4547176125,1.884,208.5,Cooper Rush (Passing Yards),Dallas Cowboys,Philadelphia Eagles
-43,1600434667,Under,281,4547176126,1.934,208.5,Cooper Rush (Passing Yards),Dallas Cowboys,Philadelphia Eagles
-44,1600365370,Over,284,4548072332,1.9,240.5,C.J. Stroud (Passing Yards),Houston Texans,Detroit Lions
-45,1600365371,Under,285,4548072333,1.917,240.5,C.J. Stroud (Passing Yards),Houston Texans,Detroit Lions
-46,1600365497,Over,284,4548072216,1.9,231.5,Jared Goff (Passing Yards),Houston Texans,Detroit Lions
-47,1600365498,Under,285,4548072217,1.917,231.5,Jared Goff (Passing Yards),Houston Texans,Detroit Lions
-48,1600370373,Over,286,4546612707,1.909,257.5,Matthew Stafford (Passing Yards),Los Angeles Rams,Miami Dolphins
-49,1600370374,Under,287,4546612708,1.909,257.5,Matthew Stafford (Passing Yards),Los Angeles Rams,Miami Dolphins
-50,1600370442,Over,286,4546612849,1.9,241.5,Tua Tagovailoa (Passing Yards),Los Angeles Rams,Miami Dolphins
-51,1600370443,Under,287,4546612850,1.917,241.5,Tua Tagovailoa (Passing Yards),Los Angeles Rams,Miami Dolphins
+id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
+1614323919,Over,1,5256305607,1.943,246.5,Dak Prescott Total Passing Yards,Dak Prescott Total Passing Yards,Philadelphia Eagles,Dallas Cowboys
+1614323920,Under,2,5256305615,1.847,246.5,Dak Prescott Total Passing Yards,Dak Prescott Total Passing Yards,Philadelphia Eagles,Dallas Cowboys
+1614323994,Over,1,5256305630,2.04,215.5,Jalen Hurts Total Passing Yards,Jalen Hurts Total Passing Yards,Philadelphia Eagles,Dallas Cowboys
+1614323995,Under,2,5256305631,1.769,215.5,Jalen Hurts Total Passing Yards,Jalen Hurts Total Passing Yards,Philadelphia Eagles,Dallas Cowboys
+1614324001,Over,453,5256479767,2.15,247.5,Patrick Mahomes Total Passing Yards,Patrick Mahomes Total Passing Yards,Los Angeles Chargers,Kansas City Chiefs
+1614324002,Under,454,5256479768,1.657,247.5,Patrick Mahomes Total Passing Yards,Patrick Mahomes Total Passing Yards,Los Angeles Chargers,Kansas City Chiefs
+1614323955,Over,453,5256499928,1.793,225.5,Justin Herbert Total Passing Yards,Justin Herbert Total Passing Yards,Los Angeles Chargers,Kansas City Chiefs
+1614323956,Under,454,5256499929,1.952,225.5,Justin Herbert Total Passing Yards,Justin Herbert Total Passing Yards,Los Angeles Chargers,Kansas City Chiefs
+1614589430,Over,16038,5253163665,1.869,266.5,Joe Burrow Total Passing Yards,Joe Burrow Total Passing Yards,Cleveland Browns,Cincinnati Bengals
+1614589431,Under,16039,5253163666,1.869,266.5,Joe Burrow Total Passing Yards,Joe Burrow Total Passing Yards,Cleveland Browns,Cincinnati Bengals
+1614589454,Over,16054,5256210772,1.793,237.5,Joe Flacco Total Passing Yards,Joe Flacco Total Passing Yards,Cleveland Browns,Cincinnati Bengals
+1614589455,Under,16055,5256210773,1.952,237.5,Joe Flacco Total Passing Yards,Joe Flacco Total Passing Yards,Cleveland Browns,Cincinnati Bengals
+1614589496,Over,16082,5253164204,1.869,175.5,Justin Fields Total Passing Yards,Justin Fields Total Passing Yards,New York Jets,Pittsburgh Steelers
+1614589497,Under,16083,5253164205,1.869,175.5,Justin Fields Total Passing Yards,Justin Fields Total Passing Yards,New York Jets,Pittsburgh Steelers
+1614589391,Over,16012,5256246700,1.934,206.5,Aaron Rodgers Total Passing Yards,Aaron Rodgers Total Passing Yards,New York Jets,Pittsburgh Steelers
+1614589392,Under,16013,5256246701,1.806,206.5,Aaron Rodgers Total Passing Yards,Aaron Rodgers Total Passing Yards,New York Jets,Pittsburgh Steelers
+1614589523,Over,16100,5255946820,1.877,242.5,Baker Mayfield Total Passing Yards,Baker Mayfield Total Passing Yards,Atlanta Falcons,Tampa Bay Buccaneers
+1614589524,Under,16101,5255946821,1.862,242.5,Baker Mayfield Total Passing Yards,Baker Mayfield Total Passing Yards,Atlanta Falcons,Tampa Bay Buccaneers
+1614590737,Over,16700,5253164858,1.869,238.5,Michael Penix Total Passing Yards,Michael Penix Total Passing Yards,Atlanta Falcons,Tampa Bay Buccaneers
+1614590738,Under,16701,5253164859,1.869,238.5,Michael Penix Total Passing Yards,Michael Penix Total Passing Yards,Atlanta Falcons,Tampa Bay Buccaneers
+1614589577,Over,16136,5253164271,1.869,218.5,Bryce Young Total Passing Yards,Bryce Young Total Passing Yards,Jacksonville Jaguars,Carolina Panthers
+1614589578,Under,16137,5253164272,1.869,218.5,Bryce Young Total Passing Yards,Bryce Young Total Passing Yards,Jacksonville Jaguars,Carolina Panthers
+1614589757,Over,16256,5253164331,1.869,240.5,Trevor Lawrence Total Passing Yards,Trevor Lawrence Total Passing Yards,Jacksonville Jaguars,Carolina Panthers
+1614589758,Under,16257,5253164332,1.869,240.5,Trevor Lawrence Total Passing Yards,Trevor Lawrence Total Passing Yards,Jacksonville Jaguars,Carolina Panthers
+1614589652,Over,16186,5253176485,1.869,191.5,Cam Ward Total Passing Yards,Cam Ward Total Passing Yards,Denver Broncos,Tennessee Titans
+1614589653,Under,16187,5253176486,1.869,191.5,Cam Ward Total Passing Yards,Cam Ward Total Passing Yards,Denver Broncos,Tennessee Titans
+1614589601,Over,16152,5253176495,1.869,210.5,Bo Nix Total Passing Yards,Bo Nix Total Passing Yards,Denver Broncos,Tennessee Titans
+1614589602,Under,16153,5253176496,1.869,210.5,Bo Nix Total Passing Yards,Bo Nix Total Passing Yards,Denver Broncos,Tennessee Titans
+1614589736,Over,16242,5253176421,1.869,241.5,Jared Goff Total Passing Yards,Jared Goff Total Passing Yards,Green Bay Packers,Detroit Lions
+1614589737,Under,16243,5253176423,1.869,241.5,Jared Goff Total Passing Yards,Jared Goff Total Passing Yards,Green Bay Packers,Detroit Lions
+1614589790,Over,16276,5253176401,1.869,234.5,Jordan Love Total Passing Yards,Jordan Love Total Passing Yards,Green Bay Packers,Detroit Lions
+1614589791,Under,16277,5253176402,1.869,234.5,Jordan Love Total Passing Yards,Jordan Love Total Passing Yards,Green Bay Packers,Detroit Lions
+1614589730,Over,16238,5253176686,1.869,231.5,C.J. Stroud Total Passing Yards,C.J. Stroud Total Passing Yards,Los Angeles Rams,Houston Texans
+1614589731,Under,16239,5253176688,1.869,231.5,C.J. Stroud Total Passing Yards,C.J. Stroud Total Passing Yards,Los Angeles Rams,Houston Texans
+1614589925,Over,16362,5253176677,1.869,233.5,Matthew Stafford Total Passing Yards,Matthew Stafford Total Passing Yards,Los Angeles Rams,Houston Texans
+1614589926,Under,16363,5253176678,1.869,233.5,Matthew Stafford Total Passing Yards,Matthew Stafford Total Passing Yards,Los Angeles Rams,Houston Texans
+1614589830,Over,16302,5253258505,1.869,233.5,Josh Allen Total Passing Yards,Josh Allen Total Passing Yards,Buffalo Bills,Baltimore Ravens
+1614589831,Under,16303,5253258506,1.869,233.5,Josh Allen Total Passing Yards,Josh Allen Total Passing Yards,Buffalo Bills,Baltimore Ravens
+1614589907,Over,16350,5253223308,1.869,233.5,Lamar Jackson Total Passing Yards,Lamar Jackson Total Passing Yards,Buffalo Bills,Baltimore Ravens
+1614589908,Under,16351,5253223309,1.869,233.5,Lamar Jackson Total Passing Yards,Lamar Jackson Total Passing Yards,Buffalo Bills,Baltimore Ravens
+1614589961,Over,16386,5253350773,1.869,212.5,Drake Maye Total Passing Yards,Drake Maye Total Passing Yards,New England Patriots,Las Vegas Raiders
+1614589962,Under,16387,5253350774,1.869,212.5,Drake Maye Total Passing Yards,Drake Maye Total Passing Yards,New England Patriots,Las Vegas Raiders
+1614590009,Over,16418,5253368789,1.869,230.5,Geno Smith Total Passing Yards,Geno Smith Total Passing Yards,New England Patriots,Las Vegas Raiders
+1614590010,Under,16419,5253368790,1.869,230.5,Geno Smith Total Passing Yards,Geno Smith Total Passing Yards,New England Patriots,Las Vegas Raiders
+1614590105,Over,16480,5253552973,1.869,217.5,Russell Wilson Total Passing Yards,Russell Wilson Total Passing Yards,Washington Commanders,New York Giants
+1614590106,Under,16481,5253552974,1.869,217.5,Russell Wilson Total Passing Yards,Russell Wilson Total Passing Yards,Washington Commanders,New York Giants
+1614590081,Over,16464,5253596941,1.869,222.5,Jayden Daniels Total Passing Yards,Jayden Daniels Total Passing Yards,Washington Commanders,New York Giants
+1614590082,Under,16465,5253596942,1.869,222.5,Jayden Daniels Total Passing Yards,Jayden Daniels Total Passing Yards,Washington Commanders,New York Giants
+1614590195,Over,16540,5256394962,1.819,195.5,Daniel Jones Total Passing Yards,Daniel Jones Total Passing Yards,Indianapolis Colts,Miami Dolphins
+1614590196,Under,16541,5256394963,1.925,195.5,Daniel Jones Total Passing Yards,Daniel Jones Total Passing Yards,Indianapolis Colts,Miami Dolphins
+1614590240,Over,16570,5253674794,1.869,250.5,Tua Tagovailoa Total Passing Yards,Tua Tagovailoa Total Passing Yards,Indianapolis Colts,Miami Dolphins
+1614590241,Under,16571,5253674795,1.869,250.5,Tua Tagovailoa Total Passing Yards,Tua Tagovailoa Total Passing Yards,Indianapolis Colts,Miami Dolphins
+1614590324,Over,16626,5254620561,1.806,187.5,Spencer Rattler Total Passing Yards,Spencer Rattler Total Passing Yards,New Orleans Saints,Arizona Cardinals
+1614590325,Under,16627,5254620562,1.943,187.5,Spencer Rattler Total Passing Yards,Spencer Rattler Total Passing Yards,New Orleans Saints,Arizona Cardinals
+1614590291,Over,16604,5253719556,1.869,221.5,Kyler Murray Total Passing Yards,Kyler Murray Total Passing Yards,New Orleans Saints,Arizona Cardinals
+1614590292,Under,16605,5253719557,1.869,221.5,Kyler Murray Total Passing Yards,Kyler Murray Total Passing Yards,New Orleans Saints,Arizona Cardinals
+1614590327,Over,16628,5253822803,1.869,245.5,Brock Purdy Total Passing Yards,Brock Purdy Total Passing Yards,Seattle Seahawks,San Francisco 49ers
+1614590328,Under,16629,5253822804,1.869,245.5,Brock Purdy Total Passing Yards,Brock Purdy Total Passing Yards,Seattle Seahawks,San Francisco 49ers
+1614590384,Over,16666,5253816234,1.869,205.5,Sam Darnold Total Passing Yards,Sam Darnold Total Passing Yards,Seattle Seahawks,San Francisco 49ers
+1614590385,Under,16667,5253816235,1.869,205.5,Sam Darnold Total Passing Yards,Sam Darnold Total Passing Yards,Seattle Seahawks,San Francisco 49ers
+1614590120,Over,16490,5253843240,1.869,219.5,Caleb Williams Total Passing Yards,Caleb Williams Total Passing Yards,Chicago Bears,Minnesota Vikings
+1614590121,Under,16491,5253843241,1.869,219.5,Caleb Williams Total Passing Yards,Caleb Williams Total Passing Yards,Chicago Bears,Minnesota Vikings
+1614590180,Over,16530,5253855578,1.869,220.5,J.J. McCarthy Total Passing Yards,J.J. McCarthy Total Passing Yards,Chicago Bears,Minnesota Vikings
+1614590181,Under,16531,5253855579,1.869,220.5,J.J. McCarthy Total Passing Yards,J.J. McCarthy Total Passing Yards,Chicago Bears,Minnesota Vikings

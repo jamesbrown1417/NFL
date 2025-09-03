@@ -1,4 +1,8 @@
 - source: NFL_Report.qmd
   quarto-pub:
     - id: dfa927c1-7eaf-4e21-9a18-0327d4114796
-      url: 'https://jamesbrown1417.quarto.pub/nfl-report'
+      url: https://jamesbrown1417.quarto.pub/nfl-report
+- source: Top_Down.qmd
+  quarto-pub:
+    - id: 7296aa0b-26fc-42ee-840f-5ccfdb99af0e
+      url: https://jamesbrown1417.quarto.pub/pinnacle-top-down-bets

@@ -5,13 +5,25 @@ library(httr2)
 library(jsonlite)
 library(glue)
 library(nflreadr)
+source("Scripts/constants.R")
+source("Scripts/fix_team_names.R")
+
+# Fallback shim: if read_html_live() isn't available, use read_html()
+if (!exists("read_html_live")) {
+  read_html_live <- function(x, ...) read_html(x, ...)
+}
 
 # URL of website
 sportsbet_url = "https://www.sportsbet.com.au/betting/american-football/nfl"
 
+# Load the live-rendered Sportsbet page once and reuse (align with AFL approach)
+sportsbet_html <-
+  sportsbet_url |>
+  read_html_live()
+
 # Get squads
 player_teams <-
-  load_rosters(seasons = 2024) |> 
+  load_rosters(seasons = CURRENT_SEASON) |> 
   select(player_name = full_name, position, player_team = team)
 
 player_teams_qb <-
@@ -49,11 +61,7 @@ player_teams_db <-
   select(player_name, player_team) |> 
   mutate(player_team = ifelse(player_team == "LA", "Los Angeles Rams", player_team))
 
-# Get Fix Team Names Function
-source("Scripts/fix_team_names.R")
-
-# Get Fix Player Names Function
-source("Scripts/fix_player_names.R")
+# Get Fix Team Names Function and Player Names Function are sourced above
 
 #===============================================================================
 # Use rvest to get main market information-------------------------------------#
@@ -62,8 +70,7 @@ source("Scripts/fix_player_names.R")
 main_markets_function <- function() {
   # Get data from main market page
   matches <-
-    sportsbet_url |>
-    read_html() |>
+    sportsbet_html |>
     html_nodes(".White_fqa53j6")
   
   # Function to get team names
@@ -111,8 +118,8 @@ main_markets_function <- function() {
   # Map functions to each match and combine together
   all_main_market_data <-
     bind_cols(
-      map(matches, get_team_names) |> bind_rows(),
-      map(matches, get_odds) |> bind_rows(),
+      map(matches, get_team_names) |> bind_rows() |> filter(!is.na(home_team)),
+      map(matches, get_odds) |> bind_rows() |> filter(!is.na(home_win)),
       map(matches, get_start_time) |> bind_rows()
     )
   
@@ -125,11 +132,11 @@ main_markets_function <- function() {
     mutate(home_team = fix_team_names(home_team)) |>
     mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team)) |>
-    mutate(market_name = "Head To Head") |>
+    mutate(market = "Head To Head") |>
     mutate(home_win = as.numeric(home_win)) |>
     mutate(away_win = as.numeric(away_win)) |>
     select(match,
-           market_name,
+           market,
            home_team,
            home_win,
            away_team,
@@ -165,8 +172,7 @@ player_props_function <- function() {
   
   # Get match links
   match_links <-
-    sportsbet_url |>
-    read_html() |>
+    sportsbet_html |>
     html_nodes(".linkMultiMarket_fcmecz0") |>
     html_attr("href")
   
@@ -178,8 +184,7 @@ player_props_function <- function() {
   
   # Get data from main market page
   matches <-
-    sportsbet_url |>
-    read_html() |>
+    sportsbet_html |>
     html_nodes(".White_fqa53j6")
   
   # Keep only the first 16 matches
@@ -228,6 +233,8 @@ player_props_function <- function() {
     # Make request and get response
     sb_response <-
       request(url) |>
+      req_user_agent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36") |>
+      req_headers("Referer" = "https://www.sportsbet.com.au") |>
       req_perform() |>
       resp_body_json()
     
@@ -271,6 +278,8 @@ player_props_function <- function() {
     # Make request and get response
     sb_response <-
       request(url) |>
+      req_user_agent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36") |>
+      req_headers("Referer" = "https://www.sportsbet.com.au") |>
       req_perform() |>
       resp_body_json()
     
@@ -970,6 +979,9 @@ player_props_function <- function() {
   
 }
 
-# Run Functions
-main_markets_function()
-player_props_function()
+# Run functions safely (align with AFL runner pattern)
+safe_main_markets <- safely(main_markets_function, otherwise = NULL)
+safe_player_props <- safely(player_props_function, otherwise = NULL)
+
+safe_main_markets()
+safe_player_props()

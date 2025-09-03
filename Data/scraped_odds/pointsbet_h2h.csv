@@ -1,14 +1,20 @@
-match,start_time,market_name,home_team,home_win,away_team,away_win,margin,agency
-Carolina Panthers v New York Giants,2024-11-10T14:30:00Z,Head To Head,Carolina Panthers,3.3,New York Giants,1.36,1.038,Pointsbet
-Chicago Bears v New England Patriots,2024-11-10T18:00:00Z,Head To Head,Chicago Bears,1.36,New England Patriots,3.3,1.038,Pointsbet
-New Orleans Saints v Atlanta Falcons,2024-11-10T18:00:00Z,Head To Head,New Orleans Saints,2.6,Atlanta Falcons,1.53,1.038,Pointsbet
-Washington Commanders v Pittsburgh Steelers,2024-11-10T18:00:00Z,Head To Head,Washington Commanders,1.74,Pittsburgh Steelers,2.15,1.04,Pointsbet
-Jacksonville Jaguars v Minnesota Vikings,2024-11-10T18:00:00Z,Head To Head,Jacksonville Jaguars,3.5,Minnesota Vikings,1.31,1.049,Pointsbet
-Indianapolis Colts v Buffalo Bills,2024-11-10T18:00:00Z,Head To Head,Indianapolis Colts,2.75,Buffalo Bills,1.48,1.039,Pointsbet
-Kansas City Chiefs v Denver Broncos,2024-11-10T18:00:00Z,Head To Head,Kansas City Chiefs,1.27,Denver Broncos,4,1.037,Pointsbet
-Tampa Bay Buccaneers v San Francisco 49ers,2024-11-10T18:00:00Z,Head To Head,Tampa Bay Buccaneers,3.4,San Francisco 49ers,1.33,1.046,Pointsbet
-Los Angeles Chargers v Tennessee Titans,2024-11-10T21:05:00Z,Head To Head,Los Angeles Chargers,1.27,Tennessee Titans,4,1.037,Pointsbet
-Arizona Cardinals v New York Jets,2024-11-10T21:25:00Z,Head To Head,Arizona Cardinals,2.1,New York Jets,1.77,1.041,Pointsbet
-Dallas Cowboys v Philadelphia Eagles,2024-11-10T21:25:00Z,Head To Head,Dallas Cowboys,3.8,Philadelphia Eagles,1.29,1.038,Pointsbet
-Houston Texans v Detroit Lions,2024-11-11T01:20:00Z,Head To Head,Houston Texans,2.5,Detroit Lions,1.56,1.041,Pointsbet
-Los Angeles Rams v Miami Dolphins,2024-11-12T01:15:00Z,Head To Head,Los Angeles Rams,1.77,Miami Dolphins,2.1,1.041,Pointsbet
+match,start_time,market,home_team,home_win,away_team,away_win,margin,agency
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00Z,Head To Head,Philadelphia Eagles,1.24,Dallas Cowboys,4.3,1.039,Pointsbet
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00Z,Head To Head,Los Angeles Chargers,2.4,Kansas City Chiefs,1.59,1.046,Pointsbet
+Jacksonville Jaguars v Carolina Panthers,2025-09-07T17:00:00Z,Head To Head,Jacksonville Jaguars,1.56,Carolina Panthers,2.5,1.041,Pointsbet
+Atlanta Falcons v Tampa Bay Buccaneers,2025-09-07T17:00:00Z,Head To Head,Atlanta Falcons,2.15,Tampa Bay Buccaneers,1.74,1.04,Pointsbet
+Indianapolis Colts v Miami Dolphins,2025-09-07T17:00:00Z,Head To Head,Indianapolis Colts,1.9,Miami Dolphins,1.9,1.053,Pointsbet
+New York Jets v Pittsburgh Steelers,2025-09-07T17:00:00Z,Head To Head,New York Jets,2.3,Pittsburgh Steelers,1.67,1.034,Pointsbet
+New Orleans Saints v Arizona Cardinals,2025-09-07T17:00:00Z,Head To Head,New Orleans Saints,3.4,Arizona Cardinals,1.33,1.046,Pointsbet
+Washington Commanders v New York Giants,2025-09-07T17:00:00Z,Head To Head,Washington Commanders,1.36,New York Giants,3.2,1.048,Pointsbet
+Cleveland Browns v Cincinnati Bengals,2025-09-07T17:00:00Z,Head To Head,Cleveland Browns,2.9,Cincinnati Bengals,1.42,1.049,Pointsbet
+New England Patriots v Las Vegas Raiders,2025-09-07T17:00:00Z,Head To Head,New England Patriots,1.67,Las Vegas Raiders,2.3,1.034,Pointsbet
+Denver Broncos v Tennessee Titans,2025-09-07T20:05:00Z,Head To Head,Denver Broncos,1.25,Tennessee Titans,4.1,1.044,Pointsbet
+Seattle Seahawks v San Francisco 49ers,2025-09-07T20:05:00Z,Head To Head,Seattle Seahawks,2.2,San Francisco 49ers,1.71,1.039,Pointsbet
+Green Bay Packers v Detroit Lions,2025-09-07T20:25:00Z,Head To Head,Green Bay Packers,1.71,Detroit Lions,2.2,1.039,Pointsbet
+Los Angeles Rams v Houston Texans,2025-09-07T20:25:00Z,Head To Head,Los Angeles Rams,1.67,Houston Texans,2.3,1.034,Pointsbet
+Buffalo Bills v Baltimore Ravens,2025-09-08T00:20:00Z,Head To Head,Buffalo Bills,1.9,Baltimore Ravens,1.9,1.053,Pointsbet
+Chicago Bears v Minnesota Vikings,2025-09-09T00:15:00Z,Head To Head,Chicago Bears,2,Minnesota Vikings,1.83,1.046,Pointsbet
+Minnesota Vikings v Atlanta Falcons,2025-09-15T00:20:00Z,Head To Head,Minnesota Vikings,1.48,Atlanta Falcons,2.75,1.039,Pointsbet
+Houston Texans v Tampa Bay Buccaneers,2025-09-15T23:00:00Z,Head To Head,Houston Texans,1.8,Tampa Bay Buccaneers,2.05,1.043,Pointsbet
+Las Vegas Raiders v Los Angeles Chargers,2025-09-16T02:00:00Z,Head To Head,Las Vegas Raiders,2.3,Los Angeles Chargers,1.67,1.034,Pointsbet

@@ -5,16 +5,17 @@ library(httr2)
 library(jsonlite)
 library(glue)
 library(nflreadr)
+source("Scripts/constants.R")
 
 # Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
+source("Scripts/fix_team_names.R")
 
 # Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
+source("Scripts/fix_player_names.R")
 
 # Get squads
 player_teams <-
-  load_rosters(seasons = 2024) |> 
+  load_rosters(seasons = CURRENT_SEASON) |> 
   select(player_name = full_name, position, player_team = team)
 
 player_teams_qb <-
@@ -71,7 +72,7 @@ all_pinnacle_data |>
 # Anytime TD - yes
 anytime_td_yes <-
   anytime_td_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Anytime TD\\)")) |>
+  mutate(player_name = str_remove(selection, " (\\(Anytime TD\\)|Anytime TD)$")) |>
   filter(str_detect(name, "Yes")) |>
   mutate(home_team = fix_team_names(home_team),
          away_team = fix_team_names(away_team),
@@ -103,7 +104,7 @@ anytime_td_yes <-
 # Anytime TD - no
 anytime_td_no <-
   anytime_td_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Anytime TD\\)")) |>
+  mutate(player_name = str_remove(selection, " (\\(Anytime TD\\)|Anytime TD)$")) |>
   filter(str_detect(name, "No")) |>
   mutate(home_team = fix_team_names(home_team),
          away_team = fix_team_names(away_team),
@@ -148,12 +149,12 @@ anytime_td_data |>
 # Get all passing TD Markets
 passing_td_markets <-
 all_pinnacle_data |> 
-  filter(str_detect(selection, "TD Passes"))
+  filter(str_detect(selection, "Touchdown Passes"))
 
 # Passing TDs - over
 passing_td_over <-
   passing_td_markets |> 
-  mutate(player_name = str_remove(selection, " \\(TD Passes\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Touchdown Passes")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Over")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -182,7 +183,7 @@ passing_td_over <-
 # Passing TDs - under
 passing_td_under <-
   passing_td_markets |> 
-  mutate(player_name = str_remove(selection, " \\(TD Passes\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Touchdown Passes")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Under")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -229,7 +230,7 @@ all_pinnacle_data |>
 # Passing Attempts - over
 passing_attempts_over <-
   passing_attempts_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Pass Attempts\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Pass Attempts")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Over")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -258,7 +259,7 @@ passing_attempts_over <-
 # Passing Attempts - under
 passing_attempts_under <-
   passing_attempts_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Pass Attempts\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Pass Attempts")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Under")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -305,7 +306,7 @@ all_pinnacle_data |>
 # Receptions - over
 receptions_over <-
   receptions_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Receptions\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Receptions")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Over")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -336,7 +337,7 @@ receptions_over <-
 # Receptions - under
 receptions_under <-
   receptions_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Receptions\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Receptions")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Under")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -385,7 +386,7 @@ passing_yards_markets <-
 # Passing Yards - over
 passing_yards_over <-
   passing_yards_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Passing Yards\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Passing Yards")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Over")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -414,7 +415,7 @@ passing_yards_over <-
 # Passing Yards - under
 passing_yards_under <-
   passing_yards_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Passing Yards\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Passing Yards")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Under")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -461,7 +462,7 @@ receiving_yards_markets <-
 # Receiving Yards - over
 receiving_yards_over <-
   receiving_yards_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Receiving Yards\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Receiving Yards")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Over")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -493,7 +494,7 @@ receiving_yards_over <-
 # Receiving Yards - under
 receiving_yards_under <-
   receiving_yards_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Receiving Yards\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Receiving Yards")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Under")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -543,7 +544,7 @@ rushing_yards_markets <-
 # Rushing Yards - over
 rushing_yards_over <-
   rushing_yards_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Rushing Yards\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Rushing Yards")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Over")) |>
   mutate(home_team = fix_team_names(home_team),
@@ -575,7 +576,7 @@ rushing_yards_over <-
 # Rushing Yards - under
 rushing_yards_under <-
   rushing_yards_markets |> 
-  mutate(player_name = str_remove(selection, " \\(Rushing Yards\\)")) |>
+  mutate(player_name = str_remove(selection, " Total Rushing Yards")) |>
   mutate(player_name = str_remove(player_name, " \\(.*$")) |>
   filter(str_detect(name, "Under")) |>
   mutate(home_team = fix_team_names(home_team),

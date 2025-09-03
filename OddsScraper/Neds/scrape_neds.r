@@ -5,16 +5,17 @@ library(httr2)
 library(jsonlite)
 library(tidyjson)
 library(nflreadr)
+source("Scripts/constants.R")
 
 # Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
+source("Scripts/fix_team_names.R")
 
 # Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
+source("Scripts/fix_player_names.R")
 
 # Get squads
 player_teams <-
-  load_rosters(seasons = 2024) |>
+  load_rosters(seasons = CURRENT_SEASON) |>
   select(player_name = full_name, position, player_team = team)
 
 player_teams_qb <-
@@ -179,8 +180,8 @@ h2h_data <-
   mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
   mutate(margin = round(1 / home_win + 1 / away_win, digits = 2)) |>
   mutate(agency = "Neds") |>
-  mutate(market_name = "Head To Head") |> 
-  select(match, market = market_name, home_team, away_team, home_win, away_win, margin, agency)
+  mutate(market = "Head To Head") |> 
+  select(match, market, home_team, away_team, home_win, away_win, margin, agency)
 
 ##%######################################################%##
 #                                                          #
@@ -255,7 +256,7 @@ player_alt_passing_yards <-
     match,
     home_team,
     away_team,
-    market_name = "Passing Yards",
+    market = "Passing Yards",
     player_name,
     player_team,
     opposition_team,
@@ -299,12 +300,12 @@ player_passing_yards_over_under <-
   mutate(away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
   mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
-  mutate(market_name = "Passing Yards") |>
+  mutate(market = "Passing Yards") |>
   select(
     match,
     home_team,
     away_team,
-    market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -322,7 +323,7 @@ player_passing_yards <-
     match,
     home_team,
     away_team,
-    market = market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -413,12 +414,12 @@ player_passing_attempts <-
   mutate(away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
   mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
-  mutate(market_name = "Passing Attempts") |>
+  mutate(market = "Passing Attempts") |>
   select(
     match,
     home_team,
     away_team,
-    market = market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -457,7 +458,7 @@ player_alt_rushing_yards <-
     match,
     home_team,
     away_team,
-    market_name = "Rushing Yards",
+    market = "Rushing Yards",
     player_name,
     player_team,
     opposition_team,
@@ -503,12 +504,12 @@ player_rushing_yards_over_under <-
   mutate(away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
   mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
-  mutate(market_name = "Rushing Yards") |>
+  mutate(market = "Rushing Yards") |>
   select(
     match,
     home_team,
     away_team,
-    market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -526,7 +527,7 @@ player_rushing_yards <-
     match,
     home_team,
     away_team,
-    market = market_name,
+    market_name,
     player_name,
     player_team,
     opposition_team,
@@ -574,7 +575,7 @@ player_alt_receiving_yards <-
     match,
     home_team,
     away_team,
-    market_name = "Receiving Yards",
+    market = "Receiving Yards",
     player_name,
     player_team,
     opposition_team,
@@ -636,12 +637,12 @@ player_receiving_yards_over_under <-
   mutate(away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
   mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
-  mutate(market_name = "Receiving Yards") |>
+  mutate(market = "Receiving Yards") |>
   select(
     match,
     home_team,
     away_team,
-    market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -659,7 +660,7 @@ player_receiving_yards <-
     match,
     home_team,
     away_team,
-    market = market_name,
+    market_name,
     player_name,
     player_team,
     opposition_team,
@@ -733,12 +734,12 @@ player_receptions <-
   mutate(away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
   mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
-  mutate(market_name = "Receptions") |>
+  mutate(market = "Receptions") |>
   select(
     match,
     home_team,
     away_team,
-    market = market_name,
+    market,
     player_name,
     player_team,
     opposition_team,

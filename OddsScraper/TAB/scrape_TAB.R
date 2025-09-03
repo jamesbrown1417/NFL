@@ -5,16 +5,17 @@ library(httr)
 library(httr2)
 library(jsonlite)
 library(nflreadr)
+source("Scripts/constants.R")
 
 # Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
+source("Scripts/fix_team_names.R")
 
 # Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
+source("Scripts/fix_player_names.R")
 
 # Get squads
 player_teams <-
-  load_rosters(seasons = 2024) |> 
+  load_rosters(seasons = CURRENT_SEASON) |> 
   select(player_name = full_name, position, player_team = team)
 
 player_teams_qb <-
@@ -145,7 +146,7 @@ tab_head_to_head_markets <-
   left_join(away_teams) |>
   select(match,
          start_time,
-         market_name,
+         market = market_name,
          home_team,
          home_win,
          away_team,
@@ -159,7 +160,7 @@ tab_head_to_head_markets <-
   mutate(home_team = fix_team_names(home_team)) |>
   mutate(away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, "v", away_team)) |> 
-  mutate(market_name = "Head To Head")
+  mutate(market = "Head To Head")
 
 # Write to csv
 write_csv(tab_head_to_head_markets, "Data/scraped_odds/tab_h2h.csv")

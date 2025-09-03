@@ -1,43 +1,99 @@
 match,start_time,player_name,player_team,market,line,over_price,agency
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Aaron Jones,Minnesota Vikings,Player Touchdowns,0.5,1.9,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Aaron Jones,Minnesota Vikings,Player Touchdowns,1.5,5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Brandon Powell,Minnesota Vikings,Player Touchdowns,0.5,19,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Brandon Powell,Minnesota Vikings,Player Touchdowns,1.5,101,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,C.j. Ham,NA,Player Touchdowns,0.5,13,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,C.j. Ham,NA,Player Touchdowns,1.5,101,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Cam Akers,Minnesota Vikings,Player Touchdowns,0.5,3,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Cam Akers,Minnesota Vikings,Player Touchdowns,1.5,13,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Colby Parkinson,Los Angeles Rams,Player Touchdowns,0.5,10,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Colby Parkinson,Los Angeles Rams,Player Touchdowns,1.5,81,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Cooper Kupp,Los Angeles Rams,Player Touchdowns,0.5,2.5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Cooper Kupp,Los Angeles Rams,Player Touchdowns,1.5,10,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,0.5,4,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Demarcus Robinson,Los Angeles Rams,Player Touchdowns,1.5,23,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Jalen Nailor,Minnesota Vikings,Player Touchdowns,0.5,5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Jalen Nailor,Minnesota Vikings,Player Touchdowns,1.5,34,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Jordan Addison,Minnesota Vikings,Player Touchdowns,0.5,2.3,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Jordan Addison,Minnesota Vikings,Player Touchdowns,1.5,8,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Jordan Whittington,Los Angeles Rams,Player Touchdowns,0.5,13,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Jordan Whittington,Los Angeles Rams,Player Touchdowns,1.5,81,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Josh Oliver,Minnesota Vikings,Player Touchdowns,0.5,8.5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Josh Oliver,Minnesota Vikings,Player Touchdowns,1.5,101,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Justin Jefferson,Minnesota Vikings,Player Touchdowns,0.5,1.85,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Justin Jefferson,Minnesota Vikings,Player Touchdowns,1.5,5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Kyren Williams,Los Angeles Rams,Player Touchdowns,0.5,1.7,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Kyren Williams,Los Angeles Rams,Player Touchdowns,1.5,3.75,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Matthew Stafford,Los Angeles Rams,Player Touchdowns,0.5,15,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Matthew Stafford,Los Angeles Rams,Player Touchdowns,1.5,101,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Puka Nacua,Los Angeles Rams,Player Touchdowns,0.5,1.95,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Puka Nacua,Los Angeles Rams,Player Touchdowns,1.5,5.5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,0.5,13,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Ronnie Rivers,Los Angeles Rams,Player Touchdowns,1.5,81,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Sam Darnold,Minnesota Vikings,Player Touchdowns,0.5,5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Sam Darnold,Minnesota Vikings,Player Touchdowns,1.5,34,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,T.j. Hockenson,NA,Player Touchdowns,0.5,2.9,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,T.j. Hockenson,NA,Player Touchdowns,1.5,13,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Tutu Atwell,Los Angeles Rams,Player Touchdowns,0.5,6.5,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Tutu Atwell,Los Angeles Rams,Player Touchdowns,1.5,67,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Ty Chandler,Minnesota Vikings,Player Touchdowns,0.5,13,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Ty Chandler,Minnesota Vikings,Player Touchdowns,1.5,101,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Tyler Higbee,Los Angeles Rams,Player Touchdowns,0.5,4.25,TAB
-Los Angeles Rams v Minnesota Vikings,2025-01-14T01:05:00.000Z,Tyler Higbee,Los Angeles Rams,Player Touchdowns,1.5,26,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,A.j. Brown,NA,Player Touchdowns,0.5,2.75,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,A.j. Brown,NA,Player Touchdowns,1.5,10,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Aj Dillon,NA,Player Touchdowns,0.5,15,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Aj Dillon,NA,Player Touchdowns,1.5,126,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Ben Vansumeren,NA,Player Touchdowns,0.5,13,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Ben Vansumeren,NA,Player Touchdowns,1.5,101,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,0.5,21,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Brevyn Spann-Ford,Dallas Cowboys,Player Touchdowns,1.5,126,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,0.5,2.6,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,CeeDee Lamb,Dallas Cowboys,Player Touchdowns,1.5,9,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Dak Prescott,Dallas Cowboys,Player Touchdowns,0.5,8,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Dak Prescott,Dallas Cowboys,Player Touchdowns,1.5,101,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Dallas Goedert,Philadelphia Eagles,Player Touchdowns,0.5,4,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Dallas Goedert,Philadelphia Eagles,Player Touchdowns,1.5,17,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,DeVonta Smith,Philadelphia Eagles,Player Touchdowns,0.5,3,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,DeVonta Smith,Philadelphia Eagles,Player Touchdowns,1.5,11,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,George Pickens,Dallas Cowboys,Player Touchdowns,0.5,3.5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,George Pickens,Dallas Cowboys,Player Touchdowns,1.5,15,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Grant Calcaterra,Philadelphia Eagles,Player Touchdowns,0.5,13,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Grant Calcaterra,Philadelphia Eagles,Player Touchdowns,1.5,101,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Hunter Luepke,Dallas Cowboys,Player Touchdowns,0.5,11,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Hunter Luepke,Dallas Cowboys,Player Touchdowns,1.5,101,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jahan Dotson,Philadelphia Eagles,Player Touchdowns,0.5,7,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jahan Dotson,Philadelphia Eagles,Player Touchdowns,1.5,67,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jake Ferguson,Dallas Cowboys,Player Touchdowns,0.5,4.5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jake Ferguson,Dallas Cowboys,Player Touchdowns,1.5,21,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jalen Hurts,Philadelphia Eagles,Player Touchdowns,0.5,1.75,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jalen Hurts,Philadelphia Eagles,Player Touchdowns,1.5,4.5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,0.5,6,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jalen Tolbert,Dallas Cowboys,Player Touchdowns,1.5,34,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Javonte Williams,Dallas Cowboys,Player Touchdowns,0.5,3.25,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Javonte Williams,Dallas Cowboys,Player Touchdowns,1.5,13,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jaydon Blue,Dallas Cowboys,Player Touchdowns,0.5,5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Jaydon Blue,Dallas Cowboys,Player Touchdowns,1.5,29,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,John Metchie,NA,Player Touchdowns,0.5,8,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,John Metchie,NA,Player Touchdowns,1.5,81,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Kavontae Turpin,NA,Player Touchdowns,0.5,7.5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Kavontae Turpin,NA,Player Touchdowns,1.5,41,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Kylen Granson,Philadelphia Eagles,Player Touchdowns,0.5,15,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Kylen Granson,Philadelphia Eagles,Player Touchdowns,1.5,126,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,0.5,10,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Luke Schoonmaker,Dallas Cowboys,Player Touchdowns,1.5,101,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Miles Sanders,Dallas Cowboys,Player Touchdowns,0.5,5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Miles Sanders,Dallas Cowboys,Player Touchdowns,1.5,29,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,0.5,19,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Ryan Flournoy,Dallas Cowboys,Player Touchdowns,1.5,126,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Saquon Barkley,Philadelphia Eagles,Player Touchdowns,0.5,1.65,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Saquon Barkley,Philadelphia Eagles,Player Touchdowns,1.5,3.75,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Will Shipley,Philadelphia Eagles,Player Touchdowns,0.5,5,TAB
+Philadelphia Eagles v Dallas Cowboys,2025-09-05T00:20:00.000Z,Will Shipley,Philadelphia Eagles,Player Touchdowns,1.5,41,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Brashard Smith,Kansas City Chiefs,Player Touchdowns,0.5,7,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Brashard Smith,Kansas City Chiefs,Player Touchdowns,1.5,67,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Derius Davis,Los Angeles Chargers,Player Touchdowns,0.5,13,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Derius Davis,Los Angeles Chargers,Player Touchdowns,1.5,101,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Hollywood Brown,NA,Player Touchdowns,0.5,3,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Hollywood Brown,NA,Player Touchdowns,1.5,13,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Isiah Pacheco,Kansas City Chiefs,Player Touchdowns,0.5,3.1,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Isiah Pacheco,Kansas City Chiefs,Player Touchdowns,1.5,13,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Jalen Royals,Kansas City Chiefs,Player Touchdowns,0.5,15,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Jalen Royals,Kansas City Chiefs,Player Touchdowns,1.5,101,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Juju Smith-Schuster,NA,Player Touchdowns,0.5,4.75,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Juju Smith-Schuster,NA,Player Touchdowns,1.5,29,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Justin Herbert,Los Angeles Chargers,Player Touchdowns,0.5,5.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Justin Herbert,Los Angeles Chargers,Player Touchdowns,1.5,41,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Player Touchdowns,0.5,4,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Kareem Hunt,Kansas City Chiefs,Player Touchdowns,1.5,17,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Keandre Lambert-Smith,NA,Player Touchdowns,0.5,6,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Keandre Lambert-Smith,NA,Player Touchdowns,1.5,51,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Keenan Allen,Los Angeles Chargers,Player Touchdowns,0.5,3.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Keenan Allen,Los Angeles Chargers,Player Touchdowns,1.5,15,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Kimani Vidal,Los Angeles Chargers,Player Touchdowns,0.5,10,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Kimani Vidal,Los Angeles Chargers,Player Touchdowns,1.5,81,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Ladd McConkey,Los Angeles Chargers,Player Touchdowns,0.5,2.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Ladd McConkey,Los Angeles Chargers,Player Touchdowns,1.5,8.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Najee Harris,Los Angeles Chargers,Player Touchdowns,0.5,2.4,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Najee Harris,Los Angeles Chargers,Player Touchdowns,1.5,7,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Noah Gray,Kansas City Chiefs,Player Touchdowns,0.5,5.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Noah Gray,Kansas City Chiefs,Player Touchdowns,1.5,34,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Omarion Hampton,Los Angeles Chargers,Player Touchdowns,0.5,2.2,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Omarion Hampton,Los Angeles Chargers,Player Touchdowns,1.5,6.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Oronde Gadsden,NA,Player Touchdowns,0.5,13,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Oronde Gadsden,NA,Player Touchdowns,1.5,101,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,0.5,6.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Player Touchdowns,1.5,51,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Quentin Johnston,Los Angeles Chargers,Player Touchdowns,0.5,3.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Quentin Johnston,Los Angeles Chargers,Player Touchdowns,1.5,15,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Robert Tonyan,Kansas City Chiefs,Player Touchdowns,0.5,17,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Robert Tonyan,Kansas City Chiefs,Player Touchdowns,1.5,126,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Travis Kelce,Kansas City Chiefs,Player Touchdowns,0.5,2.75,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Travis Kelce,Kansas City Chiefs,Player Touchdowns,1.5,10,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Tre Harris,Los Angeles Chargers,Player Touchdowns,0.5,6,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Tre Harris,Los Angeles Chargers,Player Touchdowns,1.5,51,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Tyler Conklin,Los Angeles Chargers,Player Touchdowns,0.5,7.5,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Tyler Conklin,Los Angeles Chargers,Player Touchdowns,1.5,67,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Will Dissly,Los Angeles Chargers,Player Touchdowns,0.5,4.75,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Will Dissly,Los Angeles Chargers,Player Touchdowns,1.5,34,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,0.5,2.6,TAB
+Los Angeles Chargers v Kansas City Chiefs,2025-09-06T00:00:00.000Z,Xavier Worthy,Kansas City Chiefs,Player Touchdowns,1.5,9,TAB

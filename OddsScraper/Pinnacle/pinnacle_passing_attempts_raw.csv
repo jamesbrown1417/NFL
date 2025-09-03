@@ -1,53 +1,65 @@
-,id,name,rot_num,line_id,price,handicap,selection,home_team,away_team
-0,1600373640,Over,262,4549060556,1.854,28.5,Daniel Jones (Pass Attempts),Carolina Panthers,New York Giants
-1,1600373641,Under,263,4549060557,1.97,28.5,Daniel Jones (Pass Attempts),Carolina Panthers,New York Giants
-2,1600376060,Over,262,4549060765,1.84,28.5,Bryce Young (Pass Attempts),Carolina Panthers,New York Giants
-3,1600376061,Under,263,4549060766,1.98,28.5,Bryce Young (Pass Attempts),Carolina Panthers,New York Giants
-4,1600357901,Over,264,4547406641,1.909,32.5,Josh Allen (BUF) (Pass Attempts),Indianapolis Colts,Buffalo Bills
-5,1600357902,Under,265,4547406642,1.909,32.5,Josh Allen (BUF) (Pass Attempts),Indianapolis Colts,Buffalo Bills
-6,1600361634,Over,264,4548689420,2.05,34.5,Joe Flacco (Pass Attempts),Indianapolis Colts,Buffalo Bills
-7,1600361635,Under,265,4548689421,1.781,34.5,Joe Flacco (Pass Attempts),Indianapolis Colts,Buffalo Bills
-8,1600368933,Over,276,4546650350,1.9,29.5,Caleb Williams (Pass Attempts),Chicago Bears,New England Patriots
-9,1600368934,Under,277,4546650351,1.917,29.5,Caleb Williams (Pass Attempts),Chicago Bears,New England Patriots
-10,1600368948,Over,276,4548690359,1.917,30.5,Drake Maye (Pass Attempts),Chicago Bears,New England Patriots
-11,1600368949,Under,277,4548690360,1.9,30.5,Drake Maye (Pass Attempts),Chicago Bears,New England Patriots
-12,1600422624,Under,269,4548687282,1.961,28.5,Russell Wilson (Pass Attempts),Washington Commanders,Pittsburgh Steelers
-13,1600422623,Over,268,4548687281,1.854,28.5,Russell Wilson (Pass Attempts),Washington Commanders,Pittsburgh Steelers
-14,1600422639,Over,268,4546508601,1.884,29.5,Jayden Daniels (Pass Attempts),Washington Commanders,Pittsburgh Steelers
-15,1600422640,Under,269,4546508602,1.934,29.5,Jayden Daniels (Pass Attempts),Washington Commanders,Pittsburgh Steelers
-16,1600429848,Over,270,4547006483,2.01,34.5,Kirk Cousins (Pass Attempts),New Orleans Saints,Atlanta Falcons
-17,1600429849,Under,271,4547006484,1.819,34.5,Kirk Cousins (Pass Attempts),New Orleans Saints,Atlanta Falcons
-18,1600433777,Over,274,4548688272,1.934,34.5,Baker Mayfield (Pass Attempts),Tampa Bay Buccaneers,San Francisco 49ers
-19,1600433778,Under,275,4548688273,1.884,34.5,Baker Mayfield (Pass Attempts),Tampa Bay Buccaneers,San Francisco 49ers
-20,1600433783,Over,274,4548119244,1.99,31.5,Brock Purdy (Pass Attempts),Tampa Bay Buccaneers,San Francisco 49ers
-21,1600433784,Under,275,4548119245,1.833,31.5,Brock Purdy (Pass Attempts),Tampa Bay Buccaneers,San Francisco 49ers
-22,1600434062,Over,270,4546858117,1.99,31.5,Derek Carr (Pass Attempts),New Orleans Saints,Atlanta Falcons
-23,1600434063,Under,271,4546858118,1.833,31.5,Derek Carr (Pass Attempts),New Orleans Saints,Atlanta Falcons
-24,1600416961,Over,266,4547410891,1.961,30.5,Sam Darnold (Pass Attempts),Jacksonville Jaguars,Minnesota Vikings
-25,1600416962,Under,267,4547410892,1.862,30.5,Sam Darnold (Pass Attempts),Jacksonville Jaguars,Minnesota Vikings
-26,1600477720,Over,272,4547110119,2.02,32.5,Bo Nix (Pass Attempts),Kansas City Chiefs,Denver Broncos
-27,1600477721,Under,273,4547110120,1.806,32.5,Bo Nix (Pass Attempts),Kansas City Chiefs,Denver Broncos
-28,1600487108,Over,266,4546392571,1.877,32.5,Mac Jones (Pass Attempts),Jacksonville Jaguars,Minnesota Vikings
-29,1600487109,Under,267,4546392572,1.943,32.5,Mac Jones (Pass Attempts),Jacksonville Jaguars,Minnesota Vikings
-30,1600496661,Over,272,4547110063,1.806,30.5,Patrick Mahomes (Pass Attempts),Kansas City Chiefs,Denver Broncos
-31,1600496662,Under,273,4547110064,2.02,30.5,Patrick Mahomes (Pass Attempts),Kansas City Chiefs,Denver Broncos
-32,1600480587,Over,278,4546740144,1.909,29.5,Will Levis (Pass Attempts),Los Angeles Chargers,Tennessee Titans
-33,1600480588,Under,279,4546740145,1.909,29.5,Will Levis (Pass Attempts),Los Angeles Chargers,Tennessee Titans
-34,1600480754,Over,278,4546740098,2.0,31.5,Justin Herbert (Pass Attempts),Los Angeles Chargers,Tennessee Titans
-35,1600480755,Under,279,4546740099,1.826,31.5,Justin Herbert (Pass Attempts),Los Angeles Chargers,Tennessee Titans
-36,1600360617,Over,282,4546655472,1.892,28.5,Kyler Murray (Pass Attempts),Arizona Cardinals,New York Jets
-37,1600360618,Under,283,4546655473,1.925,28.5,Kyler Murray (Pass Attempts),Arizona Cardinals,New York Jets
-38,1600360659,Over,282,4546655434,1.892,33.5,Aaron Rodgers (Pass Attempts),Arizona Cardinals,New York Jets
-39,1600360660,Under,283,4546655435,1.925,33.5,Aaron Rodgers (Pass Attempts),Arizona Cardinals,New York Jets
-40,1600432845,Over,280,4546744354,1.917,27.5,Jalen Hurts (Pass Attempts),Dallas Cowboys,Philadelphia Eagles
-41,1600432846,Under,281,4546744355,1.9,27.5,Jalen Hurts (Pass Attempts),Dallas Cowboys,Philadelphia Eagles
-42,1600434672,Over,280,4546744312,1.847,34.5,Cooper Rush (Pass Attempts),Dallas Cowboys,Philadelphia Eagles
-43,1600434673,Under,281,4546744313,1.97,34.5,Cooper Rush (Pass Attempts),Dallas Cowboys,Philadelphia Eagles
-44,1600375475,Over,284,4548072222,2.02,30.5,Jared Goff (Pass Attempts),Houston Texans,Detroit Lions
-45,1600375476,Under,285,4548072223,1.806,30.5,Jared Goff (Pass Attempts),Houston Texans,Detroit Lions
-46,1600434714,Over,284,4548072336,1.806,33.5,C.J. Stroud (Pass Attempts),Houston Texans,Detroit Lions
-47,1600434715,Under,285,4548072337,2.02,33.5,C.J. Stroud (Pass Attempts),Houston Texans,Detroit Lions
-48,1600425254,Over,286,4546612855,1.854,31.5,Tua Tagovailoa (Pass Attempts),Los Angeles Rams,Miami Dolphins
-49,1600425255,Under,287,4546612856,1.961,31.5,Tua Tagovailoa (Pass Attempts),Los Angeles Rams,Miami Dolphins
-50,1600437747,Over,286,4546612713,1.833,34.5,Matthew Stafford (Pass Attempts),Los Angeles Rams,Miami Dolphins
-51,1600437748,Under,287,4546612714,1.99,34.5,Matthew Stafford (Pass Attempts),Los Angeles Rams,Miami Dolphins
+id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
+1614323922,Over,1,5256305601,1.847,36.5,Dak Prescott Total Pass Attempts,Dak Prescott Total Pass Attempts,Philadelphia Eagles,Dallas Cowboys
+1614323923,Under,2,5256305604,1.943,36.5,Dak Prescott Total Pass Attempts,Dak Prescott Total Pass Attempts,Philadelphia Eagles,Dallas Cowboys
+1614324003,Over,1,5256305591,2.06,27.5,Jalen Hurts Total Pass Attempts,Jalen Hurts Total Pass Attempts,Philadelphia Eagles,Dallas Cowboys
+1614324004,Under,2,5256305593,1.751,27.5,Jalen Hurts Total Pass Attempts,Jalen Hurts Total Pass Attempts,Philadelphia Eagles,Dallas Cowboys
+1614324009,Over,453,5255674322,1.699,34.5,Patrick Mahomes Total Pass Attempts,Patrick Mahomes Total Pass Attempts,Los Angeles Chargers,Kansas City Chiefs
+1614324010,Under,454,5255674324,2.08,34.5,Patrick Mahomes Total Pass Attempts,Patrick Mahomes Total Pass Attempts,Los Angeles Chargers,Kansas City Chiefs
+1614323961,Over,453,5255674327,1.704,30.5,Justin Herbert Total Pass Attempts,Justin Herbert Total Pass Attempts,Los Angeles Chargers,Kansas City Chiefs
+1614323962,Under,454,5255674332,2.07,30.5,Justin Herbert Total Pass Attempts,Justin Herbert Total Pass Attempts,Los Angeles Chargers,Kansas City Chiefs
+1614589436,Over,16042,5255779807,1.917,36.5,Joe Burrow Total Pass Attempts,Joe Burrow Total Pass Attempts,Cleveland Browns,Cincinnati Bengals
+1614589437,Under,16043,5255779808,1.826,36.5,Joe Burrow Total Pass Attempts,Joe Burrow Total Pass Attempts,Cleveland Browns,Cincinnati Bengals
+1614589460,Over,16058,5255772204,1.909,34.5,Joe Flacco Total Pass Attempts,Joe Flacco Total Pass Attempts,Cleveland Browns,Cincinnati Bengals
+1614589461,Under,16059,5255772205,1.826,34.5,Joe Flacco Total Pass Attempts,Joe Flacco Total Pass Attempts,Cleveland Browns,Cincinnati Bengals
+1614589499,Over,16084,5256102875,2.02,27.5,Justin Fields Total Pass Attempts,Justin Fields Total Pass Attempts,New York Jets,Pittsburgh Steelers
+1614589500,Under,16085,5256102876,1.74,27.5,Justin Fields Total Pass Attempts,Justin Fields Total Pass Attempts,New York Jets,Pittsburgh Steelers
+1614589397,Over,16016,5253164226,1.97,31.5,Aaron Rodgers Total Pass Attempts,Aaron Rodgers Total Pass Attempts,New York Jets,Pittsburgh Steelers
+1614589398,Under,16017,5253164227,1.775,31.5,Aaron Rodgers Total Pass Attempts,Aaron Rodgers Total Pass Attempts,New York Jets,Pittsburgh Steelers
+1614589526,Over,16102,5253164601,1.826,32.5,Baker Mayfield Total Pass Attempts,Baker Mayfield Total Pass Attempts,Atlanta Falcons,Tampa Bay Buccaneers
+1614589527,Under,16103,5253164602,1.917,32.5,Baker Mayfield Total Pass Attempts,Baker Mayfield Total Pass Attempts,Atlanta Falcons,Tampa Bay Buccaneers
+1614590744,Over,16704,5253164860,1.877,33.5,Michael Penix Total Pass Attempts,Michael Penix Total Pass Attempts,Atlanta Falcons,Tampa Bay Buccaneers
+1614590745,Under,16705,5253164861,1.862,33.5,Michael Penix Total Pass Attempts,Michael Penix Total Pass Attempts,Atlanta Falcons,Tampa Bay Buccaneers
+1614589586,Over,16142,5253164581,1.869,31.5,Bryce Young Total Pass Attempts,Bryce Young Total Pass Attempts,Jacksonville Jaguars,Carolina Panthers
+1614589587,Under,16143,5253164582,1.869,31.5,Bryce Young Total Pass Attempts,Bryce Young Total Pass Attempts,Jacksonville Jaguars,Carolina Panthers
+1614589772,Over,16266,5253164994,1.97,33.5,Trevor Lawrence Total Pass Attempts,Trevor Lawrence Total Pass Attempts,Jacksonville Jaguars,Carolina Panthers
+1614589773,Under,16267,5253164995,1.781,33.5,Trevor Lawrence Total Pass Attempts,Trevor Lawrence Total Pass Attempts,Jacksonville Jaguars,Carolina Panthers
+1614589610,Over,16158,5253176457,1.917,31.5,Bo Nix Total Pass Attempts,Bo Nix Total Pass Attempts,Denver Broncos,Tennessee Titans
+1614589611,Under,16159,5253176458,1.826,31.5,Bo Nix Total Pass Attempts,Bo Nix Total Pass Attempts,Denver Broncos,Tennessee Titans
+1614589661,Over,16192,5253176483,1.961,31.5,Cam Ward Total Pass Attempts,Cam Ward Total Pass Attempts,Denver Broncos,Tennessee Titans
+1614589662,Under,16193,5253176484,1.787,31.5,Cam Ward Total Pass Attempts,Cam Ward Total Pass Attempts,Denver Broncos,Tennessee Titans
+1614589748,Over,16250,5253176419,1.877,32.5,Jared Goff Total Pass Attempts,Jared Goff Total Pass Attempts,Green Bay Packers,Detroit Lions
+1614589749,Under,16251,5253176420,1.862,32.5,Jared Goff Total Pass Attempts,Jared Goff Total Pass Attempts,Green Bay Packers,Detroit Lions
+1614589799,Over,16282,5253176506,1.869,30.5,Jordan Love Total Pass Attempts,Jordan Love Total Pass Attempts,Green Bay Packers,Detroit Lions
+1614589800,Under,16283,5253176507,1.869,30.5,Jordan Love Total Pass Attempts,Jordan Love Total Pass Attempts,Green Bay Packers,Detroit Lions
+1614589742,Over,16246,5256173489,1.735,31.5,C.J. Stroud Total Pass Attempts,C.J. Stroud Total Pass Attempts,Los Angeles Rams,Houston Texans
+1614589743,Under,16247,5256173490,2.02,31.5,C.J. Stroud Total Pass Attempts,C.J. Stroud Total Pass Attempts,Los Angeles Rams,Houston Texans
+1614589937,Over,16370,5254788032,1.735,32.5,Matthew Stafford Total Pass Attempts,Matthew Stafford Total Pass Attempts,Los Angeles Rams,Houston Texans
+1614589938,Under,16371,5254788033,2.03,32.5,Matthew Stafford Total Pass Attempts,Matthew Stafford Total Pass Attempts,Los Angeles Rams,Houston Texans
+1614589850,Over,16314,5255655722,1.8,30.5,Josh Allen Total Pass Attempts,Josh Allen Total Pass Attempts,Buffalo Bills,Baltimore Ravens
+1614589851,Under,16315,5255655723,1.943,30.5,Josh Allen Total Pass Attempts,Josh Allen Total Pass Attempts,Buffalo Bills,Baltimore Ravens
+1614589916,Over,16356,5253187173,1.862,28.5,Lamar Jackson Total Pass Attempts,Lamar Jackson Total Pass Attempts,Buffalo Bills,Baltimore Ravens
+1614589917,Under,16357,5253187174,1.877,28.5,Lamar Jackson Total Pass Attempts,Lamar Jackson Total Pass Attempts,Buffalo Bills,Baltimore Ravens
+1614589970,Over,16392,5253294244,1.826,30.5,Drake Maye Total Pass Attempts,Drake Maye Total Pass Attempts,New England Patriots,Las Vegas Raiders
+1614589971,Under,16393,5253294245,1.917,30.5,Drake Maye Total Pass Attempts,Drake Maye Total Pass Attempts,New England Patriots,Las Vegas Raiders
+1614590016,Under,16423,5253363085,1.751,33.5,Geno Smith Total Pass Attempts,Geno Smith Total Pass Attempts,New England Patriots,Las Vegas Raiders
+1614590015,Over,16422,5253363084,2.0,33.5,Geno Smith Total Pass Attempts,Geno Smith Total Pass Attempts,New England Patriots,Las Vegas Raiders
+1614590112,Under,16485,5255674745,1.833,31.5,Russell Wilson Total Pass Attempts,Russell Wilson Total Pass Attempts,Washington Commanders,New York Giants
+1614590111,Over,16484,5255674744,1.909,31.5,Russell Wilson Total Pass Attempts,Russell Wilson Total Pass Attempts,Washington Commanders,New York Giants
+1614590084,Over,16466,5255712672,1.99,31.5,Jayden Daniels Total Pass Attempts,Jayden Daniels Total Pass Attempts,Washington Commanders,New York Giants
+1614590085,Under,16467,5255712673,1.763,31.5,Jayden Daniels Total Pass Attempts,Jayden Daniels Total Pass Attempts,Washington Commanders,New York Giants
+1614590201,Over,16544,5255653491,1.884,28.5,Daniel Jones Total Pass Attempts,Daniel Jones Total Pass Attempts,Indianapolis Colts,Miami Dolphins
+1614590202,Under,16545,5255653492,1.854,28.5,Daniel Jones Total Pass Attempts,Daniel Jones Total Pass Attempts,Indianapolis Colts,Miami Dolphins
+1614590243,Over,16572,5253668631,1.869,33.5,Tua Tagovailoa Total Pass Attempts,Tua Tagovailoa Total Pass Attempts,Indianapolis Colts,Miami Dolphins
+1614590244,Under,16573,5253668632,1.869,33.5,Tua Tagovailoa Total Pass Attempts,Tua Tagovailoa Total Pass Attempts,Indianapolis Colts,Miami Dolphins
+1614590330,Over,16630,5256234988,1.909,30.5,Spencer Rattler Total Pass Attempts,Spencer Rattler Total Pass Attempts,New Orleans Saints,Arizona Cardinals
+1614590331,Under,16631,5256234989,1.833,30.5,Spencer Rattler Total Pass Attempts,Spencer Rattler Total Pass Attempts,New Orleans Saints,Arizona Cardinals
+1614590294,Over,16606,5253718599,1.9,32.5,Kyler Murray Total Pass Attempts,Kyler Murray Total Pass Attempts,New Orleans Saints,Arizona Cardinals
+1614590295,Under,16607,5253718600,1.84,32.5,Kyler Murray Total Pass Attempts,Kyler Murray Total Pass Attempts,New Orleans Saints,Arizona Cardinals
+1614590333,Over,16632,5253816047,1.869,31.5,Brock Purdy Total Pass Attempts,Brock Purdy Total Pass Attempts,Seattle Seahawks,San Francisco 49ers
+1614590334,Under,16633,5253816048,1.869,31.5,Brock Purdy Total Pass Attempts,Brock Purdy Total Pass Attempts,Seattle Seahawks,San Francisco 49ers
+1614590387,Over,16668,5253812077,1.862,29.5,Sam Darnold Total Pass Attempts,Sam Darnold Total Pass Attempts,Seattle Seahawks,San Francisco 49ers
+1614590388,Under,16669,5253812078,1.877,29.5,Sam Darnold Total Pass Attempts,Sam Darnold Total Pass Attempts,Seattle Seahawks,San Francisco 49ers
+1614590126,Over,16494,5253851988,1.775,31.5,Caleb Williams Total Pass Attempts,Caleb Williams Total Pass Attempts,Chicago Bears,Minnesota Vikings
+1614590127,Under,16495,5253851989,1.97,31.5,Caleb Williams Total Pass Attempts,Caleb Williams Total Pass Attempts,Chicago Bears,Minnesota Vikings
+1614590186,Over,16534,5253855736,1.869,31.5,J.J. McCarthy Total Pass Attempts,J.J. McCarthy Total Pass Attempts,Chicago Bears,Minnesota Vikings
+1614590187,Under,16535,5253855737,1.869,31.5,J.J. McCarthy Total Pass Attempts,J.J. McCarthy Total Pass Attempts,Chicago Bears,Minnesota Vikings

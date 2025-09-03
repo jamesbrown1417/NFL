@@ -5,17 +5,18 @@ library(httr2)
 library(jsonlite)
 library(tidyjson)
 library(nflreadr)
+source("Scripts/constants.R")
 
 # Get Fix Team Names Function
-source("Scripts/fix_team_names.r")
+source("Scripts/fix_team_names.R")
 
 # Get Fix Player Names Function
-source("Scripts/fix_player_names.r")
+source("Scripts/fix_player_names.R")
 
 
 # Get squads
 player_teams <-
-  load_rosters(seasons = 2024) |>
+  load_rosters(seasons = CURRENT_SEASON) |>
   select(player_name = full_name, position, player_team = team)
 
 player_teams_qb <-
@@ -152,7 +153,7 @@ pointsbet_h2h_main <- function() {
     mutate(market = "Head To Head") |>
     select(match,
            start_time,
-           market_name = market,
+           market,
            home_team,
            home_win,
            away_team,
