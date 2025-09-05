@@ -377,14 +377,45 @@ player_passing_tds <-
 #                                                          #
 ##%######################################################%##
 
+# Alt Passing Attempts
+player_alt_passing_attempts <-
+  market_df |>
+  filter(str_detect(market_name, "QB Passing Attempts -")) |>
+  mutate(line = str_extract(entrants, "[0-9]{1,3}")) |>
+  mutate(line = as.numeric(line) - 0.5) |>
+  mutate(player_name = str_remove(market_name, "QB Passing Attempts - ")) |>
+  mutate(player_name = fix_player_names(player_name)) |>
+  left_join(player_teams_qb) |>
+  mutate(agency = "Neds") |>
+  separate(match_name,
+           c("home_team", "away_team"),
+           sep = " vs ",
+           remove = FALSE) |>
+  mutate(home_team = fix_team_names(home_team)) |>
+  mutate(away_team = fix_team_names(away_team)) |>
+  mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+  mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+  transmute(
+    match,
+    home_team,
+    away_team,
+    market = "Passing Attempts",
+    player_name,
+    player_team,
+    opposition_team,
+    line,
+    over_price = price,
+    agency =  "Neds"
+  )
+
 # Over Line Passing Attempts
 player_over_passing_attempts <-
   market_df |>
-  filter(str_detect(market_name, "Passing attempts")) |>
+  filter(str_detect(market_name, "QB Passing Attempts O/U - ")) |>
   filter(str_detect(entrants, "Over")) |>
   mutate(line = str_extract(entrants, "\\d+\\d?\\.\\d+")) |>
-  mutate(line = as.numeric(line)) |>
-  mutate(player_name = str_remove(market_name, " : Passing attempts .*$")) |>
+  mutate(line = as.numeric(handicaps)) |>
+  mutate(player_name = str_remove(market_name, "QB Passing Attempts O/U - ")) |>
   mutate(player_name = fix_player_names(player_name)) |>
   left_join(player_teams_qb) |>
   select(match_name, player_name, player_team, line, over_price = price)
@@ -392,11 +423,11 @@ player_over_passing_attempts <-
 # Under Line Passing Attempts
 player_under_passing_attempts <-
   market_df |>
-  filter(str_detect(market_name, "Passing attempts")) |>
+  filter(str_detect(market_name, "QB Passing Attempts O/U - ")) |>
   filter(str_detect(entrants, "Under")) |>
   mutate(line = str_extract(entrants, "\\d+\\d?\\.\\d+")) |>
-  mutate(line = as.numeric(line)) |>
-  mutate(player_name = str_remove(market_name, " : Passing attempts .*$")) |>
+  mutate(line = as.numeric(handicaps)) |>
+  mutate(player_name = str_remove(market_name, "QB Passing Attempts O/U - ")) |>
   mutate(player_name = fix_player_names(player_name)) |>
   left_join(player_teams_qb) |>
   select(match_name, player_name, player_team, line, under_price = price)
@@ -438,10 +469,10 @@ player_passing_attempts <-
 # Alt Rushing Yards
 player_alt_rushing_yards <-
   market_df |>
-  filter(str_detect(market_name, "RB Rushing Yards -")) |>
-  mutate(line = str_extract(entrants, "[0-9]{1,3}")) |>
+  filter(str_detect(market_name, "^To Have .* Rushing Yards$")) |>
+  mutate(line = str_extract(market_name, "[0-9]{1,3}")) |>
   mutate(line = as.numeric(line) - 0.5) |>
-  mutate(player_name = str_remove(market_name, "RB Rushing Yards - ")) |>
+  mutate(player_name = str_remove(entrants, " \\(.*$")) |>
   mutate(player_name = fix_player_names(player_name)) |>
   left_join(bind_rows(player_teams_qb, player_teams_rb, player_teams_wr),
             by = "player_name") |>
@@ -527,7 +558,7 @@ player_rushing_yards <-
     match,
     home_team,
     away_team,
-    market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -660,7 +691,7 @@ player_receiving_yards <-
     match,
     home_team,
     away_team,
-    market_name,
+    market,
     player_name,
     player_team,
     opposition_team,
@@ -677,15 +708,54 @@ player_receiving_yards <-
 #                                                          #
 ##%######################################################%##
 
+# Alt Receptions
+player_alt_receptions <-
+  market_df |>
+  filter(str_detect(market_name, "^To Have .* Receptions$")) |>
+  mutate(line = str_extract(market_name, "[0-9]{1,2}")) |>
+  mutate(line = as.numeric(line) - 0.5) |>
+  mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+  mutate(player_name = fix_player_names(player_name)) |>
+  left_join(
+    bind_rows(
+      player_teams_qb,
+      player_teams_rb,
+      player_teams_wr,
+      player_teams_te,
+      player_teams_db
+    ),
+    by = "player_name"
+  ) |>
+  mutate(agency = "Neds") |>
+  separate(match_name,
+           c("home_team", "away_team"),
+           sep = " vs ",
+           remove = FALSE) |>
+  mutate(home_team = fix_team_names(home_team)) |>
+  mutate(away_team = fix_team_names(away_team)) |>
+  mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+  mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+  transmute(
+    match,
+    home_team,
+    away_team,
+    market = "Receptions",
+    player_name,
+    player_team,
+    opposition_team,
+    line,
+    over_price = price,
+    agency = "Neds"
+  )
+
 # Over Line Receptions
 player_over_receptions <-
   market_df |>
-  filter(str_detect(market_name, "Receptions made")) |>
+  filter(str_detect(market_name, "Receptions O/U")) |>
   filter(str_detect(entrants, "Over")) |>
-  mutate(line = str_extract(entrants, "\\d+\\d?\\.\\d+")) |>
+  mutate(line = handicaps) |>
   mutate(line = as.numeric(line)) |>
-  mutate(player_name = str_remove(market_name, " : Receptions made .*$")) |>
-  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  mutate(player_name = str_remove(market_name, "Receptions O\\/U \\- ")) |>
   mutate(player_name = fix_player_names(player_name)) |>
   left_join(
     bind_rows(
@@ -702,12 +772,11 @@ player_over_receptions <-
 # Under Line Receptions
 player_under_receptions <-
   market_df |>
-  filter(str_detect(market_name, "Receptions made")) |>
+  filter(str_detect(market_name, "Receptions O/U")) |>
   filter(str_detect(entrants, "Under")) |>
-  mutate(line = str_extract(entrants, "\\d+\\d?\\.\\d+")) |>
+  mutate(line = handicaps) |>
   mutate(line = as.numeric(line)) |>
-  mutate(player_name = str_remove(market_name, " : Receptions made .*$")) |>
-  mutate(player_name = str_remove(player_name, " \\(.*$")) |>
+  mutate(player_name = str_remove(market_name, "Receptions O\\/U \\- ")) |>
   mutate(player_name = fix_player_names(player_name)) |>
   left_join(
     bind_rows(
@@ -721,8 +790,9 @@ player_under_receptions <-
   ) |>
   select(match_name, player_name, player_team, line, under_price = price)
 
+
 # Combine
-player_receptions <-
+player_receptions_over_under <-
   player_over_receptions |>
   left_join(player_under_receptions) |>
   mutate(agency = "Neds") |>
@@ -748,6 +818,25 @@ player_receptions <-
     under_price,
     agency
   )
+
+# Combine Line with alt lines
+player_receptions <-
+  player_alt_receptions |>
+  bind_rows(player_receptions_over_under) |>
+  select(
+    match,
+    home_team,
+    away_team,
+    market,
+    player_name,
+    player_team,
+    opposition_team,
+    line,
+    over_price,
+    under_price,
+    agency
+  ) |> 
+  arrange(match, player_name, line, desc(over_price))
 
 ##%######################################################%##
 #                                                          #
