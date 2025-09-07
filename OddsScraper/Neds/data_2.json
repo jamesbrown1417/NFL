@@ -20,7 +20,7 @@
             "name": "Tennessee Titans 14+",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 20,
             "market_id": "aa6037df-9bea-4780-8b14-1349ab0bc169"
         },
         "5e412807-83c8-44c6-9ec8-9e8c22cfb7c3": {
@@ -35,7 +35,7 @@
             "id": "5e582ce7-9b8b-463b-9e93-4daa712c35a7",
             "name": "Draw",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 30,
             "market_id": "aa6037df-9bea-4780-8b14-1349ab0bc169"
         },
         "94ebf9d6-6754-491b-9923-9a03ccce0b91": {
@@ -58,7 +58,7 @@
             "name": "Los Angeles Rams 14+",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 50,
             "market_id": "aa6037df-9bea-4780-8b14-1349ab0bc169"
         },
         "9ff9f4c1-8908-49f3-9043-d1b8b7d502e1": {
@@ -74,7 +74,7 @@
             "name": "Tennessee Titans 1-13",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 10,
             "market_id": "aa6037df-9bea-4780-8b14-1349ab0bc169"
         },
         "d4a884f3-1f96-401f-8e40-027e4830dc3d": {
@@ -82,7 +82,7 @@
             "name": "Los Angeles Rams 1-13",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 40,
             "market_id": "aa6037df-9bea-4780-8b14-1349ab0bc169"
         }
     },
@@ -215,11 +215,11 @@
             "comments": "Includes any Overtime.",
             "visible": true,
             "entrant_ids": [
-                "d4a884f3-1f96-401f-8e40-027e4830dc3d",
-                "9c9fc837-a802-460b-a616-d1e4d5cbcb4a",
                 "b2a3189f-e105-4382-abdd-8ab0e88766dc",
                 "3e6f56a7-2417-4331-999f-c2fbbd8d1acb",
-                "5e582ce7-9b8b-463b-9e93-4daa712c35a7"
+                "5e582ce7-9b8b-463b-9e93-4daa712c35a7",
+                "d4a884f3-1f96-401f-8e40-027e4830dc3d",
+                "9c9fc837-a802-460b-a616-d1e4d5cbcb4a"
             ],
             "num_winners": 1
         },
@@ -283,20 +283,20 @@
         },
         "38ad2b5d-deac-4475-b41c-9749a3becfc4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 47,
+                "denominator": 50
             }
         },
         "3e6f56a7-2417-4331-999f-c2fbbd8d1acb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 2
+                "numerator": 9,
+                "denominator": 1
             }
         },
         "5e412807-83c8-44c6-9ec8-9e8c22cfb7c3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 50
+                "numerator": 2,
+                "denominator": 5
             }
         },
         "5e582ce7-9b8b-463b-9e93-4daa712c35a7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -307,14 +307,14 @@
         },
         "94ebf9d6-6754-491b-9923-9a03ccce0b91:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 87,
+                "denominator": 100
             }
         },
         "9c0be178-057e-4725-a276-6aa3e8417307:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 39,
-                "denominator": 20
+                "numerator": 2,
+                "denominator": 1
             }
         },
         "9c9fc837-a802-460b-a616-d1e4d5cbcb4a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -331,8 +331,8 @@
         },
         "b2a3189f-e105-4382-abdd-8ab0e88766dc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 10
             }
         },
         "d4a884f3-1f96-401f-8e40-027e4830dc3d:940b8704-e497-4a76-b390-00918ff7d282:": {

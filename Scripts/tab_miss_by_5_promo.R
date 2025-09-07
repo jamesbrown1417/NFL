@@ -18,13 +18,13 @@ betright_receiving_yards <- read_csv("Data/scraped_odds/betright_player_receivin
 tab_rushing_yards <-
   tab_rushing_yards |>
   select(match, player_name, line, over_price) |> 
-  filter(line %in% c(29.5, 39.5, 49.5, 59.5, 69.5, 79.5, 89.5, 99.5, 109.5, 119.5)) |> 
+  filter((line + 0.5) %% 5 == 0) |>
   mutate(line = line - 5)
 
 tab_receiving_yards <-
   tab_receiving_yards |>
   select(match, player_name, line, over_price) |> 
-  filter(line %in% c(29.5, 39.5, 49.5, 59.5, 69.5, 79.5, 89.5, 99.5, 109.5, 119.5)) |> 
+  filter((line + 0.5) %% 5 == 0) |>
   mutate(line = line - 5)
 
 betright_rushing_yards <-

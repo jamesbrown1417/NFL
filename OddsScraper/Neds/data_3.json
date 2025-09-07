@@ -5,14 +5,14 @@
             "name": "Indianapolis Colts 1-13",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 20,
+            "sort_order": 10,
             "market_id": "cd7fe5e7-17ac-468f-b6f2-f8ce925926d4"
         },
         "29985a6e-e127-4869-8af5-b3719401b921": {
             "id": "29985a6e-e127-4869-8af5-b3719401b921",
             "name": "Draw",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 30,
             "market_id": "cd7fe5e7-17ac-468f-b6f2-f8ce925926d4"
         },
         "663503c3-d562-4fd7-acd3-7329a92b8695": {
@@ -20,7 +20,7 @@
             "name": "Denver Broncos 14+",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 50,
             "market_id": "cd7fe5e7-17ac-468f-b6f2-f8ce925926d4"
         },
         "6682a9c7-51f7-4f7d-a25b-657dd26a0e05": {
@@ -58,7 +58,7 @@
             "name": "Indianapolis Colts 14+",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 20,
             "market_id": "cd7fe5e7-17ac-468f-b6f2-f8ce925926d4"
         },
         "dcb062e6-f9f0-4a65-9be5-6389c5e4e8d0": {
@@ -66,7 +66,7 @@
             "name": "Denver Broncos 1-13",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 10,
+            "sort_order": 40,
             "market_id": "cd7fe5e7-17ac-468f-b6f2-f8ce925926d4"
         },
         "ea63d8e6-dcc8-4d11-8b5a-5c1b40929db0": {
@@ -237,11 +237,11 @@
             "comments": "Includes any Overtime.",
             "visible": true,
             "entrant_ids": [
-                "dcb062e6-f9f0-4a65-9be5-6389c5e4e8d0",
                 "09e69d2e-7b2a-4d1b-97ec-bfdb189046e9",
-                "663503c3-d562-4fd7-acd3-7329a92b8695",
                 "c3ae504d-6b0c-49ab-95e9-aaff9f82a6db",
-                "29985a6e-e127-4869-8af5-b3719401b921"
+                "29985a6e-e127-4869-8af5-b3719401b921",
+                "dcb062e6-f9f0-4a65-9be5-6389c5e4e8d0",
+                "663503c3-d562-4fd7-acd3-7329a92b8695"
             ],
             "num_winners": 1
         },
@@ -277,7 +277,7 @@
     "prices": {
         "09e69d2e-7b2a-4d1b-97ec-bfdb189046e9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
+                "numerator": 39,
                 "denominator": 20
             }
         },
@@ -289,7 +289,7 @@
         },
         "663503c3-d562-4fd7-acd3-7329a92b8695:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
+                "numerator": 31,
                 "denominator": 10
             }
         },
@@ -307,20 +307,20 @@
         },
         "728ef5ee-8c6a-4967-90d9-e2e849f2fc74:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 50
+                "numerator": 1,
+                "denominator": 1
             }
         },
         "75f784be-184d-444c-ab73-60c7123afda9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "c3ae504d-6b0c-49ab-95e9-aaff9f82a6db:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 2
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "dcb062e6-f9f0-4a65-9be5-6389c5e4e8d0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -331,13 +331,13 @@
         },
         "ea63d8e6-dcc8-4d11-8b5a-5c1b40929db0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 20
+                "numerator": 31,
+                "denominator": 50
             }
         },
         "fa384a89-1dd4-4798-9b45-64d328479d75:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 87,
+                "numerator": 83,
                 "denominator": 100
             }
         }

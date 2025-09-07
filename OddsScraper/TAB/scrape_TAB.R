@@ -590,6 +590,22 @@ receiving_yards_unders <-
   select(match, start_time, player_name, line, price) |>
   rename(under_price = price)
 
+# Alternate Receiving Yards
+receiving_yards_alternate <-
+  all_tab_markets |>
+  filter(str_detect(market_name,"Receiving Yards$")) |>
+  mutate(line = str_extract(prop_name, "\\d+\\.?\\d+")) |>
+  mutate(line = as.numeric(line)-0.5) |>
+  mutate(player_name = str_remove(prop_name, " \\(.*$")) |>
+  mutate(player_name = str_remove(player_name, " \\d+.*$")) |>
+  select(match, start_time, player_name, line, price) |>
+  rename(over_price = price)
+
+# Combine Overs with Alt Lines
+receiving_yards_overs <-
+  receiving_yards_overs |> 
+  bind_rows(receiving_yards_alternate)
+
 # Combine
 tab_receiving_yards_markets <-
   receiving_yards_overs |>
