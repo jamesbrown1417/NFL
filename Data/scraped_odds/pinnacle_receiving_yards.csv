@@ -1,7 +1,7 @@
 match,player_name,player_team,market,line,over_price,agency,under_price
 Atlanta Falcons v Tampa Bay Buccaneers,Bijan Robinson,Atlanta Falcons,Receiving Yards,22.5,1.9,Pinnacle,1.917
 Atlanta Falcons v Tampa Bay Buccaneers,Bucky Irving,Tampa Bay Buccaneers,Receiving Yards,19.5,1.847,Pinnacle,1.97
-Atlanta Falcons v Tampa Bay Buccaneers,Cade Otton,Tampa Bay Buccaneers,Receiving Yards,33.5,2.02,Pinnacle,1.806
+Atlanta Falcons v Tampa Bay Buccaneers,Cade Otton,Tampa Bay Buccaneers,Receiving Yards,33.5,2.01,Pinnacle,1.819
 Atlanta Falcons v Tampa Bay Buccaneers,Drake London,Atlanta Falcons,Receiving Yards,75.5,1.854,Pinnacle,1.97
 Atlanta Falcons v Tampa Bay Buccaneers,Emeka Egbuka,Tampa Bay Buccaneers,Receiving Yards,57.5,1.909,Pinnacle,1.909
 Atlanta Falcons v Tampa Bay Buccaneers,Kyle Pitts,Atlanta Falcons,Receiving Yards,40.5,2.23,Pinnacle,1.666
@@ -20,7 +20,7 @@ Chicago Bears v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receiving Yar
 Cleveland Browns v Cincinnati Bengals,Andrei Iosivas,Cincinnati Bengals,Receiving Yards,21.5,1.909,Pinnacle,1.909
 Cleveland Browns v Cincinnati Bengals,Cedric Tillman,Cleveland Browns,Receiving Yards,40.5,1.877,Pinnacle,1.943
 Cleveland Browns v Cincinnati Bengals,Chase Brown,Cincinnati Bengals,Receiving Yards,19.5,1.862,Pinnacle,1.961
-Cleveland Browns v Cincinnati Bengals,David Njoku,Cleveland Browns,Receiving Yards,49.5,1.84,Pinnacle,1.98
+Cleveland Browns v Cincinnati Bengals,David Njoku,Cleveland Browns,Receiving Yards,49.5,1.813,Pinnacle,2.01
 Cleveland Browns v Cincinnati Bengals,Ja'Marr Chase,Cincinnati Bengals,Receiving Yards,85.5,1.862,Pinnacle,1.961
 Cleveland Browns v Cincinnati Bengals,Jerry Jeudy,Cleveland Browns,Receiving Yards,63.5,1.943,Pinnacle,1.877
 Cleveland Browns v Cincinnati Bengals,Mike Gesicki,Cincinnati Bengals,Receiving Yards,22.5,2.02,Pinnacle,1.806
@@ -52,7 +52,7 @@ Jacksonville Jaguars v Carolina Panthers,Jalen Coker,Carolina Panthers,Receiving
 Jacksonville Jaguars v Carolina Panthers,Parker Washington,Jacksonville Jaguars,Receiving Yards,13.5,1.99,Pinnacle,1.84
 Jacksonville Jaguars v Carolina Panthers,Tetairoa McMillan,Carolina Panthers,Receiving Yards,65.5,1.98,Pinnacle,1.847
 Jacksonville Jaguars v Carolina Panthers,Travis Etienne,Jacksonville Jaguars,Receiving Yards,14.5,1.8,Pinnacle,2.03
-Jacksonville Jaguars v Carolina Panthers,Travis Hunter,Jacksonville Jaguars,Receiving Yards,48.5,1.909,Pinnacle,1.909
+Jacksonville Jaguars v Carolina Panthers,Travis Hunter,Jacksonville Jaguars,Receiving Yards,48.5,1.9,Pinnacle,1.917
 Jacksonville Jaguars v Carolina Panthers,Xavier Legette,Carolina Panthers,Receiving Yards,36.5,1.909,Pinnacle,1.909
 Los Angeles Rams v Houston Texans,Dalton Schultz,Houston Texans,Receiving Yards,28.5,1.909,Pinnacle,1.909
 Los Angeles Rams v Houston Texans,Davante Adams,Los Angeles Rams,Receiving Yards,56.5,1.909,Pinnacle,1.909
@@ -62,7 +62,7 @@ Los Angeles Rams v Houston Texans,Puka Nacua,Los Angeles Rams,Receiving Yards,73
 Los Angeles Rams v Houston Texans,Tutu Atwell,Los Angeles Rams,Receiving Yards,22.5,1.909,Pinnacle,1.909
 Los Angeles Rams v Houston Texans,Tyler Higbee,Los Angeles Rams,Receiving Yards,22.5,1.909,Pinnacle,1.909
 New England Patriots v Las Vegas Raiders,Ashton Jeanty,Las Vegas Raiders,Receiving Yards,17.5,1.909,Pinnacle,1.909
-New England Patriots v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Receiving Yards,65.5,1.909,Pinnacle,1.909
+New England Patriots v Las Vegas Raiders,Brock Bowers,Las Vegas Raiders,Receiving Yards,65.5,1.9,Pinnacle,1.917
 New England Patriots v Las Vegas Raiders,DeMario Douglas,New England Patriots,Receiving Yards,31.5,1.826,Pinnacle,2
 New England Patriots v Las Vegas Raiders,Hunter Henry,New England Patriots,Receiving Yards,32.5,1.9,Pinnacle,1.917
 New England Patriots v Las Vegas Raiders,Jakobi Meyers,Las Vegas Raiders,Receiving Yards,53.5,1.826,Pinnacle,2
@@ -74,11 +74,11 @@ New Orleans Saints v Arizona Cardinals,James Conner,Arizona Cardinals,Receiving 
 New Orleans Saints v Arizona Cardinals,Juwan Johnson,New Orleans Saints,Receiving Yards,25.5,1.826,Pinnacle,2
 New Orleans Saints v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receiving Yards,59.5,2.02,Pinnacle,1.813
 New Orleans Saints v Arizona Cardinals,Michael Wilson,Arizona Cardinals,Receiving Yards,24.5,1.909,Pinnacle,1.909
-New Orleans Saints v Arizona Cardinals,Rashid Shaheed,New Orleans Saints,Receiving Yards,39.5,1.909,Pinnacle,1.909
+New Orleans Saints v Arizona Cardinals,Rashid Shaheed,New Orleans Saints,Receiving Yards,39.5,1.751,Pinnacle,2.1
 New Orleans Saints v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receiving Yards,62.5,1.9,Pinnacle,1.917
 New York Jets v Pittsburgh Steelers,Breece Hall,New York Jets,Receiving Yards,18.5,1.84,Pinnacle,1.98
 New York Jets v Pittsburgh Steelers,DK Metcalf,Pittsburgh Steelers,Receiving Yards,55.5,1.847,Pinnacle,1.98
-New York Jets v Pittsburgh Steelers,Garrett Wilson,New York Jets,Receiving Yards,55.5,1.909,Pinnacle,1.909
+New York Jets v Pittsburgh Steelers,Garrett Wilson,New York Jets,Receiving Yards,55.5,2.09,Pinnacle,1.757
 New York Jets v Pittsburgh Steelers,Jaylen Warren,Pittsburgh Steelers,Receiving Yards,19.5,2.03,Pinnacle,1.806
 New York Jets v Pittsburgh Steelers,Jonnu Smith,Pittsburgh Steelers,Receiving Yards,26.5,1.787,Pinnacle,2.05
 New York Jets v Pittsburgh Steelers,Mason Taylor,New York Jets,Receiving Yards,20.5,1.826,Pinnacle,2
@@ -88,11 +88,11 @@ Seattle Seahawks v San Francisco 49ers,Cooper Kupp,Seattle Seahawks,Receiving Ya
 Seattle Seahawks v San Francisco 49ers,George Kittle,San Francisco 49ers,Receiving Yards,64.5,1.909,Pinnacle,1.909
 Seattle Seahawks v San Francisco 49ers,Jaxon Smith-Njigba,Seattle Seahawks,Receiving Yards,60.5,1.909,Pinnacle,1.909
 Washington Commanders v New York Giants,Austin Ekeler,Washington Commanders,Receiving Yards,21.5,1.806,Pinnacle,2.03
-Washington Commanders v New York Giants,Darius Slayton,New York Giants,Receiving Yards,25.5,1.689,Pinnacle,2.2
+Washington Commanders v New York Giants,Darius Slayton,New York Giants,Receiving Yards,25.5,1.699,Pinnacle,2.18
 Washington Commanders v New York Giants,Deebo Samuel Sr.,Washington Commanders,Receiving Yards,46.5,1.917,Pinnacle,1.9
 Washington Commanders v New York Giants,Malik Nabers,New York Giants,Receiving Yards,75.5,1.934,Pinnacle,1.884
 Washington Commanders v New York Giants,Terry McLaurin,Washington Commanders,Receiving Yards,59.5,2.18,Pinnacle,1.699
 Washington Commanders v New York Giants,Theo Johnson,New York Giants,Receiving Yards,23.5,1.684,Pinnacle,2.2
 Washington Commanders v New York Giants,Tyrone Tracy,NA,Receiving Yards,10.5,1.775,Pinnacle,2.07
-Washington Commanders v New York Giants,Wan'Dale Robinson,New York Giants,Receiving Yards,37.5,2.22,Pinnacle,1.675
+Washington Commanders v New York Giants,Wan'Dale Robinson,New York Giants,Receiving Yards,37.5,2.21,Pinnacle,1.675
 Washington Commanders v New York Giants,Zach Ertz,Washington Commanders,Receiving Yards,32.5,1.909,Pinnacle,1.909
