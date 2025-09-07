@@ -450,11 +450,11 @@ rushing_yards_overs <-
   all_tab_markets |>
   filter(market_name == "Rushing Yards O/U" |
            market_name == "Alternate Rushing Yards") |>
-  filter(str_detect(prop_name, "Ovr|\\+")) |>
+  filter(str_detect(prop_name, "Ov|\\+")) |>
   mutate(line = str_extract(prop_name, "\\d+\\.?\\d+")) |>
   # If line doesn't end in .5, minus 0.5
   mutate(line = if_else(str_detect(line, "\\."), as.numeric(line), as.numeric(line) - 0.5)) |>
-  mutate(player_name = str_remove(prop_name, " Ovr.*$")) |>
+  mutate(player_name = str_remove(prop_name, " Ov.*$")) |>
   mutate(player_name = str_remove(player_name, " \\d+.*$")) |>
   select(match, start_time, player_name, line, price) |>
   rename(over_price = price)
@@ -471,6 +471,22 @@ rushing_yards_unders <-
   mutate(player_name = str_remove(player_name, " \\d+.*$")) |>
   select(match, start_time, player_name, line, price) |>
   rename(under_price = price)
+
+# Alternate Rushing Yards
+rushing_yards_alternate <-
+  all_tab_markets |>
+  filter(str_detect(market_name,"Rushing Yards$")) |>
+  mutate(line = str_extract(market_name, "\\d+\\.?\\d+")) |>
+  mutate(line = as.numeric(line)-0.5) |>
+  mutate(player_name = str_remove(prop_name, " \\(.*$")) |>
+  mutate(player_name = str_remove(player_name, " \\d+.*$")) |>
+  select(match, start_time, player_name, line, price) |>
+  rename(over_price = price)
+
+# Combine Overs with Alt Lines
+rushing_yards_overs <-
+  rushing_yards_overs |> 
+  bind_rows(rushing_yards_alternate)
 
 # Combine
 tab_rushing_yards_markets <-

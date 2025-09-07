@@ -47,7 +47,7 @@ processed_odds_data <-
 passing_yards_overs <-
   processed_odds_data$passing_yards |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all passing yards under data
@@ -55,7 +55,7 @@ passing_yards_unders <-
   processed_odds_data$passing_yards |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -96,7 +96,7 @@ if (nrow(passing_yards) > 0) {
 passing_tds_overs <-
   processed_odds_data$passing_td_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all passing TDs under data
@@ -104,7 +104,7 @@ passing_tds_unders <-
   processed_odds_data$passing_td_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -145,7 +145,7 @@ if (nrow(passing_tds) > 0) {
 passing_attempts_overs <-
   processed_odds_data$passing_attempts_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all passing attempts under data
@@ -153,7 +153,7 @@ passing_attempts_unders <-
   processed_odds_data$passing_attempts_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -193,7 +193,7 @@ if (nrow(passing_attempts) > 0) {
 interceptions_overs <-
   processed_odds_data$interceptions_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all interceptions under data
@@ -201,7 +201,7 @@ interceptions_unders <-
   processed_odds_data$interceptions_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -241,7 +241,7 @@ if (nrow(interceptions) > 0) {
 rushing_yards_overs <-
   processed_odds_data$rushing_yards_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all rushing yards under data
@@ -249,7 +249,7 @@ rushing_yards_unders <-
   processed_odds_data$rushing_yards_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -289,7 +289,7 @@ if (nrow(rushing_yards) > 0) {
 rushing_attempts_overs <-
   processed_odds_data$rushing_attempts |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all rushing attempts under data
@@ -297,7 +297,7 @@ rushing_attempts_unders <-
   processed_odds_data$rushing_attempts |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -337,7 +337,7 @@ if (nrow(rushing_attempts) > 0) {
 receiving_yards_overs <-
   processed_odds_data$receiving_yards_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all receiving yards under data
@@ -345,7 +345,7 @@ receiving_yards_unders <-
   processed_odds_data$receiving_yards_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -385,7 +385,7 @@ if (nrow(receiving_yards) > 0) {
 receptions_overs <-
   processed_odds_data$receptions_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all receptions under data
@@ -393,7 +393,7 @@ receptions_unders <-
   processed_odds_data$receptions_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -435,7 +435,7 @@ if (nrow(receptions) > 0) {
 touchdowns_overs <-
   processed_odds_data$player_touchdowns_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all touchdowns under data
@@ -443,7 +443,7 @@ touchdowns_unders <-
   processed_odds_data$player_touchdowns_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -483,7 +483,7 @@ if (nrow(touchdowns) > 0) {
 passing_yards_overs <-
   processed_odds_data$passing_yards |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all passing yards under data
@@ -491,7 +491,7 @@ passing_yards_unders <-
   processed_odds_data$passing_yards |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -530,7 +530,7 @@ if (nrow(passing_yards) > 0) {
 passing_tds_overs <-
   processed_odds_data$passing_td_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all passing TDs under data
@@ -538,7 +538,7 @@ passing_tds_unders <-
   processed_odds_data$passing_td_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -577,7 +577,7 @@ if (nrow(passing_tds) > 0) {
 passing_attempts_overs <-
   processed_odds_data$passing_attempts_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all passing attempts under data
@@ -585,7 +585,7 @@ passing_attempts_unders <-
   processed_odds_data$passing_attempts_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -624,7 +624,7 @@ if (nrow(passing_attempts) > 0) {
 interceptions_overs <-
   processed_odds_data$interceptions_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all interceptions under data
@@ -632,7 +632,7 @@ interceptions_unders <-
   processed_odds_data$interceptions_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -671,7 +671,7 @@ if (nrow(interceptions) > 0) {
 rushing_yards_overs <-
   processed_odds_data$rushing_yards_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all rushing yards under data
@@ -679,7 +679,7 @@ rushing_yards_unders <-
   processed_odds_data$rushing_yards_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -718,7 +718,7 @@ if (nrow(rushing_yards) > 0) {
 rushing_attempts_overs <-
   processed_odds_data$rushing_attempts |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all rushing attempts under data
@@ -726,7 +726,7 @@ rushing_attempts_unders <-
   processed_odds_data$rushing_attempts |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -765,7 +765,7 @@ if (nrow(rushing_attempts) > 0) {
 receiving_yards_overs <-
   processed_odds_data$receiving_yards_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all receiving yards under data
@@ -773,7 +773,7 @@ receiving_yards_unders <-
   processed_odds_data$receiving_yards_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine
@@ -812,7 +812,7 @@ if (nrow(receiving_yards) > 0) {
 receptions_overs <-
   processed_odds_data$receptions_data |>
   mutate(opposition_team = NA) |> 
-  select(-under_price, -player_team, -opposition_team) |>
+  select(-under_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(over_agency = agency, over_line = line)
 
 # Get all receptions under data
@@ -820,7 +820,7 @@ receptions_unders <-
   processed_odds_data$receptions_data |>
   filter(!is.na(under_price)) |> 
   mutate(opposition_team = NA) |>
-  select(-over_price, -player_team, -opposition_team) |>
+  select(-over_price, -player_team, -opposition_team, -start_time, -margin) |>
   rename(under_agency = agency, under_line = line)
 
 # Combine

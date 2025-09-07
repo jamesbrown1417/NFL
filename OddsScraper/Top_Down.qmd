@@ -25,6 +25,7 @@ editor: visual
 # Load Libraries
 library(tidyverse)
 library(DT)
+library(kableExtra)
 
 # Function to devig odds given over and under prices (decimal odds)
 devig_odds <- function(over_odds, under_odds) {
@@ -59,7 +60,8 @@ processed_odds_data <-
 # Bind Rows
 processed_odds_data <-
   processed_odds_data |> 
-  bind_rows()
+  bind_rows() |> 
+  select(-start_time, -margin)
 
 # Get Pinnacle Markets
 pinnacle_markets <-
@@ -98,13 +100,19 @@ over_markets <-
   select(-under_price) |> 
   mutate(over_implied_prob = 1/over_price) |> 
   inner_join(pinnacle_over_implied_prob) |> 
-  mutate(diff = pinnacle_over_implied_prob - over_implied_prob) |>
-  mutate(diff = round(diff, 4)) |>
-  arrange(desc(diff))
+  mutate(edge = (pinnacle_over_implied_prob - over_implied_prob) * 100) |>
+  mutate(edge = round(edge, 2)) |>
+  relocate(edge, .after = agency) |>
+  arrange(desc(edge))
 
-over_markets |> 
-  select(-margin) |>
-  filter(diff >= 0.02)
+{
+  out <- over_markets |>
+    filter(edge >= 2) |>
+    mutate(across(matches("implied_prob$"), ~ round(.x, 3)))
+  knitr::kable(out, escape = FALSE) |>
+    kable_styling() |>
+    column_spec(which(names(out) == "edge"), bold = TRUE)
+}
 ```
 
 ## Unders
@@ -123,13 +131,19 @@ under_markets <-
   select(-over_price) |> 
   mutate(under_implied_prob = 1/under_price) |> 
   inner_join(pinnacle_under_implied_prob) |> 
-  mutate(diff = pinnacle_under_implied_prob - under_implied_prob) |>
-  mutate(diff = round(diff, 4)) |>
-  arrange(desc(diff))
+  mutate(edge = (pinnacle_under_implied_prob - under_implied_prob) * 100) |>
+  mutate(edge = round(edge, 2)) |>
+  relocate(edge, .after = agency) |>
+  arrange(desc(edge))
 
-under_markets |>
-  select(-margin) |>
-  filter(diff >= 0.02)
+{
+  out <- under_markets |>
+    filter(edge >= 2) |>
+    mutate(across(matches("implied_prob$"), ~ round(.x, 3)))
+  knitr::kable(out, escape = FALSE) |>
+    kable_styling() |>
+    column_spec(which(names(out) == "edge"), bold = TRUE)
+}
 ```
 
 # Sportsbet
@@ -171,13 +185,19 @@ over_markets <-
   select(-under_price) |> 
   mutate(over_implied_prob = 1/over_price) |> 
   inner_join(sportsbet_over_implied_prob) |> 
-  mutate(diff = sportsbet_over_implied_prob - over_implied_prob) |>
-  mutate(diff = round(diff, 4)) |>
-  arrange(desc(diff))
+  mutate(edge = (sportsbet_over_implied_prob - over_implied_prob) * 100) |>
+  mutate(edge = round(edge, 2)) |>
+  relocate(edge, .after = agency) |>
+  arrange(desc(edge))
 
-over_markets |>
-  select(-margin) |>
-  filter(diff >= 0.02)
+{
+  out <- over_markets |>
+    filter(edge >= 2) |>
+    mutate(across(matches("implied_prob$"), ~ round(.x, 3)))
+  knitr::kable(out, escape = FALSE) |>
+    kable_styling() |>
+    column_spec(which(names(out) == "edge"), bold = TRUE)
+}
 ```
 
 ## Unders
@@ -196,11 +216,17 @@ under_markets <-
   select(-over_price) |> 
   mutate(under_implied_prob = 1/under_price) |> 
   inner_join(sportsbet_under_implied_prob) |> 
-  mutate(diff = sportsbet_under_implied_prob - under_implied_prob) |>
-  mutate(diff = round(diff, 4)) |>
-  arrange(desc(diff))
+  mutate(edge = (sportsbet_under_implied_prob - under_implied_prob) * 100) |>
+  mutate(edge = round(edge, 2)) |>
+  relocate(edge, .after = agency) |>
+  arrange(desc(edge))
 
-under_markets |>
-  select(-margin) |>
-  filter(diff >= 0.02)
+{
+  out <- under_markets |>
+    filter(edge >= 2) |>
+    mutate(across(matches("implied_prob$"), ~ round(.x, 3)))
+  knitr::kable(out, escape = FALSE) |>
+    kable_styling() |>
+    column_spec(which(names(out) == "edge"), bold = TRUE)
+}
 ```

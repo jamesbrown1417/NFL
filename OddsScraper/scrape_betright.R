@@ -222,7 +222,7 @@ match_names <-
 
 # All Data
 
-# Points O/U
+# Rushing Yards O/U
 betright_player_rushing_yards_over_under_all <- tryCatch({
   
   map(player_rushing_over_under_links, safe_get_prop_data) |>
@@ -301,7 +301,7 @@ betright_rushing_yards <-
 #  bind_rows(betright_alternate_points) |>
   left_join(betright_player_rushing_yards_unders) |>
   mutate(agency = "BetRight") |>
-  mutate(market_type = "Player Points") |>
+  mutate(market_type = "Rushing Yards") |>
   separate(match,
            into = c("away_team", "home_team"),
            sep = " @ ") |>
@@ -316,7 +316,7 @@ betright_rushing_yards <-
     match = paste0(home_team, " v ", away_team),
     home_team,
     away_team,
-    market = "Player Rushing Yards",
+    market = "Rushing Yards",
     player_name,
     player_team,
     line,
@@ -437,7 +437,7 @@ betright_receiving_yards <-
     match = paste0(home_team, " v ", away_team),
     home_team,
     away_team,
-    market = "Player Receiving Yards",
+    market = "Receiving Yards",
     player_name,
     player_team,
     line,
