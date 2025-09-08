@@ -32,13 +32,6 @@
             "sort_order": 20,
             "market_id": "bcc6e412-e19f-4cdb-a751-d9520ef40ad0"
         },
-        "3b858289-46db-4b4a-b908-3965159c0da9": {
-            "id": "3b858289-46db-4b4a-b908-3965159c0da9",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "9ce7239f-1a60-4510-858f-281a523d0c63"
-        },
         "3e4ab08a-76ed-4f23-b046-f6de852e9438": {
             "id": "3e4ab08a-76ed-4f23-b046-f6de852e9438",
             "name": "Cleveland Browns 1-13",
@@ -46,6 +39,20 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "798e572f-0dd0-41fc-898c-e89843e2437b"
+        },
+        "53603049-08bc-4055-b914-d68d1d0599aa": {
+            "id": "53603049-08bc-4055-b914-d68d1d0599aa",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "77c5687b-1dc5-41bc-96f1-35e3bf5569af"
+        },
+        "6d93abfa-a98b-41cf-aae6-bb58a82776ec": {
+            "id": "6d93abfa-a98b-41cf-aae6-bb58a82776ec",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "77c5687b-1dc5-41bc-96f1-35e3bf5569af"
         },
         "74b32cf5-6900-4b36-a4a0-b59f63a38271": {
             "id": "74b32cf5-6900-4b36-a4a0-b59f63a38271",
@@ -77,13 +84,6 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "f50bc6de-e05e-4cd1-98ac-4f7891bb4a0f"
-        },
-        "bb374368-f3a0-4883-a816-6aef09ba148a": {
-            "id": "bb374368-f3a0-4883-a816-6aef09ba148a",
-            "name": "Over",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "9ce7239f-1a60-4510-858f-281a523d0c63"
         }
     },
     "event_participants": {
@@ -132,7 +132,7 @@
                     "market_ids": [
                         "f50bc6de-e05e-4cd1-98ac-4f7891bb4a0f",
                         "bcc6e412-e19f-4cdb-a751-d9520ef40ad0",
-                        "9ce7239f-1a60-4510-858f-281a523d0c63",
+                        "77c5687b-1dc5-41bc-96f1-35e3bf5569af",
                         "798e572f-0dd0-41fc-898c-e89843e2437b"
                     ]
                 },
@@ -150,7 +150,7 @@
             "market_ids": [
                 "f50bc6de-e05e-4cd1-98ac-4f7891bb4a0f",
                 "bcc6e412-e19f-4cdb-a751-d9520ef40ad0",
-                "9ce7239f-1a60-4510-858f-281a523d0c63",
+                "77c5687b-1dc5-41bc-96f1-35e3bf5569af",
                 "798e572f-0dd0-41fc-898c-e89843e2437b"
             ],
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
@@ -177,6 +177,28 @@
         }
     },
     "markets": {
+        "77c5687b-1dc5-41bc-96f1-35e3bf5569af": {
+            "id": "77c5687b-1dc5-41bc-96f1-35e3bf5569af",
+            "event_id": "c47972bd-dcad-43d0-8b0d-604eb6bef15e",
+            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Total",
+            "advertised_start": {
+                "seconds": 1757869200
+            },
+            "actual_start": {
+                "seconds": 1757869200
+            },
+            "handicap": 45.5,
+            "same_game_multi_available": true,
+            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "6d93abfa-a98b-41cf-aae6-bb58a82776ec",
+                "53603049-08bc-4055-b914-d68d1d0599aa"
+            ],
+            "num_winners": 1
+        },
         "798e572f-0dd0-41fc-898c-e89843e2437b": {
             "id": "798e572f-0dd0-41fc-898c-e89843e2437b",
             "event_id": "c47972bd-dcad-43d0-8b0d-604eb6bef15e",
@@ -198,28 +220,6 @@
                 "74b32cf5-6900-4b36-a4a0-b59f63a38271",
                 "3e4ab08a-76ed-4f23-b046-f6de852e9438",
                 "7953bde5-b5ae-4ad3-afbc-550bdcaca087"
-            ],
-            "num_winners": 1
-        },
-        "9ce7239f-1a60-4510-858f-281a523d0c63": {
-            "id": "9ce7239f-1a60-4510-858f-281a523d0c63",
-            "event_id": "c47972bd-dcad-43d0-8b0d-604eb6bef15e",
-            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Total",
-            "advertised_start": {
-                "seconds": 1757869200
-            },
-            "actual_start": {
-                "seconds": 1757869200
-            },
-            "handicap": 44.5,
-            "same_game_multi_available": true,
-            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
-            "visible": true,
-            "entrant_ids": [
-                "bb374368-f3a0-4883-a816-6aef09ba148a",
-                "3b858289-46db-4b4a-b908-3965159c0da9"
             ],
             "num_winners": 1
         },
@@ -269,8 +269,8 @@
         }
     },
     "markets_allow_cashout": {
+        "77c5687b-1dc5-41bc-96f1-35e3bf5569af": false,
         "798e572f-0dd0-41fc-898c-e89843e2437b": true,
-        "9ce7239f-1a60-4510-858f-281a523d0c63": false,
         "bcc6e412-e19f-4cdb-a751-d9520ef40ad0": false,
         "f50bc6de-e05e-4cd1-98ac-4f7891bb4a0f": true
     },
@@ -283,14 +283,14 @@
         },
         "1e472e53-eb52-48fb-a3c4-018d8127c5b6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 26,
-                "denominator": 5
+                "numerator": 23,
+                "denominator": 4
             }
         },
         "27fb313e-da50-4025-adc0-f354a2033819:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 20
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "310dae16-504a-4d31-9408-03b1ec8e5703:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -299,16 +299,22 @@
                 "denominator": 25
             }
         },
-        "3b858289-46db-4b4a-b908-3965159c0da9:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 47,
-                "denominator": 50
-            }
-        },
         "3e4ab08a-76ed-4f23-b046-f6de852e9438:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 2
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
+        "53603049-08bc-4055-b914-d68d1d0599aa:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "6d93abfa-a98b-41cf-aae6-bb58a82776ec:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
             }
         },
         "74b32cf5-6900-4b36-a4a0-b59f63a38271:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -331,13 +337,7 @@
         },
         "adc68c28-fbd3-46b9-9680-f262da42c12b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 100
-            }
-        },
-        "bb374368-f3a0-4883-a816-6aef09ba148a:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 87,
+                "numerator": 11,
                 "denominator": 100
             }
         }

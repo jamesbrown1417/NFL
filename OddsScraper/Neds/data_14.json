@@ -1,12 +1,5 @@
 {
     "entrants": {
-        "05826735-3d9e-467f-9d16-7ce9b2451950": {
-            "id": "05826735-3d9e-467f-9d16-7ce9b2451950",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "c3da4cf2-4440-47f6-80c5-37a13a889e06"
-        },
         "0c026e02-68e6-4761-81ed-127d2186301f": {
             "id": "0c026e02-68e6-4761-81ed-127d2186301f",
             "name": "Jacksonville Jaguars",
@@ -14,6 +7,13 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "06b41157-9357-4902-8b61-fb64d2c23a36"
+        },
+        "1da9e03f-a133-420c-93e2-88ac00e60f49": {
+            "id": "1da9e03f-a133-420c-93e2-88ac00e60f49",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "f13ffe31-e866-43e1-8401-73f43b221eac"
         },
         "21d9d183-8b2e-4cb3-b597-ac1b84071f1d": {
             "id": "21d9d183-8b2e-4cb3-b597-ac1b84071f1d",
@@ -31,13 +31,6 @@
             "sort_order": 10,
             "market_id": "4b92db79-4cfd-427c-9265-cfae551f43a1"
         },
-        "353f5209-7832-437a-9cd0-fc7fddb697a7": {
-            "id": "353f5209-7832-437a-9cd0-fc7fddb697a7",
-            "name": "Over",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "c3da4cf2-4440-47f6-80c5-37a13a889e06"
-        },
         "673bf2ae-e341-44ea-b572-758fc22917fb": {
             "id": "673bf2ae-e341-44ea-b572-758fc22917fb",
             "name": "Cincinnati Bengals 14+",
@@ -53,6 +46,13 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "4b92db79-4cfd-427c-9265-cfae551f43a1"
+        },
+        "94e37f54-b3be-44f7-a308-e83a76fc2ef1": {
+            "id": "94e37f54-b3be-44f7-a308-e83a76fc2ef1",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "f13ffe31-e866-43e1-8401-73f43b221eac"
         },
         "a0d0e016-5cf5-4cba-a4b3-8c687e7d00cc": {
             "id": "a0d0e016-5cf5-4cba-a4b3-8c687e7d00cc",
@@ -132,7 +132,7 @@
                     "market_ids": [
                         "9ef018a0-bc23-49db-8d93-5e20282580c1",
                         "06b41157-9357-4902-8b61-fb64d2c23a36",
-                        "c3da4cf2-4440-47f6-80c5-37a13a889e06",
+                        "f13ffe31-e866-43e1-8401-73f43b221eac",
                         "4b92db79-4cfd-427c-9265-cfae551f43a1"
                     ]
                 },
@@ -150,7 +150,7 @@
             "market_ids": [
                 "9ef018a0-bc23-49db-8d93-5e20282580c1",
                 "06b41157-9357-4902-8b61-fb64d2c23a36",
-                "c3da4cf2-4440-47f6-80c5-37a13a889e06",
+                "f13ffe31-e866-43e1-8401-73f43b221eac",
                 "4b92db79-4cfd-427c-9265-cfae551f43a1"
             ],
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
@@ -245,8 +245,8 @@
             ],
             "num_winners": 1
         },
-        "c3da4cf2-4440-47f6-80c5-37a13a889e06": {
-            "id": "c3da4cf2-4440-47f6-80c5-37a13a889e06",
+        "f13ffe31-e866-43e1-8401-73f43b221eac": {
+            "id": "f13ffe31-e866-43e1-8401-73f43b221eac",
             "event_id": "9f633a02-b3b0-4717-bd40-8f5770e81bf3",
             "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
@@ -257,13 +257,13 @@
             "actual_start": {
                 "seconds": 1757869200
             },
-            "handicap": 49.5,
+            "handicap": 50.5,
             "same_game_multi_available": true,
             "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
             "entrant_ids": [
-                "353f5209-7832-437a-9cd0-fc7fddb697a7",
-                "05826735-3d9e-467f-9d16-7ce9b2451950"
+                "94e37f54-b3be-44f7-a308-e83a76fc2ef1",
+                "1da9e03f-a133-420c-93e2-88ac00e60f49"
             ],
             "num_winners": 1
         }
@@ -272,16 +272,16 @@
         "06b41157-9357-4902-8b61-fb64d2c23a36": false,
         "4b92db79-4cfd-427c-9265-cfae551f43a1": true,
         "9ef018a0-bc23-49db-8d93-5e20282580c1": true,
-        "c3da4cf2-4440-47f6-80c5-37a13a889e06": false
+        "f13ffe31-e866-43e1-8401-73f43b221eac": false
     },
     "prices": {
-        "05826735-3d9e-467f-9d16-7ce9b2451950:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "0c026e02-68e6-4761-81ed-127d2186301f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 50
+                "numerator": 9,
+                "denominator": 10
             }
         },
-        "0c026e02-68e6-4761-81ed-127d2186301f:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "1da9e03f-a133-420c-93e2-88ac00e60f49:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 9,
                 "denominator": 10
@@ -295,26 +295,26 @@
         },
         "21f82c6a-9af4-4092-96a6-e28096788ed5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
-            }
-        },
-        "353f5209-7832-437a-9cd0-fc7fddb697a7:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 87,
-                "denominator": 100
+                "numerator": 31,
+                "denominator": 20
             }
         },
         "673bf2ae-e341-44ea-b572-758fc22917fb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 5
+                "numerator": 27,
+                "denominator": 10
             }
         },
         "69892f36-231d-4033-9899-b918c28e66b3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 9,
                 "denominator": 4
+            }
+        },
+        "94e37f54-b3be-44f7-a308-e83a76fc2ef1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
             }
         },
         "a0d0e016-5cf5-4cba-a4b3-8c687e7d00cc:940b8704-e497-4a76-b390-00918ff7d282:": {
