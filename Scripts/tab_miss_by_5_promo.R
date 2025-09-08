@@ -46,7 +46,7 @@ rushing_yards_arbs <-
 
 receiving_yards_arbs <-
   tab_receiving_yards |>
-  left_join(betright_receiving_yards) |> 
+  inner_join(betright_receiving_yards) |> 
     mutate(margin = 1 / under_price + 1 / over_price) |>
       arrange(margin) |>
       mutate(margin = (1 - margin)) |>

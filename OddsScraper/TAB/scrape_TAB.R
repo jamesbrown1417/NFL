@@ -593,8 +593,8 @@ receiving_yards_unders <-
 # Alternate Receiving Yards
 receiving_yards_alternate <-
   all_tab_markets |>
-  filter(str_detect(market_name,"Receiving Yards$")) |>
-  mutate(line = str_extract(prop_name, "\\d+\\.?\\d+")) |>
+  filter(str_detect(market_name,"^\\d+.*Receiving Yards$")) |>
+  mutate(line = str_extract(market_name, "\\d+\\.?\\d+")) |>
   mutate(line = as.numeric(line)-0.5) |>
   mutate(player_name = str_remove(prop_name, " \\(.*$")) |>
   mutate(player_name = str_remove(player_name, " \\d+.*$")) |>
