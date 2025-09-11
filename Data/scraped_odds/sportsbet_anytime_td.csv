@@ -1,54 +1,163 @@
 match,player_name,player_team,market,line,over_price,agency
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Player Touchdowns,0.5,2.75,Sportsbet
-Chicago Bears v Minnesota Vikings,Adam Thielen,Minnesota Vikings,Player Touchdowns,0.5,5,Sportsbet
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Player Touchdowns,0.5,5.9,Sportsbet
-Chicago Bears v Minnesota Vikings,Chicago Defense,NA,Player Touchdowns,0.5,9.25,Sportsbet
-Chicago Bears v Minnesota Vikings,Cole Kmet,Chicago Bears,Player Touchdowns,0.5,6.5,Sportsbet
-Chicago Bears v Minnesota Vikings,Colston Loveland,Chicago Bears,Player Touchdowns,0.5,5.2,Sportsbet
-Chicago Bears v Minnesota Vikings,D'Andre Swift,Chicago Bears,Player Touchdowns,0.5,2.4,Sportsbet
-Chicago Bears v Minnesota Vikings,D.J. Moore,NA,Player Touchdowns,0.5,2.9,Sportsbet
-Chicago Bears v Minnesota Vikings,Devin Duvernay,Chicago Bears,Player Touchdowns,0.5,23,Sportsbet
-Chicago Bears v Minnesota Vikings,Durham Smythe,Chicago Bears,Player Touchdowns,0.5,19,Sportsbet
-Chicago Bears v Minnesota Vikings,J.J. McCarthy,Minnesota Vikings,Player Touchdowns,0.5,7,Sportsbet
-Chicago Bears v Minnesota Vikings,Jalen Nailor,Minnesota Vikings,Player Touchdowns,0.5,5.2,Sportsbet
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Player Touchdowns,0.5,3.05,Sportsbet
-Chicago Bears v Minnesota Vikings,Josh Oliver,Minnesota Vikings,Player Touchdowns,0.5,9,Sportsbet
-Chicago Bears v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Player Touchdowns,0.5,2.3,Sportsbet
-Chicago Bears v Minnesota Vikings,Kyle Monangai,Chicago Bears,Player Touchdowns,0.5,4.5,Sportsbet
-Chicago Bears v Minnesota Vikings,Luther Burden III,Chicago Bears,Player Touchdowns,0.5,7.5,Sportsbet
-Chicago Bears v Minnesota Vikings,Minnesota Defense,NA,Player Touchdowns,0.5,9.25,Sportsbet
-Chicago Bears v Minnesota Vikings,Myles Price,Minnesota Vikings,Player Touchdowns,0.5,21,Sportsbet
-Chicago Bears v Minnesota Vikings,Olamide Zaccheaus,Chicago Bears,Player Touchdowns,0.5,5.6,Sportsbet
-Chicago Bears v Minnesota Vikings,Rome Odunze,Chicago Bears,Player Touchdowns,0.5,3.15,Sportsbet
-Chicago Bears v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Player Touchdowns,0.5,3.6,Sportsbet
-Chicago Bears v Minnesota Vikings,Tai Felton,Minnesota Vikings,Player Touchdowns,0.5,10.5,Sportsbet
-Chicago Bears v Minnesota Vikings,Ty Chandler,Minnesota Vikings,Player Touchdowns,0.5,23,Sportsbet
-Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Player Touchdowns,0.5,3.1,Sportsbet
+Baltimore Ravens v Cleveland Browns,Baltimore Defense,NA,Player Touchdowns,0.5,6.25,Sportsbet
+Baltimore Ravens v Cleveland Browns,Blake Whiteheart,Cleveland Browns,Player Touchdowns,0.5,21,Sportsbet
+Baltimore Ravens v Cleveland Browns,Cedric Tillman,Cleveland Browns,Player Touchdowns,0.5,4.4,Sportsbet
+Baltimore Ravens v Cleveland Browns,Charlie Kolar,Baltimore Ravens,Player Touchdowns,0.5,7.75,Sportsbet
+Baltimore Ravens v Cleveland Browns,Cleveland Defense,NA,Player Touchdowns,0.5,10,Sportsbet
+Baltimore Ravens v Cleveland Browns,David Njoku,Cleveland Browns,Player Touchdowns,0.5,4.3,Sportsbet
+Baltimore Ravens v Cleveland Browns,DeAndre Hopkins,Baltimore Ravens,Player Touchdowns,0.5,4.8,Sportsbet
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Player Touchdowns,0.5,1.51,Sportsbet
+Baltimore Ravens v Cleveland Browns,Dylan Sampson,Cleveland Browns,Player Touchdowns,0.5,3.2,Sportsbet
+Baltimore Ravens v Cleveland Browns,Harold Fannin Jr.,Cleveland Browns,Player Touchdowns,0.5,5,Sportsbet
+Baltimore Ravens v Cleveland Browns,Isaiah Bond,Cleveland Browns,Player Touchdowns,0.5,19,Sportsbet
+Baltimore Ravens v Cleveland Browns,Jamari Thrash,Cleveland Browns,Player Touchdowns,0.5,8.25,Sportsbet
+Baltimore Ravens v Cleveland Browns,Jerome Ford,Cleveland Browns,Player Touchdowns,0.5,4.4,Sportsbet
+Baltimore Ravens v Cleveland Browns,Jerry Jeudy,Cleveland Browns,Player Touchdowns,0.5,3.6,Sportsbet
+Baltimore Ravens v Cleveland Browns,Joe Flacco,Cleveland Browns,Player Touchdowns,0.5,23,Sportsbet
+Baltimore Ravens v Cleveland Browns,Justice Hill,Baltimore Ravens,Player Touchdowns,0.5,4.4,Sportsbet
+Baltimore Ravens v Cleveland Browns,Lamar Jackson,Baltimore Ravens,Player Touchdowns,0.5,2.8,Sportsbet
+Baltimore Ravens v Cleveland Browns,Mark Andrews,Baltimore Ravens,Player Touchdowns,0.5,2.8,Sportsbet
+Baltimore Ravens v Cleveland Browns,Raheim Sanders,Cleveland Browns,Player Touchdowns,0.5,17,Sportsbet
+Baltimore Ravens v Cleveland Browns,Rasheen Ali,Baltimore Ravens,Player Touchdowns,0.5,15,Sportsbet
+Baltimore Ravens v Cleveland Browns,Rashod Bateman,Baltimore Ravens,Player Touchdowns,0.5,3.35,Sportsbet
+Baltimore Ravens v Cleveland Browns,Tylan Wallace,Baltimore Ravens,Player Touchdowns,0.5,17,Sportsbet
+Baltimore Ravens v Cleveland Browns,Zaire Mitchell-Paden,Baltimore Ravens,Player Touchdowns,0.5,23,Sportsbet
+Baltimore Ravens v Cleveland Browns,Zay Flowers,Baltimore Ravens,Player Touchdowns,0.5,2.35,Sportsbet
+Detroit Lions v Chicago Bears,Amon-Ra St. Brown,Detroit Lions,Player Touchdowns,0.5,2.25,Sportsbet
+Detroit Lions v Chicago Bears,Brock Wright,Detroit Lions,Player Touchdowns,0.5,11,Sportsbet
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Player Touchdowns,0.5,5.5,Sportsbet
+Detroit Lions v Chicago Bears,Chicago Defense,NA,Player Touchdowns,0.5,9.75,Sportsbet
+Detroit Lions v Chicago Bears,Cole Kmet,Chicago Bears,Player Touchdowns,0.5,5.9,Sportsbet
+Detroit Lions v Chicago Bears,Colston Loveland,Chicago Bears,Player Touchdowns,0.5,5.8,Sportsbet
+Detroit Lions v Chicago Bears,Craig Reynolds,Detroit Lions,Player Touchdowns,0.5,29,Sportsbet
+Detroit Lions v Chicago Bears,D'Andre Swift,Chicago Bears,Player Touchdowns,0.5,2.4,Sportsbet
+Detroit Lions v Chicago Bears,D.J. Moore,NA,Player Touchdowns,0.5,2.95,Sportsbet
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Player Touchdowns,0.5,2.08,Sportsbet
+Detroit Lions v Chicago Bears,Detroit Defense,NA,Player Touchdowns,0.5,7.25,Sportsbet
+Detroit Lions v Chicago Bears,Devin Duvernay,Chicago Bears,Player Touchdowns,0.5,21,Sportsbet
+Detroit Lions v Chicago Bears,Dominic Lovett,Detroit Lions,Player Touchdowns,0.5,19,Sportsbet
+Detroit Lions v Chicago Bears,Durham Smythe,Chicago Bears,Player Touchdowns,0.5,26,Sportsbet
+Detroit Lions v Chicago Bears,Isaac TeSlaa,Detroit Lions,Player Touchdowns,0.5,5.6,Sportsbet
+Detroit Lions v Chicago Bears,Jacob Saylors,Detroit Lions,Player Touchdowns,0.5,29,Sportsbet
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Player Touchdowns,0.5,1.65,Sportsbet
+Detroit Lions v Chicago Bears,Jameson Williams,Detroit Lions,Player Touchdowns,0.5,3.35,Sportsbet
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Player Touchdowns,0.5,16,Sportsbet
+Detroit Lions v Chicago Bears,Kalif Raymond,Detroit Lions,Player Touchdowns,0.5,9,Sportsbet
+Detroit Lions v Chicago Bears,Kyle Monangai,Chicago Bears,Player Touchdowns,0.5,5.4,Sportsbet
+Detroit Lions v Chicago Bears,Luther Burden III,Chicago Bears,Player Touchdowns,0.5,11,Sportsbet
+Detroit Lions v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Player Touchdowns,0.5,5.1,Sportsbet
+Detroit Lions v Chicago Bears,Rome Odunze,Chicago Bears,Player Touchdowns,0.5,3.3,Sportsbet
+Detroit Lions v Chicago Bears,Sam LaPorta,Detroit Lions,Player Touchdowns,0.5,3.05,Sportsbet
+Detroit Lions v Chicago Bears,Shane Zylstra,Detroit Lions,Player Touchdowns,0.5,34,Sportsbet
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Player Touchdowns,0.5,3.3,Sportsbet
 Green Bay Packers v Washington Commanders,Ben Sinnott,Washington Commanders,Player Touchdowns,0.5,23,Sportsbet
-Green Bay Packers v Washington Commanders,Chris Brooks,Green Bay Packers,Player Touchdowns,0.5,6,Sportsbet
-Green Bay Packers v Washington Commanders,Chris Moore,Washington Commanders,Player Touchdowns,0.5,13,Sportsbet
+Green Bay Packers v Washington Commanders,Chris Brooks,Green Bay Packers,Player Touchdowns,0.5,7,Sportsbet
+Green Bay Packers v Washington Commanders,Chris Moore,Washington Commanders,Player Touchdowns,0.5,15,Sportsbet
 Green Bay Packers v Washington Commanders,Colson Yankoff,Washington Commanders,Player Touchdowns,0.5,23,Sportsbet
-Green Bay Packers v Washington Commanders,Deebo Samuel,NA,Player Touchdowns,0.5,2.95,Sportsbet
-Green Bay Packers v Washington Commanders,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,0.5,5.8,Sportsbet
-Green Bay Packers v Washington Commanders,Emanuel Wilson,Green Bay Packers,Player Touchdowns,0.5,10,Sportsbet
+Green Bay Packers v Washington Commanders,Deebo Samuel,NA,Player Touchdowns,0.5,2.85,Sportsbet
+Green Bay Packers v Washington Commanders,Dontayvion Wicks,Green Bay Packers,Player Touchdowns,0.5,5.9,Sportsbet
+Green Bay Packers v Washington Commanders,Emanuel Wilson,Green Bay Packers,Player Touchdowns,0.5,9.25,Sportsbet
 Green Bay Packers v Washington Commanders,Green Bay Defense,NA,Player Touchdowns,0.5,7.5,Sportsbet
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Player Touchdowns,0.5,3.75,Sportsbet
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Player Touchdowns,0.5,3.1,Sportsbet
-Green Bay Packers v Washington Commanders,Jayden Reed,Green Bay Packers,Player Touchdowns,0.5,3.35,Sportsbet
-Green Bay Packers v Washington Commanders,Jaylin Lane,Washington Commanders,Player Touchdowns,0.5,10,Sportsbet
-Green Bay Packers v Washington Commanders,Jeremy McNichols,Washington Commanders,Player Touchdowns,0.5,11,Sportsbet
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Player Touchdowns,0.5,3.45,Sportsbet
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Player Touchdowns,0.5,2.9,Sportsbet
+Green Bay Packers v Washington Commanders,Jayden Reed,Green Bay Packers,Player Touchdowns,0.5,3.2,Sportsbet
+Green Bay Packers v Washington Commanders,Jaylin Lane,Washington Commanders,Player Touchdowns,0.5,10.5,Sportsbet
+Green Bay Packers v Washington Commanders,Jeremy McNichols,Washington Commanders,Player Touchdowns,0.5,13,Sportsbet
 Green Bay Packers v Washington Commanders,John Bates,Washington Commanders,Player Touchdowns,0.5,23,Sportsbet
-Green Bay Packers v Washington Commanders,John FitzPatrick,Green Bay Packers,Player Touchdowns,0.5,21,Sportsbet
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Player Touchdowns,0.5,6.25,Sportsbet
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Player Touchdowns,0.5,1.5,Sportsbet
-Green Bay Packers v Washington Commanders,Luke McCaffrey,Washington Commanders,Player Touchdowns,0.5,13,Sportsbet
-Green Bay Packers v Washington Commanders,Luke Musgrave,Green Bay Packers,Player Touchdowns,0.5,10,Sportsbet
+Green Bay Packers v Washington Commanders,John FitzPatrick,Green Bay Packers,Player Touchdowns,0.5,26,Sportsbet
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Player Touchdowns,0.5,6.75,Sportsbet
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Player Touchdowns,0.5,1.57,Sportsbet
+Green Bay Packers v Washington Commanders,Luke McCaffrey,Washington Commanders,Player Touchdowns,0.5,15,Sportsbet
+Green Bay Packers v Washington Commanders,Luke Musgrave,Green Bay Packers,Player Touchdowns,0.5,9.5,Sportsbet
 Green Bay Packers v Washington Commanders,Malik Heath,Green Bay Packers,Player Touchdowns,0.5,12,Sportsbet
-Green Bay Packers v Washington Commanders,Matthew Golden,Green Bay Packers,Player Touchdowns,0.5,3.75,Sportsbet
+Green Bay Packers v Washington Commanders,Matthew Golden,Green Bay Packers,Player Touchdowns,0.5,3.7,Sportsbet
 Green Bay Packers v Washington Commanders,Noah Brown,Washington Commanders,Player Touchdowns,0.5,7,Sportsbet
-Green Bay Packers v Washington Commanders,Romeo Doubs,Green Bay Packers,Player Touchdowns,0.5,3.45,Sportsbet
+Green Bay Packers v Washington Commanders,Romeo Doubs,Green Bay Packers,Player Touchdowns,0.5,3.4,Sportsbet
 Green Bay Packers v Washington Commanders,Savion Williams,Green Bay Packers,Player Touchdowns,0.5,12,Sportsbet
-Green Bay Packers v Washington Commanders,Terry McLaurin,Washington Commanders,Player Touchdowns,0.5,2.65,Sportsbet
-Green Bay Packers v Washington Commanders,Tucker Kraft,Green Bay Packers,Player Touchdowns,0.5,3.4,Sportsbet
+Green Bay Packers v Washington Commanders,Terry McLaurin,Washington Commanders,Player Touchdowns,0.5,2.7,Sportsbet
+Green Bay Packers v Washington Commanders,Tucker Kraft,Green Bay Packers,Player Touchdowns,0.5,3.35,Sportsbet
 Green Bay Packers v Washington Commanders,Washington Defense,NA,Player Touchdowns,0.5,8.75,Sportsbet
-Green Bay Packers v Washington Commanders,Zach Ertz,Washington Commanders,Player Touchdowns,0.5,3.9,Sportsbet
+Green Bay Packers v Washington Commanders,Zach Ertz,Washington Commanders,Player Touchdowns,0.5,3.8,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Player Touchdowns,0.5,2.6,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Adam Thielen,Minnesota Vikings,Player Touchdowns,0.5,4.7,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Atlanta Defense,NA,Player Touchdowns,0.5,8.5,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Ben Yurosek,Minnesota Vikings,Player Touchdowns,0.5,10,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Player Touchdowns,0.5,1.72,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Charlie Woerner,Atlanta Falcons,Player Touchdowns,0.5,12,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Darnell Mooney,Atlanta Falcons,Player Touchdowns,0.5,3.3,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Drake London,Atlanta Falcons,Player Touchdowns,0.5,2.7,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Feleipe Franks,Atlanta Falcons,Player Touchdowns,0.5,31,Sportsbet
+Minnesota Vikings v Atlanta Falcons,J.J. McCarthy,Minnesota Vikings,Player Touchdowns,0.5,5,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Jalen Nailor,Minnesota Vikings,Player Touchdowns,0.5,5.1,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Player Touchdowns,0.5,2.02,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Justin Jefferson,Minnesota Vikings,Player Touchdowns,0.5,2.18,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Khadarel Hodge,NA,Player Touchdowns,0.5,11.5,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Player Touchdowns,0.5,4,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Michael Penix Jr.,Atlanta Falcons,Player Touchdowns,0.5,10,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Minnesota Defense,NA,Player Touchdowns,0.5,8,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Myles Price,Minnesota Vikings,Player Touchdowns,0.5,11.5,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Ray-Ray McCloud III,NA,Player Touchdowns,0.5,3.3,Sportsbet
+Minnesota Vikings v Atlanta Falcons,T.J. Hockenson,Minnesota Vikings,Player Touchdowns,0.5,3.35,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Tai Felton,Minnesota Vikings,Player Touchdowns,0.5,11.5,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Teagan Quitoriano,Atlanta Falcons,Player Touchdowns,0.5,31,Sportsbet
+Minnesota Vikings v Atlanta Falcons,Tyler Allgeier,Atlanta Falcons,Player Touchdowns,0.5,4.2,Sportsbet
+New York Jets v Buffalo Bills,Allen Lazard,New York Jets,Player Touchdowns,0.5,10.5,Sportsbet
+New York Jets v Buffalo Bills,Andrew Beck,New York Jets,Player Touchdowns,0.5,31,Sportsbet
+New York Jets v Buffalo Bills,Arian Smith,New York Jets,Player Touchdowns,0.5,26,Sportsbet
+New York Jets v Buffalo Bills,Braelon Allen,New York Jets,Player Touchdowns,0.5,3.4,Sportsbet
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Player Touchdowns,0.5,2.55,Sportsbet
+New York Jets v Buffalo Bills,Buffalo Defense,NA,Player Touchdowns,0.5,6.75,Sportsbet
+New York Jets v Buffalo Bills,Curtis Samuel,Buffalo Bills,Player Touchdowns,0.5,13,Sportsbet
+New York Jets v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Player Touchdowns,0.5,4,Sportsbet
+New York Jets v Buffalo Bills,Dawson Knox,Buffalo Bills,Player Touchdowns,0.5,7.5,Sportsbet
+New York Jets v Buffalo Bills,Elijah Moore,Buffalo Bills,Player Touchdowns,0.5,14,Sportsbet
+New York Jets v Buffalo Bills,Garrett Wilson,New York Jets,Player Touchdowns,0.5,3.3,Sportsbet
+New York Jets v Buffalo Bills,Isaiah Davis,New York Jets,Player Touchdowns,0.5,16,Sportsbet
+New York Jets v Buffalo Bills,Jackson Hawes,Buffalo Bills,Player Touchdowns,0.5,41,Sportsbet
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Player Touchdowns,0.5,1.81,Sportsbet
+New York Jets v Buffalo Bills,Jeremy Ruckert,New York Jets,Player Touchdowns,0.5,13,Sportsbet
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Player Touchdowns,0.5,1.89,Sportsbet
+New York Jets v Buffalo Bills,Josh Palmer,Buffalo Bills,Player Touchdowns,0.5,5.6,Sportsbet
+New York Jets v Buffalo Bills,Josh Reynolds,New York Jets,Player Touchdowns,0.5,7.25,Sportsbet
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Player Touchdowns,0.5,2.75,Sportsbet
+New York Jets v Buffalo Bills,Kene Nwangwu,New York Jets,Player Touchdowns,0.5,41,Sportsbet
+New York Jets v Buffalo Bills,Keon Coleman,Buffalo Bills,Player Touchdowns,0.5,3.8,Sportsbet
+New York Jets v Buffalo Bills,Khalil Shakir,Buffalo Bills,Player Touchdowns,0.5,3.9,Sportsbet
+New York Jets v Buffalo Bills,Mason Taylor,New York Jets,Player Touchdowns,0.5,6.75,Sportsbet
+New York Jets v Buffalo Bills,New York Jets Defense,NA,Player Touchdowns,0.5,9.25,Sportsbet
+New York Jets v Buffalo Bills,Ray Davis,Buffalo Bills,Player Touchdowns,0.5,8.25,Sportsbet
+New York Jets v Buffalo Bills,Reggie Gilliam,Buffalo Bills,Player Touchdowns,0.5,31,Sportsbet
+New York Jets v Buffalo Bills,Stone Smartt,New York Jets,Player Touchdowns,0.5,26,Sportsbet
+New York Jets v Buffalo Bills,Ty Johnson,Buffalo Bills,Player Touchdowns,0.5,6.75,Sportsbet
+New York Jets v Buffalo Bills,Tyler Johnson,New York Jets,Player Touchdowns,0.5,10.5,Sportsbet
+New York Jets v Buffalo Bills,Tyrell Shavers,Buffalo Bills,Player Touchdowns,0.5,15,Sportsbet
+New York Jets v Buffalo Bills,Xavier Gipson,New York Jets,Player Touchdowns,0.5,29,Sportsbet
+Tennessee Titans v Los Angeles Rams,Blake Corum,Los Angeles Rams,Player Touchdowns,0.5,6.5,Sportsbet
+Tennessee Titans v Los Angeles Rams,Bryce Oliver,Tennessee Titans,Player Touchdowns,0.5,18,Sportsbet
+Tennessee Titans v Los Angeles Rams,Calvin Ridley,Tennessee Titans,Player Touchdowns,0.5,3.8,Sportsbet
+Tennessee Titans v Los Angeles Rams,Cam Ward,Tennessee Titans,Player Touchdowns,0.5,7,Sportsbet
+Tennessee Titans v Los Angeles Rams,Chigoziem Okonkwo,NA,Player Touchdowns,0.5,5.7,Sportsbet
+Tennessee Titans v Los Angeles Rams,Chimere Dike,Tennessee Titans,Player Touchdowns,0.5,18,Sportsbet
+Tennessee Titans v Los Angeles Rams,Colby Parkinson,Los Angeles Rams,Player Touchdowns,0.5,9,Sportsbet
+Tennessee Titans v Los Angeles Rams,Davante Adams,Los Angeles Rams,Player Touchdowns,0.5,2.65,Sportsbet
+Tennessee Titans v Los Angeles Rams,David Martin-Robinson,Tennessee Titans,Player Touchdowns,0.5,13,Sportsbet
+Tennessee Titans v Los Angeles Rams,Davis Allen,Los Angeles Rams,Player Touchdowns,0.5,9,Sportsbet
+Tennessee Titans v Los Angeles Rams,Elic Ayomanor,Tennessee Titans,Player Touchdowns,0.5,5.8,Sportsbet
+Tennessee Titans v Los Angeles Rams,Gunnar Helm,Tennessee Titans,Player Touchdowns,0.5,13,Sportsbet
+Tennessee Titans v Los Angeles Rams,Jarquez Hunter,Los Angeles Rams,Player Touchdowns,0.5,6.5,Sportsbet
+Tennessee Titans v Los Angeles Rams,Jordan Whittington,Los Angeles Rams,Player Touchdowns,0.5,9,Sportsbet
+Tennessee Titans v Los Angeles Rams,Julius Chestnut,Tennessee Titans,Player Touchdowns,0.5,8,Sportsbet
+Tennessee Titans v Los Angeles Rams,Kalel Mullings,Tennessee Titans,Player Touchdowns,0.5,8,Sportsbet
+Tennessee Titans v Los Angeles Rams,Konata Mumpfield,Los Angeles Rams,Player Touchdowns,0.5,14,Sportsbet
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Player Touchdowns,0.5,1.6,Sportsbet
+Tennessee Titans v Los Angeles Rams,Los Angeles Rams Defense,NA,Player Touchdowns,0.5,7,Sportsbet
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Player Touchdowns,0.5,19,Sportsbet
+Tennessee Titans v Los Angeles Rams,Puka Nacua,Los Angeles Rams,Player Touchdowns,0.5,2.3,Sportsbet
+Tennessee Titans v Los Angeles Rams,Tennessee Defense,NA,Player Touchdowns,0.5,9.75,Sportsbet
+Tennessee Titans v Los Angeles Rams,Terrance Ferguson,Los Angeles Rams,Player Touchdowns,0.5,14,Sportsbet
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Player Touchdowns,0.5,1.78,Sportsbet
+Tennessee Titans v Los Angeles Rams,Tutu Atwell,Los Angeles Rams,Player Touchdowns,0.5,6.5,Sportsbet
+Tennessee Titans v Los Angeles Rams,Tyler Higbee,Los Angeles Rams,Player Touchdowns,0.5,5.2,Sportsbet
+Tennessee Titans v Los Angeles Rams,Tyler Lockett,Tennessee Titans,Player Touchdowns,0.5,9.5,Sportsbet
+Tennessee Titans v Los Angeles Rams,Van Jefferson,Tennessee Titans,Player Touchdowns,0.5,14,Sportsbet
+Tennessee Titans v Los Angeles Rams,Xavier Smith,Los Angeles Rams,Player Touchdowns,0.5,21,Sportsbet

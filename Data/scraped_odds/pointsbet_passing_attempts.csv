@@ -1,24 +1,90 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,23.5,1.09,NA,NA,Pointsbet,2284251,94385363,2,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,25.5,1.18,NA,NA,Pointsbet,2284251,94385363,3,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,27.5,1.31,NA,NA,Pointsbet,2284251,94385363,4,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,29.5,1.53,NA,NA,Pointsbet,2284251,94385363,5,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,31.5,1.87,1.87,1.07,Pointsbet,2284251,94385368,1,2
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,31.5,1.83,NA,NA,Pointsbet,2284251,94385363,6,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,33.5,2.4,NA,NA,Pointsbet,2284251,94385363,7,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,35.5,3.1,NA,NA,Pointsbet,2284251,94385363,8,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,37.5,4.2,NA,NA,Pointsbet,2284251,94385363,9,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,39.5,5.75,NA,NA,Pointsbet,2284251,94385363,10,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,41.5,8.5,NA,NA,Pointsbet,2284251,94385363,11,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Passing Attempts,43.5,12,NA,NA,Pointsbet,2284251,94385363,12,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,23.5,1.09,NA,NA,Pointsbet,2284251,94385363,21,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,25.5,1.19,NA,NA,Pointsbet,2284251,94385363,22,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,27.5,1.36,NA,NA,Pointsbet,2284251,94385363,23,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,29.5,1.65,NA,NA,Pointsbet,2284251,94385363,24,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,30.5,1.87,1.87,1.07,Pointsbet,2284251,94385368,9,10
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,31.5,2.1,NA,NA,Pointsbet,2284251,94385363,25,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,33.5,2.6,NA,NA,Pointsbet,2284251,94385363,26,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,35.5,3.7,NA,NA,Pointsbet,2284251,94385363,27,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,37.5,5,NA,NA,Pointsbet,2284251,94385363,28,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,39.5,7,NA,NA,Pointsbet,2284251,94385363,29,NA
-Chicago Bears v Minnesota Vikings,J.J. Mccarthy,NA,Passing Attempts,41.5,11,NA,NA,Pointsbet,2284251,94385363,30,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,27.5,1.13,NA,NA,Pointsbet,2410712,95433048,4,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,29.5,1.22,NA,NA,Pointsbet,2410712,95433048,5,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,31.5,1.36,NA,NA,Pointsbet,2410712,95433048,6,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,33.5,1.59,NA,NA,Pointsbet,2410712,95433048,7,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,35.5,1.9,1.83,1.073,Pointsbet,2410712,95430114,7,8
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,35.5,1.9,NA,NA,Pointsbet,2410712,95433048,8,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,37.5,2.4,NA,NA,Pointsbet,2410712,95433048,9,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,39.5,3,NA,NA,Pointsbet,2410712,95433048,10,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,41.5,4.2,NA,NA,Pointsbet,2410712,95433048,11,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,43.5,5.25,NA,NA,Pointsbet,2410712,95433048,12,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,45.5,7.5,NA,NA,Pointsbet,2410712,95433048,13,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Passing Attempts,47.5,11,NA,NA,Pointsbet,2410712,95433048,14,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,27.5,1.15,NA,NA,Pointsbet,2410712,95433048,23,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,29.5,1.29,NA,NA,Pointsbet,2410712,95433048,24,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,31.5,1.48,NA,NA,Pointsbet,2410712,95433048,25,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,33.5,1.83,1.9,1.073,Pointsbet,2410712,95430114,1,2
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,33.5,1.77,NA,NA,Pointsbet,2410712,95433048,26,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,35.5,2.25,NA,NA,Pointsbet,2410712,95433048,27,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,37.5,2.75,NA,NA,Pointsbet,2410712,95433048,28,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,39.5,3.7,NA,NA,Pointsbet,2410712,95433048,29,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,41.5,5,NA,NA,Pointsbet,2410712,95433048,30,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,43.5,6.5,NA,NA,Pointsbet,2410712,95433048,31,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,45.5,9.5,NA,NA,Pointsbet,2410712,95433048,32,NA
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Passing Attempts,47.5,12,NA,NA,Pointsbet,2410712,95433048,33,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,23.5,1.09,NA,NA,Pointsbet,2407876,95294859,2,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,25.5,1.18,NA,NA,Pointsbet,2407876,95294859,3,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,27.5,1.31,NA,NA,Pointsbet,2407876,95294859,4,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,29.5,1.56,NA,NA,Pointsbet,2407876,95294859,5,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,31.5,1.9,1.83,1.073,Pointsbet,2407876,95348959,1,2
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,31.5,1.9,NA,NA,Pointsbet,2407876,95294859,6,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,33.5,2.4,NA,NA,Pointsbet,2407876,95294859,7,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,35.5,3.25,NA,NA,Pointsbet,2407876,95294859,8,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,37.5,4.4,NA,NA,Pointsbet,2407876,95294859,9,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,39.5,6,NA,NA,Pointsbet,2407876,95294859,10,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Passing Attempts,41.5,9.5,NA,NA,Pointsbet,2407876,95294859,11,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,23.5,1.14,NA,NA,Pointsbet,2407876,95294859,21,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,25.5,1.27,NA,NA,Pointsbet,2407876,95294859,22,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,27.5,1.44,NA,NA,Pointsbet,2407876,95294859,23,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,29.5,1.8,NA,NA,Pointsbet,2407876,95294859,24,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,30.5,2.05,1.74,1.063,Pointsbet,2407876,95348959,7,8
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,31.5,2.3,NA,NA,Pointsbet,2407876,95294859,25,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,33.5,2.9,NA,NA,Pointsbet,2407876,95294859,26,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,35.5,4,NA,NA,Pointsbet,2407876,95294859,27,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,37.5,5.25,NA,NA,Pointsbet,2407876,95294859,28,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,39.5,8,NA,NA,Pointsbet,2407876,95294859,29,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Passing Attempts,41.5,11,NA,NA,Pointsbet,2407876,95294859,30,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,23.5,1.11,NA,NA,Pointsbet,2411151,95437772,2,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,25.5,1.24,NA,NA,Pointsbet,2411151,95437772,3,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,27.5,1.48,NA,NA,Pointsbet,2411151,95437772,4,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,29.5,1.83,1.9,1.073,Pointsbet,2411151,95437776,7,8
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,29.5,1.77,NA,NA,Pointsbet,2411151,95437772,5,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,31.5,2.35,NA,NA,Pointsbet,2411151,95437772,6,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,33.5,3.1,NA,NA,Pointsbet,2411151,95437772,7,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,35.5,4.2,NA,NA,Pointsbet,2411151,95437772,8,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,37.5,6,NA,NA,Pointsbet,2411151,95437772,9,NA
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Passing Attempts,39.5,9.5,NA,NA,Pointsbet,2411151,95437772,10,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,25.5,1.13,NA,NA,Pointsbet,2411151,95437772,22,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,27.5,1.24,NA,NA,Pointsbet,2411151,95437772,23,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,29.5,1.4,NA,NA,Pointsbet,2411151,95437772,24,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,31.5,1.67,NA,NA,Pointsbet,2411151,95437772,25,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,32.5,1.87,1.87,1.07,Pointsbet,2411151,95437776,5,6
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,33.5,2,NA,NA,Pointsbet,2411151,95437772,26,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,35.5,2.55,NA,NA,Pointsbet,2411151,95437772,27,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,37.5,3.3,NA,NA,Pointsbet,2411151,95437772,28,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,39.5,4.4,NA,NA,Pointsbet,2411151,95437772,29,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,41.5,6,NA,NA,Pointsbet,2411151,95437772,30,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,43.5,9,NA,NA,Pointsbet,2411151,95437772,31,NA
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Passing Attempts,45.5,12,NA,NA,Pointsbet,2411151,95437772,32,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,23.5,1.11,NA,NA,Pointsbet,2410710,95435110,2,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,25.5,1.22,NA,NA,Pointsbet,2410710,95435110,3,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,27.5,1.36,NA,NA,Pointsbet,2410710,95435110,4,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,29.5,1.65,NA,NA,Pointsbet,2410710,95435110,5,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,31.5,2.05,1.74,1.063,Pointsbet,2410710,95435116,1,2
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,31.5,2,NA,NA,Pointsbet,2410710,95435110,6,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,33.5,2.55,NA,NA,Pointsbet,2410710,95435110,7,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,35.5,3.3,NA,NA,Pointsbet,2410710,95435110,8,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,37.5,4.5,NA,NA,Pointsbet,2410710,95435110,9,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,39.5,6,NA,NA,Pointsbet,2410710,95435110,10,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Passing Attempts,41.5,9.5,NA,NA,Pointsbet,2410710,95435110,11,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,25.5,1.15,NA,NA,Pointsbet,2410710,95435110,22,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,27.5,1.29,NA,NA,Pointsbet,2410710,95435110,23,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,29.5,1.53,NA,NA,Pointsbet,2410710,95435110,24,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,31.5,1.9,1.83,1.073,Pointsbet,2410710,95435116,3,4
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,31.5,1.9,NA,NA,Pointsbet,2410710,95435110,25,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,33.5,2.5,NA,NA,Pointsbet,2410710,95435110,26,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,35.5,3.25,NA,NA,Pointsbet,2410710,95435110,27,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,37.5,4.4,NA,NA,Pointsbet,2410710,95435110,28,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,39.5,6,NA,NA,Pointsbet,2410710,95435110,29,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Attempts,41.5,9.5,NA,NA,Pointsbet,2410710,95435110,30,NA

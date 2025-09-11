@@ -1,30 +1,110 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,19.5,1.1,NA,NA,Pointsbet,2284251,94385361,1,NA
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,34.5,1.36,NA,NA,Pointsbet,2284251,94385361,2,NA
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,49.5,1.87,NA,NA,Pointsbet,2284251,94385361,3,NA
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,50.5,1.95,1.8,1.068,Pointsbet,2284251,94385371,5,6
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,64.5,2.85,NA,NA,Pointsbet,2284251,94385361,4,NA
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,79.5,4.3,NA,NA,Pointsbet,2284251,94385361,5,NA
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,94.5,6.5,NA,NA,Pointsbet,2284251,94385361,6,NA
-Chicago Bears v Minnesota Vikings,Aaron Jones,Minnesota Vikings,Rushing Yards,109.5,11.5,NA,NA,Pointsbet,2284251,94385361,7,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Rushing Yards,19.5,1.77,NA,NA,Pointsbet,2284251,94385361,34,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Rushing Yards,20.5,1.83,1.9,1.073,Pointsbet,2284251,94385371,11,12
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Rushing Yards,34.5,3.5,NA,NA,Pointsbet,2284251,94385361,35,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Rushing Yards,49.5,7,NA,NA,Pointsbet,2284251,94385361,36,NA
-Chicago Bears v Minnesota Vikings,Caleb Williams,Chicago Bears,Rushing Yards,64.5,16,NA,NA,Pointsbet,2284251,94385361,37,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,19.5,1.1,NA,NA,Pointsbet,2284251,94385361,23,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,34.5,1.33,NA,NA,Pointsbet,2284251,94385361,24,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,49.5,1.77,NA,NA,Pointsbet,2284251,94385361,25,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,50.5,1.8,1.95,1.068,Pointsbet,2284251,94385371,17,18
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,64.5,2.45,NA,NA,Pointsbet,2284251,94385361,26,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,79.5,3.6,NA,NA,Pointsbet,2284251,94385361,27,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,94.5,5.75,NA,NA,Pointsbet,2284251,94385361,28,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,109.5,9,NA,NA,Pointsbet,2284251,94385361,29,NA
-Chicago Bears v Minnesota Vikings,D'andre Swift,NA,Rushing Yards,124.5,14,NA,NA,Pointsbet,2284251,94385361,30,NA
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,19.5,1.17,NA,NA,Pointsbet,2284251,94385361,12,NA
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,34.5,1.63,NA,NA,Pointsbet,2284251,94385361,13,NA
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,40.5,1.87,1.87,1.07,Pointsbet,2284251,94385371,7,8
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,49.5,2.4,NA,NA,Pointsbet,2284251,94385361,14,NA
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,64.5,3.8,NA,NA,Pointsbet,2284251,94385361,15,NA
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,79.5,6,NA,NA,Pointsbet,2284251,94385361,16,NA
-Chicago Bears v Minnesota Vikings,Jordan Mason,Minnesota Vikings,Rushing Yards,94.5,11,NA,NA,Pointsbet,2284251,94385361,17,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,19.5,1.53,NA,NA,Pointsbet,2410712,95433046,34,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,25.5,1.87,1.87,1.07,Pointsbet,2410712,95433052,3,4
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,34.5,2.65,NA,NA,Pointsbet,2410712,95433046,35,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,49.5,5.25,NA,NA,Pointsbet,2410712,95433046,36,NA
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,64.5,11.5,NA,NA,Pointsbet,2410712,95433046,37,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,34.5,1.24,NA,NA,Pointsbet,2410712,95433046,24,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,49.5,1.59,NA,NA,Pointsbet,2410712,95433046,25,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,55.5,1.8,1.95,1.068,Pointsbet,2410712,95433052,13,14
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,64.5,2.2,NA,NA,Pointsbet,2410712,95433046,26,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,79.5,3.3,NA,NA,Pointsbet,2410712,95433046,27,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,94.5,5,NA,NA,Pointsbet,2410712,95433046,28,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,109.5,7.5,NA,NA,Pointsbet,2410712,95433046,29,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Yards,124.5,12,NA,NA,Pointsbet,2410712,95433046,30,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,19.5,1.2,NA,NA,Pointsbet,2410712,95433046,1,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,34.5,1.59,NA,NA,Pointsbet,2410712,95433046,2,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,40.5,1.83,1.9,1.073,Pointsbet,2410712,95433052,1,2
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,49.5,2.3,NA,NA,Pointsbet,2410712,95433046,3,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,64.5,3.5,NA,NA,Pointsbet,2410712,95433046,4,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,79.5,5.5,NA,NA,Pointsbet,2410712,95433046,5,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,94.5,9,NA,NA,Pointsbet,2410712,95433046,6,NA
+Detroit Lions v Chicago Bears,David Montgomery,Detroit Lions,Rushing Yards,109.5,16,NA,NA,Pointsbet,2410712,95433046,7,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,34.5,1.11,NA,NA,Pointsbet,2410712,95433046,13,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,49.5,1.36,NA,NA,Pointsbet,2410712,95433046,14,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,64.5,1.77,NA,NA,Pointsbet,2410712,95433046,15,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,65.5,1.8,1.95,1.068,Pointsbet,2410712,95433052,9,10
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,79.5,2.45,NA,NA,Pointsbet,2410712,95433046,16,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,94.5,3.5,NA,NA,Pointsbet,2410712,95433046,17,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,109.5,5.25,NA,NA,Pointsbet,2410712,95433046,18,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,124.5,7.5,NA,NA,Pointsbet,2410712,95433046,19,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Yards,139.5,12,NA,NA,Pointsbet,2410712,95433046,20,NA
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Rushing Yards,19.5,1.74,NA,NA,Pointsbet,2407876,95294857,12,NA
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Rushing Yards,20.5,1.77,2,1.065,Pointsbet,2407876,95294864,5,6
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Rushing Yards,34.5,2.85,NA,NA,Pointsbet,2407876,95294857,13,NA
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Rushing Yards,49.5,4.75,NA,NA,Pointsbet,2407876,95294857,14,NA
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Rushing Yards,64.5,9,NA,NA,Pointsbet,2407876,95294857,15,NA
+Green Bay Packers v Washington Commanders,Austin Ekeler,Washington Commanders,Rushing Yards,79.5,16,NA,NA,Pointsbet,2407876,95294857,16,NA
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,19.5,1.22,NA,NA,Pointsbet,2407876,95294857,23,NA
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,34.5,1.67,NA,NA,Pointsbet,2407876,95294857,24,NA
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,40.5,1.9,1.83,1.073,Pointsbet,2407876,95294864,9,10
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,49.5,2.45,NA,NA,Pointsbet,2407876,95294857,25,NA
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,64.5,4,NA,NA,Pointsbet,2407876,95294857,26,NA
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,79.5,6.5,NA,NA,Pointsbet,2407876,95294857,27,NA
+Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Yards,94.5,12,NA,NA,Pointsbet,2407876,95294857,28,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,19.5,1.11,NA,NA,Pointsbet,2407876,95294857,34,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,34.5,1.44,NA,NA,Pointsbet,2407876,95294857,35,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,45.5,1.9,1.83,1.073,Pointsbet,2407876,95294864,15,16
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,49.5,2.15,NA,NA,Pointsbet,2407876,95294857,36,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,64.5,3.6,NA,NA,Pointsbet,2407876,95294857,37,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,79.5,6,NA,NA,Pointsbet,2407876,95294857,38,NA
+Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Rushing Yards,94.5,11.5,NA,NA,Pointsbet,2407876,95294857,39,NA
+Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Rushing Yards,5.5,1.8,1.95,1.068,Pointsbet,2407876,95294864,23,24
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,34.5,1.08,NA,NA,Pointsbet,2407876,95294857,2,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,49.5,1.24,NA,NA,Pointsbet,2407876,95294857,3,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,64.5,1.5,NA,NA,Pointsbet,2407876,95294857,4,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,75.5,1.8,1.95,1.068,Pointsbet,2407876,95294864,11,12
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,79.5,1.9,NA,NA,Pointsbet,2407876,95294857,5,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,94.5,2.65,NA,NA,Pointsbet,2407876,95294857,6,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,109.5,3.8,NA,NA,Pointsbet,2407876,95294857,7,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,124.5,5.25,NA,NA,Pointsbet,2407876,95294857,8,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,139.5,7.5,NA,NA,Pointsbet,2407876,95294857,9,NA
+Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Yards,154.5,11.5,NA,NA,Pointsbet,2407876,95294857,10,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,34.5,1.2,NA,NA,Pointsbet,2410720,95433160,13,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,49.5,1.56,NA,NA,Pointsbet,2410720,95433160,14,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,60.5,1.95,1.8,1.068,Pointsbet,2410720,95433162,11,12
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,64.5,2.25,NA,NA,Pointsbet,2410720,95433160,15,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,79.5,3.4,NA,NA,Pointsbet,2410720,95433160,16,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,94.5,5.25,NA,NA,Pointsbet,2410720,95433160,17,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,109.5,8,NA,NA,Pointsbet,2410720,95433160,18,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Yards,124.5,14,NA,NA,Pointsbet,2410720,95433160,19,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,34.5,1.25,NA,NA,Pointsbet,2410720,95433160,35,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,49.5,1.67,NA,NA,Pointsbet,2410720,95433160,36,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,55.5,1.83,1.9,1.073,Pointsbet,2410720,95433162,7,8
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,64.5,2.25,NA,NA,Pointsbet,2410720,95433160,37,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,79.5,3.2,NA,NA,Pointsbet,2410720,95433160,38,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,94.5,5,NA,NA,Pointsbet,2410720,95433160,39,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,109.5,7.5,NA,NA,Pointsbet,2410720,95433160,40,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Yards,124.5,13,NA,NA,Pointsbet,2410720,95433160,41,NA
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Yards,19.5,1.29,NA,NA,Pointsbet,2410720,95433160,23,NA
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Yards,34.5,1.95,NA,NA,Pointsbet,2410720,95433160,24,NA
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Yards,35.5,2,1.77,1.065,Pointsbet,2410720,95433162,3,4
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Yards,49.5,3.2,NA,NA,Pointsbet,2410720,95433160,25,NA
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Yards,64.5,6,NA,NA,Pointsbet,2410720,95433160,26,NA
+New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Yards,79.5,11.5,NA,NA,Pointsbet,2410720,95433160,27,NA
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,19.5,1.13,NA,NA,Pointsbet,2410720,95433160,1,NA
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,34.5,1.44,NA,NA,Pointsbet,2410720,95433160,2,NA
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,45.5,2,1.77,1.065,Pointsbet,2410720,95433162,1,2
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,49.5,2.3,NA,NA,Pointsbet,2410720,95433160,3,NA
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,64.5,4,NA,NA,Pointsbet,2410720,95433160,4,NA
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,79.5,7,NA,NA,Pointsbet,2410720,95433160,5,NA
+New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Yards,94.5,14,NA,NA,Pointsbet,2410720,95433160,6,NA
+Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Rushing Yards,15.5,1.95,1.8,1.068,Pointsbet,2410710,95435119,1,2
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,49.5,1.25,NA,NA,Pointsbet,2410710,95435108,14,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,64.5,1.59,NA,NA,Pointsbet,2410710,95435108,15,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,75.5,1.95,1.8,1.068,Pointsbet,2410710,95435119,5,6
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,79.5,2.15,NA,NA,Pointsbet,2410710,95435108,16,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,94.5,3.1,NA,NA,Pointsbet,2410710,95435108,17,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,109.5,4.5,NA,NA,Pointsbet,2410710,95435108,18,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,124.5,7,NA,NA,Pointsbet,2410710,95435108,19,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,139.5,11,NA,NA,Pointsbet,2410710,95435108,20,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,154.5,18,NA,NA,Pointsbet,2410710,95435108,21,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,34.5,1.11,NA,NA,Pointsbet,2410710,95435108,2,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,49.5,1.36,NA,NA,Pointsbet,2410710,95435108,3,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,64.5,1.77,NA,NA,Pointsbet,2410710,95435108,4,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,65.5,1.8,1.95,1.068,Pointsbet,2410710,95435119,3,4
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,79.5,2.45,NA,NA,Pointsbet,2410710,95435108,5,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,94.5,3.6,NA,NA,Pointsbet,2410710,95435108,6,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,109.5,5.5,NA,NA,Pointsbet,2410710,95435108,7,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,124.5,7.5,NA,NA,Pointsbet,2410710,95435108,8,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Yards,139.5,12,NA,NA,Pointsbet,2410710,95435108,9,NA
