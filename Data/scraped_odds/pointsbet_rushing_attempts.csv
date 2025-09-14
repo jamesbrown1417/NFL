@@ -1,109 +1,360 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Attempts,5.5,2.2,1.67,1.053,Pointsbet,2410712,95433054,1,2
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Attempts,5.5,2.2,NA,NA,Pointsbet,2410712,95433050,53,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Attempts,7.5,3.8,NA,NA,Pointsbet,2410712,95433050,54,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Attempts,9.5,6.5,NA,NA,Pointsbet,2410712,95433050,55,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Attempts,11.5,11.5,NA,NA,Pointsbet,2410712,95433050,56,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,13.5,1.67,NA,NA,Pointsbet,2410712,95433050,40,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,15.5,2.05,1.74,1.063,Pointsbet,2410712,95433054,7,8
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,15.5,2.05,NA,NA,Pointsbet,2410712,95433050,41,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,17.5,2.6,NA,NA,Pointsbet,2410712,95433050,42,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,19.5,3.4,NA,NA,Pointsbet,2410712,95433050,43,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,21.5,4.3,NA,NA,Pointsbet,2410712,95433050,44,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,23.5,5.75,NA,NA,Pointsbet,2410712,95433050,45,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,25.5,7.5,NA,NA,Pointsbet,2410712,95433050,46,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,27.5,11.5,NA,NA,Pointsbet,2410712,95433050,47,NA
-Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,29.5,16,NA,NA,Pointsbet,2410712,95433050,48,NA
-Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,11.5,1.44,NA,NA,Pointsbet,2410712,95433050,22,NA
-Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,13.5,1.8,NA,NA,Pointsbet,2410712,95433050,23,NA
-Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,14.5,1.95,1.8,1.068,Pointsbet,2410712,95433054,3,4
-Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,15.5,2.2,NA,NA,Pointsbet,2410712,95433050,24,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,13.5,1.59,NA,NA,Pointsbet,2410917,95497313,57,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,15.5,1.9,1.83,1.073,Pointsbet,2410917,95497316,11,12
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,15.5,1.9,NA,NA,Pointsbet,2410917,95497313,58,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,17.5,2.4,NA,NA,Pointsbet,2410917,95497313,59,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,19.5,3,NA,NA,Pointsbet,2410917,95497313,60,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,21.5,3.8,NA,NA,Pointsbet,2410917,95497313,61,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,23.5,5,NA,NA,Pointsbet,2410917,95497313,62,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,25.5,6,NA,NA,Pointsbet,2410917,95497313,63,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,27.5,9,NA,NA,Pointsbet,2410917,95497313,64,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,29.5,11.5,NA,NA,Pointsbet,2410917,95497313,65,NA
+Arizona Cardinals v Carolina Panthers,Chuba Hubbard,Carolina Panthers,Rushing Attempts,31.5,16,NA,NA,Pointsbet,2410917,95497313,66,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,13.5,1.56,NA,NA,Pointsbet,2410917,95497313,6,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,15.5,1.83,1.9,1.073,Pointsbet,2410917,95497316,1,2
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,15.5,1.83,NA,NA,Pointsbet,2410917,95497313,7,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,17.5,2.3,NA,NA,Pointsbet,2410917,95497313,8,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,19.5,2.75,NA,NA,Pointsbet,2410917,95497313,9,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,21.5,3.5,NA,NA,Pointsbet,2410917,95497313,10,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,23.5,4.5,NA,NA,Pointsbet,2410917,95497313,11,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,25.5,5.5,NA,NA,Pointsbet,2410917,95497313,12,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,27.5,7,NA,NA,Pointsbet,2410917,95497313,13,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,29.5,9.5,NA,NA,Pointsbet,2410917,95497313,14,NA
+Arizona Cardinals v Carolina Panthers,James Conner,Arizona Cardinals,Rushing Attempts,31.5,14,NA,NA,Pointsbet,2410917,95497313,15,NA
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,5.5,1.87,1.87,1.07,Pointsbet,2410917,95497316,9,10
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,5.5,1.87,NA,NA,Pointsbet,2410917,95497313,36,NA
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,7.5,2.85,NA,NA,Pointsbet,2410917,95497313,37,NA
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,9.5,4.3,NA,NA,Pointsbet,2410917,95497313,38,NA
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,11.5,6.5,NA,NA,Pointsbet,2410917,95497313,39,NA
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,13.5,10,NA,NA,Pointsbet,2410917,95497313,40,NA
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Rushing Attempts,15.5,15,NA,NA,Pointsbet,2410917,95497313,41,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,5.5,1.5,NA,NA,Pointsbet,2410917,95497313,19,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,7.5,1.87,1.87,1.07,Pointsbet,2410917,95497316,19,20
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,7.5,1.87,NA,NA,Pointsbet,2410917,95497313,20,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,9.5,2.45,NA,NA,Pointsbet,2410917,95497313,21,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,11.5,3.2,NA,NA,Pointsbet,2410917,95497313,22,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,13.5,4.3,NA,NA,Pointsbet,2410917,95497313,23,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,15.5,5.75,NA,NA,Pointsbet,2410917,95497313,24,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,17.5,7.5,NA,NA,Pointsbet,2410917,95497313,25,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,19.5,10,NA,NA,Pointsbet,2410917,95497313,26,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,21.5,13,NA,NA,Pointsbet,2410917,95497313,27,NA
+Arizona Cardinals v Carolina Panthers,Trey Benson,Arizona Cardinals,Rushing Attempts,23.5,16,NA,NA,Pointsbet,2410917,95497313,28,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,17.5,1.59,NA,NA,Pointsbet,2410719,95463171,8,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,19.5,1.87,1.87,1.07,Pointsbet,2410719,95463174,7,8
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,19.5,1.87,NA,NA,Pointsbet,2410719,95463171,9,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,21.5,2.2,NA,NA,Pointsbet,2410719,95463171,10,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,23.5,2.6,NA,NA,Pointsbet,2410719,95463171,11,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,25.5,3.2,NA,NA,Pointsbet,2410719,95463171,12,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,27.5,3.8,NA,NA,Pointsbet,2410719,95463171,13,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,29.5,4.75,NA,NA,Pointsbet,2410719,95463171,14,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,31.5,6,NA,NA,Pointsbet,2410719,95463171,15,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,33.5,9,NA,NA,Pointsbet,2410719,95463171,16,NA
+Baltimore Ravens v Cleveland Browns,Derrick Henry,Baltimore Ravens,Rushing Attempts,35.5,12,NA,NA,Pointsbet,2410719,95463171,17,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,15.5,1.48,NA,NA,Pointsbet,2410717,95475725,24,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,17.5,1.77,NA,NA,Pointsbet,2410717,95475725,25,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,18.5,1.9,1.83,1.073,Pointsbet,2410717,95475727,11,12
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,19.5,2.2,NA,NA,Pointsbet,2410717,95475725,26,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,21.5,2.75,NA,NA,Pointsbet,2410717,95475725,27,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,23.5,3.6,NA,NA,Pointsbet,2410717,95475725,28,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,25.5,5,NA,NA,Pointsbet,2410717,95475725,29,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,27.5,7,NA,NA,Pointsbet,2410717,95475725,30,NA
+Cincinnati Bengals v Jacksonville Jaguars,Chase Brown,Cincinnati Bengals,Rushing Attempts,29.5,11.5,NA,NA,Pointsbet,2410717,95475725,31,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,11.5,1.63,NA,NA,Pointsbet,2410717,95475725,56,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,13.5,1.95,1.8,1.068,Pointsbet,2410717,95475727,13,14
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,13.5,1.95,NA,NA,Pointsbet,2410717,95475725,57,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,15.5,2.5,NA,NA,Pointsbet,2410717,95475725,58,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,17.5,3.2,NA,NA,Pointsbet,2410717,95475725,59,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,19.5,4.1,NA,NA,Pointsbet,2410717,95475725,60,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,21.5,5.25,NA,NA,Pointsbet,2410717,95475725,61,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,23.5,6.5,NA,NA,Pointsbet,2410717,95475725,62,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410717,95475725,63,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2410717,95475725,64,NA
+Cincinnati Bengals v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Attempts,29.5,18,NA,NA,Pointsbet,2410717,95475725,65,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,13.5,1.59,NA,NA,Pointsbet,2410714,95482829,23,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,15.5,1.87,1.87,1.07,Pointsbet,2410714,95482833,3,4
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,15.5,1.87,NA,NA,Pointsbet,2410714,95482829,24,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,17.5,2.3,NA,NA,Pointsbet,2410714,95482829,25,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,19.5,2.9,NA,NA,Pointsbet,2410714,95482829,26,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,21.5,3.6,NA,NA,Pointsbet,2410714,95482829,27,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,23.5,4.75,NA,NA,Pointsbet,2410714,95482829,28,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,25.5,6,NA,NA,Pointsbet,2410714,95482829,29,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,27.5,9,NA,NA,Pointsbet,2410714,95482829,30,NA
+Dallas Cowboys v New York Giants,Javonte Williams,Dallas Cowboys,Rushing Attempts,29.5,12,NA,NA,Pointsbet,2410714,95482829,31,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,11.5,1.57,NA,NA,Pointsbet,2410714,95482829,5,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,13.5,1.87,1.87,1.07,Pointsbet,2410714,95482833,5,6
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,13.5,1.87,NA,NA,Pointsbet,2410714,95482829,6,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,15.5,2.25,NA,NA,Pointsbet,2410714,95482829,7,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,17.5,2.75,NA,NA,Pointsbet,2410714,95482829,8,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,19.5,3.4,NA,NA,Pointsbet,2410714,95482829,9,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,21.5,4.3,NA,NA,Pointsbet,2410714,95482829,10,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,23.5,5.25,NA,NA,Pointsbet,2410714,95482829,11,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,25.5,7,NA,NA,Pointsbet,2410714,95482829,12,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,27.5,9,NA,NA,Pointsbet,2410714,95482829,13,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,29.5,11,NA,NA,Pointsbet,2410714,95482829,14,NA
+Dallas Cowboys v New York Giants,Tyrone Tracy,NA,Rushing Attempts,31.5,14,NA,NA,Pointsbet,2410714,95482829,15,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,11.5,1.5,NA,NA,Pointsbet,2410712,95433050,39,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,13.5,1.83,NA,NA,Pointsbet,2410712,95433050,40,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,14.5,2,1.77,1.065,Pointsbet,2410712,95433054,11,12
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,15.5,2.3,NA,NA,Pointsbet,2410712,95433050,41,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,17.5,3,NA,NA,Pointsbet,2410712,95433050,42,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,19.5,4,NA,NA,Pointsbet,2410712,95433050,43,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,21.5,5.25,NA,NA,Pointsbet,2410712,95433050,44,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,23.5,6.5,NA,NA,Pointsbet,2410712,95433050,45,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410712,95433050,46,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2410712,95433050,47,NA
+Detroit Lions v Chicago Bears,D'andre Swift,NA,Rushing Attempts,29.5,18,NA,NA,Pointsbet,2410712,95433050,48,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,11.5,1.48,NA,NA,Pointsbet,2410712,95433050,22,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,13.5,1.77,NA,NA,Pointsbet,2410712,95433050,23,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,14.5,1.87,1.87,1.07,Pointsbet,2410712,95433054,3,4
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,15.5,2.1,NA,NA,Pointsbet,2410712,95433050,24,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,17.5,2.65,NA,NA,Pointsbet,2410712,95433050,25,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,19.5,3.3,NA,NA,Pointsbet,2410712,95433050,26,NA
-Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,21.5,4.3,NA,NA,Pointsbet,2410712,95433050,27,NA
+Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,21.5,4.1,NA,NA,Pointsbet,2410712,95433050,27,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,23.5,5.25,NA,NA,Pointsbet,2410712,95433050,28,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,25.5,6.5,NA,NA,Pointsbet,2410712,95433050,29,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,27.5,9,NA,NA,Pointsbet,2410712,95433050,30,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,29.5,12,NA,NA,Pointsbet,2410712,95433050,31,NA
 Detroit Lions v Chicago Bears,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,31.5,16,NA,NA,Pointsbet,2410712,95433050,32,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,7.5,1.48,NA,NA,Pointsbet,2407876,95294862,20,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,9.5,1.87,1.87,1.07,Pointsbet,2407876,95294866,15,16
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,9.5,1.87,NA,NA,Pointsbet,2407876,95294862,21,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,11.5,2.4,NA,NA,Pointsbet,2407876,95294862,22,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,13.5,3.2,NA,NA,Pointsbet,2407876,95294862,23,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,15.5,4.3,NA,NA,Pointsbet,2407876,95294862,24,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,17.5,5.5,NA,NA,Pointsbet,2407876,95294862,25,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,19.5,7,NA,NA,Pointsbet,2407876,95294862,26,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,21.5,9.5,NA,NA,Pointsbet,2407876,95294862,27,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,23.5,13,NA,NA,Pointsbet,2407876,95294862,28,NA
-Green Bay Packers v Washington Commanders,Jacory Croskey-Merritt,Washington Commanders,Rushing Attempts,25.5,18,NA,NA,Pointsbet,2407876,95294862,29,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,15.5,1.5,NA,NA,Pointsbet,2407876,95294862,7,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,17.5,1.77,NA,NA,Pointsbet,2407876,95294862,8,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,18.5,1.9,1.83,1.073,Pointsbet,2407876,95294866,17,18
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,19.5,2.1,NA,NA,Pointsbet,2407876,95294862,9,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,21.5,2.6,NA,NA,Pointsbet,2407876,95294862,10,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,23.5,3.2,NA,NA,Pointsbet,2407876,95294862,11,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,25.5,4.1,NA,NA,Pointsbet,2407876,95294862,12,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,27.5,5.5,NA,NA,Pointsbet,2407876,95294862,13,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,29.5,7,NA,NA,Pointsbet,2407876,95294862,14,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,31.5,11,NA,NA,Pointsbet,2407876,95294862,15,NA
-Green Bay Packers v Washington Commanders,Josh Jacobs,Green Bay Packers,Rushing Attempts,33.5,15,NA,NA,Pointsbet,2407876,95294862,16,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,11.5,1.74,NA,NA,Pointsbet,2410720,95433161,5,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,12.5,1.9,1.83,1.073,Pointsbet,2410720,95433163,3,4
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,13.5,2.2,NA,NA,Pointsbet,2410720,95433161,6,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,15.5,2.85,NA,NA,Pointsbet,2410720,95433161,7,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,17.5,3.8,NA,NA,Pointsbet,2410720,95433161,8,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,19.5,5,NA,NA,Pointsbet,2410720,95433161,9,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,21.5,6.5,NA,NA,Pointsbet,2410720,95433161,10,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,23.5,9,NA,NA,Pointsbet,2410720,95433161,11,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,25.5,12,NA,NA,Pointsbet,2410720,95433161,12,NA
-New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,27.5,16,NA,NA,Pointsbet,2410720,95433161,13,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,11.5,1.71,NA,NA,Pointsbet,2410918,95499463,22,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,12.5,1.87,1.87,1.07,Pointsbet,2410918,95499471,11,12
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,13.5,2.1,NA,NA,Pointsbet,2410918,95499463,23,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,15.5,2.6,NA,NA,Pointsbet,2410918,95499463,24,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,17.5,3.3,NA,NA,Pointsbet,2410918,95499463,25,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,19.5,4.3,NA,NA,Pointsbet,2410918,95499463,26,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,21.5,5.5,NA,NA,Pointsbet,2410918,95499463,27,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,23.5,7,NA,NA,Pointsbet,2410918,95499463,28,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410918,95499463,29,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2410918,95499463,30,NA
+Indianapolis Colts v Denver Broncos,J.K. Dobbins,Denver Broncos,Rushing Attempts,29.5,16,NA,NA,Pointsbet,2410918,95499463,31,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,17.5,1.67,NA,NA,Pointsbet,2410918,95499463,8,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,19.5,1.9,1.83,1.073,Pointsbet,2410918,95499471,9,10
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,19.5,1.9,NA,NA,Pointsbet,2410918,95499463,9,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,21.5,2.3,NA,NA,Pointsbet,2410918,95499463,10,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,23.5,2.85,NA,NA,Pointsbet,2410918,95499463,11,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,25.5,3.5,NA,NA,Pointsbet,2410918,95499463,12,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,27.5,4.5,NA,NA,Pointsbet,2410918,95499463,13,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,29.5,5.75,NA,NA,Pointsbet,2410918,95499463,14,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,31.5,7.5,NA,NA,Pointsbet,2410918,95499463,15,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,33.5,11,NA,NA,Pointsbet,2410918,95499463,16,NA
+Indianapolis Colts v Denver Broncos,Jonathan Taylor,Indianapolis Colts,Rushing Attempts,35.5,16,NA,NA,Pointsbet,2410918,95499463,17,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,5.5,1.53,NA,NA,Pointsbet,2410918,95499463,53,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,7.5,2,1.77,1.065,Pointsbet,2410918,95499471,7,8
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,7.5,2,NA,NA,Pointsbet,2410918,95499463,54,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,9.5,2.85,NA,NA,Pointsbet,2410918,95499463,55,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,11.5,4,NA,NA,Pointsbet,2410918,95499463,56,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,13.5,5.5,NA,NA,Pointsbet,2410918,95499463,57,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,15.5,7.5,NA,NA,Pointsbet,2410918,95499463,58,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,17.5,11.5,NA,NA,Pointsbet,2410918,95499463,59,NA
+Indianapolis Colts v Denver Broncos,Rj Harvey,NA,Rushing Attempts,19.5,15,NA,NA,Pointsbet,2410918,95499463,60,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,7.5,1.77,NA,NA,Pointsbet,2410938,95468254,54,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,8.5,2,1.77,1.065,Pointsbet,2410938,95468256,13,14
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,9.5,2.35,NA,NA,Pointsbet,2410938,95468254,55,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,11.5,3.2,NA,NA,Pointsbet,2410938,95468254,56,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,13.5,4.5,NA,NA,Pointsbet,2410938,95468254,57,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,15.5,6,NA,NA,Pointsbet,2410938,95468254,58,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,17.5,9,NA,NA,Pointsbet,2410938,95468254,59,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,19.5,12,NA,NA,Pointsbet,2410938,95468254,60,NA
+Kansas City Chiefs v Philadelphia Eagles,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,21.5,16,NA,NA,Pointsbet,2410938,95468254,61,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,15.5,1.57,NA,NA,Pointsbet,2410938,95468254,24,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,17.5,1.83,1.9,1.073,Pointsbet,2410938,95468256,7,8
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,17.5,1.83,NA,NA,Pointsbet,2410938,95468254,25,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,19.5,2.15,NA,NA,Pointsbet,2410938,95468254,26,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,21.5,2.6,NA,NA,Pointsbet,2410938,95468254,27,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,23.5,3.1,NA,NA,Pointsbet,2410938,95468254,28,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,25.5,3.8,NA,NA,Pointsbet,2410938,95468254,29,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,27.5,4.75,NA,NA,Pointsbet,2410938,95468254,30,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,29.5,5.75,NA,NA,Pointsbet,2410938,95468254,31,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,31.5,7.5,NA,NA,Pointsbet,2410938,95468254,32,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,33.5,10,NA,NA,Pointsbet,2410938,95468254,33,NA
+Kansas City Chiefs v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,35.5,14,NA,NA,Pointsbet,2410938,95468254,34,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,15.5,1.67,NA,NA,Pointsbet,2412682,95523428,7,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,17.5,1.9,1.83,1.073,Pointsbet,2412682,95523430,1,2
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,17.5,1.9,NA,NA,Pointsbet,2412682,95523428,8,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,19.5,2.4,NA,NA,Pointsbet,2412682,95523428,9,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,21.5,3,NA,NA,Pointsbet,2412682,95523428,10,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,23.5,3.8,NA,NA,Pointsbet,2412682,95523428,11,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,25.5,4.75,NA,NA,Pointsbet,2412682,95523428,12,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,27.5,6.5,NA,NA,Pointsbet,2412682,95523428,13,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,29.5,9,NA,NA,Pointsbet,2412682,95523428,14,NA
+Las Vegas Raiders v Los Angeles Chargers,Ashton Jeanty,Las Vegas Raiders,Rushing Attempts,31.5,12,NA,NA,Pointsbet,2412682,95523428,15,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,13.5,1.71,NA,NA,Pointsbet,2412682,95523428,23,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,14.5,1.87,1.87,1.07,Pointsbet,2412682,95523430,5,6
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,15.5,2.05,NA,NA,Pointsbet,2412682,95523428,24,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,17.5,2.5,NA,NA,Pointsbet,2412682,95523428,25,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,19.5,3.2,NA,NA,Pointsbet,2412682,95523428,26,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,21.5,4.1,NA,NA,Pointsbet,2412682,95523428,27,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,23.5,5.25,NA,NA,Pointsbet,2412682,95523428,28,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,25.5,7,NA,NA,Pointsbet,2412682,95523428,29,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,27.5,9.5,NA,NA,Pointsbet,2412682,95523428,30,NA
+Las Vegas Raiders v Los Angeles Chargers,Omarion Hampton,Los Angeles Chargers,Rushing Attempts,29.5,14,NA,NA,Pointsbet,2412682,95523428,31,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,13.5,1.77,NA,NA,Pointsbet,2410713,95484240,6,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,14.5,1.95,1.8,1.068,Pointsbet,2410713,95484243,1,2
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,15.5,2.2,NA,NA,Pointsbet,2410713,95484240,7,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,17.5,2.85,NA,NA,Pointsbet,2410713,95484240,8,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,19.5,3.6,NA,NA,Pointsbet,2410713,95484240,9,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,21.5,4.75,NA,NA,Pointsbet,2410713,95484240,10,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,23.5,6,NA,NA,Pointsbet,2410713,95484240,11,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410713,95484240,12,NA
+Miami Dolphins v New England Patriots,De'Von Achane,Miami Dolphins,Rushing Attempts,27.5,13,NA,NA,Pointsbet,2410713,95484240,13,NA
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Rushing Attempts,5.5,2.15,1.69,1.057,Pointsbet,2410713,95484243,3,4
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Rushing Attempts,5.5,2.15,NA,NA,Pointsbet,2410713,95484240,19,NA
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Rushing Attempts,7.5,3.4,NA,NA,Pointsbet,2410713,95484240,20,NA
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Rushing Attempts,9.5,5.5,NA,NA,Pointsbet,2410713,95484240,21,NA
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Rushing Attempts,11.5,9,NA,NA,Pointsbet,2410713,95484240,22,NA
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Rushing Attempts,13.5,13,NA,NA,Pointsbet,2410713,95484240,23,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,7.5,1.59,NA,NA,Pointsbet,2410713,95484240,54,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,8.5,1.8,1.95,1.068,Pointsbet,2410713,95484243,17,18
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,9.5,2.05,NA,NA,Pointsbet,2410713,95484240,55,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,11.5,2.75,NA,NA,Pointsbet,2410713,95484240,56,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,13.5,3.6,NA,NA,Pointsbet,2410713,95484240,57,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,15.5,5,NA,NA,Pointsbet,2410713,95484240,58,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,17.5,6.5,NA,NA,Pointsbet,2410713,95484240,59,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,19.5,9,NA,NA,Pointsbet,2410713,95484240,60,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,21.5,13,NA,NA,Pointsbet,2410713,95484240,61,NA
+Miami Dolphins v New England Patriots,Rhamondre Stevenson,New England Patriots,Rushing Attempts,23.5,16,NA,NA,Pointsbet,2410713,95484240,62,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,7.5,1.56,NA,NA,Pointsbet,2410713,95484240,37,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,9.5,1.95,1.8,1.068,Pointsbet,2410713,95484243,5,6
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,9.5,1.95,NA,NA,Pointsbet,2410713,95484240,38,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,11.5,2.5,NA,NA,Pointsbet,2410713,95484240,39,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,13.5,3.4,NA,NA,Pointsbet,2410713,95484240,40,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,15.5,4.5,NA,NA,Pointsbet,2410713,95484240,41,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,17.5,5.75,NA,NA,Pointsbet,2410713,95484240,42,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,19.5,7.5,NA,NA,Pointsbet,2410713,95484240,43,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,21.5,11,NA,NA,Pointsbet,2410713,95484240,44,NA
+Miami Dolphins v New England Patriots,Treveyon Henderson,NA,Rushing Attempts,23.5,14,NA,NA,Pointsbet,2410713,95484240,45,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,9.5,1.83,1.9,1.073,Pointsbet,2411151,95463036,5,6
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,9.5,1.83,NA,NA,Pointsbet,2411151,95463033,21,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,11.5,2.4,NA,NA,Pointsbet,2411151,95463033,22,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,13.5,3.2,NA,NA,Pointsbet,2411151,95463033,23,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,15.5,4.3,NA,NA,Pointsbet,2411151,95463033,24,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,17.5,5.75,NA,NA,Pointsbet,2411151,95463033,25,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,19.5,7.5,NA,NA,Pointsbet,2411151,95463033,26,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,21.5,11,NA,NA,Pointsbet,2411151,95463033,27,NA
+Minnesota Vikings v Atlanta Falcons,Aaron Jones,Minnesota Vikings,Rushing Attempts,23.5,14,NA,NA,Pointsbet,2411151,95463033,28,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,13.5,1.71,NA,NA,Pointsbet,2411151,95463033,57,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,14.5,1.87,1.87,1.07,Pointsbet,2411151,95463036,11,12
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,15.5,2.05,NA,NA,Pointsbet,2411151,95463033,58,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,17.5,2.6,NA,NA,Pointsbet,2411151,95463033,59,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,19.5,3.3,NA,NA,Pointsbet,2411151,95463033,60,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,21.5,4.1,NA,NA,Pointsbet,2411151,95463033,61,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,23.5,5.25,NA,NA,Pointsbet,2411151,95463033,62,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,25.5,6.5,NA,NA,Pointsbet,2411151,95463033,63,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,27.5,9,NA,NA,Pointsbet,2411151,95463033,64,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,29.5,12,NA,NA,Pointsbet,2411151,95463033,65,NA
+Minnesota Vikings v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Rushing Attempts,31.5,16,NA,NA,Pointsbet,2411151,95463033,66,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,11.5,1.69,NA,NA,Pointsbet,2411151,95463033,5,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,12.5,1.83,1.9,1.073,Pointsbet,2411151,95463036,15,16
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,13.5,2.05,NA,NA,Pointsbet,2411151,95463033,6,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,15.5,2.6,NA,NA,Pointsbet,2411151,95463033,7,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,17.5,3.3,NA,NA,Pointsbet,2411151,95463033,8,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,19.5,4.1,NA,NA,Pointsbet,2411151,95463033,9,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,21.5,5.25,NA,NA,Pointsbet,2411151,95463033,10,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,23.5,6.5,NA,NA,Pointsbet,2411151,95463033,11,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2411151,95463033,12,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2411151,95463033,13,NA
+Minnesota Vikings v Atlanta Falcons,Jordan Mason,Minnesota Vikings,Rushing Attempts,29.5,18,NA,NA,Pointsbet,2411151,95463033,14,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,11.5,1.57,NA,NA,Pointsbet,2410715,95505233,5,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,13.5,1.9,1.83,1.073,Pointsbet,2410715,95505234,31,32
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,13.5,1.9,NA,NA,Pointsbet,2410715,95505233,6,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,15.5,2.4,NA,NA,Pointsbet,2410715,95505233,7,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,17.5,3,NA,NA,Pointsbet,2410715,95505233,8,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,19.5,4,NA,NA,Pointsbet,2410715,95505233,9,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,21.5,5,NA,NA,Pointsbet,2410715,95505233,10,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,23.5,6.5,NA,NA,Pointsbet,2410715,95505233,11,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410715,95505233,12,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2410715,95505233,13,NA
+New Orleans Saints v San Francisco 49ers,Alvin Kamara,New Orleans Saints,Rushing Attempts,29.5,18,NA,NA,Pointsbet,2410715,95505233,14,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,15.5,1.57,NA,NA,Pointsbet,2410715,95505233,24,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,17.5,1.83,1.9,1.073,Pointsbet,2410715,95505234,29,30
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,17.5,1.83,NA,NA,Pointsbet,2410715,95505233,25,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,19.5,2.25,NA,NA,Pointsbet,2410715,95505233,26,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,21.5,2.75,NA,NA,Pointsbet,2410715,95505233,27,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,23.5,3.4,NA,NA,Pointsbet,2410715,95505233,28,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,25.5,4.3,NA,NA,Pointsbet,2410715,95505233,29,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,27.5,5.5,NA,NA,Pointsbet,2410715,95505233,30,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,29.5,7,NA,NA,Pointsbet,2410715,95505233,31,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,31.5,10,NA,NA,Pointsbet,2410715,95505233,32,NA
+New Orleans Saints v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Rushing Attempts,33.5,14,NA,NA,Pointsbet,2410715,95505233,33,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,11.5,1.57,NA,NA,Pointsbet,2410720,95433161,5,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,13.5,1.9,1.83,1.073,Pointsbet,2410720,95433163,17,18
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,13.5,1.9,NA,NA,Pointsbet,2410720,95433161,6,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,15.5,2.5,NA,NA,Pointsbet,2410720,95433161,7,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,17.5,3.2,NA,NA,Pointsbet,2410720,95433161,8,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,19.5,4.1,NA,NA,Pointsbet,2410720,95433161,9,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,21.5,5.25,NA,NA,Pointsbet,2410720,95433161,10,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,23.5,7,NA,NA,Pointsbet,2410720,95433161,11,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,25.5,9.5,NA,NA,Pointsbet,2410720,95433161,12,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,27.5,13,NA,NA,Pointsbet,2410720,95433161,13,NA
+New York Jets v Buffalo Bills,Breece Hall,New York Jets,Rushing Attempts,29.5,18,NA,NA,Pointsbet,2410720,95433161,14,NA
 New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,11.5,1.71,NA,NA,Pointsbet,2410720,95433161,39,NA
 New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,12.5,1.87,1.87,1.07,Pointsbet,2410720,95433163,5,6
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,13.5,2.1,NA,NA,Pointsbet,2410720,95433161,40,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,13.5,2.05,NA,NA,Pointsbet,2410720,95433161,40,NA
 New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,15.5,2.75,NA,NA,Pointsbet,2410720,95433161,41,NA
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,17.5,3.5,NA,NA,Pointsbet,2410720,95433161,42,NA
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,19.5,4.5,NA,NA,Pointsbet,2410720,95433161,43,NA
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,21.5,5.75,NA,NA,Pointsbet,2410720,95433161,44,NA
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,23.5,7.5,NA,NA,Pointsbet,2410720,95433161,45,NA
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,25.5,9.5,NA,NA,Pointsbet,2410720,95433161,46,NA
-New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,27.5,13,NA,NA,Pointsbet,2410720,95433161,47,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,17.5,3.4,NA,NA,Pointsbet,2410720,95433161,42,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,19.5,4.3,NA,NA,Pointsbet,2410720,95433161,43,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,21.5,5.5,NA,NA,Pointsbet,2410720,95433161,44,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,23.5,7,NA,NA,Pointsbet,2410720,95433161,45,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410720,95433161,46,NA
+New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2410720,95433161,47,NA
 New York Jets v Buffalo Bills,James Cook,Buffalo Bills,Rushing Attempts,29.5,16,NA,NA,Pointsbet,2410720,95433161,48,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,5.5,1.63,NA,NA,Pointsbet,2410720,95433161,19,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,6.5,1.87,1.87,1.07,Pointsbet,2410720,95433163,1,2
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,7.5,2.2,NA,NA,Pointsbet,2410720,95433161,20,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,9.5,3.2,NA,NA,Pointsbet,2410720,95433161,21,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,11.5,4.75,NA,NA,Pointsbet,2410720,95433161,22,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,13.5,7,NA,NA,Pointsbet,2410720,95433161,23,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,15.5,10,NA,NA,Pointsbet,2410720,95433161,24,NA
-New York Jets v Buffalo Bills,Josh Allen,Buffalo Bills,Rushing Attempts,17.5,14,NA,NA,Pointsbet,2410720,95433161,25,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,9.5,1.87,1.87,1.07,Pointsbet,2410720,95433163,13,14
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,9.5,1.87,NA,NA,Pointsbet,2410720,95433161,55,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,11.5,2.6,NA,NA,Pointsbet,2410720,95433161,56,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,13.5,3.5,NA,NA,Pointsbet,2410720,95433161,57,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,15.5,4.75,NA,NA,Pointsbet,2410720,95433161,58,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,17.5,6.5,NA,NA,Pointsbet,2410720,95433161,59,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,19.5,9,NA,NA,Pointsbet,2410720,95433161,60,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,21.5,12,NA,NA,Pointsbet,2410720,95433161,61,NA
-New York Jets v Buffalo Bills,Justin Fields,New York Jets,Rushing Attempts,23.5,18,NA,NA,Pointsbet,2410720,95433161,62,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,17.5,1.74,NA,NA,Pointsbet,2410710,95435113,25,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,19.5,2.05,1.74,1.063,Pointsbet,2410710,95435121,3,4
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,19.5,2.05,NA,NA,Pointsbet,2410710,95435113,26,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,21.5,2.5,NA,NA,Pointsbet,2410710,95435113,27,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,23.5,3.1,NA,NA,Pointsbet,2410710,95435113,28,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,25.5,4.1,NA,NA,Pointsbet,2410710,95435113,29,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,27.5,5.5,NA,NA,Pointsbet,2410710,95435113,30,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,29.5,7.5,NA,NA,Pointsbet,2410710,95435113,31,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,31.5,11.5,NA,NA,Pointsbet,2410710,95435113,32,NA
-Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,33.5,18,NA,NA,Pointsbet,2410710,95435113,33,NA
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,15.5,1.48,NA,NA,Pointsbet,2410710,95435113,7,NA
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,17.5,1.77,NA,NA,Pointsbet,2410710,95435113,8,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,11.5,1.71,NA,NA,Pointsbet,2410711,95461057,39,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,12.5,1.87,1.87,1.07,Pointsbet,2410711,95461061,19,20
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,13.5,2.05,NA,NA,Pointsbet,2410711,95461057,40,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,15.5,2.5,NA,NA,Pointsbet,2410711,95461057,41,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,17.5,3.3,NA,NA,Pointsbet,2410711,95461057,42,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,19.5,4.1,NA,NA,Pointsbet,2410711,95461057,43,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,21.5,5.5,NA,NA,Pointsbet,2410711,95461057,44,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,23.5,7,NA,NA,Pointsbet,2410711,95461057,45,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,25.5,9,NA,NA,Pointsbet,2410711,95461057,46,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,27.5,12,NA,NA,Pointsbet,2410711,95461057,47,NA
+Pittsburgh Steelers v Seattle Seahawks,Jaylen Warren,Pittsburgh Steelers,Rushing Attempts,29.5,18,NA,NA,Pointsbet,2410711,95461057,48,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,7.5,1.87,1.87,1.07,Pointsbet,2410711,95461061,21,22
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,7.5,1.87,NA,NA,Pointsbet,2410711,95461057,3,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,9.5,2.45,NA,NA,Pointsbet,2410711,95461057,4,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,11.5,3.3,NA,NA,Pointsbet,2410711,95461057,5,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,13.5,4.3,NA,NA,Pointsbet,2410711,95461057,6,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,15.5,6,NA,NA,Pointsbet,2410711,95461057,7,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,17.5,8,NA,NA,Pointsbet,2410711,95461057,8,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,19.5,11.5,NA,NA,Pointsbet,2410711,95461057,9,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Gainwell,Pittsburgh Steelers,Rushing Attempts,21.5,15,NA,NA,Pointsbet,2410711,95461057,10,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,11.5,1.71,NA,NA,Pointsbet,2410711,95461057,22,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,12.5,1.9,1.83,1.073,Pointsbet,2410711,95461061,3,4
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,13.5,2.15,NA,NA,Pointsbet,2410711,95461057,23,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,15.5,2.85,NA,NA,Pointsbet,2410711,95461057,24,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,17.5,3.6,NA,NA,Pointsbet,2410711,95461057,25,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,19.5,4.75,NA,NA,Pointsbet,2410711,95461057,26,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,21.5,6,NA,NA,Pointsbet,2410711,95461057,27,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,23.5,8,NA,NA,Pointsbet,2410711,95461057,28,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,25.5,11.5,NA,NA,Pointsbet,2410711,95461057,29,NA
+Pittsburgh Steelers v Seattle Seahawks,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,27.5,16,NA,NA,Pointsbet,2410711,95461057,30,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,9.5,1.59,NA,NA,Pointsbet,2410711,95461057,55,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,10.5,1.8,1.95,1.068,Pointsbet,2410711,95461061,15,16
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,11.5,2,NA,NA,Pointsbet,2410711,95461057,56,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,13.5,2.5,NA,NA,Pointsbet,2410711,95461057,57,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,15.5,3.3,NA,NA,Pointsbet,2410711,95461057,58,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,17.5,4.3,NA,NA,Pointsbet,2410711,95461057,59,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,19.5,5.5,NA,NA,Pointsbet,2410711,95461057,60,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,21.5,7,NA,NA,Pointsbet,2410711,95461057,61,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,23.5,10,NA,NA,Pointsbet,2410711,95461057,62,NA
+Pittsburgh Steelers v Seattle Seahawks,Zach Charbonnet,Seattle Seahawks,Rushing Attempts,25.5,13,NA,NA,Pointsbet,2410711,95461057,63,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,17.5,1.57,NA,NA,Pointsbet,2410710,95435113,25,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,19.5,1.87,1.87,1.07,Pointsbet,2410710,95435121,3,4
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,19.5,1.87,NA,NA,Pointsbet,2410710,95435113,26,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,21.5,2.25,NA,NA,Pointsbet,2410710,95435113,27,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,23.5,2.85,NA,NA,Pointsbet,2410710,95435113,28,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,25.5,3.8,NA,NA,Pointsbet,2410710,95435113,29,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,27.5,5,NA,NA,Pointsbet,2410710,95435113,30,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,29.5,7,NA,NA,Pointsbet,2410710,95435113,31,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,31.5,10,NA,NA,Pointsbet,2410710,95435113,32,NA
+Tennessee Titans v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Attempts,33.5,16,NA,NA,Pointsbet,2410710,95435113,33,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,15.5,1.53,NA,NA,Pointsbet,2410710,95435113,7,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,17.5,1.8,NA,NA,Pointsbet,2410710,95435113,8,NA
 Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,18.5,1.9,1.83,1.073,Pointsbet,2410710,95435121,1,2
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,19.5,2.1,NA,NA,Pointsbet,2410710,95435113,9,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,19.5,2.15,NA,NA,Pointsbet,2410710,95435113,9,NA
 Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,21.5,2.65,NA,NA,Pointsbet,2410710,95435113,10,NA
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,23.5,3.3,NA,NA,Pointsbet,2410710,95435113,11,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,23.5,3.4,NA,NA,Pointsbet,2410710,95435113,11,NA
 Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,25.5,4.3,NA,NA,Pointsbet,2410710,95435113,12,NA
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,27.5,5.5,NA,NA,Pointsbet,2410710,95435113,13,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,27.5,5.75,NA,NA,Pointsbet,2410710,95435113,13,NA
 Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,29.5,7.5,NA,NA,Pointsbet,2410710,95435113,14,NA
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,31.5,10,NA,NA,Pointsbet,2410710,95435113,15,NA
-Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,33.5,15,NA,NA,Pointsbet,2410710,95435113,16,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,31.5,11,NA,NA,Pointsbet,2410710,95435113,15,NA
+Tennessee Titans v Los Angeles Rams,Tony Pollard,Tennessee Titans,Rushing Attempts,33.5,16,NA,NA,Pointsbet,2410710,95435113,16,NA

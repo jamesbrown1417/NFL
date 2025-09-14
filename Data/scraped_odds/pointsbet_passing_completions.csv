@@ -1,65 +1,28 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,17.5,1.18,NA,NA,Pointsbet,2410712,95433049,21,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,19.5,1.36,NA,NA,Pointsbet,2410712,95433049,22,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,21.5,1.71,NA,NA,Pointsbet,2410712,95433049,23,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,22.5,2,1.77,1.065,Pointsbet,2410712,95430113,5,6
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,23.5,2.35,NA,NA,Pointsbet,2410712,95433049,24,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,25.5,3.4,NA,NA,Pointsbet,2410712,95433049,25,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,27.5,5,NA,NA,Pointsbet,2410712,95433049,26,NA
-Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,29.5,9,NA,NA,Pointsbet,2410712,95433049,27,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,17.5,1.1,NA,NA,Pointsbet,2410712,95433049,4,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,19.5,1.22,NA,NA,Pointsbet,2410712,95433049,5,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,21.5,1.48,NA,NA,Pointsbet,2410712,95433049,6,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,23.5,1.95,1.8,1.068,Pointsbet,2410712,95430113,1,2
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,23.5,1.9,NA,NA,Pointsbet,2410712,95433049,7,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,25.5,2.7,NA,NA,Pointsbet,2410712,95433049,8,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,27.5,4.2,NA,NA,Pointsbet,2410712,95433049,9,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,29.5,6,NA,NA,Pointsbet,2410712,95433049,10,NA
-Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,31.5,10,NA,NA,Pointsbet,2410712,95433049,11,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,17.5,1.19,NA,NA,Pointsbet,2407876,95294860,21,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,19.5,1.42,NA,NA,Pointsbet,2407876,95294860,22,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,21.5,1.87,1.87,1.07,Pointsbet,2407876,95348958,1,2
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,21.5,1.83,NA,NA,Pointsbet,2407876,95294860,23,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,23.5,2.6,NA,NA,Pointsbet,2407876,95294860,24,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,25.5,4,NA,NA,Pointsbet,2407876,95294860,25,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,27.5,6,NA,NA,Pointsbet,2407876,95294860,26,NA
-Green Bay Packers v Washington Commanders,Jayden Daniels,Washington Commanders,Pass Completions,29.5,10.5,NA,NA,Pointsbet,2407876,95294860,27,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,15.5,1.16,NA,NA,Pointsbet,2407876,95294860,3,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,17.5,1.42,NA,NA,Pointsbet,2407876,95294860,4,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,19.5,1.9,1.83,1.073,Pointsbet,2407876,95348958,3,4
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,19.5,1.87,NA,NA,Pointsbet,2407876,95294860,5,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,21.5,2.75,NA,NA,Pointsbet,2407876,95294860,6,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,23.5,4.2,NA,NA,Pointsbet,2407876,95294860,7,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,25.5,6.5,NA,NA,Pointsbet,2407876,95294860,8,NA
-Green Bay Packers v Washington Commanders,Jordan Love,Green Bay Packers,Pass Completions,27.5,12,NA,NA,Pointsbet,2407876,95294860,9,NA
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,15.5,1.22,NA,NA,Pointsbet,2411151,95437773,3,NA
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,17.5,1.53,NA,NA,Pointsbet,2411151,95437773,4,NA
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,19.5,2.25,1.63,1.058,Pointsbet,2411151,95437775,1,2
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,19.5,2.2,NA,NA,Pointsbet,2411151,95437773,5,NA
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,21.5,3.4,NA,NA,Pointsbet,2411151,95437773,6,NA
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,23.5,6,NA,NA,Pointsbet,2411151,95437773,7,NA
-Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,25.5,10.5,NA,NA,Pointsbet,2411151,95437773,8,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,15.5,1.11,NA,NA,Pointsbet,2411151,95437773,20,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,17.5,1.29,NA,NA,Pointsbet,2411151,95437773,21,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,19.5,1.63,NA,NA,Pointsbet,2411151,95437773,22,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,20.5,1.87,1.87,1.07,Pointsbet,2411151,95437775,3,4
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,21.5,2.2,NA,NA,Pointsbet,2411151,95437773,23,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,23.5,3.1,NA,NA,Pointsbet,2411151,95437773,24,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,25.5,4.75,NA,NA,Pointsbet,2411151,95437773,25,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,27.5,8.5,NA,NA,Pointsbet,2411151,95437773,26,NA
-Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,29.5,12,NA,NA,Pointsbet,2411151,95437773,27,NA
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,13.5,1.11,NA,NA,Pointsbet,2410710,95435111,2,NA
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,15.5,1.27,NA,NA,Pointsbet,2410710,95435111,3,NA
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,17.5,1.63,NA,NA,Pointsbet,2410710,95435111,4,NA
+Arizona Cardinals v Carolina Panthers,Bryce Young,Carolina Panthers,Pass Completions,20.5,2.1,1.71,1.061,Pointsbet,2410917,95494832,7,8
+Arizona Cardinals v Carolina Panthers,Kyler Murray,Arizona Cardinals,Pass Completions,20.5,1.87,1.87,1.07,Pointsbet,2410917,95494832,5,6
+Baltimore Ravens v Cleveland Browns,Joe Flacco,Cleveland Browns,Pass Completions,24.5,1.87,1.87,1.07,Pointsbet,2410719,95443959,13,14
+Baltimore Ravens v Cleveland Browns,Lamar Jackson,Baltimore Ravens,Pass Completions,17.5,1.87,1.87,1.07,Pointsbet,2410719,95443959,9,10
+Cincinnati Bengals v Jacksonville Jaguars,Joe Burrow,Cincinnati Bengals,Pass Completions,25.5,2.1,1.71,1.061,Pointsbet,2410717,95468035,7,8
+Cincinnati Bengals v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Pass Completions,22.5,1.9,1.83,1.073,Pointsbet,2410717,95468035,5,6
+Dallas Cowboys v New York Giants,Dak Prescott,Dallas Cowboys,Pass Completions,22.5,1.9,1.83,1.073,Pointsbet,2410714,95479901,1,2
+Dallas Cowboys v New York Giants,Russell Wilson,New York Giants,Pass Completions,20.5,1.8,1.95,1.068,Pointsbet,2410714,95479901,3,4
+Detroit Lions v Chicago Bears,Caleb Williams,Chicago Bears,Pass Completions,20.5,2,1.77,1.065,Pointsbet,2410712,95430113,7,8
+Detroit Lions v Chicago Bears,Jared Goff,Detroit Lions,Pass Completions,22.5,2.15,1.69,1.057,Pointsbet,2410712,95430113,9,10
+Houston Texans v Tampa Bay Buccaneers,Baker Mayfield,Tampa Bay Buccaneers,Pass Completions,21.5,1.95,1.8,1.068,Pointsbet,2412480,95486993,3,4
+Houston Texans v Tampa Bay Buccaneers,C.J. Stroud,Houston Texans,Pass Completions,21.5,1.9,1.83,1.073,Pointsbet,2412480,95486993,1,2
+Indianapolis Colts v Denver Broncos,Bo Nix,Denver Broncos,Pass Completions,21.5,1.87,1.87,1.07,Pointsbet,2410918,95499465,5,6
+Kansas City Chiefs v Philadelphia Eagles,Jalen Hurts,Philadelphia Eagles,Pass Completions,19.5,1.87,1.87,1.07,Pointsbet,2410938,95459421,3,4
+Kansas City Chiefs v Philadelphia Eagles,Patrick Mahomes,Kansas City Chiefs,Pass Completions,23.5,1.95,1.8,1.068,Pointsbet,2410938,95459421,7,8
+Las Vegas Raiders v Los Angeles Chargers,Geno Smith,Las Vegas Raiders,Pass Completions,23.5,1.95,1.8,1.068,Pointsbet,2412682,95516422,1,2
+Las Vegas Raiders v Los Angeles Chargers,Justin Herbert,Los Angeles Chargers,Pass Completions,23.5,2.05,1.74,1.063,Pointsbet,2412682,95516422,3,4
+Miami Dolphins v New England Patriots,Drake Maye,New England Patriots,Pass Completions,22.5,1.95,1.8,1.068,Pointsbet,2410713,95482892,13,14
+Miami Dolphins v New England Patriots,Tua Tagovailoa,Miami Dolphins,Pass Completions,22.5,1.87,1.87,1.07,Pointsbet,2410713,95482892,9,10
+Minnesota Vikings v Atlanta Falcons,J.J. Mccarthy,NA,Pass Completions,18.5,1.8,1.95,1.068,Pointsbet,2411151,95437775,7,8
+Minnesota Vikings v Atlanta Falcons,Michael Penix,NA,Pass Completions,20.5,1.77,2,1.065,Pointsbet,2411151,95437775,3,4
+New Orleans Saints v San Francisco 49ers,Mac Jones,San Francisco 49ers,Pass Completions,19.5,2,1.77,1.065,Pointsbet,2410715,95453435,9,10
+New Orleans Saints v San Francisco 49ers,Spencer Rattler,New Orleans Saints,Pass Completions,20.5,2.1,1.71,1.061,Pointsbet,2410715,95453435,1,2
+Pittsburgh Steelers v Seattle Seahawks,Aaron Rodgers,Pittsburgh Steelers,Pass Completions,21.5,1.87,1.87,1.07,Pointsbet,2410711,95459103,7,8
+Pittsburgh Steelers v Seattle Seahawks,Sam Darnold,Seattle Seahawks,Pass Completions,18.5,1.9,1.83,1.073,Pointsbet,2410711,95459103,9,10
 Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,18.5,1.87,1.87,1.07,Pointsbet,2410710,95435115,1,2
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,19.5,2.3,NA,NA,Pointsbet,2410710,95435111,5,NA
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,21.5,3.4,NA,NA,Pointsbet,2410710,95435111,6,NA
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,23.5,5,NA,NA,Pointsbet,2410710,95435111,7,NA
-Tennessee Titans v Los Angeles Rams,Cameron Ward,NA,Pass Completions,25.5,9,NA,NA,Pointsbet,2410710,95435111,8,NA
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,17.5,1.22,NA,NA,Pointsbet,2410710,95435111,21,NA
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,19.5,1.5,NA,NA,Pointsbet,2410710,95435111,22,NA
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,21.5,2.1,1.71,1.061,Pointsbet,2410710,95435115,3,4
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,21.5,2.05,NA,NA,Pointsbet,2410710,95435111,23,NA
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,23.5,3,NA,NA,Pointsbet,2410710,95435111,24,NA
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,25.5,4.75,NA,NA,Pointsbet,2410710,95435111,25,NA
-Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,27.5,8.5,NA,NA,Pointsbet,2410710,95435111,26,NA
+Tennessee Titans v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Pass Completions,21.5,2.2,1.67,1.053,Pointsbet,2410710,95435115,3,4
