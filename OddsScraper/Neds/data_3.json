@@ -24,20 +24,12 @@
             "sort_order": 50,
             "market_id": "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60"
         },
-        "2ed6c00b-f4f9-41d0-8084-29859d3a02bc": {
-            "id": "2ed6c00b-f4f9-41d0-8084-29859d3a02bc",
-            "name": "Minnesota Vikings",
-            "home_away": "HOME",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "ed02270d-0959-4a09-a48a-f1dd9ba09457"
-        },
-        "531762be-406b-4727-a9f1-18058bfbbc9b": {
-            "id": "531762be-406b-4727-a9f1-18058bfbbc9b",
+        "29ec0f08-a409-411f-8a38-0f887e6989ea": {
+            "id": "29ec0f08-a409-411f-8a38-0f887e6989ea",
             "name": "Over",
             "visible": true,
             "sort_order": 10,
-            "market_id": "90b2e054-b4b0-4e38-9b37-41d6d68d3684"
+            "market_id": "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab"
         },
         "781c6ab0-bae2-400e-893f-462cf2a05fab": {
             "id": "781c6ab0-bae2-400e-893f-462cf2a05fab",
@@ -46,6 +38,29 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60"
+        },
+        "7df88d5b-a926-4fd5-a603-8f65e8ea6f92": {
+            "id": "7df88d5b-a926-4fd5-a603-8f65e8ea6f92",
+            "name": "Minnesota Vikings",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "ac692aa9-a237-48c8-8154-351b96938125"
+        },
+        "8b8de203-4d6d-4b81-959a-6073a0093433": {
+            "id": "8b8de203-4d6d-4b81-959a-6073a0093433",
+            "name": "Cincinnati Bengals",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "ac692aa9-a237-48c8-8154-351b96938125"
+        },
+        "9178ec6c-0388-413a-9fb7-26353232a2af": {
+            "id": "9178ec6c-0388-413a-9fb7-26353232a2af",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab"
         },
         "98d5b9be-3f8f-43f7-9b03-f55f6504ee26": {
             "id": "98d5b9be-3f8f-43f7-9b03-f55f6504ee26",
@@ -62,13 +77,6 @@
             "sort_order": 30,
             "market_id": "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60"
         },
-        "d79d72d6-d1df-4b83-ab9e-642ac65a7168": {
-            "id": "d79d72d6-d1df-4b83-ab9e-642ac65a7168",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "90b2e054-b4b0-4e38-9b37-41d6d68d3684"
-        },
         "e7be046f-0b6c-4682-845e-b6a84ce7f237": {
             "id": "e7be046f-0b6c-4682-845e-b6a84ce7f237",
             "name": "Minnesota Vikings 1-13",
@@ -76,14 +84,6 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60"
-        },
-        "eaf6ba9d-418c-4f3c-a045-5de7b9205130": {
-            "id": "eaf6ba9d-418c-4f3c-a045-5de7b9205130",
-            "name": "Cincinnati Bengals",
-            "home_away": "AWAY",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "ed02270d-0959-4a09-a48a-f1dd9ba09457"
         }
     },
     "event_participants": {
@@ -131,8 +131,8 @@
                     "market_type_group_id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
                     "market_ids": [
                         "4b42dc3f-ad57-4fd6-ba1c-e370b0981cff",
-                        "ed02270d-0959-4a09-a48a-f1dd9ba09457",
-                        "90b2e054-b4b0-4e38-9b37-41d6d68d3684",
+                        "ac692aa9-a237-48c8-8154-351b96938125",
+                        "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab",
                         "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60"
                     ]
                 },
@@ -149,8 +149,8 @@
             ],
             "market_ids": [
                 "4b42dc3f-ad57-4fd6-ba1c-e370b0981cff",
-                "ed02270d-0959-4a09-a48a-f1dd9ba09457",
-                "90b2e054-b4b0-4e38-9b37-41d6d68d3684",
+                "ac692aa9-a237-48c8-8154-351b96938125",
+                "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab",
                 "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60"
             ],
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
@@ -223,8 +223,8 @@
             ],
             "num_winners": 1
         },
-        "90b2e054-b4b0-4e38-9b37-41d6d68d3684": {
-            "id": "90b2e054-b4b0-4e38-9b37-41d6d68d3684",
+        "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab": {
+            "id": "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab",
             "event_id": "2bb6ec5b-0119-4fa9-8a20-650938207b86",
             "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
@@ -235,18 +235,18 @@
             "actual_start": {
                 "seconds": 1758474000
             },
-            "handicap": 44.5,
+            "handicap": 41.5,
             "same_game_multi_available": true,
             "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
             "entrant_ids": [
-                "531762be-406b-4727-a9f1-18058bfbbc9b",
-                "d79d72d6-d1df-4b83-ab9e-642ac65a7168"
+                "29ec0f08-a409-411f-8a38-0f887e6989ea",
+                "9178ec6c-0388-413a-9fb7-26353232a2af"
             ],
             "num_winners": 1
         },
-        "ed02270d-0959-4a09-a48a-f1dd9ba09457": {
-            "id": "ed02270d-0959-4a09-a48a-f1dd9ba09457",
+        "ac692aa9-a237-48c8-8154-351b96938125": {
+            "id": "ac692aa9-a237-48c8-8154-351b96938125",
             "event_id": "2bb6ec5b-0119-4fa9-8a20-650938207b86",
             "market_type_id": "15127a4c-20a0-409a-843f-3d6ea56c6721",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
@@ -257,13 +257,13 @@
             "actual_start": {
                 "seconds": 1758474000
             },
-            "handicap": 5.5,
+            "handicap": 3,
             "same_game_multi_available": true,
             "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
             "entrant_ids": [
-                "2ed6c00b-f4f9-41d0-8084-29859d3a02bc",
-                "eaf6ba9d-418c-4f3c-a045-5de7b9205130"
+                "7df88d5b-a926-4fd5-a603-8f65e8ea6f92",
+                "8b8de203-4d6d-4b81-959a-6073a0093433"
             ],
             "num_winners": 1
         }
@@ -271,49 +271,61 @@
     "markets_allow_cashout": {
         "1cbbc145-c8f8-4f0e-b774-2d69c9c99f60": true,
         "4b42dc3f-ad57-4fd6-ba1c-e370b0981cff": true,
-        "90b2e054-b4b0-4e38-9b37-41d6d68d3684": false,
-        "ed02270d-0959-4a09-a48a-f1dd9ba09457": false
+        "8f34eb7d-38cf-4baa-ac4f-f4db42bfd6ab": false,
+        "ac692aa9-a237-48c8-8154-351b96938125": false
     },
     "prices": {
         "05b79d43-d363-43d1-94f2-1c5e79b7e9df:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
+                "numerator": 31,
                 "denominator": 50
             }
         },
         "212581aa-043d-4d9f-a80a-4b2528d42017:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 2,
+                "denominator": 1
             }
         },
         "22f1147e-ed93-4f86-a956-c338c62f18b2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 35,
-                "denominator": 4
+                "numerator": 13,
+                "denominator": 2
             }
         },
-        "2ed6c00b-f4f9-41d0-8084-29859d3a02bc:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "29ec0f08-a409-411f-8a38-0f887e6989ea:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 47,
+                "denominator": 50
             }
         },
-        "531762be-406b-4727-a9f1-18058bfbbc9b:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "781c6ab0-bae2-400e-893f-462cf2a05fab:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 5
+            }
+        },
+        "7df88d5b-a926-4fd5-a603-8f65e8ea6f92:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 50
+            }
+        },
+        "8b8de203-4d6d-4b81-959a-6073a0093433:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 87,
                 "denominator": 100
             }
         },
-        "781c6ab0-bae2-400e-893f-462cf2a05fab:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "9178ec6c-0388-413a-9fb7-26353232a2af:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 4
+                "numerator": 87,
+                "denominator": 100
             }
         },
         "98d5b9be-3f8f-43f7-9b03-f55f6504ee26:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 39,
+                "numerator": 27,
                 "denominator": 20
             }
         },
@@ -323,22 +335,10 @@
                 "denominator": 1
             }
         },
-        "d79d72d6-d1df-4b83-ab9e-642ac65a7168:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 47,
-                "denominator": 50
-            }
-        },
         "e7be046f-0b6c-4682-845e-b6a84ce7f237:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
-            }
-        },
-        "eaf6ba9d-418c-4f3c-a045-5de7b9205130:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 3,
+                "denominator": 2
             }
         }
     }
