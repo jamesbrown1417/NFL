@@ -14,31 +14,40 @@ tab_receiving_yards <- read_csv("Data/scraped_odds/tab_receiving_yards.csv")
 betright_rushing_yards <- read_csv("Data/scraped_odds/betright_player_rushing_yards.csv")
 betright_receiving_yards <- read_csv("Data/scraped_odds/betright_player_receiving_yards.csv")
 
+# Read in sportsbet rushing yards and receiving yards data
+sportsbet_rushing_yards <- read_csv("Data/scraped_odds/sportsbet_rushing_yards.csv")
+sportsbet_receiving_yards <- read_csv("Data/scraped_odds/sportsbet_receiving_yards.csv")
+
 # Select only needed variables
 tab_rushing_yards <-
   tab_rushing_yards |>
-  select(match, player_name, line, over_price) |> 
-  filter((line + 0.5) %% 5 == 0) |>
-  mutate(line = line - 5)
+  select(match, player_name, over_line = line, over_price, over_agency = agency) |> 
+  filter((over_line + 0.5) %% 5 == 0) |>
+  mutate(over_line = over_line - 5)
 
 tab_receiving_yards <-
   tab_receiving_yards |>
-  select(match, player_name, line, over_price) |> 
-  filter((line + 0.5) %% 5 == 0) |>
-  mutate(line = line - 5)
+  select(match, player_name, over_line = line, over_price, over_agency = agency) |> 
+  filter((over_line + 0.5) %% 5 == 0) |>
+  mutate(over_line = over_line - 5)
 
-betright_rushing_yards <-
+other_rushing_yards <-
   betright_rushing_yards |>
-  select(match, player_name, line, under_price)
+  bind_rows(sportsbet_rushing_yards) |>
+  filter(!is.na(under_price)) |> 
+  select(match, player_name, under_line = line, under_price, under_agency = agency)
 
-betright_receiving_yards <-
+other_receiving_yards <-
   betright_receiving_yards |>
-  select(match, player_name, line, under_price)
+  bind_rows(sportsbet_receiving_yards) |>
+  filter(!is.na(under_price)) |>
+  select(match, player_name, under_line = line, under_price, under_agency = agency)
 
 # Join Together
 rushing_yards_arbs <-
   tab_rushing_yards |>
-  left_join(betright_rushing_yards) |> 
+  left_join(other_rushing_yards, relationship = "many-to-many") |> 
+  filter(over_line <= under_line) |>
     mutate(margin = 1 / under_price + 1 / over_price) |>
       arrange(margin) |>
       mutate(margin = (1 - margin)) |>
@@ -46,7 +55,8 @@ rushing_yards_arbs <-
 
 receiving_yards_arbs <-
   tab_receiving_yards |>
-  inner_join(betright_receiving_yards) |> 
+  left_join(other_receiving_yards, relationship = "many-to-many") |> 
+  filter(over_line <= under_line) |>
     mutate(margin = 1 / under_price + 1 / over_price) |>
       arrange(margin) |>
       mutate(margin = (1 - margin)) |>
