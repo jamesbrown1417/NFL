@@ -1,12 +1,12 @@
 id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
-1615519951,Over,301,5304096719,1.8,69.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615519952,Under,302,5304096720,2.0,69.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615519939,Over,301,5304090110,1.833,55.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615519940,Under,302,5304090111,1.952,55.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615519969,Over,301,5304117006,1.729,29.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615519970,Under,302,5304117007,2.09,29.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615520002,Over,301,5304098897,1.781,22.5,Ray Davis Total Rushing Yards,Ray Davis Total Rushing Yards,Buffalo Bills,Miami Dolphins
-1615520003,Under,302,5304098898,2.02,22.5,Ray Davis Total Rushing Yards,Ray Davis Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615519951,Over,301,5304210083,1.826,69.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615519952,Under,302,5304210084,1.961,69.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615519939,Over,301,5304210029,1.892,55.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615519940,Under,302,5304210030,1.892,55.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615519969,Over,301,5304214363,2.05,29.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615519970,Under,302,5304214364,1.757,29.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615520002,Over,301,5304209980,1.909,22.5,Ray Davis Total Rushing Yards,Ray Davis Total Rushing Yards,Buffalo Bills,Miami Dolphins
+1615520003,Under,302,5304209981,1.877,22.5,Ray Davis Total Rushing Yards,Ray Davis Total Rushing Yards,Buffalo Bills,Miami Dolphins
 1615604830,Over,53374,5304003986,2.03,74.5,Quinton Jackson Total Rushing Yards,Quinton Jackson Total Rushing Yards,Charlotte,Rice
 1615604831,Under,53375,5304003987,1.769,74.5,Quinton Jackson Total Rushing Yards,Quinton Jackson Total Rushing Yards,Charlotte,Rice
 1615604779,Over,53340,5303106144,2.21,36.5,CJ Stokes Total Rushing Yards,CJ Stokes Total Rushing Yards,Charlotte,Rice
@@ -43,8 +43,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1615675598,Under,470,5303891376,1.869,26.5,Najee Harris Total Rushing Yards,Najee Harris Total Rushing Yards,Los Angeles Chargers,Denver Broncos
 1615675092,Over,459,5303891874,1.869,69.5,Chase Brown Total Rushing Yards,Chase Brown Total Rushing Yards,Minnesota Vikings,Cincinnati Bengals
 1615675093,Under,460,5303891875,1.869,69.5,Chase Brown Total Rushing Yards,Chase Brown Total Rushing Yards,Minnesota Vikings,Cincinnati Bengals
-1615675156,Over,459,5303891379,1.869,73.5,Jordan Mason Total Rushing Yards,Jordan Mason Total Rushing Yards,Minnesota Vikings,Cincinnati Bengals
-1615675157,Under,460,5303891381,1.869,73.5,Jordan Mason Total Rushing Yards,Jordan Mason Total Rushing Yards,Minnesota Vikings,Cincinnati Bengals
+1615675156,Over,459,5304148384,1.833,73.5,Jordan Mason Total Rushing Yards,Jordan Mason Total Rushing Yards,Minnesota Vikings,Cincinnati Bengals
+1615675157,Under,460,5304148385,1.909,73.5,Jordan Mason Total Rushing Yards,Jordan Mason Total Rushing Yards,Minnesota Vikings,Cincinnati Bengals
 1615675594,Over,457,5303940132,1.98,42.5,Quinshon Judkins Total Rushing Yards,Quinshon Judkins Total Rushing Yards,Cleveland Browns,Green Bay Packers
 1615675595,Under,458,5303940133,1.769,42.5,Quinshon Judkins Total Rushing Yards,Quinshon Judkins Total Rushing Yards,Cleveland Browns,Green Bay Packers
 1615675525,Over,457,5303909092,1.869,78.5,Josh Jacobs Total Rushing Yards,Josh Jacobs Total Rushing Yards,Cleveland Browns,Green Bay Packers
@@ -93,3 +93,11 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1615684673,Under,472,5304071332,1.869,14.5,Spencer Rattler Total Rushing Yards,Spencer Rattler Total Rushing Yards,Seattle Seahawks,New Orleans Saints
 1615674812,Over,471,5304073016,1.869,57.5,Alvin Kamara Total Rushing Yards,Alvin Kamara Total Rushing Yards,Seattle Seahawks,New Orleans Saints
 1615674813,Under,472,5304073017,1.869,57.5,Alvin Kamara Total Rushing Yards,Alvin Kamara Total Rushing Yards,Seattle Seahawks,New Orleans Saints
+1615684717,Over,465,5304117913,1.869,16.5,Braelon Allen Total Rushing Yards,Braelon Allen Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684718,Under,466,5304117914,1.869,16.5,Braelon Allen Total Rushing Yards,Braelon Allen Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684720,Over,465,5304117302,1.869,58.5,Breece Hall Total Rushing Yards,Breece Hall Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684721,Under,466,5304117303,1.869,58.5,Breece Hall Total Rushing Yards,Breece Hall Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684726,Over,465,5304116787,1.869,25.5,Rachaad White Total Rushing Yards,Rachaad White Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684727,Under,466,5304116788,1.869,25.5,Rachaad White Total Rushing Yards,Rachaad White Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684723,Over,465,5304117082,1.869,68.5,Bucky Irving Total Rushing Yards,Bucky Irving Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
+1615684724,Under,466,5304117083,1.869,68.5,Bucky Irving Total Rushing Yards,Bucky Irving Total Rushing Yards,Tampa Bay Buccaneers,New York Jets
