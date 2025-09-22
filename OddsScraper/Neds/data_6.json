@@ -1,0 +1,344 @@
+{
+    "entrants": {
+        "0b2e2140-d67d-41d6-9520-f526fca18986": {
+            "id": "0b2e2140-d67d-41d6-9520-f526fca18986",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "60560cd8-42fb-4a3c-99af-75aee6fd92ea"
+        },
+        "16d20f58-318b-4b9c-ad99-7a6652968b9d": {
+            "id": "16d20f58-318b-4b9c-ad99-7a6652968b9d",
+            "name": "New England Patriots 1-13",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "15899081-213a-4709-bec7-fec125a5b454"
+        },
+        "2bd3a1ff-642a-44b3-8200-685e3c88600e": {
+            "id": "2bd3a1ff-642a-44b3-8200-685e3c88600e",
+            "name": "New England Patriots",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7"
+        },
+        "67741f81-83f8-4731-bcce-3c39def264af": {
+            "id": "67741f81-83f8-4731-bcce-3c39def264af",
+            "name": "Carolina Panthers",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "d6aa4996-237d-41fa-b857-445fe6b36373"
+        },
+        "b2e14d4e-3cba-47e6-bf9a-7fc097676a63": {
+            "id": "b2e14d4e-3cba-47e6-bf9a-7fc097676a63",
+            "name": "New England Patriots 14+",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "15899081-213a-4709-bec7-fec125a5b454"
+        },
+        "c07b5858-3d98-4e27-af15-ff058573ae92": {
+            "id": "c07b5858-3d98-4e27-af15-ff058573ae92",
+            "name": "Carolina Panthers 1-13",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "15899081-213a-4709-bec7-fec125a5b454"
+        },
+        "ce1d6006-7ace-4bbc-9b98-68663015af8a": {
+            "id": "ce1d6006-7ace-4bbc-9b98-68663015af8a",
+            "name": "New England Patriots",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "d6aa4996-237d-41fa-b857-445fe6b36373"
+        },
+        "ceb2026a-8bba-4a77-ab4e-d94c3a7ee681": {
+            "id": "ceb2026a-8bba-4a77-ab4e-d94c3a7ee681",
+            "name": "Draw",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "15899081-213a-4709-bec7-fec125a5b454"
+        },
+        "ded2dd01-f4fa-475e-b0eb-a16c94469d0f": {
+            "id": "ded2dd01-f4fa-475e-b0eb-a16c94469d0f",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "60560cd8-42fb-4a3c-99af-75aee6fd92ea"
+        },
+        "def1cb43-e8e4-4c5d-b02e-6ecf756c0e33": {
+            "id": "def1cb43-e8e4-4c5d-b02e-6ecf756c0e33",
+            "name": "Carolina Panthers 14+",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "15899081-213a-4709-bec7-fec125a5b454"
+        },
+        "ebd668dd-e634-47fd-b20a-324177c37ad6": {
+            "id": "ebd668dd-e634-47fd-b20a-324177c37ad6",
+            "name": "Carolina Panthers",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7"
+        }
+    },
+    "event_participants": {
+        "0ca2a952-cbd1-4dd2-86a0-6bc45ef7b272": {
+            "id": "0ca2a952-cbd1-4dd2-86a0-6bc45ef7b272",
+            "event_id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "name": "Carolina Panthers",
+            "home_away": "AWAY",
+            "colour": "#0085ca"
+        },
+        "8c09e2fb-2d01-4255-8b3d-9f4f00b21637": {
+            "id": "8c09e2fb-2d01-4255-8b3d-9f4f00b21637",
+            "event_id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "name": "New England Patriots",
+            "home_away": "HOME",
+            "colour": "#002244"
+        }
+    },
+    "events": {
+        "7b3fbd09-85eb-4152-8cda-d2266ea29eb0": {
+            "id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "name": "New England Patriots vs Carolina Panthers",
+            "event_type": {
+                "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
+                "name": "Match"
+            },
+            "match_status": "BettingOpen",
+            "advertised_start": "2025-09-28T17:00:00Z",
+            "actual_start": "2025-09-28T17:00:00Z",
+            "visible": true,
+            "slug": "new-england-patriots-vs-carolina-panthers",
+            "competition": {
+                "id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+                "name": "NFL",
+                "sort_order": 1,
+                "region": "USA"
+            },
+            "competition_id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+            "market_type_group_ids": [
+                "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                "05fe767b-30dd-42fb-a9a6-b8719592ac6d"
+            ],
+            "market_type_group_markets": [
+                {
+                    "market_type_group_id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                    "market_ids": [
+                        "d6aa4996-237d-41fa-b857-445fe6b36373",
+                        "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7",
+                        "60560cd8-42fb-4a3c-99af-75aee6fd92ea"
+                    ]
+                },
+                {
+                    "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+                    "market_ids": [
+                        "15899081-213a-4709-bec7-fec125a5b454"
+                    ]
+                }
+            ],
+            "market_count": 4,
+            "main_markets": [
+                "d6aa4996-237d-41fa-b857-445fe6b36373"
+            ],
+            "market_ids": [
+                "d6aa4996-237d-41fa-b857-445fe6b36373",
+                "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7",
+                "60560cd8-42fb-4a3c-99af-75aee6fd92ea",
+                "15899081-213a-4709-bec7-fec125a5b454"
+            ],
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "participant_ids": [
+                "0ca2a952-cbd1-4dd2-86a0-6bc45ef7b272",
+                "8c09e2fb-2d01-4255-8b3d-9f4f00b21637"
+            ]
+        }
+    },
+    "market_type_groups": {
+        "05fe767b-30dd-42fb-a9a6-b8719592ac6d": {
+            "id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Margin Markets",
+            "priority": 160,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        },
+        "81a92a58-39c5-4adc-85f0-6e6fb1798226": {
+            "id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Top Markets",
+            "priority": 711,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        }
+    },
+    "markets": {
+        "15899081-213a-4709-bec7-fec125a5b454": {
+            "id": "15899081-213a-4709-bec7-fec125a5b454",
+            "event_id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "market_type_id": "c0e86b7d-b27a-4a85-b7d1-f15867d8415d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Winning Margin 1-13",
+            "advertised_start": {
+                "seconds": 1759078800
+            },
+            "actual_start": {
+                "seconds": 1759078800
+            },
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "16d20f58-318b-4b9c-ad99-7a6652968b9d",
+                "b2e14d4e-3cba-47e6-bf9a-7fc097676a63",
+                "ceb2026a-8bba-4a77-ab4e-d94c3a7ee681",
+                "c07b5858-3d98-4e27-af15-ff058573ae92",
+                "def1cb43-e8e4-4c5d-b02e-6ecf756c0e33"
+            ],
+            "num_winners": 1
+        },
+        "60560cd8-42fb-4a3c-99af-75aee6fd92ea": {
+            "id": "60560cd8-42fb-4a3c-99af-75aee6fd92ea",
+            "event_id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Total",
+            "advertised_start": {
+                "seconds": 1759078800
+            },
+            "actual_start": {
+                "seconds": 1759078800
+            },
+            "handicap": 44.5,
+            "same_game_multi_available": true,
+            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "ded2dd01-f4fa-475e-b0eb-a16c94469d0f",
+                "0b2e2140-d67d-41d6-9520-f526fca18986"
+            ],
+            "num_winners": 1
+        },
+        "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7": {
+            "id": "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7",
+            "event_id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "market_type_id": "15127a4c-20a0-409a-843f-3d6ea56c6721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Line",
+            "advertised_start": {
+                "seconds": 1759078800
+            },
+            "actual_start": {
+                "seconds": 1759078800
+            },
+            "handicap": 4.5,
+            "same_game_multi_available": true,
+            "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "2bd3a1ff-642a-44b3-8200-685e3c88600e",
+                "ebd668dd-e634-47fd-b20a-324177c37ad6"
+            ],
+            "num_winners": 1
+        },
+        "d6aa4996-237d-41fa-b857-445fe6b36373": {
+            "id": "d6aa4996-237d-41fa-b857-445fe6b36373",
+            "event_id": "7b3fbd09-85eb-4152-8cda-d2266ea29eb0",
+            "market_type_id": "9592f47d-6ad7-4f66-a97f-b3d80f540721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Head To Head",
+            "advertised_start": {
+                "seconds": 1759078800
+            },
+            "actual_start": {
+                "seconds": 1759078800
+            },
+            "is_primary": true,
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "ce1d6006-7ace-4bbc-9b98-68663015af8a",
+                "67741f81-83f8-4731-bcce-3c39def264af"
+            ],
+            "num_winners": 1
+        }
+    },
+    "markets_allow_cashout": {
+        "15899081-213a-4709-bec7-fec125a5b454": true,
+        "60560cd8-42fb-4a3c-99af-75aee6fd92ea": false,
+        "c6f6dc85-6d4c-4d80-8cbf-007c33c8f1d7": false,
+        "d6aa4996-237d-41fa-b857-445fe6b36373": true
+    },
+    "prices": {
+        "0b2e2140-d67d-41d6-9520-f526fca18986:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "16d20f58-318b-4b9c-ad99-7a6652968b9d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
+            }
+        },
+        "2bd3a1ff-642a-44b3-8200-685e3c88600e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "67741f81-83f8-4731-bcce-3c39def264af:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 37,
+                "denominator": 20
+            }
+        },
+        "b2e14d4e-3cba-47e6-bf9a-7fc097676a63:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "c07b5858-3d98-4e27-af15-ff058573ae92:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 2
+            }
+        },
+        "ce1d6006-7ace-4bbc-9b98-68663015af8a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 25
+            }
+        },
+        "ceb2026a-8bba-4a77-ab4e-d94c3a7ee681:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ded2dd01-f4fa-475e-b0eb-a16c94469d0f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "def1cb43-e8e4-4c5d-b02e-6ecf756c0e33:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 2
+            }
+        },
+        "ebd668dd-e634-47fd-b20a-324177c37ad6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        }
+    }
+}
