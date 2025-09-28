@@ -51,7 +51,8 @@ rushing_yards_arbs <-
     mutate(margin = 1 / under_price + 1 / over_price) |>
       arrange(margin) |>
       mutate(margin = (1 - margin)) |>
-      mutate(margin = 100 * margin)
+      mutate(margin = 100 * margin) |> 
+  filter(over_line >= 29.5)
 
 receiving_yards_arbs <-
   tab_receiving_yards |>
@@ -60,4 +61,5 @@ receiving_yards_arbs <-
     mutate(margin = 1 / under_price + 1 / over_price) |>
       arrange(margin) |>
       mutate(margin = (1 - margin)) |>
-      mutate(margin = 100 * margin)
+      mutate(margin = 100 * margin) |> 
+  filter(over_line >= 29.5)
