@@ -1,15 +1,15 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
 Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,34.5,1.11,NA,NA,Pointsbet,2428876,96352967,2,NA
 Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,49.5,1.29,NA,NA,Pointsbet,2428876,96352967,3,NA
-Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,64.5,1.63,NA,NA,Pointsbet,2428876,96352967,4,NA
-Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,75.5,1.9,1.83,1.073,Pointsbet,2428876,96291455,5,6
-Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,79.5,2.1,NA,NA,Pointsbet,2428876,96352967,5,NA
-Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,94.5,2.9,NA,NA,Pointsbet,2428876,96352967,6,NA
-Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,109.5,4.1,NA,NA,Pointsbet,2428876,96352967,7,NA
-Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,124.5,5.75,NA,NA,Pointsbet,2428876,96352967,8,NA
+Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,64.5,1.67,NA,NA,Pointsbet,2428876,96352967,4,NA
+Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,70.5,1.8,1.95,1.068,Pointsbet,2428876,96291455,3,4
+Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,79.5,2.15,NA,NA,Pointsbet,2428876,96352967,5,NA
+Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,94.5,3,NA,NA,Pointsbet,2428876,96352967,6,NA
+Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,109.5,4.3,NA,NA,Pointsbet,2428876,96352967,7,NA
+Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,124.5,6,NA,NA,Pointsbet,2428876,96352967,8,NA
 Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,139.5,9,NA,NA,Pointsbet,2428876,96352967,9,NA
 Dallas Cowboys v Green Bay Packers,Josh Jacobs,Green Bay Packers,Rushing Yards,154.5,14,NA,NA,Pointsbet,2428876,96352967,10,NA
-Dallas Cowboys v Green Bay Packers,Miles Sanders,Dallas Cowboys,Rushing Yards,20.5,2,1.77,1.065,Pointsbet,2428876,96291455,7,8
+Dallas Cowboys v Green Bay Packers,Miles Sanders,Dallas Cowboys,Rushing Yards,15.5,1.87,1.87,1.07,Pointsbet,2428876,96291455,9,10
 Denver Broncos v Cincinnati Bengals,Bo Nix,Denver Broncos,Rushing Yards,19.5,1.77,NA,NA,Pointsbet,2430558,96386136,23,NA
 Denver Broncos v Cincinnati Bengals,Bo Nix,Denver Broncos,Rushing Yards,20.5,1.83,1.9,1.073,Pointsbet,2430558,96386143,5,6
 Denver Broncos v Cincinnati Bengals,Bo Nix,Denver Broncos,Rushing Yards,34.5,3.4,NA,NA,Pointsbet,2430558,96386136,24,NA
@@ -30,48 +30,13 @@ Denver Broncos v Cincinnati Bengals,J.K. Dobbins,Denver Broncos,Rushing Yards,94
 Denver Broncos v Cincinnati Bengals,J.K. Dobbins,Denver Broncos,Rushing Yards,109.5,6,NA,NA,Pointsbet,2430558,96386136,7,NA
 Denver Broncos v Cincinnati Bengals,J.K. Dobbins,Denver Broncos,Rushing Yards,124.5,10,NA,NA,Pointsbet,2430558,96386136,8,NA
 Denver Broncos v Cincinnati Bengals,J.K. Dobbins,Denver Broncos,Rushing Yards,139.5,16,NA,NA,Pointsbet,2430558,96386136,9,NA
-Kansas City Chiefs v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,49.5,1.77,NA,NA,Pointsbet,2428773,96312092,14,NA
-Kansas City Chiefs v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,50.5,1.95,1.77,1.078,Pointsbet,2428773,96312096,57,58
-Kansas City Chiefs v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,64.5,4.4,NA,NA,Pointsbet,2428773,96312092,15,NA
-Kansas City Chiefs v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,79.5,10.5,NA,NA,Pointsbet,2428773,96312092,16,NA
-Kansas City Chiefs v Baltimore Ravens,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,34.5,1.15,NA,NA,Pointsbet,2428773,96312092,2,NA
-Kansas City Chiefs v Baltimore Ravens,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,45.5,1.74,2,1.075,Pointsbet,2428773,96312096,65,66
-Kansas City Chiefs v Baltimore Ravens,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,49.5,2.15,NA,NA,Pointsbet,2428773,96312092,3,NA
-Kansas City Chiefs v Baltimore Ravens,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,64.5,4.75,NA,NA,Pointsbet,2428773,96312092,4,NA
-Kansas City Chiefs v Baltimore Ravens,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,79.5,10.5,NA,NA,Pointsbet,2428773,96312092,5,NA
-Kansas City Chiefs v Baltimore Ravens,Justice Hill,Baltimore Ravens,Rushing Yards,5.5,1.71,2,1.085,Pointsbet,2428773,96312096,21,22
-Kansas City Chiefs v Baltimore Ravens,Kareem Hunt,Kansas City Chiefs,Rushing Yards,19.5,1.29,NA,NA,Pointsbet,2428773,96312092,45,NA
-Kansas City Chiefs v Baltimore Ravens,Kareem Hunt,Kansas City Chiefs,Rushing Yards,25.5,1.67,2.1,1.075,Pointsbet,2428773,96312096,15,16
-Kansas City Chiefs v Baltimore Ravens,Kareem Hunt,Kansas City Chiefs,Rushing Yards,34.5,2.6,NA,NA,Pointsbet,2428773,96312092,46,NA
-Kansas City Chiefs v Baltimore Ravens,Kareem Hunt,Kansas City Chiefs,Rushing Yards,49.5,6,NA,NA,Pointsbet,2428773,96312092,47,NA
-Kansas City Chiefs v Baltimore Ravens,Kareem Hunt,Kansas City Chiefs,Rushing Yards,64.5,11,NA,NA,Pointsbet,2428773,96312092,48,NA
-Kansas City Chiefs v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,64.5,1.77,NA,NA,Pointsbet,2428773,96312092,26,NA
-Kansas City Chiefs v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,65.5,1.85,1.85,1.081,Pointsbet,2428773,96312096,59,60
-Kansas City Chiefs v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,79.5,4,NA,NA,Pointsbet,2428773,96312092,27,NA
-Kansas City Chiefs v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,94.5,8,NA,NA,Pointsbet,2428773,96312092,28,NA
-Kansas City Chiefs v Baltimore Ravens,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,10.5,1.71,1.95,1.098,Pointsbet,2428773,96312096,73,74
-Kansas City Chiefs v Baltimore Ravens,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,19.5,3.1,NA,NA,Pointsbet,2428773,96312092,34,NA
-Kansas City Chiefs v Baltimore Ravens,Patrick Mahomes,Kansas City Chiefs,Rushing Yards,34.5,10.5,NA,NA,Pointsbet,2428773,96312092,35,NA
-Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,139.5,1.27,NA,NA,Pointsbet,2428772,96351351,9,NA
-Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,145.5,1.65,2.15,1.071,Pointsbet,2428772,96351355,61,62
-Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,154.5,2.4,NA,NA,Pointsbet,2428772,96351351,10,NA
-Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,169.5,4.4,NA,NA,Pointsbet,2428772,96351351,11,NA
-Las Vegas Raiders v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,5.5,2.4,1.5,1.083,Pointsbet,2428772,96351355,49,50
-Las Vegas Raiders v Chicago Bears,Caleb Williams,Chicago Bears,Rushing Yards,19.5,5.75,NA,NA,Pointsbet,2428772,96351351,23,NA
-Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,19.5,1.42,NA,NA,Pointsbet,2428772,96351351,12,NA
-Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,25.5,1.9,1.8,1.082,Pointsbet,2428772,96351355,39,40
-Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,34.5,3.1,NA,NA,Pointsbet,2428772,96351351,13,NA
-Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,49.5,6.5,NA,NA,Pointsbet,2428772,96351351,14,NA
-Las Vegas Raiders v Chicago Bears,Geno Smith,Las Vegas Raiders,Rushing Yards,30.5,2.3,1.56,1.076,Pointsbet,2428772,96351355,47,48
-Las Vegas Raiders v Chicago Bears,Geno Smith,Las Vegas Raiders,Rushing Yards,34.5,2.75,NA,NA,Pointsbet,2428772,96351351,35,NA
-Las Vegas Raiders v Chicago Bears,Geno Smith,Las Vegas Raiders,Rushing Yards,49.5,10.5,NA,NA,Pointsbet,2428772,96351351,36,NA
-Los Angeles Rams v Indianapolis Colts,Jonathan Taylor,Indianapolis Colts,Rushing Yards,75.5,2.15,1.65,1.071,Pointsbet,2428743,96332299,35,36
-Los Angeles Rams v Indianapolis Colts,Jonathan Taylor,Indianapolis Colts,Rushing Yards,79.5,2.55,NA,NA,Pointsbet,2428743,96332298,27,NA
-Los Angeles Rams v Indianapolis Colts,Jonathan Taylor,Indianapolis Colts,Rushing Yards,94.5,6.5,NA,NA,Pointsbet,2428743,96332298,28,NA
-Los Angeles Rams v Indianapolis Colts,Kyren Williams,Los Angeles Rams,Rushing Yards,79.5,2,NA,NA,Pointsbet,2428743,96332298,16,NA
-Los Angeles Rams v Indianapolis Colts,Kyren Williams,Los Angeles Rams,Rushing Yards,80.5,2.2,1.63,1.068,Pointsbet,2428743,96332299,21,22
-Los Angeles Rams v Indianapolis Colts,Kyren Williams,Los Angeles Rams,Rushing Yards,94.5,5.25,NA,NA,Pointsbet,2428743,96332298,17,NA
-Los Angeles Rams v Indianapolis Colts,Kyren Williams,Los Angeles Rams,Rushing Yards,109.5,15,NA,NA,Pointsbet,2428743,96332298,18,NA
+Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,139.5,2,NA,NA,Pointsbet,2428772,96351351,9,NA
+Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,140.5,2,1.74,1.075,Pointsbet,2428772,96351355,51,52
+Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,154.5,3.9,NA,NA,Pointsbet,2428772,96351351,10,NA
+Las Vegas Raiders v Chicago Bears,Ashton Jeanty,Las Vegas Raiders,Rushing Yards,169.5,7,NA,NA,Pointsbet,2428772,96351351,11,NA
+Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,30.5,1.77,1.95,1.078,Pointsbet,2428772,96351355,35,36
+Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,34.5,2.5,NA,NA,Pointsbet,2428772,96351351,13,NA
+Las Vegas Raiders v Chicago Bears,D'andre Swift,NA,Rushing Yards,49.5,7.5,NA,NA,Pointsbet,2428772,96351351,14,NA
 Miami Dolphins v New York Jets,Braelon Allen,New York Jets,Rushing Yards,20.5,2,1.77,1.065,Pointsbet,2430514,96398962,23,24
 Miami Dolphins v New York Jets,Breece Hall,New York Jets,Rushing Yards,34.5,1.2,NA,NA,Pointsbet,2430514,96398958,13,NA
 Miami Dolphins v New York Jets,Breece Hall,New York Jets,Rushing Yards,49.5,1.59,NA,NA,Pointsbet,2430514,96398958,14,NA
@@ -101,12 +66,11 @@ Miami Dolphins v New York Jets,Ollie Gordon Ll,NA,Rushing Yards,34.5,2.6,NA,NA,P
 Miami Dolphins v New York Jets,Ollie Gordon Ll,NA,Rushing Yards,49.5,4.75,NA,NA,Pointsbet,2430514,96398958,3,NA
 Miami Dolphins v New York Jets,Ollie Gordon Ll,NA,Rushing Yards,64.5,9,NA,NA,Pointsbet,2430514,96398958,4,NA
 Miami Dolphins v New York Jets,Ollie Gordon Ll,NA,Rushing Yards,79.5,16,NA,NA,Pointsbet,2430514,96398958,5,NA
-San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,60.5,2.1,1.67,1.075,Pointsbet,2428744,96374155,51,52
-San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,64.5,2.5,NA,NA,Pointsbet,2428744,96374153,4,NA
-San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,79.5,5.25,NA,NA,Pointsbet,2428744,96374153,5,NA
-San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,94.5,10.5,NA,NA,Pointsbet,2428744,96374153,6,NA
-San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,124.5,1.63,NA,NA,Pointsbet,2428744,96374153,19,NA
-San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,125.5,1.77,1.95,1.078,Pointsbet,2428744,96374155,67,68
-San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,139.5,3.25,NA,NA,Pointsbet,2428744,96374153,20,NA
-San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,154.5,8,NA,NA,Pointsbet,2428744,96374153,21,NA
-San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,169.5,12,NA,NA,Pointsbet,2428744,96374153,22,NA
+San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,49.5,1.13,NA,NA,Pointsbet,2428744,96374153,3,NA
+San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,55.5,2.05,1.69,1.08,Pointsbet,2428744,96374155,55,56
+San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,64.5,4.4,NA,NA,Pointsbet,2428744,96374153,4,NA
+San Francisco 49ers v Jacksonville Jaguars,Christian McCaffrey,San Francisco 49ers,Rushing Yards,79.5,12,NA,NA,Pointsbet,2428744,96374153,5,NA
+San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,109.5,1.09,NA,NA,Pointsbet,2428744,96374153,18,NA
+San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,115.5,1.63,2.2,1.068,Pointsbet,2428744,96374155,45,46
+San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,124.5,2.75,NA,NA,Pointsbet,2428744,96374153,19,NA
+San Francisco 49ers v Jacksonville Jaguars,Travis Etienne,Jacksonville Jaguars,Rushing Yards,139.5,8,NA,NA,Pointsbet,2428744,96374153,20,NA
