@@ -123,7 +123,8 @@ fixtures <-
 #===============================================================================
 
 # Get List of Fixture URLs
-fixture_urls <- paste0("https://api.dabble.com.au/sportfixtures/details/", fixtures$id, "?filter=dfs-enabled")
+fixture_urls <- paste0("https://api.dabble.com.au/sportfixtures/details/", fixtures$id)
+fixture_urls_dfs <- paste0("https://api.dabble.com.au/sportfixtures/details/", fixtures$id, "?filter=dfs-enabled")
 
 # Function to get fixture details
 get_fixture_details <- function(url) {
@@ -185,359 +186,48 @@ prop_data <- prop_data |>
   map_dfr("result")
 
 #===============================================================================
-# Get Player Shots
+# Get QB Passing Yards
 #===============================================================================
 
-# Filter to player shots markets
-player_shots_markets <-
+# Filter to player passing yards markets
+player_passing_yards_markets <-
   prop_data |> 
-  filter(market_name == "pick_em_shots") |> 
-  filter(str_detect(selection_name, "Over|Under")) |> 
+  filter(str_detect(selection_name, "Passing Yards") | str_detect(prop_name, "Passing Yards")) |> 
+  filter(str_detect(selection_name, "Rushing|Receiving|Half", negate = TRUE)) |>
+  filter(str_detect(prop_name, "Rushing|Receiving|Half", negate = TRUE)) |>
   mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_shots_markets <-
-  player_shots_markets |> 
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |> 
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |> 
-  mutate(player_name = str_remove_all(player_name, " shots")) |> 
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |> 
-  mutate(type = ifelse(type, "Over", "Under"))
-
 
 # Over lines
 over_lines <-
-  player_shots_markets |> 
-  filter(type == "Over") |> 
-  mutate(market_name = "Player shots") |>
+  player_passing_yards_markets |> 
+  filter(str_detect(selection_name, "Over")) |> 
+  mutate(market_name = "Player Passing Yards") |>
+  mutate(player_name = str_remove(selection_name, " Over .*")) |>
+  mutate(line = as.numeric(str_extract(selection_name, "\\d+\\.\\d+"))) |>
+  select(match, market_name, player_name, line, over_price = price)
+
+# Alt lines
+alt_lines <-
+  player_passing_yards_markets |> 
+  filter(str_detect(prop_name, "\\+")) |> 
+  mutate(market_name = "Player Passing Yards") |>
+  mutate(player_name = selection_name) |> 
+  mutate(line = as.numeric(str_extract(prop_name, "\\d+")) - 0.5) |>
   select(match, market_name, player_name, line, over_price = price)
 
 # Under lines
 under_lines <-
-  player_shots_markets |> 
-  filter(type == "Under") |> 
-  mutate(market_name = "Player shots") |>
+  player_passing_yards_markets |> 
+  filter(str_detect(selection_name, "Under")) |> 
+  mutate(market_name = "Player Passing Yards") |>
+  mutate(player_name = str_remove(selection_name, " Under .*")) |>
+  mutate(line = as.numeric(str_extract(selection_name, "\\d+\\.\\d+"))) |>
   select(match, market_name, player_name, line, under_price = price)
 
 # Combine
-dabble_player_shots_markets <-
+player_passing_yards <-
   over_lines |>
-  full_join(under_lines) |> 
-  select(match, market_name, player_name, line, over_price, under_price) |> 
-  mutate(agency = "Dabble") |> 
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Passes Attempted
-#===============================================================================
-
-# Filter to player passes attempted markets
-player_passes_attempted_markets <-
-  prop_data |> 
-  filter(market_name == "pick_em_passes_attempted") |> 
-  filter(str_detect(selection_name, "Over|Under")) |> 
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_passes_attempted_markets <-
-  player_passes_attempted_markets |> 
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |> 
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |> 
-  mutate(player_name = str_remove_all(player_name, " passes attempted")) |> 
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |> 
-  mutate(type = ifelse(type, "Over", "Under"))
-
-# Over lines
-over_lines <-
-  player_passes_attempted_markets |> 
-  filter(type == "Over") |> 
-  mutate(market_name = "Player Passes Attempted") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_passes_attempted_markets |> 
-  filter(type == "Under") |> 
-  mutate(market_name = "Player Passes Attempted") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_passes_attempted_markets <-
-  over_lines |>
-  full_join(under_lines) |> 
-  select(match, market_name, player_name, line, over_price, under_price) |> 
-  mutate(agency = "Dabble") |> 
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Goals
-#===============================================================================
-
-# Filter to player goals markets
-player_goals_markets <-
-  prop_data |>
-  filter(str_detect(market_name, "goals")) |>
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names etc from standard markets
-player_goals_markets <-
-  player_goals_markets |>
-  mutate(player_name = str_remove(selection_name, "\\s(Over|Under).*$")) |>
-  mutate(player_name = str_remove_all(player_name, " goals.*$")) |> 
-  mutate(line = str_extract(selection_name, "[0-9]+(?:\\.[0-9]+)?")) |>
-  mutate(line = as.numeric(line)) |>
-  mutate(type = ifelse(str_detect(selection_name, "Over|\\+"), "Over", "Under")) |>
-  mutate(player_name = str_trim(player_name))
-
-# Over lines
-over_lines <-
-  player_goals_markets |>
-  filter(type == "Over") |>
-  mutate(market_name = "Player Goals") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_goals_markets |>
-  filter(type == "Under") |>
-  mutate(market_name = "Player Goals") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_goals_markets <-
-  over_lines |>
-  full_join(under_lines, by = c("match", "market_name", "player_name", "line")) |>
-  select(match, market_name, player_name, line, over_price, under_price) |>
-  mutate(agency = "Dabble") |>
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Shots On Target
-#===============================================================================
-
-# Filter to player shots on target markets
-player_shots_on_target_markets <-
-  prop_data |> 
-  filter(market_name == "pick_em_shots_on_target") |> 
-  filter(str_detect(selection_name, "Over|Under")) |> 
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_shots_on_target_markets <-
-  player_shots_on_target_markets |> 
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |> 
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |> 
-  mutate(player_name = str_remove_all(player_name, " shots on target")) |> 
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |> 
-  mutate(type = ifelse(type, "Over", "Under"))
-
-# Over lines
-over_lines <-
-  player_shots_on_target_markets |> 
-  filter(type == "Over") |> 
-  mutate(market_name = "Player Shots On Target") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_shots_on_target_markets |> 
-  filter(type == "Under") |> 
-  mutate(market_name = "Player Shots On Target") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_shots_on_target_markets <-
-  over_lines |>
-  full_join(under_lines) |> 
-  select(match, market_name, player_name, line, over_price, under_price) |> 
-  mutate(agency = "Dabble") |> 
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Tackles
-#===============================================================================
-
-# Filter to player tackles markets
-player_tackles_markets <-
-  prop_data |>
-  filter(market_name == "pick_em_tackles") |>
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_tackles_markets <-
-  player_tackles_markets |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |>
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |>
-  mutate(player_name = str_remove_all(player_name, " tackles")) |>
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |>
-  mutate(type = ifelse(type, "Over", "Under")) |>
-  mutate(player_name = str_trim(player_name))
-
-# Over lines
-over_lines <-
-  player_tackles_markets |>
-  filter(type == "Over") |>
-  mutate(market_name = "Player Tackles") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_tackles_markets |>
-  filter(type == "Under") |>
-  mutate(market_name = "Player Tackles") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_tackles_markets <-
-  over_lines |>
-  full_join(under_lines) |>
-  select(match, market_name, player_name, line, over_price, under_price) |>
-  mutate(agency = "Dabble") |>
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Fouls
-#===============================================================================
-
-# Filter to player fouls markets
-player_fouls_markets <-
-  prop_data |> 
-  filter(market_name == "pick_em_fouls") |> 
-  filter(str_detect(selection_name, "Over|Under")) |> 
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_fouls_markets <-
-  player_fouls_markets |> 
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |> 
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |> 
-  mutate(player_name = str_remove_all(player_name, " fouls")) |> 
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |> 
-  mutate(type = ifelse(type, "Over", "Under"))
-
-# Over lines
-over_lines <-
-  player_fouls_markets |> 
-  filter(type == "Over") |> 
-  mutate(market_name = "Player Fouls") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_fouls_markets |> 
-  filter(type == "Under") |> 
-  mutate(market_name = "Player Fouls") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_fouls_markets <-
-  over_lines |>
-  full_join(under_lines) |> 
-  select(match, market_name, player_name, line, over_price, under_price) |> 
-  mutate(agency = "Dabble") |> 
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Saves
-#===============================================================================
-
-# Filter to player saves markets
-player_saves_markets <-
-  prop_data |> 
-  filter(market_name == "pick_em_saves") |> 
-  filter(str_detect(selection_name, "Over|Under")) |> 
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_saves_markets <-
-  player_saves_markets |> 
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |> 
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |> 
-  mutate(player_name = str_remove_all(player_name, " saves")) |> 
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |> 
-  mutate(type = ifelse(type, "Over", "Under"))
-
-# Over lines
-over_lines <-
-  player_saves_markets |> 
-  filter(type == "Over") |> 
-  mutate(market_name = "Player Saves") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_saves_markets |> 
-  filter(type == "Under") |> 
-  mutate(market_name = "Player Saves") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_saves_markets <-
-  over_lines |>
-  full_join(under_lines) |> 
-  select(match, market_name, player_name, line, over_price, under_price) |> 
-  mutate(agency = "Dabble") |> 
-  distinct(match, market_name, player_name, line, .keep_all = TRUE)
-
-#===============================================================================
-# Get Player Assists
-#===============================================================================
-
-# Filter to player assists markets
-player_assists_markets <-
-  prop_data |> 
-  filter(market_name == "pick_em_assists") |> 
-  filter(str_detect(selection_name, "Over|Under")) |> 
-  mutate(price = round(price*0.9, digits = 2))
-
-# Extract player names
-player_assists_markets <-
-  player_assists_markets |> 
-  filter(str_detect(selection_name, "Over|Under")) |>
-  mutate(player_name = str_extract(selection_name, "^.*(?=\\s(\\d+))")) |> 
-  mutate(player_name = str_remove_all(player_name, "( Over)|( Under)")) |> 
-  mutate(player_name = str_remove_all(player_name, " assists")) |> 
-  mutate(line = str_extract(selection_name, "[0-9\\.]{1,4}")) |> 
-  mutate(line = as.numeric(line)) |>
-  mutate(type = str_detect(selection_name, "Over|\\+")) |> 
-  mutate(type = ifelse(type, "Over", "Under"))
-
-# Over lines
-over_lines <-
-  player_assists_markets |> 
-  filter(type == "Over") |> 
-  mutate(market_name = "Player Assists") |>
-  select(match, market_name, player_name, line, over_price = price)
-
-# Under lines
-under_lines <-
-  player_assists_markets |> 
-  filter(type == "Under") |> 
-  mutate(market_name = "Player Assists") |>
-  select(match, market_name, player_name, line, under_price = price)
-
-# Combine
-dabble_player_assists_markets <-
-  over_lines |>
+  bind_rows(alt_lines) |>
   full_join(under_lines) |> 
   select(match, market_name, player_name, line, over_price, under_price) |> 
   mutate(agency = "Dabble") |> 
@@ -549,69 +239,21 @@ dabble_player_assists_markets <-
 
 # Fix player names--------------------------------------------------------------
 
-# Apply EPL player name cleaning to all markets
-dabble_player_shots_markets <- dabble_player_shots_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_passes_attempted_markets <- dabble_player_passes_attempted_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_goals_markets <- dabble_player_goals_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_shots_on_target_markets <- dabble_player_shots_on_target_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_tackles_markets <- dabble_player_tackles_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_fouls_markets <- dabble_player_fouls_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_saves_markets <- dabble_player_saves_markets |> mutate(player_name = fix_player_names(player_name))
-dabble_player_assists_markets <- dabble_player_assists_markets |> mutate(player_name = fix_player_names(player_name))
+# Apply player name cleaning to all markets
+player_passing_yards <- player_passing_yards |> mutate(player_name = fix_player_names(player_name))
 
 # Fix Team Names----------------------------------------------------------------
 
 # Apply team name fixes to all markets
-dabble_player_shots_markets <- dabble_player_shots_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
+player_passing_yards <- player_passing_yards |> 
+  separate(match, c("away_team", "home_team"), sep = " @ ") |>
   mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
   mutate(match = paste(home_team, away_team, sep = " v "))
 
-dabble_player_passes_attempted_markets <- dabble_player_passes_attempted_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
-
-dabble_player_goals_markets <- dabble_player_goals_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
-
-dabble_player_shots_on_target_markets <- dabble_player_shots_on_target_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
-
-dabble_player_tackles_markets <- dabble_player_tackles_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
-
-dabble_player_fouls_markets <- dabble_player_fouls_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
-
-dabble_player_saves_markets <- dabble_player_saves_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
-
-dabble_player_assists_markets <- dabble_player_assists_markets |> 
-  separate(match, c("home_team", "away_team"), sep = " v ") |>
-  mutate(home_team = fix_team_names(home_team), away_team = fix_team_names(away_team)) |>
-  mutate(match = paste(home_team, away_team, sep = " v "))
 
 #===============================================================================
 # Write to CSV------------------------------------------------------------------
 #===============================================================================
 
-dabble_player_shots_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_shots.csv")
-dabble_player_passes_attempted_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_passes_attempted.csv")
-dabble_player_goals_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_goals.csv")
-dabble_player_shots_on_target_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_shots_on_target.csv")
-dabble_player_tackles_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_tackles.csv")
-dabble_player_fouls_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_fouls.csv")
-dabble_player_saves_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_saves.csv")
-dabble_player_assists_markets |> write_csv("Data/scraped_odds/EPL/dabble_player_assists.csv")
+player_passing_yards |> write_csv("Data/scraped_odds/dabble_player_passing_yards.csv")
 
