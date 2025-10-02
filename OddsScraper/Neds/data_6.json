@@ -41,21 +41,21 @@
             "id": "00b0691f-c9e0-4c9c-a73f-d25298f3e6a3",
             "name": "Quinshon Judkins (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 60,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "00b88bfb-a765-40dc-a64f-b692e059cbfd": {
             "id": "00b88bfb-a765-40dc-a64f-b692e059cbfd",
             "name": "Harold Fannin (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 540,
+            "sort_order": 520,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "0143ad1b-7553-4b6a-ae78-5be1161c3a0b": {
             "id": "0143ad1b-7553-4b6a-ae78-5be1161c3a0b",
             "name": "Quinshon Judkins (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 180,
+            "sort_order": 170,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "0173ac3f-1d81-48e7-b32e-ca5af3208fbe": {
@@ -129,7 +129,7 @@
             "id": "047c8e93-6f0c-430f-b14b-ec69efcf3f1a",
             "name": "Zavier Scott (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 360,
+            "sort_order": 350,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "04e68905-51b4-491f-b1f1-65572b735e7e": {
@@ -151,7 +151,7 @@
             "id": "04fac5d3-7eac-4cdd-ad2f-1e2ccd59a9e0",
             "name": "No Touchdown Scorer / Minnesota Vikings",
             "visible": true,
-            "sort_order": 410,
+            "sort_order": 400,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "052950a4-7f9a-4822-a693-e78ca5b49cd0": {
@@ -268,13 +268,6 @@
             "sort_order": 20,
             "market_id": "126c9d58-bda5-40a3-b7dd-d2732829e2c1"
         },
-        "07fc0696-baa5-4a83-b9a3-bc7d6ffc57d6": {
-            "id": "07fc0696-baa5-4a83-b9a3-bc7d6ffc57d6",
-            "name": "Over",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "bd91b90b-e656-4ecc-a1fb-1396095dee9d"
-        },
         "08178a6a-d6f7-4c2f-af34-8fb6f237a2be": {
             "id": "08178a6a-d6f7-4c2f-af34-8fb6f237a2be",
             "name": "Jamari Thrash (Cleveland Browns) / Cleveland Browns 14+",
@@ -331,7 +324,7 @@
             "id": "0a9ca091-3922-4171-ace5-e6f45147a004",
             "name": "Zavier Scott (Minnesota Vikings) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 150,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "0ad1ad4e-009d-44b3-b36c-2f85a6903bf8": {
@@ -352,7 +345,7 @@
             "id": "0b249fad-1ef7-4c62-a83c-a3b08eb356d0",
             "name": "Quinshon Judkins (Cleveland Browns) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 40,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "0b3de2eb-e313-4c15-a071-518b47afefb5": {
@@ -469,7 +462,7 @@
             "id": "0e488f8b-72cb-4515-be9c-10cc75f8de85",
             "name": "Adam Thielen (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 610,
+            "sort_order": 600,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "0e51d7da-1100-4726-98ae-d8ec3c5d8bd4": {
@@ -512,7 +505,7 @@
             "id": "100dbf5d-df8f-4242-b3be-dab7d04396d3",
             "name": "Harold Fannin (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 210,
+            "sort_order": 200,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "1017d402-188a-4b8d-937c-4902b05b2816": {
@@ -533,7 +526,7 @@
             "id": "107e7d87-cec3-44c8-9239-85bcf9dc4e4f",
             "name": "Vikings DST (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 330,
+            "sort_order": 320,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "108efde4-a71f-4d6c-9824-e6725e6152ec": {
@@ -559,6 +552,13 @@
             "sort_order": 60,
             "market_id": "ff1a82dd-d837-450d-b74e-39f86f896557"
         },
+        "10e2fab5-6c38-418e-a340-55168b5d5d1a": {
+            "id": "10e2fab5-6c38-418e-a340-55168b5d5d1a",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "049312af-5073-42ae-9499-b657572e68a7"
+        },
         "11172e5b-9e5d-46b0-ab49-8feaf15747dd": {
             "id": "11172e5b-9e5d-46b0-ab49-8feaf15747dd",
             "name": "Over",
@@ -577,7 +577,7 @@
             "id": "11d139c3-2c9a-4aa5-a72c-1f8c39cd681f",
             "name": "Jamari Thrash (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 760,
+            "sort_order": 750,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "121022f8-4a17-4134-b33f-ebb28227659c": {
@@ -665,6 +665,13 @@
             "visible": true,
             "sort_order": 620,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
+        },
+        "151e69bf-3c0e-476c-8b32-8b9e970b1445": {
+            "id": "151e69bf-3c0e-476c-8b32-8b9e970b1445",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "595d7f32-2ae2-4dd1-804e-200cda3900de"
         },
         "15d4544a-9d30-4132-9125-b17c331597c0": {
             "id": "15d4544a-9d30-4132-9125-b17c331597c0",
@@ -861,7 +868,7 @@
             "id": "1f9c4735-263c-4aad-9b36-39097c03685e",
             "name": "Isaiah Bond (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 490,
+            "sort_order": 480,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "200083c9-2d3e-47e2-9627-e8f0900efded": {
@@ -897,7 +904,7 @@
             "id": "213d079f-a5c5-4b1d-9eaf-8d803d900a91",
             "name": "Isaiah Bond (Cleveland Browns) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 220,
+            "sort_order": 200,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "214131c2-1451-49b4-b2d7-4282a285b414": {
@@ -1000,7 +1007,7 @@
             "id": "23d4b4ec-4273-45b1-a4fd-58ff8d548f05",
             "name": "Jerome Ford (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 460,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "2417a2a5-01e0-4789-8ccb-1509f2a90a36": {
@@ -1122,7 +1129,7 @@
             "id": "27fa7160-06d7-4b77-a8e5-31f176a38353",
             "name": "Jordan Addison (Minnesota Vikings) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 60,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "28610e0c-9f00-4246-92c0-1832a9fe7da1": {
@@ -1167,7 +1174,7 @@
             "id": "292ca81e-e09f-4dc4-8654-f17b05216430",
             "name": "T.J. Hockenson (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 710,
+            "sort_order": 680,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "295992cc-ae0c-4b93-b713-5c5c792dfa5e": {
@@ -1241,7 +1248,7 @@
             "id": "2bcc922d-24a7-4237-97d4-fc29cfa6e8fb",
             "name": "David Njoku (Cleveland Browns) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 160,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "2bf1eb55-bdeb-493a-ba3e-a19110a42922": {
@@ -1352,7 +1359,7 @@
             "id": "2e10a839-e304-491b-b940-805b09bb4fe2",
             "name": "Harold Fannin (Cleveland Browns) / Cleveland Browns",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 180,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "2e4998dc-7ee7-4a75-8c9b-edee26440c35": {
@@ -1362,13 +1369,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "b596dd36-ebf1-4e84-8a0b-84b460dbdc80"
-        },
-        "2e5e65c7-d852-4e5a-923f-6b5574a77a9e": {
-            "id": "2e5e65c7-d852-4e5a-923f-6b5574a77a9e",
-            "name": "Over",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "da446488-b8ce-4dab-9da3-0c0b0b373d0f"
         },
         "2e963e93-1246-4379-a143-b67d0b6d9a75": {
             "id": "2e963e93-1246-4379-a143-b67d0b6d9a75",
@@ -1389,7 +1389,7 @@
             "id": "2f1c9e29-e27d-454a-b3fb-f5aab12d9a32",
             "name": "Jordan Addison (Minnesota Vikings) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 50,
+            "sort_order": 60,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "2f37bb7d-e5e7-4f60-827f-ab3298847c8b": {
@@ -1410,7 +1410,7 @@
             "id": "2fe48abf-3c63-4c99-b43f-6d9ffd91980d",
             "name": "Carson Wentz (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 780,
+            "sort_order": 790,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "2ff25b59-6c3a-4898-9626-e2c4269dc106": {
@@ -1654,7 +1654,7 @@
             "id": "3649ec42-64d9-49e8-b447-7319cba64ff9",
             "name": "Browns DST (Cleveland Browns) / Cleveland Browns",
             "visible": true,
-            "sort_order": 210,
+            "sort_order": 220,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "364a928a-4851-448e-9979-678f2d8b893f": {
@@ -1669,7 +1669,7 @@
             "id": "364af288-dd89-4d01-b4d9-2c5ca261a569",
             "name": "Dillon Gabriel (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 750,
+            "sort_order": 740,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "364e4236-5115-4022-a20e-d18f992ff63b": {
@@ -1684,7 +1684,7 @@
             "id": "36621692-56dc-4d57-96d6-ea836ce8c61b",
             "name": "Adam Thielen (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 550,
+            "sort_order": 530,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "369b292b-1075-4614-940f-c0d711c013e6": {
@@ -1726,7 +1726,7 @@
             "id": "37df3b5c-4608-47f1-8258-5412530171f6",
             "name": "David Njoku / Jerry Jeudy / T.J. Hockenson",
             "visible": true,
-            "sort_order": 100,
+            "sort_order": 90,
             "market_id": "f21744e5-6767-4150-b971-b407fc8a60da"
         },
         "37ef5321-970c-4ac1-99a8-a3f6176d221d": {
@@ -1772,13 +1772,6 @@
             "sort_order": 80,
             "market_id": "9b206e0e-ae28-4ef7-9bbf-10666b76e985"
         },
-        "39a4648c-2720-47db-9038-1c8a7edc1721": {
-            "id": "39a4648c-2720-47db-9038-1c8a7edc1721",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "da446488-b8ce-4dab-9da3-0c0b0b373d0f"
-        },
         "39b047c5-6814-43ee-842a-225e6d0a59a9": {
             "id": "39b047c5-6814-43ee-842a-225e6d0a59a9",
             "name": "Over",
@@ -1813,7 +1806,7 @@
             "id": "3ae8092e-9c66-4c71-9f4d-96e17fce40cb",
             "name": "Quinshon Judkins (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 290,
+            "sort_order": 410,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "3b2feab6-28d9-4c4c-b7f5-761fd713d96c": {
@@ -1864,7 +1857,7 @@
             "id": "3c46390c-f7d3-4c77-91cf-c565741d8e79",
             "name": "Jalen Nailor (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "3c4784f0-6027-4d2d-af9e-7a66c54192ed": {
@@ -1954,7 +1947,7 @@
             "id": "3e63839a-5308-4af0-8dfb-ab68a9b4b837",
             "name": "Jerome Ford (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 370,
+            "sort_order": 360,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "3edd230a-1b89-4b9a-9e06-6964b6c98f50": {
@@ -2012,7 +2005,7 @@
             "id": "4051c72b-5fe0-4904-a5c4-f90adb0e3e39",
             "name": "Vikings DST (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 760,
+            "sort_order": 770,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "407ebf6e-c316-4ac7-804a-20862f5cdafe": {
@@ -2099,11 +2092,18 @@
             "sort_order": 10,
             "market_id": "9897c6b6-a4cd-4d54-bdef-95c83bd0ff80"
         },
+        "42b3177d-24e6-488e-aac6-79de110477dd": {
+            "id": "42b3177d-24e6-488e-aac6-79de110477dd",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "a639ccb8-7671-4993-ade4-78b493ff313f"
+        },
         "432b1a59-0151-48b3-97ca-c44c3cfd993d": {
             "id": "432b1a59-0151-48b3-97ca-c44c3cfd993d",
             "name": "David Njoku / Jordan Addison / T.J. Hockenson",
             "visible": true,
-            "sort_order": 90,
+            "sort_order": 100,
             "market_id": "f21744e5-6767-4150-b971-b407fc8a60da"
         },
         "438c695a-e5c3-436d-9683-17ec5a13d089": {
@@ -2132,7 +2132,7 @@
             "id": "44b827cf-4d8f-4fdb-ab74-55023d3fdfcd",
             "name": "Quinshon Judkins (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 260,
+            "sort_order": 270,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "44d3ad37-bb8b-499e-87ad-225d392dd36e": {
@@ -2294,7 +2294,7 @@
             "id": "485d34e9-d7f8-4265-96c1-91744bf4ffcc",
             "name": "Isaiah Bond (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 200,
+            "sort_order": 190,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "48e3974e-17f4-4ee4-af64-d63f47c20baa": {
@@ -2339,7 +2339,7 @@
             "id": "4984fdf0-309e-4db5-bff1-382675859773",
             "name": "David Njoku (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 460,
+            "sort_order": 450,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "49c36441-5242-4282-834f-dc0c0def9cf7": {
@@ -2444,7 +2444,7 @@
             "id": "4c15d29d-526f-4b42-8eb0-a84f20278470",
             "name": "Adam Thielen (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 790,
+            "sort_order": 780,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "4c24ddd8-d7de-4b60-b4a5-4c49b89d8e63": {
@@ -2578,7 +2578,7 @@
             "id": "514d06da-33b5-496b-bc39-2679b373f9b4",
             "name": "Carson Wentz (Minnesota Vikings) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 350,
+            "sort_order": 330,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "51a81cf2-6308-4a3a-8210-5298b7da37c3": {
@@ -2653,7 +2653,7 @@
             "id": "54e1f305-b242-4e0c-8549-c904236b53e1",
             "name": "Adam Thielen (Minnesota Vikings) / Cleveland Browns",
             "visible": true,
-            "sort_order": 390,
+            "sort_order": 380,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "55570c64-cd0f-4888-8e52-1324eb9efd43": {
@@ -2716,14 +2716,14 @@
             "id": "56c8602e-64b2-47a3-b597-fdceed2dbef3",
             "name": "Isaiah Bond (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 530,
+            "sort_order": 510,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "5754c0b4-5663-4e58-a4d1-f1f8da6eb01d": {
             "id": "5754c0b4-5663-4e58-a4d1-f1f8da6eb01d",
             "name": "Harold Fannin (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 730,
+            "sort_order": 650,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "576f6764-778f-4afd-b9ca-c2044cdf5a8c": {
@@ -2841,7 +2841,7 @@
             "id": "5a099988-5cc0-4c55-976e-ae7c8bcd7fd0",
             "name": "Jerry Jeudy (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 510,
+            "sort_order": 580,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "5a16af91-c39c-4e43-be28-9fc803392e05": {
@@ -2980,7 +2980,7 @@
             "id": "5eee92ad-8dc5-44fc-897e-1b49ca031711",
             "name": "Dylan Sampson (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 640,
+            "sort_order": 650,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "601a154e-a39b-4e2b-a458-01c6a5d486a7": {
@@ -3030,15 +3030,8 @@
             "id": "6167fd5c-8448-4906-8824-804bf4b795e1",
             "name": "Adam Thielen (Minnesota Vikings) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 220,
+            "sort_order": 210,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
-        },
-        "61742d40-b391-4c26-8323-3e3284c62a99": {
-            "id": "61742d40-b391-4c26-8323-3e3284c62a99",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "c4baa45f-c7b4-4922-85b5-98cdc91a3638"
         },
         "61768ced-a332-4d9e-a45f-5dcc48cf9769": {
             "id": "61768ced-a332-4d9e-a45f-5dcc48cf9769",
@@ -3105,7 +3098,7 @@
             "id": "6330a064-7e1c-4fe5-af0e-397a4a471bb6",
             "name": "Harold Fannin (Cleveland Browns) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 190,
+            "sort_order": 220,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "634ad7e9-74a6-4fd9-b392-709e875e0e90": {
@@ -3232,7 +3225,7 @@
             "id": "66d3a18c-1d8e-4a56-9f9d-6cf568127d7a",
             "name": "Josh Oliver (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 590,
+            "sort_order": 640,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "67331e04-a6c9-4716-af9e-01ff848b6677": {
@@ -3270,7 +3263,7 @@
             "id": "687ad515-0074-4959-9866-13c43f5da791",
             "name": "Jordan Mason (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 490,
+            "sort_order": 380,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "6897b82b-8aa6-42f9-9aed-27161f572df9": {
@@ -3300,7 +3293,7 @@
             "id": "68b1cba7-888f-4235-84ad-49a282080399",
             "name": "Carson Wentz (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 330,
+            "sort_order": 340,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "68b38f7b-c458-478c-85e4-6e15883254f9": {
@@ -3322,7 +3315,7 @@
             "id": "6a1c68b9-8ca4-4bb4-83f2-d8e7c5c8459e",
             "name": "Vikings DST (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 450,
+            "sort_order": 440,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "6a49fb41-b2e3-4c1d-b3bb-6c83de726923": {
@@ -3463,7 +3456,7 @@
             "id": "6e87749e-f017-47f8-929f-88f5f1c7b28c",
             "name": "Jordan Addison (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 160,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "6ee81092-87db-4ca3-8fea-0ead556d350e": {
@@ -3499,7 +3492,7 @@
             "id": "6f00bd87-7b10-484e-8f1c-2feade033752",
             "name": "Zavier Scott (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 780,
+            "sort_order": 760,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "6f55e0cd-c2bb-4f4b-bd5f-88c2e97c3966": {
@@ -3529,7 +3522,7 @@
             "id": "6ff0382f-79c8-49d5-b825-0b31ee701fb8",
             "name": "Dylan Sampson (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 520,
+            "sort_order": 590,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "6ffae255-301a-4146-9356-b5476ee3bc0d": {
@@ -3565,7 +3558,7 @@
             "id": "707df30d-0742-480f-a04f-a133a7cf2426",
             "name": "Dillon Gabriel (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 340,
+            "sort_order": 350,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "70cae76a-1f31-4ce9-aa01-5bbf5328fb40": {
@@ -3587,7 +3580,7 @@
             "id": "724477c5-2146-4e68-ba32-0389d9ff1f7a",
             "name": "Isaiah Bond (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 590,
+            "sort_order": 600,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "729b974a-64c5-40eb-8f4c-cdd2d6cb1367": {
@@ -3670,7 +3663,7 @@
             "id": "7599086d-8d57-44aa-b339-1a19e2e7faed",
             "name": "Browns DST (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 260,
+            "sort_order": 270,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "75eda1fa-a9eb-4ad5-86b3-22cd57579636": {
@@ -3766,7 +3759,7 @@
             "id": "786bd631-45fb-48ed-8205-8b484e35e5bf",
             "name": "Jalen Nailor (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 290,
+            "sort_order": 300,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "7872e600-aac3-4735-bea9-cd0667942104": {
@@ -3921,19 +3914,19 @@
             "sort_order": 20,
             "market_id": "1296cb69-3a97-4981-b286-d9150b6982d9"
         },
-        "7c31ae81-a43d-40b1-9a8a-8b36696a20cf": {
-            "id": "7c31ae81-a43d-40b1-9a8a-8b36696a20cf",
-            "name": "Over",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "c4baa45f-c7b4-4922-85b5-98cdc91a3638"
-        },
         "7c385bcd-12b8-43ab-ad2d-181bf6051b90": {
             "id": "7c385bcd-12b8-43ab-ad2d-181bf6051b90",
             "name": "Under",
             "visible": true,
             "sort_order": 20,
             "market_id": "64678a5a-427a-4333-83cd-86b875d16424"
+        },
+        "7c615231-b59b-4434-a959-92a794bc0f52": {
+            "id": "7c615231-b59b-4434-a959-92a794bc0f52",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "b5b62c17-7b46-4d25-bf01-34dea0167803"
         },
         "7c785ddf-a2f5-4c85-82be-7e853d7cdda4": {
             "id": "7c785ddf-a2f5-4c85-82be-7e853d7cdda4",
@@ -3946,7 +3939,7 @@
             "id": "7cb30eb8-0053-4bd7-8448-3d903fa6db76",
             "name": "Jerome Ford (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 510,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "7cb639cf-ae12-46e6-8012-31fc2b3966ba": {
@@ -3961,7 +3954,7 @@
             "id": "7d6717f0-9489-463e-a582-22c72e1b9b36",
             "name": "Jordan Addison (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 700,
+            "sort_order": 720,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "7d6b6189-0cc4-4abd-8555-380717adce18": {
@@ -3998,7 +3991,7 @@
             "id": "7defb76d-a9c5-4e60-8915-158597537301",
             "name": "Jamari Thrash (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 410,
+            "sort_order": 490,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "7e0faa92-f2ca-423f-a05e-222b74c37107": {
@@ -4044,7 +4037,7 @@
             "id": "7f5a5510-f00d-42bd-9b69-0707513d4de9",
             "name": "Carson Wentz (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 560,
+            "sort_order": 610,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "7fd23bd7-875c-497c-b23e-744ac85a9074": {
@@ -4147,7 +4140,7 @@
             "id": "82c12ed3-aa77-4589-8036-5accfffbcc3a",
             "name": "Jamari Thrash (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 580,
+            "sort_order": 560,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "835ae91d-85bc-4dcb-8431-e1d0b9062c9c": {
@@ -4263,6 +4256,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "9f0bf431-96fe-4a1e-b825-1c09cda64dc0"
+        },
+        "875ac2d7-2798-4d32-b773-cb9c7e00eedc": {
+            "id": "875ac2d7-2798-4d32-b773-cb9c7e00eedc",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "a639ccb8-7671-4993-ade4-78b493ff313f"
         },
         "87709733-7903-4036-80cb-9d085a16040c": {
             "id": "87709733-7903-4036-80cb-9d085a16040c",
@@ -4388,6 +4388,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "ad930584-43b7-4aa1-a612-9e6518f0d7fb"
+        },
+        "8bcb2743-8b21-4abb-9449-b5fbeaf3237f": {
+            "id": "8bcb2743-8b21-4abb-9449-b5fbeaf3237f",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "b5b62c17-7b46-4d25-bf01-34dea0167803"
         },
         "8bd1f0c1-58fc-43e7-9d48-761a165ca3b3": {
             "id": "8bd1f0c1-58fc-43e7-9d48-761a165ca3b3",
@@ -4537,7 +4544,7 @@
             "id": "8f1724e6-1809-4fbc-8c06-35afc16663af",
             "name": "David Njoku (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 190,
+            "sort_order": 180,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "8f321694-b4c3-4762-95ee-317261844790": {
@@ -4681,7 +4688,7 @@
             "id": "91a3ea67-fd1f-4f8d-8c30-076167ba9b60",
             "name": "Vikings DST (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 510,
+            "sort_order": 500,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "924c88bb-a9b3-45e4-a169-d9b5c19e2fd9": {
@@ -4703,7 +4710,7 @@
             "id": "92956181-9928-4947-abcf-f72300a56fce",
             "name": "Carson Wentz (Minnesota Vikings) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 320,
+            "sort_order": 260,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "92d142c3-5e42-42a1-82d0-a25a1777779f": {
@@ -4732,7 +4739,7 @@
             "id": "9343d225-bd5a-4831-bb57-de971f22e0c1",
             "name": "David Njoku / Justin Jefferson",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 40,
             "market_id": "208290ba-cbbf-40af-a43a-9ea08260c890"
         },
         "93c441e7-c4c0-4c60-b877-aff0d017e2f3": {
@@ -4754,7 +4761,7 @@
             "id": "93ec7e3c-f8c2-43e0-8dc4-b71596ae225f",
             "name": "Harold Fannin (Cleveland Browns) / Cleveland Browns",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 170,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "949b6f37-d609-4771-b705-db5a25b9dd63": {
@@ -4771,6 +4778,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "90de986d-ea2a-456d-9cd4-3bb121e25795"
+        },
+        "94bde3b9-3c0b-460e-8440-2282810e4c70": {
+            "id": "94bde3b9-3c0b-460e-8440-2282810e4c70",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "595d7f32-2ae2-4dd1-804e-200cda3900de"
         },
         "94d100b0-c4c6-43bb-947c-1e3056c17a07": {
             "id": "94d100b0-c4c6-43bb-947c-1e3056c17a07",
@@ -4902,7 +4916,7 @@
             "id": "9806857b-d5cb-4934-93a8-a531a63dff43",
             "name": "Carson Wentz (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 810,
+            "sort_order": 820,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "98828a6e-308c-42fc-9395-b43082201292": {
@@ -5035,7 +5049,7 @@
             "id": "9b2da00f-36db-4b3c-9b0d-9df9141d04da",
             "name": "Adam Thielen (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 820,
+            "sort_order": 810,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "9b3dbb17-b62d-4630-896e-7e8fb9629926": {
@@ -5119,7 +5133,7 @@
             "id": "9d8835bc-a5e5-41cc-b760-c241ec96feb6",
             "name": "Carson Wentz (Minnesota Vikings) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 180,
+            "sort_order": 170,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "9da9eaa5-bcd5-47b4-91e6-e3fb7a95b9c4": {
@@ -5183,7 +5197,7 @@
             "id": "9ed64773-66ac-4004-8095-4f3505117a42",
             "name": "Dillon Gabriel (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 640,
+            "sort_order": 550,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "9f1961b9-98a3-4660-be41-a8aa3ab6b607": {
@@ -5242,7 +5256,7 @@
             "id": "a0f1d196-3c15-4f3c-b90b-ef5d612828d7",
             "name": "Dylan Sampson (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 420,
+            "sort_order": 400,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "a120db65-bbc9-4ab5-a3a4-8caad62f33a1": {
@@ -5374,14 +5388,14 @@
             "id": "a56c9769-b8aa-4fcc-a116-2bc257ff8bdb",
             "name": "Dillon Gabriel (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 400,
+            "sort_order": 480,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "a58c5159-1284-4659-b1b7-b1297e559fbb": {
             "id": "a58c5159-1284-4659-b1b7-b1297e559fbb",
             "name": "Vikings DST (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 790,
+            "sort_order": 800,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "a6bcbf4c-90b1-4fce-b5e5-fe43e85f0817": {
@@ -5544,7 +5558,7 @@
             "id": "aa9eef87-18fb-4e80-b934-af7b8133f3a4",
             "name": "Jamari Thrash (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 730,
+            "sort_order": 700,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "aab4b353-b230-41ab-9b7e-3f5ca854a083": {
@@ -5566,7 +5580,7 @@
             "id": "aaf0ac0e-8916-4061-b93c-cd4e01797838",
             "name": "Dillon Gabriel (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 660,
+            "sort_order": 690,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "ab67f1a9-190f-4c8d-9952-285a499f2688": {
@@ -5595,7 +5609,7 @@
             "id": "abafe721-579c-45af-a789-c85437ad771c",
             "name": "T.J. Hockenson (Minnesota Vikings) / Cleveland Browns",
             "visible": true,
-            "sort_order": 190,
+            "sort_order": 180,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "ac2f8ce6-6408-4cdf-a1b6-5ff2040e4a68": {
@@ -5629,6 +5643,13 @@
             "sort_order": 80,
             "market_id": "5dfa8c71-f047-40c6-a703-6eda613e475a"
         },
+        "ade7c349-9d78-49da-b387-28b421daf296": {
+            "id": "ade7c349-9d78-49da-b387-28b421daf296",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "049312af-5073-42ae-9499-b657572e68a7"
+        },
         "ae31674e-a047-4d2d-832c-13d065c4b191": {
             "id": "ae31674e-a047-4d2d-832c-13d065c4b191",
             "name": "Justin Jefferson / Quinshon Judkins",
@@ -5640,7 +5661,7 @@
             "id": "aed951fd-8701-4e8f-a24c-9107dd17d142",
             "name": "Justin Jefferson (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 670,
+            "sort_order": 640,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "af1dd61f-3a58-4e50-96e2-bcaf345ee79a": {
@@ -5654,7 +5675,7 @@
             "id": "af5d4987-4b4c-4ad5-b4d9-a7105453cfa2",
             "name": "Carson Wentz (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 440,
+            "sort_order": 430,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "af986294-f34d-4d93-a273-08c4b06409a2": {
@@ -5822,7 +5843,7 @@
             "id": "b6723b57-4bd2-4602-8037-a8e8c975558d",
             "name": "Browns DST (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 570,
+            "sort_order": 540,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "b71c73af-21a3-4eb7-8745-ab5a218b80f1": {
@@ -5843,7 +5864,7 @@
             "id": "b7a971ef-a6b6-4425-8131-41454a12e21a",
             "name": "Justin Jefferson (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 600,
+            "sort_order": 570,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "b87a733f-4d41-42f9-aac7-74f81e87d828": {
@@ -5982,6 +6003,13 @@
             "sort_order": 340,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
+        "bcca2f0e-ba6d-40bb-86ed-87488bae4a56": {
+            "id": "bcca2f0e-ba6d-40bb-86ed-87488bae4a56",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "504e064a-40ec-4f8d-b225-78100fa3d302"
+        },
         "bd8deca6-deed-41ad-b67b-4fbf54ef022d": {
             "id": "bd8deca6-deed-41ad-b67b-4fbf54ef022d",
             "name": "Josh Oliver (Minnesota Vikings) / Cleveland Browns 14+",
@@ -6052,7 +6080,7 @@
             "id": "c07131d0-cad9-470a-9b70-182fccee884e",
             "name": "Jordan Mason (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "c0bcc794-4b5d-4499-af77-1abadb682947": {
@@ -6229,7 +6257,7 @@
             "id": "c5333087-0a06-4be1-a9c6-1940a6368a4e",
             "name": "Jerome Ford (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 720,
+            "sort_order": 730,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "c559058d-8af0-4beb-b913-18575679c53c": {
@@ -6274,14 +6302,14 @@
             "id": "c5f44bcc-6c95-4f77-ac03-136adb82c834",
             "name": "Browns DST (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 650,
+            "sort_order": 660,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "c664e899-852c-4c1a-9fb0-fa12bd945cdb": {
             "id": "c664e899-852c-4c1a-9fb0-fa12bd945cdb",
             "name": "Jalen Nailor (Minnesota Vikings) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 280,
+            "sort_order": 290,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "c6b9f100-ca12-49c6-b480-bca41adb8fb5": {
@@ -6333,7 +6361,7 @@
             "id": "c89cf7ca-9e64-4a01-9162-9eb651e8d1e7",
             "name": "Carson Wentz (Minnesota Vikings) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 150,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "c8a9b0af-efd4-4088-a9e5-449e48df2dde": {
@@ -6354,14 +6382,14 @@
             "id": "c90f29c5-bad9-47cb-a4ed-e85871994447",
             "name": "Jalen Nailor (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 770,
+            "sort_order": 760,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "c937e249-46f0-4bc6-b3d0-91bd5e6d5a25": {
             "id": "c937e249-46f0-4bc6-b3d0-91bd5e6d5a25",
             "name": "David Njoku (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 350,
+            "sort_order": 340,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "c942da26-79a7-4de5-a3ed-8c4a9fca5560": {
@@ -6537,7 +6565,7 @@
             "id": "cd8ac23b-8a19-49ff-b788-d4fb80a13035",
             "name": "Jordan Mason (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 40,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "cdf059d8-a167-4916-a78c-6651964d4837": {
@@ -6551,7 +6579,7 @@
             "id": "cdf26dd8-6dae-4beb-a589-9ab4265bbf59",
             "name": "Jalen Nailor (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 380,
+            "sort_order": 370,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "ce0c7cd8-a4e1-4ac0-bb2e-9ff2a9cf818b": {
@@ -6625,7 +6653,7 @@
             "id": "d06a588d-656b-4ad6-88dd-571920932c04",
             "name": "Harold Fannin (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 500,
+            "sort_order": 490,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "d06f8520-e7b8-495c-a7f1-b2f36c5f032e": {
@@ -6780,7 +6808,7 @@
             "id": "d441faba-9d58-4df9-a7f3-dc9155a9e570",
             "name": "Zavier Scott (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 270,
+            "sort_order": 280,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "d464d6f0-7b37-404b-89a8-65e5a714b0ba": {
@@ -6927,7 +6955,7 @@
             "id": "d7b27c3b-7263-4ddf-8ddc-18ea3e61020e",
             "name": "Browns DST (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 650,
+            "sort_order": 730,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "d7e2eebf-8c87-4fda-8487-6db9fb4f3b17": {
@@ -6963,7 +6991,7 @@
             "id": "d9abe951-099f-47f6-8c58-d5d90d22b72e",
             "name": "Josh Oliver (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 690,
+            "sort_order": 710,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "d9dd05fa-49e7-4dce-9fd0-d8fef17ec390": {
@@ -6978,7 +7006,7 @@
             "id": "da1cbd27-ed31-4df0-9abd-ed4b72c220da",
             "name": "Browns DST (Cleveland Browns) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 340,
+            "sort_order": 330,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "dac45c13-869e-4e67-a66a-8ee59e1dbf52": {
@@ -6999,7 +7027,7 @@
             "id": "dadfbf0a-2c07-4ec3-bbaf-d4a0fc0906a4",
             "name": "Isaiah Bond (Cleveland Browns) / Cleveland Browns",
             "visible": true,
-            "sort_order": 180,
+            "sort_order": 200,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "db08fad4-20f5-457c-959b-fdb135b61301": {
@@ -7036,7 +7064,7 @@
             "id": "dc4028a5-2f4c-49fc-9461-4f1bd3596619",
             "name": "Carson Wentz (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 600,
+            "sort_order": 590,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "dc743364-93e0-4ccb-b607-8b7181b67d46": {
@@ -7050,21 +7078,21 @@
             "id": "dce0894c-03b5-4a7d-941b-7c4d46a44fa8",
             "name": "Browns DST (Cleveland Browns) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 270,
+            "sort_order": 280,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "dd3f5476-7056-45a7-8313-351a448465df": {
             "id": "dd3f5476-7056-45a7-8313-351a448465df",
             "name": "Carson Wentz (Minnesota Vikings) / Cleveland Browns",
             "visible": true,
-            "sort_order": 380,
+            "sort_order": 390,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "dd6c56b8-3d7a-4c59-a3a4-e11cb0d35bbd": {
             "id": "dd6c56b8-3d7a-4c59-a3a4-e11cb0d35bbd",
             "name": "Browns DST (Cleveland Browns) / Cleveland Browns",
             "visible": true,
-            "sort_order": 200,
+            "sort_order": 190,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "dd8fae54-c63e-471a-948c-e47f436a2d2e": {
@@ -7108,7 +7136,7 @@
             "id": "de9f7b75-5b75-4d21-8587-eaedbc40f283",
             "name": "Dylan Sampson (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 770,
+            "sort_order": 780,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "decd0297-3b1f-40be-9da2-58667a555fbc": {
@@ -7305,7 +7333,7 @@
             "id": "e46139ed-5f3e-4ffb-877c-814dfd34f358",
             "name": "Justin Jefferson (Minnesota Vikings) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 50,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "e4621ef8-efde-479e-9e9e-44550e4e2223": {
@@ -7357,7 +7385,7 @@
             "id": "e57fe539-91c9-460e-bfe4-53175c59880b",
             "name": "Jalen Nailor (Minnesota Vikings) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 800,
+            "sort_order": 790,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "e595f23d-9482-48de-bf3a-3e564aeb9a15": {
@@ -7366,13 +7394,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "33ddbce7-ea98-4170-a51f-7eb9d62cd019"
-        },
-        "e5e5f96a-3b18-4329-8d5c-4361697a902e": {
-            "id": "e5e5f96a-3b18-4329-8d5c-4361697a902e",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "bd91b90b-e656-4ecc-a1fb-1396095dee9d"
         },
         "e5fb0cf5-d1b1-431d-bada-f077193196b8": {
             "id": "e5fb0cf5-d1b1-431d-bada-f077193196b8",
@@ -7469,7 +7490,7 @@
             "id": "e8faac8f-2b9e-477f-a4bb-95c4c41505bd",
             "name": "No Touchdown Scorer / Cleveland Browns",
             "visible": true,
-            "sort_order": 400,
+            "sort_order": 410,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "e93094f7-63fe-43ef-95aa-b9707574e945": {
@@ -7577,6 +7598,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "c4255640-4f77-4820-bb5f-05af7348f8af"
+        },
+        "ec886b8e-47af-4fc0-906e-5e4ddb0fe568": {
+            "id": "ec886b8e-47af-4fc0-906e-5e4ddb0fe568",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "379be10e-8c0d-4326-acbf-e171eb9d08d9"
         },
         "ecc95f3d-94da-43aa-883a-1fbf5a36e221": {
             "id": "ecc95f3d-94da-43aa-883a-1fbf5a36e221",
@@ -7708,7 +7736,7 @@
             "id": "efe21bd8-a132-475e-9b17-ed5ecd1b507f",
             "name": "T.J. Hockenson (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 190,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "f018566a-3cc4-4646-ae62-9810f63e823a": {
@@ -7730,7 +7758,7 @@
             "id": "f0284cee-ab49-4c21-afe8-6a5a81a332cb",
             "name": "Jordan Addison (Minnesota Vikings) / Cleveland Browns",
             "visible": true,
-            "sort_order": 200,
+            "sort_order": 190,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "f02cf9c4-3b78-4016-890f-a58877d042c2": {
@@ -7797,6 +7825,13 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "60aaf27a-692e-4d9f-81a7-356b9ccdda23"
+        },
+        "f24a4c39-972f-49e8-8215-7a22b24796ad": {
+            "id": "f24a4c39-972f-49e8-8215-7a22b24796ad",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "379be10e-8c0d-4326-acbf-e171eb9d08d9"
         },
         "f25d9a5e-78d0-4ad3-a86f-2a61f82f4993": {
             "id": "f25d9a5e-78d0-4ad3-a86f-2a61f82f4993",
@@ -7880,6 +7915,13 @@
             "sort_order": 80,
             "market_id": "bb694c88-056f-4f0a-afbe-faeda4321d0a"
         },
+        "f45683f4-5a99-4afc-9ae8-6c4126261a6a": {
+            "id": "f45683f4-5a99-4afc-9ae8-6c4126261a6a",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "504e064a-40ec-4f8d-b225-78100fa3d302"
+        },
         "f46c4d81-de0d-445d-8c47-e0e4f1fa3cf6": {
             "id": "f46c4d81-de0d-445d-8c47-e0e4f1fa3cf6",
             "name": "Zavier Scott (Minnesota Vikings) / Cleveland Browns",
@@ -7891,7 +7933,7 @@
             "id": "f4c596b1-e299-4e38-bae0-5c523852c734",
             "name": "Jerry Jeudy (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 300,
+            "sort_order": 260,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "f4ef46f1-5986-4981-a5fe-5dbbd08aca56": {
@@ -7914,14 +7956,14 @@
             "id": "f53e5165-95f0-4f6b-8e19-5f38a14ffae7",
             "name": "Adam Thielen (Minnesota Vikings) / Minnesota Vikings 1-13",
             "visible": true,
-            "sort_order": 430,
+            "sort_order": 420,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "f57a7557-c8fd-4d88-ad14-397373e7c9de": {
             "id": "f57a7557-c8fd-4d88-ad14-397373e7c9de",
             "name": "Jordan Mason (Minnesota Vikings) / Cleveland Browns",
             "visible": true,
-            "sort_order": 60,
+            "sort_order": 50,
             "market_id": "8fbea666-69c4-4cc9-82d5-f09ec511fea0"
         },
         "f58265d7-183a-4fb5-9b23-6101f440da88": {
@@ -8026,7 +8068,7 @@
             "id": "f7e086b1-260d-4ec8-be27-9ec242175661",
             "name": "Justin Jefferson / T.J. Hockenson",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 30,
             "market_id": "208290ba-cbbf-40af-a43a-9ea08260c890"
         },
         "f7f53aff-e4e4-44c7-a10c-7af55bd92d4d": {
@@ -8089,14 +8131,14 @@
             "id": "f99c6d8f-139c-47ee-ad5d-b8c72f24afd4",
             "name": "Zavier Scott (Minnesota Vikings) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 190,
+            "sort_order": 210,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "f9fd1d55-7d57-4e35-b6af-624a84cd026a": {
             "id": "f9fd1d55-7d57-4e35-b6af-624a84cd026a",
             "name": "Jerome Ford (Cleveland Browns) / Minnesota Vikings 14+",
             "visible": true,
-            "sort_order": 740,
+            "sort_order": 770,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "fa053e12-daa0-4aba-a885-325024d36681": {
@@ -8118,7 +8160,7 @@
             "id": "fa1faa98-7cbc-400b-a62e-25ebaa846e93",
             "name": "Jerry Jeudy (Cleveland Browns) / Cleveland Browns 14+",
             "visible": true,
-            "sort_order": 280,
+            "sort_order": 290,
             "market_id": "f12724bd-af1a-43cc-8ea1-f2b53c9ba182"
         },
         "fa4b5df7-06a9-4369-9278-836e417138ef": {
@@ -8178,7 +8220,7 @@
             "id": "fc80c42c-4a0e-48c0-8d04-e506aecae14b",
             "name": "T.J. Hockenson (Minnesota Vikings) / Minnesota Vikings",
             "visible": true,
-            "sort_order": 40,
+            "sort_order": 50,
             "market_id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99"
         },
         "fc95efbe-f1ee-4e4e-8579-4080387f772b": {
@@ -8208,7 +8250,7 @@
             "id": "fcda9233-ff06-4ccd-9ce5-295de3e7f4a0",
             "name": "Adam Thielen (Minnesota Vikings) / Cleveland Browns 1-13",
             "visible": true,
-            "sort_order": 680,
+            "sort_order": 670,
             "market_id": "8bd2b28f-3283-4144-90d4-d799dbb66127"
         },
         "fd110dda-cebc-433a-aad6-46810a227a41": {
@@ -8344,8 +8386,8 @@
                 "94a71946-fe4b-4499-8db1-7dc4f85a4029",
                 "a56c3f28-7fef-4d30-9cd7-4a6f94cd5274",
                 "421d3790-2f03-423d-a195-cca013d3bfe4",
-                "1310201b-0286-4274-8994-6cf42c480a36",
                 "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+                "1310201b-0286-4274-8994-6cf42c480a36",
                 "3fe11a5d-ebe3-49c3-b59a-e271ca42dfd4",
                 "6bc878c8-0df0-4d52-ab6f-102a35a89474",
                 "3f252976-9ecb-4805-8c6e-b38620ad6c59",
@@ -8371,89 +8413,89 @@
                 {
                     "market_type_group_id": "20abc81d-47f9-4956-acf2-a16bdd994a45",
                     "market_ids": [
-                        "81ce8a94-8fe5-4af9-9947-991e09861ad4",
-                        "9b0ec937-ddc8-4171-a80c-96c5b1f35a57",
-                        "84a20ef6-783c-415b-8b6a-be3a64c46d87",
-                        "4b20ad2d-db2b-40ea-a3d5-cfe79b94d0f1",
-                        "c63d6328-b5e7-48a4-80aa-0966f590cb68",
+                        "2e153214-c16b-4587-a2a6-4c6c213e515c",
                         "47bb9cb4-d25e-462d-bc4f-fbc1a19cac6e",
-                        "dabe97ad-da95-499b-8aeb-92d6d108b551",
+                        "ad930584-43b7-4aa1-a612-9e6518f0d7fb",
+                        "b367cac2-5164-449d-a882-2a170b163b8a",
+                        "b596dd36-ebf1-4e84-8a0b-84b460dbdc80",
                         "8235eba1-6045-4010-9b8a-fe47d4da6850",
-                        "6657b824-3e29-46ae-ae1b-1292e8c73116",
-                        "5afb323e-458b-447f-a522-a8125f0525e7",
-                        "8b8bd780-8d25-42e7-8e63-e382e83b2fed",
                         "7f7c023b-d44a-471e-8fb5-4c4eed3d6664",
+                        "84a20ef6-783c-415b-8b6a-be3a64c46d87",
+                        "11dd8f40-60a5-4e98-8407-f41f89624b1e",
+                        "a50c01d1-f0ff-44ac-83b0-ee7a5d9cd13c",
+                        "081dd9ed-37b7-4ae4-9272-318815c778a3",
+                        "4b20ad2d-db2b-40ea-a3d5-cfe79b94d0f1",
+                        "42f2ffe4-a7fb-4b30-97f0-fad4abf971a6",
+                        "6657b824-3e29-46ae-ae1b-1292e8c73116",
+                        "c63d6328-b5e7-48a4-80aa-0966f590cb68",
+                        "5afb323e-458b-447f-a522-a8125f0525e7",
                         "92efd297-3296-4afe-af24-0c2b0ad7bc22",
-                        "7c08aa85-e6f9-412f-810d-ba852e2c2805",
-                        "8d263b68-d8a2-4681-88d9-85d6876ba96c",
-                        "4a45c331-062d-4ff8-af6b-d9ba7c42cf83",
+                        "a2a84f22-4140-4cc0-bdb7-e554f12fa866",
+                        "4d6815eb-5a3e-4ae9-a07c-bdbe4a8ad172",
+                        "d6a48922-4938-4c62-b2cd-30ca8457536b",
+                        "dabe97ad-da95-499b-8aeb-92d6d108b551",
+                        "8b8bd780-8d25-42e7-8e63-e382e83b2fed",
                         "6f18b247-36a3-4065-a6d8-e2dea5a69fe0",
+                        "7b8a182e-70df-4a95-8c21-eba9d43a86ea",
+                        "b80e7241-4ba7-4208-a055-3e577384cdd3",
+                        "789001df-188f-482b-b895-d5f24c817e53",
                         "64262ec3-bb81-492d-ba9f-7ba0742e676f",
                         "05af18bf-1c9c-4ccf-95dd-06f628626c18",
-                        "4d6815eb-5a3e-4ae9-a07c-bdbe4a8ad172",
-                        "42f2ffe4-a7fb-4b30-97f0-fad4abf971a6",
-                        "d6a48922-4938-4c62-b2cd-30ca8457536b",
-                        "a2a84f22-4140-4cc0-bdb7-e554f12fa866",
-                        "a50c01d1-f0ff-44ac-83b0-ee7a5d9cd13c",
-                        "3a35423f-48ab-4051-b298-421817858df8",
-                        "7b8a182e-70df-4a95-8c21-eba9d43a86ea",
-                        "b596dd36-ebf1-4e84-8a0b-84b460dbdc80",
-                        "1abb2029-4016-4279-a0c2-d175f310bd66",
-                        "789001df-188f-482b-b895-d5f24c817e53",
-                        "b367cac2-5164-449d-a882-2a170b163b8a",
-                        "b80e7241-4ba7-4208-a055-3e577384cdd3",
-                        "2e153214-c16b-4587-a2a6-4c6c213e515c",
                         "c070e18c-ad36-4c8d-b7cd-168cedc1df6f",
+                        "8d263b68-d8a2-4681-88d9-85d6876ba96c",
+                        "81ce8a94-8fe5-4af9-9947-991e09861ad4",
+                        "3a35423f-48ab-4051-b298-421817858df8",
                         "e22d6463-5d4b-4d40-ab99-d5a41eb1e3fb",
+                        "4a45c331-062d-4ff8-af6b-d9ba7c42cf83",
+                        "1abb2029-4016-4279-a0c2-d175f310bd66",
+                        "9b0ec937-ddc8-4171-a80c-96c5b1f35a57",
                         "84e1e722-c740-4e6d-91bd-e6f80d7e03cf",
-                        "11dd8f40-60a5-4e98-8407-f41f89624b1e",
-                        "081dd9ed-37b7-4ae4-9272-318815c778a3",
-                        "ad930584-43b7-4aa1-a612-9e6518f0d7fb"
+                        "7c08aa85-e6f9-412f-810d-ba852e2c2805"
                     ]
                 },
                 {
                     "market_type_group_id": "1dee0efe-981f-471b-b2ae-28239267916c",
                     "market_ids": [
-                        "f55f45e6-ee0f-49bf-8b88-61f7c57ff8e1",
-                        "9032e88a-7a42-4926-824e-7a709a2c7158",
-                        "80018450-300a-4aac-9332-219a6f8f7363",
-                        "0e321a78-8b4d-4086-b1e8-417a40bd48ef",
-                        "c31bea33-aa9b-458d-9a08-27961100b800",
-                        "133b5520-84b4-4c8e-9c32-f203794507bf",
-                        "28b73675-c613-4a20-b875-9bf2c9a7804a",
-                        "0f1c4fdc-f5e0-4dcf-99ec-18af9f1a7c72",
-                        "f0eba28c-1d8d-4d64-8418-ad1d51e8c51d",
-                        "a5eb30f8-dbe8-44a1-9f87-132ba5109918",
-                        "ea81c398-6dd4-4f3b-be07-025c225dea4d",
-                        "b2055fed-94b2-46d6-8e9c-b2d84806c5f7",
-                        "e569d357-5931-4397-8fc0-2c55ccf6b5ad",
-                        "d913edea-13ea-42c4-86c5-9a9396ab24ed",
-                        "ba66d1a5-7afd-44b5-9884-71097d4e7c91",
-                        "58e4f99a-1d2d-4f8c-a609-892e7fcf7c99",
-                        "0f41dabf-41d5-4f58-b01b-bb59b42a2e9c",
-                        "988329a4-5837-4118-a24b-3326d20c3f5f",
-                        "439beef9-0bd7-45a3-be82-d6c9e43d197b",
-                        "adbb0422-6c81-4c53-bfde-9db40c9e7703",
-                        "ca143d69-1468-497a-8fc6-4d2f7bd46a7c",
-                        "70923d30-fec5-4600-8eab-05f6a2b28b27",
-                        "45c8ffd1-64d6-4bff-9ea9-b5f6745861b2",
-                        "0a5bf68d-6522-426b-a72e-9a0278e5e307",
-                        "cbe4cd5d-d1e2-4a74-b108-0c1ae5b0503c",
-                        "dbb3e7bf-a531-43b6-95d9-032ee54ebfe0",
-                        "d6a51418-d71e-47f9-8637-e7d55398e9ae",
                         "fe19823c-5d61-4bdd-b1b3-011baf795763",
-                        "f5734d9b-fa62-4d79-877f-89b4ccb3736e",
+                        "d913edea-13ea-42c4-86c5-9a9396ab24ed",
                         "e572b0d9-cec6-4dee-bdd9-fbd25f5698f9",
                         "7a46cb79-99f5-41df-9c0f-628497f391d4",
-                        "f5541741-109a-4416-a954-25b16dfc5723",
-                        "2fcd4ee1-1587-413f-a3de-14d69c469d32",
-                        "64678a5a-427a-4333-83cd-86b875d16424",
-                        "c2512e51-18bd-487d-a3c8-81243dffcb72",
+                        "d6a51418-d71e-47f9-8637-e7d55398e9ae",
+                        "133b5520-84b4-4c8e-9c32-f203794507bf",
+                        "80018450-300a-4aac-9332-219a6f8f7363",
+                        "a94dbe60-60a2-4e4f-ab77-405168f04d30",
+                        "adbb0422-6c81-4c53-bfde-9db40c9e7703",
+                        "a5eb30f8-dbe8-44a1-9f87-132ba5109918",
+                        "f5734d9b-fa62-4d79-877f-89b4ccb3736e",
                         "8d6390d4-2bb4-4cfc-a259-11c3dcb29142",
-                        "47cdcd5a-5a7f-4587-916d-8c5470486929",
+                        "ca143d69-1468-497a-8fc6-4d2f7bd46a7c",
+                        "dbb3e7bf-a531-43b6-95d9-032ee54ebfe0",
+                        "988329a4-5837-4118-a24b-3326d20c3f5f",
                         "120481b4-5c87-4cac-9682-8f7c6d98be27",
+                        "9032e88a-7a42-4926-824e-7a709a2c7158",
+                        "70923d30-fec5-4600-8eab-05f6a2b28b27",
+                        "b2055fed-94b2-46d6-8e9c-b2d84806c5f7",
+                        "c31bea33-aa9b-458d-9a08-27961100b800",
+                        "28b73675-c613-4a20-b875-9bf2c9a7804a",
+                        "e569d357-5931-4397-8fc0-2c55ccf6b5ad",
+                        "f55f45e6-ee0f-49bf-8b88-61f7c57ff8e1",
+                        "ba66d1a5-7afd-44b5-9884-71097d4e7c91",
+                        "cbe4cd5d-d1e2-4a74-b108-0c1ae5b0503c",
+                        "439beef9-0bd7-45a3-be82-d6c9e43d197b",
+                        "0f41dabf-41d5-4f58-b01b-bb59b42a2e9c",
+                        "0a5bf68d-6522-426b-a72e-9a0278e5e307",
+                        "f5541741-109a-4416-a954-25b16dfc5723",
+                        "58e4f99a-1d2d-4f8c-a609-892e7fcf7c99",
+                        "ea81c398-6dd4-4f3b-be07-025c225dea4d",
+                        "0f1c4fdc-f5e0-4dcf-99ec-18af9f1a7c72",
+                        "c2512e51-18bd-487d-a3c8-81243dffcb72",
+                        "2fcd4ee1-1587-413f-a3de-14d69c469d32",
+                        "45c8ffd1-64d6-4bff-9ea9-b5f6745861b2",
+                        "f0eba28c-1d8d-4d64-8418-ad1d51e8c51d",
+                        "47cdcd5a-5a7f-4587-916d-8c5470486929",
                         "3797f92c-0eb1-4c00-89d2-28e03ee01653",
-                        "a94dbe60-60a2-4e4f-ab77-405168f04d30"
+                        "64678a5a-427a-4333-83cd-86b875d16424",
+                        "0e321a78-8b4d-4086-b1e8-417a40bd48ef"
                     ]
                 },
                 {
@@ -8488,8 +8530,8 @@
                         "90446abb-1376-4ee7-a962-fedcc2a34078",
                         "5fd0f717-2780-4781-ae76-ac24498a9a54",
                         "95c94c66-ea75-45bf-8134-58d4dc326243",
-                        "bd91b90b-e656-4ecc-a1fb-1396095dee9d",
-                        "da446488-b8ce-4dab-9da3-0c0b0b373d0f"
+                        "a639ccb8-7671-4993-ade4-78b493ff313f",
+                        "b5b62c17-7b46-4d25-bf01-34dea0167803"
                     ]
                 },
                 {
@@ -8528,6 +8570,9 @@
                         "1a978785-1f1b-4812-a505-1c97cfe81d4a",
                         "79a73a25-4512-42be-b340-a1f89c9cb216",
                         "cbd2b816-0022-4272-9855-2c5e4b9eb4bc",
+                        "595d7f32-2ae2-4dd1-804e-200cda3900de",
+                        "379be10e-8c0d-4326-acbf-e171eb9d08d9",
+                        "049312af-5073-42ae-9499-b657572e68a7",
                         "530349e0-64c0-4e53-95a6-4cd463392848"
                     ]
                 },
@@ -8583,7 +8628,7 @@
                         "f8512fbb-e1d2-43a4-aa3d-87f2543d0db7",
                         "50dff7b8-71e0-458a-8898-a43652660900",
                         "126c9d58-bda5-40a3-b7dd-d2732829e2c1",
-                        "c4baa45f-c7b4-4922-85b5-98cdc91a3638"
+                        "504e064a-40ec-4f8d-b225-78100fa3d302"
                     ]
                 },
                 {
@@ -8594,34 +8639,34 @@
                         "3977fb49-438e-4f07-9f8a-28d5fbe19a42",
                         "b96da471-9fd2-4cc5-94be-93e9a03b5876",
                         "472bccd0-891c-41d7-a370-2f4f144bad67",
-                        "831cf067-6276-406b-a3fe-28548aa0222d",
-                        "d8f4ed81-0242-4fca-863f-bea7f00688bd",
                         "9897c6b6-a4cd-4d54-bdef-95c83bd0ff80",
-                        "16519c71-b06b-4421-b06a-0fd7cd5cd727",
-                        "2555c296-c9a3-47bc-9107-da7e437ab0de",
                         "fecd0804-0493-40ba-872c-2350fc1d9564",
-                        "c800701d-181b-4302-bd9a-ca2aa97bffe1",
-                        "a8dd2fd9-4175-42ef-8c73-992ab89b4602",
+                        "831cf067-6276-406b-a3fe-28548aa0222d",
+                        "2555c296-c9a3-47bc-9107-da7e437ab0de",
+                        "d8f4ed81-0242-4fca-863f-bea7f00688bd",
                         "fe65c729-7418-4524-b1e6-cebfda01651a",
+                        "c800701d-181b-4302-bd9a-ca2aa97bffe1",
                         "6a13a523-c35a-487f-a7af-4643925e7ec9",
-                        "a4a3b1c9-3df8-449c-93a9-3fa4f6406807",
-                        "62bd537b-77b6-47a5-ac1d-78bb23881f3a",
-                        "c7b278ac-45ae-44e5-8cfa-3922725a2853",
+                        "16519c71-b06b-4421-b06a-0fd7cd5cd727",
+                        "a8dd2fd9-4175-42ef-8c73-992ab89b4602",
+                        "a063928a-cd4e-4c5e-94b3-9d492474013f",
+                        "06b02fd2-2be3-46ec-a9ac-eeaf298af6e4",
                         "6f92f917-e934-46c0-9327-6325233f0070",
+                        "152a481a-7f50-4a86-a166-1f0c9aca65fc",
+                        "c7b278ac-45ae-44e5-8cfa-3922725a2853",
+                        "a4a3b1c9-3df8-449c-93a9-3fa4f6406807",
                         "8a66bf17-a05a-48f7-b099-490f95b95181",
                         "856f6d2a-60b8-446d-bbc1-1842924962d3",
-                        "06b02fd2-2be3-46ec-a9ac-eeaf298af6e4",
-                        "a063928a-cd4e-4c5e-94b3-9d492474013f",
                         "bd5f4e1b-1f0d-4b87-9b06-805a39ddf4ea",
-                        "152a481a-7f50-4a86-a166-1f0c9aca65fc",
-                        "67144da7-509e-4d3a-9dd1-29538ff52aaf",
+                        "62bd537b-77b6-47a5-ac1d-78bb23881f3a",
                         "6939839a-6575-4d3c-8a6e-dcbd7984ef13",
                         "81c8f96d-13dd-4f62-b0ca-68b842f94d65",
+                        "67144da7-509e-4d3a-9dd1-29538ff52aaf",
+                        "c9617dfe-3d4a-4525-b908-1a483b7fd9e2",
+                        "58785cd9-e2b1-48c8-92c0-dd5e8d06fc9f",
                         "2450c14f-c6d4-4875-94d7-84f8c0540e90",
                         "dd9a8abe-4f5b-456f-af78-f5e488c6bcbc",
-                        "dfcaf8f8-3b91-41cb-a51d-75626a400e22",
-                        "58785cd9-e2b1-48c8-92c0-dd5e8d06fc9f",
-                        "c9617dfe-3d4a-4525-b908-1a483b7fd9e2"
+                        "dfcaf8f8-3b91-41cb-a51d-75626a400e22"
                     ]
                 },
                 {
@@ -8653,6 +8698,13 @@
                     ]
                 },
                 {
+                    "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+                    "market_ids": [
+                        "2d54a918-3a7e-463f-a47a-918d0bc47e7a",
+                        "4c440bcf-2fc5-41f5-a9e4-a344c8a2a075"
+                    ]
+                },
+                {
                     "market_type_group_id": "1310201b-0286-4274-8994-6cf42c480a36",
                     "market_ids": [
                         "a7409878-03c9-41f2-a48a-92d152a18b70",
@@ -8663,13 +8715,6 @@
                         "96af4b9f-ab6b-4f86-a211-d70abeeb7ccd",
                         "c73f9f75-2574-48aa-88c6-e16788d9605d",
                         "a836ca23-e6de-48bf-8cab-58b5112c63d6"
-                    ]
-                },
-                {
-                    "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
-                    "market_ids": [
-                        "2d54a918-3a7e-463f-a47a-918d0bc47e7a",
-                        "4c440bcf-2fc5-41f5-a9e4-a344c8a2a075"
                     ]
                 },
                 {
@@ -8697,29 +8742,29 @@
                         "d3c423f0-dcd1-44fb-bd52-cda3b33faecb",
                         "b7a7fa56-2790-4af8-b466-154f142924f4",
                         "c6c6812a-1060-43d3-9f6c-799bb3379e97",
-                        "acd563f1-c6ef-4bcf-8a84-7a5ecc2df0e9",
+                        "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20",
                         "d578f4c1-ff5d-4d67-8cb4-b9bdf631e33c",
-                        "9f0bf431-96fe-4a1e-b825-1c09cda64dc0",
-                        "9d9d77ea-7cc2-4dad-b22d-726ada15c034",
+                        "acd563f1-c6ef-4bcf-8a84-7a5ecc2df0e9",
+                        "e0df98a6-d403-4fc8-8c1e-986bf49354e8",
                         "5f23de01-9bbf-44ea-ba10-dadc45c48f8e",
                         "fe473738-82c3-49fb-8ee1-6e294c06c665",
                         "44d6fa4b-850e-47af-8dc7-12ad506aaf10",
-                        "e0df98a6-d403-4fc8-8c1e-986bf49354e8",
-                        "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20",
                         "fcf5cb25-3b07-4a5e-8a34-4701c5603254",
+                        "9f0bf431-96fe-4a1e-b825-1c09cda64dc0",
+                        "9d9d77ea-7cc2-4dad-b22d-726ada15c034",
                         "83472b70-1c30-41fb-b886-6085060d0c5d",
-                        "7ec2463d-cba1-42db-9788-44662c363b1b",
                         "1c1b120d-172c-4f5e-8903-b579f2a62855",
-                        "6294f4a3-f88e-4b72-99fb-8a10d94163bd",
-                        "31be7144-5843-4b3a-a599-66ca5c7a9b87",
-                        "926cbd97-7dc2-42cc-8dce-2323c42671c8",
-                        "096f96ee-a7bd-459b-b30b-31dc9a54ada3",
-                        "c4255640-4f77-4820-bb5f-05af7348f8af",
+                        "7ec2463d-cba1-42db-9788-44662c363b1b",
+                        "706a67ce-ce37-44ab-972a-e90d523cefa5",
                         "ba7c569f-0cc7-4f3e-822a-ca0e44ca7c1f",
                         "8804958a-887a-46a8-add3-379793323e33",
+                        "096f96ee-a7bd-459b-b30b-31dc9a54ada3",
                         "25466c26-2ede-4254-b7ad-487de9b18984",
-                        "706a67ce-ce37-44ab-972a-e90d523cefa5",
-                        "14d505d5-43ef-4989-8277-583519eed716"
+                        "31be7144-5843-4b3a-a599-66ca5c7a9b87",
+                        "6294f4a3-f88e-4b72-99fb-8a10d94163bd",
+                        "926cbd97-7dc2-42cc-8dce-2323c42671c8",
+                        "14d505d5-43ef-4989-8277-583519eed716",
+                        "c4255640-4f77-4820-bb5f-05af7348f8af"
                     ]
                 },
                 {
@@ -8729,10 +8774,10 @@
                         "575715e7-75f0-4e69-ade2-1b4069709fff",
                         "69e6c6fb-69a2-436e-a5ec-9a4ad8501cce",
                         "90de986d-ea2a-456d-9cd4-3bb121e25795",
-                        "51e9af37-2c92-4563-9a55-c9a8417592fa",
                         "fc4349c5-2722-41b4-af00-df8a86e5f2e3",
-                        "90d25387-491a-43b5-8e86-10006a74dc55",
+                        "51e9af37-2c92-4563-9a55-c9a8417592fa",
                         "e78485cb-a387-4a0b-87ec-3083af718eae",
+                        "90d25387-491a-43b5-8e86-10006a74dc55",
                         "8112da0a-5891-4ca7-8898-19fabba914dc",
                         "83c0ccf7-41a2-4831-88f3-d95396094f5b",
                         "dbd0c559-e16e-4c93-a71c-d998d0b9504f",
@@ -8740,7 +8785,7 @@
                     ]
                 }
             ],
-            "market_count": 265,
+            "market_count": 268,
             "main_markets": [
                 "5f50a893-9b32-4802-9f6a-713a6608c378"
             ],
@@ -8756,84 +8801,84 @@
                 "bc0c4465-a1e6-4617-b0f6-6fe36a2abf48",
                 "98501a23-3b80-492d-a6a5-2c16169f6b95",
                 "c6cd5007-5c3b-4444-af0e-c932d4088c2f",
-                "81ce8a94-8fe5-4af9-9947-991e09861ad4",
-                "9b0ec937-ddc8-4171-a80c-96c5b1f35a57",
-                "84a20ef6-783c-415b-8b6a-be3a64c46d87",
-                "4b20ad2d-db2b-40ea-a3d5-cfe79b94d0f1",
-                "c63d6328-b5e7-48a4-80aa-0966f590cb68",
+                "2e153214-c16b-4587-a2a6-4c6c213e515c",
                 "47bb9cb4-d25e-462d-bc4f-fbc1a19cac6e",
-                "dabe97ad-da95-499b-8aeb-92d6d108b551",
+                "ad930584-43b7-4aa1-a612-9e6518f0d7fb",
+                "b367cac2-5164-449d-a882-2a170b163b8a",
+                "b596dd36-ebf1-4e84-8a0b-84b460dbdc80",
                 "8235eba1-6045-4010-9b8a-fe47d4da6850",
-                "6657b824-3e29-46ae-ae1b-1292e8c73116",
-                "5afb323e-458b-447f-a522-a8125f0525e7",
-                "8b8bd780-8d25-42e7-8e63-e382e83b2fed",
                 "7f7c023b-d44a-471e-8fb5-4c4eed3d6664",
+                "84a20ef6-783c-415b-8b6a-be3a64c46d87",
+                "11dd8f40-60a5-4e98-8407-f41f89624b1e",
+                "a50c01d1-f0ff-44ac-83b0-ee7a5d9cd13c",
+                "081dd9ed-37b7-4ae4-9272-318815c778a3",
+                "4b20ad2d-db2b-40ea-a3d5-cfe79b94d0f1",
+                "42f2ffe4-a7fb-4b30-97f0-fad4abf971a6",
+                "6657b824-3e29-46ae-ae1b-1292e8c73116",
+                "c63d6328-b5e7-48a4-80aa-0966f590cb68",
+                "5afb323e-458b-447f-a522-a8125f0525e7",
                 "92efd297-3296-4afe-af24-0c2b0ad7bc22",
-                "7c08aa85-e6f9-412f-810d-ba852e2c2805",
-                "8d263b68-d8a2-4681-88d9-85d6876ba96c",
-                "4a45c331-062d-4ff8-af6b-d9ba7c42cf83",
+                "a2a84f22-4140-4cc0-bdb7-e554f12fa866",
+                "4d6815eb-5a3e-4ae9-a07c-bdbe4a8ad172",
+                "d6a48922-4938-4c62-b2cd-30ca8457536b",
+                "dabe97ad-da95-499b-8aeb-92d6d108b551",
+                "8b8bd780-8d25-42e7-8e63-e382e83b2fed",
                 "6f18b247-36a3-4065-a6d8-e2dea5a69fe0",
+                "7b8a182e-70df-4a95-8c21-eba9d43a86ea",
+                "b80e7241-4ba7-4208-a055-3e577384cdd3",
+                "789001df-188f-482b-b895-d5f24c817e53",
                 "64262ec3-bb81-492d-ba9f-7ba0742e676f",
                 "05af18bf-1c9c-4ccf-95dd-06f628626c18",
-                "4d6815eb-5a3e-4ae9-a07c-bdbe4a8ad172",
-                "42f2ffe4-a7fb-4b30-97f0-fad4abf971a6",
-                "d6a48922-4938-4c62-b2cd-30ca8457536b",
-                "a2a84f22-4140-4cc0-bdb7-e554f12fa866",
-                "a50c01d1-f0ff-44ac-83b0-ee7a5d9cd13c",
-                "3a35423f-48ab-4051-b298-421817858df8",
-                "7b8a182e-70df-4a95-8c21-eba9d43a86ea",
-                "b596dd36-ebf1-4e84-8a0b-84b460dbdc80",
-                "1abb2029-4016-4279-a0c2-d175f310bd66",
-                "789001df-188f-482b-b895-d5f24c817e53",
-                "b367cac2-5164-449d-a882-2a170b163b8a",
-                "b80e7241-4ba7-4208-a055-3e577384cdd3",
-                "2e153214-c16b-4587-a2a6-4c6c213e515c",
                 "c070e18c-ad36-4c8d-b7cd-168cedc1df6f",
+                "8d263b68-d8a2-4681-88d9-85d6876ba96c",
+                "81ce8a94-8fe5-4af9-9947-991e09861ad4",
+                "3a35423f-48ab-4051-b298-421817858df8",
                 "e22d6463-5d4b-4d40-ab99-d5a41eb1e3fb",
+                "4a45c331-062d-4ff8-af6b-d9ba7c42cf83",
+                "1abb2029-4016-4279-a0c2-d175f310bd66",
+                "9b0ec937-ddc8-4171-a80c-96c5b1f35a57",
                 "84e1e722-c740-4e6d-91bd-e6f80d7e03cf",
-                "11dd8f40-60a5-4e98-8407-f41f89624b1e",
-                "081dd9ed-37b7-4ae4-9272-318815c778a3",
-                "ad930584-43b7-4aa1-a612-9e6518f0d7fb",
-                "f55f45e6-ee0f-49bf-8b88-61f7c57ff8e1",
-                "9032e88a-7a42-4926-824e-7a709a2c7158",
-                "80018450-300a-4aac-9332-219a6f8f7363",
-                "0e321a78-8b4d-4086-b1e8-417a40bd48ef",
-                "c31bea33-aa9b-458d-9a08-27961100b800",
-                "133b5520-84b4-4c8e-9c32-f203794507bf",
-                "28b73675-c613-4a20-b875-9bf2c9a7804a",
-                "0f1c4fdc-f5e0-4dcf-99ec-18af9f1a7c72",
-                "f0eba28c-1d8d-4d64-8418-ad1d51e8c51d",
-                "a5eb30f8-dbe8-44a1-9f87-132ba5109918",
-                "ea81c398-6dd4-4f3b-be07-025c225dea4d",
-                "b2055fed-94b2-46d6-8e9c-b2d84806c5f7",
-                "e569d357-5931-4397-8fc0-2c55ccf6b5ad",
-                "d913edea-13ea-42c4-86c5-9a9396ab24ed",
-                "ba66d1a5-7afd-44b5-9884-71097d4e7c91",
-                "58e4f99a-1d2d-4f8c-a609-892e7fcf7c99",
-                "0f41dabf-41d5-4f58-b01b-bb59b42a2e9c",
-                "988329a4-5837-4118-a24b-3326d20c3f5f",
-                "439beef9-0bd7-45a3-be82-d6c9e43d197b",
-                "adbb0422-6c81-4c53-bfde-9db40c9e7703",
-                "ca143d69-1468-497a-8fc6-4d2f7bd46a7c",
-                "70923d30-fec5-4600-8eab-05f6a2b28b27",
-                "45c8ffd1-64d6-4bff-9ea9-b5f6745861b2",
-                "0a5bf68d-6522-426b-a72e-9a0278e5e307",
-                "cbe4cd5d-d1e2-4a74-b108-0c1ae5b0503c",
-                "dbb3e7bf-a531-43b6-95d9-032ee54ebfe0",
-                "d6a51418-d71e-47f9-8637-e7d55398e9ae",
+                "7c08aa85-e6f9-412f-810d-ba852e2c2805",
                 "fe19823c-5d61-4bdd-b1b3-011baf795763",
-                "f5734d9b-fa62-4d79-877f-89b4ccb3736e",
+                "d913edea-13ea-42c4-86c5-9a9396ab24ed",
                 "e572b0d9-cec6-4dee-bdd9-fbd25f5698f9",
                 "7a46cb79-99f5-41df-9c0f-628497f391d4",
-                "f5541741-109a-4416-a954-25b16dfc5723",
-                "2fcd4ee1-1587-413f-a3de-14d69c469d32",
-                "64678a5a-427a-4333-83cd-86b875d16424",
-                "c2512e51-18bd-487d-a3c8-81243dffcb72",
-                "8d6390d4-2bb4-4cfc-a259-11c3dcb29142",
-                "47cdcd5a-5a7f-4587-916d-8c5470486929",
-                "120481b4-5c87-4cac-9682-8f7c6d98be27",
-                "3797f92c-0eb1-4c00-89d2-28e03ee01653",
+                "d6a51418-d71e-47f9-8637-e7d55398e9ae",
+                "133b5520-84b4-4c8e-9c32-f203794507bf",
+                "80018450-300a-4aac-9332-219a6f8f7363",
                 "a94dbe60-60a2-4e4f-ab77-405168f04d30",
+                "adbb0422-6c81-4c53-bfde-9db40c9e7703",
+                "a5eb30f8-dbe8-44a1-9f87-132ba5109918",
+                "f5734d9b-fa62-4d79-877f-89b4ccb3736e",
+                "8d6390d4-2bb4-4cfc-a259-11c3dcb29142",
+                "ca143d69-1468-497a-8fc6-4d2f7bd46a7c",
+                "dbb3e7bf-a531-43b6-95d9-032ee54ebfe0",
+                "988329a4-5837-4118-a24b-3326d20c3f5f",
+                "120481b4-5c87-4cac-9682-8f7c6d98be27",
+                "9032e88a-7a42-4926-824e-7a709a2c7158",
+                "70923d30-fec5-4600-8eab-05f6a2b28b27",
+                "b2055fed-94b2-46d6-8e9c-b2d84806c5f7",
+                "c31bea33-aa9b-458d-9a08-27961100b800",
+                "28b73675-c613-4a20-b875-9bf2c9a7804a",
+                "e569d357-5931-4397-8fc0-2c55ccf6b5ad",
+                "f55f45e6-ee0f-49bf-8b88-61f7c57ff8e1",
+                "ba66d1a5-7afd-44b5-9884-71097d4e7c91",
+                "cbe4cd5d-d1e2-4a74-b108-0c1ae5b0503c",
+                "439beef9-0bd7-45a3-be82-d6c9e43d197b",
+                "0f41dabf-41d5-4f58-b01b-bb59b42a2e9c",
+                "0a5bf68d-6522-426b-a72e-9a0278e5e307",
+                "f5541741-109a-4416-a954-25b16dfc5723",
+                "58e4f99a-1d2d-4f8c-a609-892e7fcf7c99",
+                "ea81c398-6dd4-4f3b-be07-025c225dea4d",
+                "0f1c4fdc-f5e0-4dcf-99ec-18af9f1a7c72",
+                "c2512e51-18bd-487d-a3c8-81243dffcb72",
+                "2fcd4ee1-1587-413f-a3de-14d69c469d32",
+                "45c8ffd1-64d6-4bff-9ea9-b5f6745861b2",
+                "f0eba28c-1d8d-4d64-8418-ad1d51e8c51d",
+                "47cdcd5a-5a7f-4587-916d-8c5470486929",
+                "3797f92c-0eb1-4c00-89d2-28e03ee01653",
+                "64678a5a-427a-4333-83cd-86b875d16424",
+                "0e321a78-8b4d-4086-b1e8-417a40bd48ef",
                 "bb694c88-056f-4f0a-afbe-faeda4321d0a",
                 "95e43d18-16ff-4b98-a3c9-1a5a77dc0149",
                 "33f80526-bcf2-4a21-bb46-00ac476033b1",
@@ -8854,8 +8899,8 @@
                 "90446abb-1376-4ee7-a962-fedcc2a34078",
                 "5fd0f717-2780-4781-ae76-ac24498a9a54",
                 "95c94c66-ea75-45bf-8134-58d4dc326243",
-                "bd91b90b-e656-4ecc-a1fb-1396095dee9d",
-                "da446488-b8ce-4dab-9da3-0c0b0b373d0f",
+                "a639ccb8-7671-4993-ade4-78b493ff313f",
+                "b5b62c17-7b46-4d25-bf01-34dea0167803",
                 "436e6939-5729-4695-9fa3-541f689e134c",
                 "9c5bfb81-6db0-435c-8f19-3ec5a081c16b",
                 "ff1a82dd-d837-450d-b74e-39f86f896557",
@@ -8880,6 +8925,9 @@
                 "1a978785-1f1b-4812-a505-1c97cfe81d4a",
                 "79a73a25-4512-42be-b340-a1f89c9cb216",
                 "cbd2b816-0022-4272-9855-2c5e4b9eb4bc",
+                "595d7f32-2ae2-4dd1-804e-200cda3900de",
+                "379be10e-8c0d-4326-acbf-e171eb9d08d9",
+                "049312af-5073-42ae-9499-b657572e68a7",
                 "530349e0-64c0-4e53-95a6-4cd463392848",
                 "874992a2-7101-419c-9a26-ad7a33d16bf4",
                 "0ca3462c-2464-4283-b071-0d21cbe834a7",
@@ -8915,40 +8963,40 @@
                 "f8512fbb-e1d2-43a4-aa3d-87f2543d0db7",
                 "50dff7b8-71e0-458a-8898-a43652660900",
                 "126c9d58-bda5-40a3-b7dd-d2732829e2c1",
-                "c4baa45f-c7b4-4922-85b5-98cdc91a3638",
+                "504e064a-40ec-4f8d-b225-78100fa3d302",
                 "c1d0e5ee-b2d8-43c8-8a1f-2c8d642f49d7",
                 "9b9ad319-960b-43eb-85fa-b1b9ed5d6627",
                 "3977fb49-438e-4f07-9f8a-28d5fbe19a42",
                 "b96da471-9fd2-4cc5-94be-93e9a03b5876",
                 "472bccd0-891c-41d7-a370-2f4f144bad67",
-                "831cf067-6276-406b-a3fe-28548aa0222d",
-                "d8f4ed81-0242-4fca-863f-bea7f00688bd",
                 "9897c6b6-a4cd-4d54-bdef-95c83bd0ff80",
-                "16519c71-b06b-4421-b06a-0fd7cd5cd727",
-                "2555c296-c9a3-47bc-9107-da7e437ab0de",
                 "fecd0804-0493-40ba-872c-2350fc1d9564",
-                "c800701d-181b-4302-bd9a-ca2aa97bffe1",
-                "a8dd2fd9-4175-42ef-8c73-992ab89b4602",
+                "831cf067-6276-406b-a3fe-28548aa0222d",
+                "2555c296-c9a3-47bc-9107-da7e437ab0de",
+                "d8f4ed81-0242-4fca-863f-bea7f00688bd",
                 "fe65c729-7418-4524-b1e6-cebfda01651a",
+                "c800701d-181b-4302-bd9a-ca2aa97bffe1",
                 "6a13a523-c35a-487f-a7af-4643925e7ec9",
-                "a4a3b1c9-3df8-449c-93a9-3fa4f6406807",
-                "62bd537b-77b6-47a5-ac1d-78bb23881f3a",
-                "c7b278ac-45ae-44e5-8cfa-3922725a2853",
+                "16519c71-b06b-4421-b06a-0fd7cd5cd727",
+                "a8dd2fd9-4175-42ef-8c73-992ab89b4602",
+                "a063928a-cd4e-4c5e-94b3-9d492474013f",
+                "06b02fd2-2be3-46ec-a9ac-eeaf298af6e4",
                 "6f92f917-e934-46c0-9327-6325233f0070",
+                "152a481a-7f50-4a86-a166-1f0c9aca65fc",
+                "c7b278ac-45ae-44e5-8cfa-3922725a2853",
+                "a4a3b1c9-3df8-449c-93a9-3fa4f6406807",
                 "8a66bf17-a05a-48f7-b099-490f95b95181",
                 "856f6d2a-60b8-446d-bbc1-1842924962d3",
-                "06b02fd2-2be3-46ec-a9ac-eeaf298af6e4",
-                "a063928a-cd4e-4c5e-94b3-9d492474013f",
                 "bd5f4e1b-1f0d-4b87-9b06-805a39ddf4ea",
-                "152a481a-7f50-4a86-a166-1f0c9aca65fc",
-                "67144da7-509e-4d3a-9dd1-29538ff52aaf",
+                "62bd537b-77b6-47a5-ac1d-78bb23881f3a",
                 "6939839a-6575-4d3c-8a6e-dcbd7984ef13",
                 "81c8f96d-13dd-4f62-b0ca-68b842f94d65",
+                "67144da7-509e-4d3a-9dd1-29538ff52aaf",
+                "c9617dfe-3d4a-4525-b908-1a483b7fd9e2",
+                "58785cd9-e2b1-48c8-92c0-dd5e8d06fc9f",
                 "2450c14f-c6d4-4875-94d7-84f8c0540e90",
                 "dd9a8abe-4f5b-456f-af78-f5e488c6bcbc",
                 "dfcaf8f8-3b91-41cb-a51d-75626a400e22",
-                "58785cd9-e2b1-48c8-92c0-dd5e8d06fc9f",
-                "c9617dfe-3d4a-4525-b908-1a483b7fd9e2",
                 "e24f82a8-7cb1-4a1e-a2c4-5c9396010f74",
                 "f67ce284-ce50-4d75-a597-ccc6d7cbe329",
                 "4c0e5581-361f-46ea-9a88-e2d30e672fc0",
@@ -8963,12 +9011,12 @@
                 "83472b70-1c30-41fb-b886-6085060d0c5d",
                 "7ec2463d-cba1-42db-9788-44662c363b1b",
                 "1c1b120d-172c-4f5e-8903-b579f2a62855",
+                "2d54a918-3a7e-463f-a47a-918d0bc47e7a",
+                "4c440bcf-2fc5-41f5-a9e4-a344c8a2a075",
                 "a7409878-03c9-41f2-a48a-92d152a18b70",
                 "96af4b9f-ab6b-4f86-a211-d70abeeb7ccd",
                 "c73f9f75-2574-48aa-88c6-e16788d9605d",
                 "a836ca23-e6de-48bf-8cab-58b5112c63d6",
-                "2d54a918-3a7e-463f-a47a-918d0bc47e7a",
-                "4c440bcf-2fc5-41f5-a9e4-a344c8a2a075",
                 "735c6ebb-b02e-4be5-91c8-0c9004212b17",
                 "c2516f76-e050-442c-8c6e-9a959b5af3c8",
                 "2ea41eb7-f413-401c-beef-6c1be34e6b21",
@@ -8981,34 +9029,34 @@
                 "d3c423f0-dcd1-44fb-bd52-cda3b33faecb",
                 "b7a7fa56-2790-4af8-b466-154f142924f4",
                 "c6c6812a-1060-43d3-9f6c-799bb3379e97",
-                "acd563f1-c6ef-4bcf-8a84-7a5ecc2df0e9",
+                "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20",
                 "d578f4c1-ff5d-4d67-8cb4-b9bdf631e33c",
-                "9f0bf431-96fe-4a1e-b825-1c09cda64dc0",
-                "9d9d77ea-7cc2-4dad-b22d-726ada15c034",
+                "acd563f1-c6ef-4bcf-8a84-7a5ecc2df0e9",
+                "e0df98a6-d403-4fc8-8c1e-986bf49354e8",
                 "5f23de01-9bbf-44ea-ba10-dadc45c48f8e",
                 "fe473738-82c3-49fb-8ee1-6e294c06c665",
                 "44d6fa4b-850e-47af-8dc7-12ad506aaf10",
-                "e0df98a6-d403-4fc8-8c1e-986bf49354e8",
-                "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20",
                 "fcf5cb25-3b07-4a5e-8a34-4701c5603254",
-                "6294f4a3-f88e-4b72-99fb-8a10d94163bd",
-                "31be7144-5843-4b3a-a599-66ca5c7a9b87",
-                "926cbd97-7dc2-42cc-8dce-2323c42671c8",
-                "096f96ee-a7bd-459b-b30b-31dc9a54ada3",
-                "c4255640-4f77-4820-bb5f-05af7348f8af",
+                "9f0bf431-96fe-4a1e-b825-1c09cda64dc0",
+                "9d9d77ea-7cc2-4dad-b22d-726ada15c034",
+                "706a67ce-ce37-44ab-972a-e90d523cefa5",
                 "ba7c569f-0cc7-4f3e-822a-ca0e44ca7c1f",
                 "8804958a-887a-46a8-add3-379793323e33",
+                "096f96ee-a7bd-459b-b30b-31dc9a54ada3",
                 "25466c26-2ede-4254-b7ad-487de9b18984",
-                "706a67ce-ce37-44ab-972a-e90d523cefa5",
+                "31be7144-5843-4b3a-a599-66ca5c7a9b87",
+                "6294f4a3-f88e-4b72-99fb-8a10d94163bd",
+                "926cbd97-7dc2-42cc-8dce-2323c42671c8",
                 "14d505d5-43ef-4989-8277-583519eed716",
+                "c4255640-4f77-4820-bb5f-05af7348f8af",
                 "6674072c-df01-4ef1-8a45-35641262215b",
                 "575715e7-75f0-4e69-ade2-1b4069709fff",
                 "69e6c6fb-69a2-436e-a5ec-9a4ad8501cce",
                 "90de986d-ea2a-456d-9cd4-3bb121e25795",
-                "51e9af37-2c92-4563-9a55-c9a8417592fa",
                 "fc4349c5-2722-41b4-af00-df8a86e5f2e3",
-                "90d25387-491a-43b5-8e86-10006a74dc55",
+                "51e9af37-2c92-4563-9a55-c9a8417592fa",
                 "e78485cb-a387-4a0b-87ec-3083af718eae",
+                "90d25387-491a-43b5-8e86-10006a74dc55",
                 "8112da0a-5891-4ca7-8898-19fabba914dc"
             ],
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
@@ -9161,6 +9209,27 @@
         }
     },
     "markets": {
+        "049312af-5073-42ae-9499-b657572e68a7": {
+            "id": "049312af-5073-42ae-9499-b657572e68a7",
+            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
+            "market_type_id": "ccdbae06-d59d-4e3f-ae26-56d5ac34593f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Jordan Mason : Longest rush",
+            "advertised_start": {
+                "seconds": 1759671000
+            },
+            "actual_start": {
+                "seconds": 1759671000
+            },
+            "handicap": 14.5,
+            "comments": "Bets void if no attempt.",
+            "visible": true,
+            "entrant_ids": [
+                "10e2fab5-6c38-418e-a340-55168b5d5d1a",
+                "ade7c349-9d78-49da-b387-28b421daf296"
+            ],
+            "num_winners": 1
+        },
         "051d2db2-af4d-45dc-9ce8-a1f5e58639c4": {
             "id": "051d2db2-af4d-45dc-9ce8-a1f5e58639c4",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -9784,8 +9853,8 @@
             "comments": "Bets void if any player is listed as inactive for the game.",
             "visible": true,
             "entrant_ids": [
-                "9343d225-bd5a-4831-bb57-de971f22e0c1",
                 "f7e086b1-260d-4ec8-be27-9ec242175661",
+                "9343d225-bd5a-4831-bb57-de971f22e0c1",
                 "ee99bc6d-9e81-4fd4-bb4a-8a5fa86c5977",
                 "8aff1d66-8fd5-4467-a095-2402dd041c64",
                 "0ad1ad4e-009d-44b3-b36c-2f85a6903bf8",
@@ -10296,6 +10365,27 @@
             ],
             "num_winners": 1
         },
+        "379be10e-8c0d-4326-acbf-e171eb9d08d9": {
+            "id": "379be10e-8c0d-4326-acbf-e171eb9d08d9",
+            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
+            "market_type_id": "ccdbae06-d59d-4e3f-ae26-56d5ac34593f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Dillon Gabriel : Longest rush",
+            "advertised_start": {
+                "seconds": 1759671000
+            },
+            "actual_start": {
+                "seconds": 1759671000
+            },
+            "handicap": 7.5,
+            "comments": "Bets void if no attempt.",
+            "visible": true,
+            "entrant_ids": [
+                "f24a4c39-972f-49e8-8215-7a22b24796ad",
+                "ec886b8e-47af-4fc0-906e-5e4ddb0fe568"
+            ],
+            "num_winners": 1
+        },
         "3977fb49-438e-4f07-9f8a-28d5fbe19a42": {
             "id": "3977fb49-438e-4f07-9f8a-28d5fbe19a42",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -10731,6 +10821,26 @@
             ],
             "num_winners": 1
         },
+        "504e064a-40ec-4f8d-b225-78100fa3d302": {
+            "id": "504e064a-40ec-4f8d-b225-78100fa3d302",
+            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
+            "market_type_id": "db4b0d09-68c6-40e1-ac39-01fc97065093",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Will Reichard : Kicking Points",
+            "advertised_start": {
+                "seconds": 1759671000
+            },
+            "actual_start": {
+                "seconds": 1759671000
+            },
+            "handicap": 6.5,
+            "visible": true,
+            "entrant_ids": [
+                "f45683f4-5a99-4afc-9ae8-6c4126261a6a",
+                "bcca2f0e-ba6d-40bb-86ed-87488bae4a56"
+            ],
+            "num_winners": 1
+        },
         "50c49336-c6f4-46fe-8446-c3d7d64120c1": {
             "id": "50c49336-c6f4-46fe-8446-c3d7d64120c1",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -10937,6 +11047,27 @@
             ],
             "num_winners": 1
         },
+        "595d7f32-2ae2-4dd1-804e-200cda3900de": {
+            "id": "595d7f32-2ae2-4dd1-804e-200cda3900de",
+            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
+            "market_type_id": "ccdbae06-d59d-4e3f-ae26-56d5ac34593f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Carson Wentz : Longest rush",
+            "advertised_start": {
+                "seconds": 1759671000
+            },
+            "actual_start": {
+                "seconds": 1759671000
+            },
+            "handicap": 6.5,
+            "comments": "Bets void if no attempt.",
+            "visible": true,
+            "entrant_ids": [
+                "94bde3b9-3c0b-460e-8440-2282810e4c70",
+                "151e69bf-3c0e-476c-8b32-8b9e970b1445"
+            ],
+            "num_winners": 1
+        },
         "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99": {
             "id": "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -10957,9 +11088,9 @@
                 "cc4cdb91-44e3-4089-a2e3-d66ca792a5e9",
                 "97b2525e-f7f2-4d57-9ef6-050f127202d3",
                 "d1b941a4-df81-439e-a5c8-86b8e23bbb3b",
+                "0b249fad-1ef7-4c62-a83c-a3b08eb356d0",
                 "fc80c42c-4a0e-48c0-8d04-e506aecae14b",
                 "27fa7160-06d7-4b77-a8e5-31f176a38353",
-                "0b249fad-1ef7-4c62-a83c-a3b08eb356d0",
                 "4a5b9b7f-6e23-4643-a580-28d4e7a41c45",
                 "4e54e52c-9a2c-4ad8-b9e6-61ae18e64d3c",
                 "4b5bd78b-68c7-4853-84f1-ca8e88c5ce77",
@@ -10970,12 +11101,12 @@
                 "4a0e4a81-8ff4-4353-a924-0f1c8607f664",
                 "7c785ddf-a2f5-4c85-82be-7e853d7cdda4",
                 "99fa55e5-7bbf-4d10-90a3-f27d88bc736d",
-                "2e10a839-e304-491b-b940-805b09bb4fe2",
                 "9d8835bc-a5e5-41cc-b760-c241ec96feb6",
-                "6330a064-7e1c-4fe5-af0e-397a4a471bb6",
+                "2e10a839-e304-491b-b940-805b09bb4fe2",
                 "dd6c56b8-3d7a-4c59-a3a4-e11cb0d35bbd",
-                "2a06a2f4-c543-4d41-9491-67c34192e3f9",
                 "213d079f-a5c5-4b1d-9eaf-8d803d900a91",
+                "2a06a2f4-c543-4d41-9491-67c34192e3f9",
+                "6330a064-7e1c-4fe5-af0e-397a4a471bb6",
                 "c727cb48-c2f2-405b-8e46-980f4898dd20",
                 "21aaacbc-c9ab-4013-9bca-3584fcd9d6bd",
                 "0c7a23ef-6dd6-4082-a9ed-eae1d0b36248",
@@ -12312,23 +12443,23 @@
                 "a5371a30-25e3-43c1-928a-4571dded6d85",
                 "dbb198af-db7d-4c35-bb6f-e9ae001f5c70",
                 "4f8dd505-8c4f-45cd-9ca1-89fbfb669187",
-                "f99c6d8f-139c-47ee-ad5d-b8c72f24afd4",
                 "485d34e9-d7f8-4265-96c1-91744bf4ffcc",
                 "100dbf5d-df8f-4242-b3be-dab7d04396d3",
+                "f99c6d8f-139c-47ee-ad5d-b8c72f24afd4",
                 "63e81019-3019-4ea5-b58e-429a7821f81d",
                 "0ddb706b-6dd1-49e7-ae37-0819955b1d2e",
                 "9552ba6f-e5a8-43e9-8a3c-91b5ba0d35ab",
                 "0dc3126d-7f62-4085-8195-89d15f86775f",
+                "f4c596b1-e299-4e38-bae0-5c523852c734",
                 "44b827cf-4d8f-4fdb-ab74-55023d3fdfcd",
                 "dce0894c-03b5-4a7d-941b-7c4d46a44fa8",
                 "c664e899-852c-4c1a-9fb0-fa12bd945cdb",
                 "786bd631-45fb-48ed-8205-8b484e35e5bf",
-                "f4c596b1-e299-4e38-bae0-5c523852c734",
                 "a99eea1b-f45c-4c18-9c08-4546cca31130",
                 "f1345f31-d364-48bb-bf9e-ecfd0bec9f83",
+                "514d06da-33b5-496b-bc39-2679b373f9b4",
                 "68b1cba7-888f-4235-84ad-49a282080399",
                 "707df30d-0742-480f-a04f-a133a7cf2426",
-                "514d06da-33b5-496b-bc39-2679b373f9b4",
                 "80a5f0b3-655e-42d2-97a2-5d6a3c80a97c",
                 "912d33e3-c8e2-4554-915c-e66f8d3524fc",
                 "345467d9-be4d-4c57-b313-7727faa23231",
@@ -12340,11 +12471,11 @@
                 "9da9eaa5-bcd5-47b4-91e6-e3fb7a95b9c4",
                 "d4ff4087-6d4a-48b6-a7bd-22332270942e",
                 "68aa5a3f-8cb6-4e96-a54e-42a5d239473c",
-                "7cb30eb8-0053-4bd7-8448-3d903fa6db76",
                 "c07131d0-cad9-470a-9b70-182fccee884e",
                 "1f9c4735-263c-4aad-9b36-39097c03685e",
                 "d06a588d-656b-4ad6-88dd-571920932c04",
                 "91a3ea67-fd1f-4f8d-8c30-076167ba9b60",
+                "7cb30eb8-0053-4bd7-8448-3d903fa6db76",
                 "9fbe42a5-a839-4b82-9706-d227855417f9",
                 "3920525f-aa91-403b-92f3-e9aa9f708876",
                 "799bdd3b-4e70-4e4c-a7a1-5de2495d3d1f",
@@ -12352,27 +12483,27 @@
                 "23b6fcc3-b291-4f7d-90f0-cc5c94b22865",
                 "30c27d75-0ade-4d45-9408-f3727d35190a",
                 "26242c8e-c70b-4238-84d7-4bd65eff8be0",
-                "724477c5-2146-4e68-ba32-0389d9ff1f7a",
                 "dc4028a5-2f4c-49fc-9461-4f1bd3596619",
+                "724477c5-2146-4e68-ba32-0389d9ff1f7a",
                 "2f61ea03-c032-4fd2-8663-cd6c165070aa",
                 "e76992ee-7397-437c-8f9a-bf7d397d5bb3",
                 "3cc1f77d-a906-4e4a-949a-edac08a17931",
+                "aed951fd-8701-4e8f-a24c-9107dd17d142",
                 "5eee92ad-8dc5-44fc-897e-1b49ca031711",
                 "c5f44bcc-6c95-4f77-ac03-136adb82c834",
-                "aaf0ac0e-8916-4061-b93c-cd4e01797838",
-                "aed951fd-8701-4e8f-a24c-9107dd17d142",
                 "fcda9233-ff06-4ccd-9ce5-295de3e7f4a0",
+                "292ca81e-e09f-4dc4-8654-f17b05216430",
+                "aaf0ac0e-8916-4061-b93c-cd4e01797838",
+                "aa9eef87-18fb-4e80-b934-af7b8133f3a4",
                 "d9abe951-099f-47f6-8c58-d5d90d22b72e",
                 "7d6717f0-9489-463e-a582-22c72e1b9b36",
-                "292ca81e-e09f-4dc4-8654-f17b05216430",
                 "c5333087-0a06-4be1-a9c6-1940a6368a4e",
-                "aa9eef87-18fb-4e80-b934-af7b8133f3a4",
                 "35bb398a-8865-4a16-af99-7b1b9c8beda4",
                 "99e88868-b6b2-4dea-a456-bbcc5da29dab",
-                "4051c72b-5fe0-4904-a5c4-f90adb0e3e39",
                 "c90f29c5-bad9-47cb-a4ed-e85871994447",
-                "2fe48abf-3c63-4c99-b43f-6d9ffd91980d",
+                "4051c72b-5fe0-4904-a5c4-f90adb0e3e39",
                 "4c15d29d-526f-4b42-8eb0-a84f20278470",
+                "2fe48abf-3c63-4c99-b43f-6d9ffd91980d",
                 "bd8deca6-deed-41ad-b67b-4fbf54ef022d"
             ],
             "num_winners": 99
@@ -12440,8 +12571,8 @@
                 "5dad8f3d-4641-4446-b119-10e5289f6163",
                 "93cba268-d9de-4865-8814-133f1349200e",
                 "0c35009b-1ecb-41b9-8b27-33199af3096c",
-                "2f1c9e29-e27d-454a-b3fb-f5aab12d9a32",
                 "f57a7557-c8fd-4d88-ad14-397373e7c9de",
+                "2f1c9e29-e27d-454a-b3fb-f5aab12d9a32",
                 "9e1aef62-9a1e-4b12-bbab-91bde401a584",
                 "924c88bb-a9b3-45e4-a169-d9b5c19e2fd9",
                 "073f0fcf-c51a-4878-b671-ae3021d8058b",
@@ -12450,14 +12581,14 @@
                 "e075a21a-3c91-4a11-b038-c074b040cb0f",
                 "07661dc7-0ba6-4671-a7bf-cee270cf7ee1",
                 "6e7a5b01-cf6d-43c5-9906-389ebf489386",
+                "c89cf7ca-9e64-4a01-9162-9eb651e8d1e7",
                 "2bcc922d-24a7-4237-97d4-fc29cfa6e8fb",
                 "93ec7e3c-f8c2-43e0-8dc4-b71596ae225f",
-                "c89cf7ca-9e64-4a01-9162-9eb651e8d1e7",
-                "dadfbf0a-2c07-4ec3-bbaf-d4a0fc0906a4",
                 "abafe721-579c-45af-a789-c85437ad771c",
                 "f0284cee-ab49-4c21-afe8-6a5a81a332cb",
-                "3649ec42-64d9-49e8-b447-7319cba64ff9",
+                "dadfbf0a-2c07-4ec3-bbaf-d4a0fc0906a4",
                 "6167fd5c-8448-4906-8824-804bf4b795e1",
+                "3649ec42-64d9-49e8-b447-7319cba64ff9",
                 "b5cb52e6-fc97-4072-a67c-a9a970676304",
                 "11c366d9-9931-46d9-ad9b-e35f6249bd46",
                 "5a3eaac3-26e2-4150-8f2f-92d9454b9d13",
@@ -12473,10 +12604,10 @@
                 "0d0f0069-7ed3-4162-9582-676d6cddbcd0",
                 "55570c64-cd0f-4888-8e52-1324eb9efd43",
                 "1736b765-6dcc-4248-b420-6bd5c85d9d98",
-                "dd3f5476-7056-45a7-8313-351a448465df",
                 "54e1f305-b242-4e0c-8549-c904236b53e1",
-                "e8faac8f-2b9e-477f-a4bb-95c4c41505bd",
+                "dd3f5476-7056-45a7-8313-351a448465df",
                 "04fac5d3-7eac-4cdd-ad2f-1e2ccd59a9e0",
+                "e8faac8f-2b9e-477f-a4bb-95c4c41505bd",
                 "40a3184d-1fa8-476b-9e87-42e6b55ee155"
             ],
             "num_winners": 1
@@ -13165,6 +13296,27 @@
             ],
             "num_winners": 1
         },
+        "a639ccb8-7671-4993-ade4-78b493ff313f": {
+            "id": "a639ccb8-7671-4993-ade4-78b493ff313f",
+            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
+            "market_type_id": "4c0eb591-78f5-4581-bcd9-3c36cb789b28",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Carson Wentz : Longest passing completion",
+            "advertised_start": {
+                "seconds": 1759671000
+            },
+            "actual_start": {
+                "seconds": 1759671000
+            },
+            "handicap": 33.5,
+            "comments": "Bets void if no attempt.",
+            "visible": true,
+            "entrant_ids": [
+                "875ac2d7-2798-4d32-b773-cb9c7e00eedc",
+                "42b3177d-24e6-488e-aac6-79de110477dd"
+            ],
+            "num_winners": 1
+        },
         "a7409878-03c9-41f2-a48a-92d152a18b70": {
             "id": "a7409878-03c9-41f2-a48a-92d152a18b70",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -13466,6 +13618,27 @@
             ],
             "num_winners": 1
         },
+        "b5b62c17-7b46-4d25-bf01-34dea0167803": {
+            "id": "b5b62c17-7b46-4d25-bf01-34dea0167803",
+            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
+            "market_type_id": "4c0eb591-78f5-4581-bcd9-3c36cb789b28",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Dillon Gabriel : Longest passing completion",
+            "advertised_start": {
+                "seconds": 1759671000
+            },
+            "actual_start": {
+                "seconds": 1759671000
+            },
+            "handicap": 31.5,
+            "comments": "Bets void if no attempt.",
+            "visible": true,
+            "entrant_ids": [
+                "7c615231-b59b-4434-a959-92a794bc0f52",
+                "8bcb2743-8b21-4abb-9449-b5fbeaf3237f"
+            ],
+            "num_winners": 1
+        },
         "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20": {
             "id": "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -13750,27 +13923,6 @@
             ],
             "num_winners": 1
         },
-        "bd91b90b-e656-4ecc-a1fb-1396095dee9d": {
-            "id": "bd91b90b-e656-4ecc-a1fb-1396095dee9d",
-            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
-            "market_type_id": "4c0eb591-78f5-4581-bcd9-3c36cb789b28",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Carson Wentz : Longest passing completion",
-            "advertised_start": {
-                "seconds": 1759671000
-            },
-            "actual_start": {
-                "seconds": 1759671000
-            },
-            "handicap": 34.5,
-            "comments": "Bets void if no attempt.",
-            "visible": true,
-            "entrant_ids": [
-                "07fc0696-baa5-4a83-b9a3-bc7d6ffc57d6",
-                "e5e5f96a-3b18-4329-8d5c-4361697a902e"
-            ],
-            "num_winners": 1
-        },
         "c070e18c-ad36-4c8d-b7cd-168cedc1df6f": {
             "id": "c070e18c-ad36-4c8d-b7cd-168cedc1df6f",
             "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
@@ -13917,26 +14069,6 @@
             "entrant_ids": [
                 "ec66a420-2ae4-46e7-b00f-f42b0dfc5fe1",
                 "393323d6-5505-432d-a97a-df204b51b019"
-            ],
-            "num_winners": 1
-        },
-        "c4baa45f-c7b4-4922-85b5-98cdc91a3638": {
-            "id": "c4baa45f-c7b4-4922-85b5-98cdc91a3638",
-            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
-            "market_type_id": "db4b0d09-68c6-40e1-ac39-01fc97065093",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Will Reichard : Kicking Points",
-            "advertised_start": {
-                "seconds": 1759671000
-            },
-            "actual_start": {
-                "seconds": 1759671000
-            },
-            "handicap": 7.5,
-            "visible": true,
-            "entrant_ids": [
-                "7c31ae81-a43d-40b1-9a8a-8b36696a20cf",
-                "61742d40-b391-4c26-8323-3e3284c62a99"
             ],
             "num_winners": 1
         },
@@ -14365,27 +14497,6 @@
             "entrant_ids": [
                 "08bf6e86-bd36-46c8-8234-2d9d5685b096",
                 "f3bb52e7-9cf2-4b7b-a285-09595cb1b60b"
-            ],
-            "num_winners": 1
-        },
-        "da446488-b8ce-4dab-9da3-0c0b0b373d0f": {
-            "id": "da446488-b8ce-4dab-9da3-0c0b0b373d0f",
-            "event_id": "69a4bf8a-27ca-4228-8c2b-0b1d3bae200b",
-            "market_type_id": "4c0eb591-78f5-4581-bcd9-3c36cb789b28",
-            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Dillon Gabriel : Longest passing completion",
-            "advertised_start": {
-                "seconds": 1759671000
-            },
-            "actual_start": {
-                "seconds": 1759671000
-            },
-            "handicap": 30.5,
-            "comments": "Bets void if no attempt.",
-            "visible": true,
-            "entrant_ids": [
-                "2e5e65c7-d852-4e5a-923f-6b5574a77a9e",
-                "39a4648c-2720-47db-9038-1c8a7edc1721"
             ],
             "num_winners": 1
         },
@@ -14856,9 +14967,9 @@
             "entrant_ids": [
                 "90446d97-f151-42a9-901a-ac6e21d0b03e",
                 "564e86ef-d6c8-4f40-9055-3dfb53e574b1",
+                "cd8ac23b-8a19-49ff-b788-d4fb80a13035",
                 "e46139ed-5f3e-4ffb-877c-814dfd34f358",
                 "00b0691f-c9e0-4c9c-a73f-d25298f3e6a3",
-                "cd8ac23b-8a19-49ff-b788-d4fb80a13035",
                 "5e2399ff-c6bf-41ef-8272-3336b5053f1b",
                 "54521db8-f6e1-4372-a2b4-2732eb7aecaa",
                 "2d695644-8d05-4278-b9e0-36c5b131b10b",
@@ -14867,57 +14978,57 @@
                 "845ad03a-bf94-4531-8599-485c8e884e08",
                 "04e68905-51b4-491f-b1f1-65572b735e7e",
                 "3cd03f69-414f-49ce-98f0-d9d31bb86c27",
-                "efe21bd8-a132-475e-9b17-ed5ecd1b507f",
                 "0a9ca091-3922-4171-ace5-e6f45147a004",
                 "6e87749e-f017-47f8-929f-88f5f1c7b28c",
                 "0143ad1b-7553-4b6a-ae78-5be1161c3a0b",
                 "8f1724e6-1809-4fbc-8c06-35afc16663af",
+                "efe21bd8-a132-475e-9b17-ed5ecd1b507f",
                 "8e92596e-7a74-49b8-a7b5-9dda50868cf3",
                 "fa0e676c-5011-426e-af3d-94bffba0044d",
                 "586e76a3-478d-4614-85a7-850252507ade",
                 "f7a1c418-8fc3-4177-9119-423e98e2ac7f",
                 "555fbb33-29c5-450f-8a21-8f0cffd7ab4e",
                 "e41f8837-30a2-44ce-9fd4-febe5aa430ac",
+                "92956181-9928-4947-abcf-f72300a56fce",
                 "7599086d-8d57-44aa-b339-1a19e2e7faed",
                 "d441faba-9d58-4df9-a7f3-dc9155a9e570",
                 "fa1faa98-7cbc-400b-a62e-25ebaa846e93",
-                "3ae8092e-9c66-4c71-9f4d-96e17fce40cb",
                 "8c30efe7-9007-435a-9d71-14c5e115a864",
                 "ce48a64b-28a9-4203-bfdb-5c70dc61fce7",
-                "92956181-9928-4947-abcf-f72300a56fce",
                 "107e7d87-cec3-44c8-9239-85bcf9dc4e4f",
                 "da1cbd27-ed31-4df0-9abd-ed4b72c220da",
                 "c937e249-46f0-4bc6-b3d0-91bd5e6d5a25",
                 "047c8e93-6f0c-430f-b14b-ec69efcf3f1a",
                 "3e63839a-5308-4af0-8dfb-ab68a9b4b837",
                 "cdf26dd8-6dae-4beb-a589-9ab4265bbf59",
+                "687ad515-0074-4959-9866-13c43f5da791",
                 "51a81cf2-6308-4a3a-8210-5298b7da37c3",
-                "a56c9769-b8aa-4fcc-a116-2bc257ff8bdb",
-                "7defb76d-a9c5-4e60-8915-158597537301",
                 "a0f1d196-3c15-4f3c-b90b-ef5d612828d7",
+                "3ae8092e-9c66-4c71-9f4d-96e17fce40cb",
                 "f53e5165-95f0-4f6b-8e19-5f38a14ffae7",
                 "af5d4987-4b4c-4ad5-b4d9-a7105453cfa2",
                 "6a1c68b9-8ca4-4bb4-83f2-d8e7c5c8459e",
                 "4984fdf0-309e-4db5-bff1-382675859773",
                 "23d4b4ec-4273-45b1-a4fd-58ff8d548f05",
                 "3c46390c-f7d3-4c77-91cf-c565741d8e79",
-                "687ad515-0074-4959-9866-13c43f5da791",
+                "a56c9769-b8aa-4fcc-a116-2bc257ff8bdb",
+                "7defb76d-a9c5-4e60-8915-158597537301",
                 "73f20f16-eed1-4d15-bf9a-c55fe886bc57",
-                "5a099988-5cc0-4c55-976e-ae7c8bcd7fd0",
-                "6ff0382f-79c8-49d5-b825-0b31ee701fb8",
                 "56c8602e-64b2-47a3-b597-fdceed2dbef3",
                 "00b88bfb-a765-40dc-a64f-b692e059cbfd",
                 "36621692-56dc-4d57-96d6-ea836ce8c61b",
-                "7f5a5510-f00d-42bd-9b69-0707513d4de9",
                 "b6723b57-4bd2-4602-8037-a8e8c975558d",
+                "9ed64773-66ac-4004-8095-4f3505117a42",
                 "82c12ed3-aa77-4589-8036-5accfffbcc3a",
-                "66d3a18c-1d8e-4a56-9f9d-6cf568127d7a",
                 "b7a971ef-a6b6-4425-8131-41454a12e21a",
+                "5a099988-5cc0-4c55-976e-ae7c8bcd7fd0",
+                "6ff0382f-79c8-49d5-b825-0b31ee701fb8",
                 "0e488f8b-72cb-4515-be9c-10cc75f8de85",
+                "7f5a5510-f00d-42bd-9b69-0707513d4de9",
                 "14ffedba-da0d-4547-9600-631aa0f22fab",
                 "1f4b875d-71f5-4ddd-a8dc-cf0b1e24a637",
-                "9ed64773-66ac-4004-8095-4f3505117a42",
-                "d7b27c3b-7263-4ddf-8ddc-18ea3e61020e",
+                "66d3a18c-1d8e-4a56-9f9d-6cf568127d7a",
+                "5754c0b4-5663-4e58-a4d1-f1f8da6eb01d",
                 "662f8a5d-101a-4354-a866-d6b36c2d72d1",
                 "47da7248-34e8-4ae7-b5d9-e3f8cbe78c9c",
                 "08178a6a-d6f7-4c2f-af34-8fb6f237a2be",
@@ -14925,16 +15036,16 @@
                 "44daa871-1352-424d-b889-0ed77df39283",
                 "8bd58b77-3321-4dbf-be16-cdd601adcb9e",
                 "aa673088-90df-458a-a574-ca187b54168f",
-                "5754c0b4-5663-4e58-a4d1-f1f8da6eb01d",
-                "f9fd1d55-7d57-4e35-b6af-624a84cd026a",
+                "d7b27c3b-7263-4ddf-8ddc-18ea3e61020e",
                 "364af288-dd89-4d01-b4d9-2c5ca261a569",
                 "11d139c3-2c9a-4aa5-a72c-1f8c39cd681f",
-                "de9f7b75-5b75-4d21-8587-eaedbc40f283",
                 "6f00bd87-7b10-484e-8f1c-2feade033752",
-                "a58c5159-1284-4659-b1b7-b1297e559fbb",
+                "f9fd1d55-7d57-4e35-b6af-624a84cd026a",
+                "de9f7b75-5b75-4d21-8587-eaedbc40f283",
                 "e57fe539-91c9-460e-bfe4-53175c59880b",
-                "9806857b-d5cb-4934-93a8-a531a63dff43",
+                "a58c5159-1284-4659-b1b7-b1297e559fbb",
                 "9b2da00f-36db-4b3c-9b0d-9df9141d04da",
+                "9806857b-d5cb-4934-93a8-a531a63dff43",
                 "af986294-f34d-4d93-a273-08c4b06409a2",
                 "133c188b-0470-4737-a416-bcaa41b4126d"
             ],
@@ -14965,8 +15076,8 @@
                 "c329d3c7-d77a-48c9-a011-6a2328a2117e",
                 "d7e2eebf-8c87-4fda-8487-6db9fb4f3b17",
                 "c394baaa-abe2-4a11-8d48-14ab35af4b5f",
-                "432b1a59-0151-48b3-97ca-c44c3cfd993d",
-                "37df3b5c-4608-47f1-8258-5412530171f6"
+                "37df3b5c-4608-47f1-8258-5412530171f6",
+                "432b1a59-0151-48b3-97ca-c44c3cfd993d"
             ],
             "num_winners": 99
         },
@@ -15375,6 +15486,7 @@
         }
     },
     "markets_allow_cashout": {
+        "049312af-5073-42ae-9499-b657572e68a7": false,
         "051d2db2-af4d-45dc-9ce8-a1f5e58639c4": true,
         "05af18bf-1c9c-4ccf-95dd-06f628626c18": false,
         "06b02fd2-2be3-46ec-a9ac-eeaf298af6e4": false,
@@ -15423,6 +15535,7 @@
         "33ddbce7-ea98-4170-a51f-7eb9d62cd019": true,
         "33f80526-bcf2-4a21-bb46-00ac476033b1": true,
         "3797f92c-0eb1-4c00-89d2-28e03ee01653": false,
+        "379be10e-8c0d-4326-acbf-e171eb9d08d9": false,
         "3977fb49-438e-4f07-9f8a-28d5fbe19a42": false,
         "3a35423f-48ab-4051-b298-421817858df8": false,
         "3d1bdd5f-44dd-4cc1-b7d0-88b7bdff7f94": true,
@@ -15443,6 +15556,7 @@
         "4c0e5581-361f-46ea-9a88-e2d30e672fc0": true,
         "4c440bcf-2fc5-41f5-a9e4-a344c8a2a075": true,
         "4d6815eb-5a3e-4ae9-a07c-bdbe4a8ad172": false,
+        "504e064a-40ec-4f8d-b225-78100fa3d302": false,
         "50c49336-c6f4-46fe-8446-c3d7d64120c1": true,
         "50dff7b8-71e0-458a-8898-a43652660900": false,
         "51e9af37-2c92-4563-9a55-c9a8417592fa": false,
@@ -15452,6 +15566,7 @@
         "575715e7-75f0-4e69-ade2-1b4069709fff": false,
         "58785cd9-e2b1-48c8-92c0-dd5e8d06fc9f": false,
         "58e4f99a-1d2d-4f8c-a609-892e7fcf7c99": false,
+        "595d7f32-2ae2-4dd1-804e-200cda3900de": false,
         "5a91fc32-8f81-4f6a-9d23-a5d4ea4baf99": true,
         "5afb323e-458b-447f-a522-a8125f0525e7": false,
         "5d78833d-65c8-4fa4-9c47-1996cc808916": true,
@@ -15544,6 +15659,7 @@
         "a4a3b1c9-3df8-449c-93a9-3fa4f6406807": false,
         "a50c01d1-f0ff-44ac-83b0-ee7a5d9cd13c": false,
         "a5eb30f8-dbe8-44a1-9f87-132ba5109918": false,
+        "a639ccb8-7671-4993-ade4-78b493ff313f": false,
         "a7409878-03c9-41f2-a48a-92d152a18b70": true,
         "a836ca23-e6de-48bf-8cab-58b5112c63d6": true,
         "a8dd2fd9-4175-42ef-8c73-992ab89b4602": false,
@@ -15558,6 +15674,7 @@
         "b2055fed-94b2-46d6-8e9c-b2d84806c5f7": false,
         "b367cac2-5164-449d-a882-2a170b163b8a": false,
         "b596dd36-ebf1-4e84-8a0b-84b460dbdc80": false,
+        "b5b62c17-7b46-4d25-bf01-34dea0167803": false,
         "b5bd61f8-019a-45cb-b1ea-4e2ccaa10a20": false,
         "b734f826-a69a-4515-8ba8-bae51a6c1f9b": false,
         "b7a7fa56-2790-4af8-b466-154f142924f4": false,
@@ -15570,7 +15687,6 @@
         "bbce33c6-ca7c-4c5f-93df-758638db2f54": true,
         "bc0c4465-a1e6-4617-b0f6-6fe36a2abf48": true,
         "bd5f4e1b-1f0d-4b87-9b06-805a39ddf4ea": false,
-        "bd91b90b-e656-4ecc-a1fb-1396095dee9d": false,
         "c070e18c-ad36-4c8d-b7cd-168cedc1df6f": false,
         "c1d0e5ee-b2d8-43c8-8a1f-2c8d642f49d7": false,
         "c2512e51-18bd-487d-a3c8-81243dffcb72": false,
@@ -15578,7 +15694,6 @@
         "c31bea33-aa9b-458d-9a08-27961100b800": false,
         "c3f17b12-9d41-414e-a171-ad6e23f154dd": true,
         "c4255640-4f77-4820-bb5f-05af7348f8af": false,
-        "c4baa45f-c7b4-4922-85b5-98cdc91a3638": false,
         "c5a9f320-95c0-4ebf-a84d-c4c45540cc20": true,
         "c63d6328-b5e7-48a4-80aa-0966f590cb68": false,
         "c6c6812a-1060-43d3-9f6c-799bb3379e97": false,
@@ -15599,7 +15714,6 @@
         "d6a51418-d71e-47f9-8637-e7d55398e9ae": false,
         "d8f4ed81-0242-4fca-863f-bea7f00688bd": false,
         "d913edea-13ea-42c4-86c5-9a9396ab24ed": false,
-        "da446488-b8ce-4dab-9da3-0c0b0b373d0f": false,
         "da5cfbf6-f4e5-4b9f-bae2-d4ffb946adcb": true,
         "dabe97ad-da95-499b-8aeb-92d6d108b551": false,
         "dbb3e7bf-a531-43b6-95d9-032ee54ebfe0": false,
@@ -15686,7 +15800,7 @@
         },
         "0143ad1b-7553-4b6a-ae78-5be1161c3a0b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
+                "numerator": 25,
                 "denominator": 1
             }
         },
@@ -15764,7 +15878,7 @@
         },
         "04fac5d3-7eac-4cdd-ad2f-1e2ccd59a9e0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 100,
+                "numerator": 80,
                 "denominator": 1
             }
         },
@@ -15854,20 +15968,14 @@
         },
         "079c723e-d1d3-4aa7-9f9e-3a9cbcb8511a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 4
             }
         },
         "07b46ac8-b32a-44fb-9b23-b70133b5fe7b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 10
-            }
-        },
-        "07fc0696-baa5-4a83-b9a3-bc7d6ffc57d6:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 87,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 4
             }
         },
         "08178a6a-d6f7-4c2f-af34-8fb6f237a2be:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -15920,8 +16028,8 @@
         },
         "0ad1ad4e-009d-44b3-b36c-2f85a6903bf8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
-                "denominator": 5
+                "numerator": 21,
+                "denominator": 50
             }
         },
         "0b1cfade-fa64-4c51-94e3-e4ae6309091b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16040,8 +16148,8 @@
         },
         "0ec40c9f-9ab5-4724-98db-ee9ad2996e1c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 51,
-                "denominator": 50
+                "numerator": 21,
+                "denominator": 20
             }
         },
         "0efdf19e-7a28-44bb-baba-58d09d64e1e7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16064,8 +16172,8 @@
         },
         "100dbf5d-df8f-4242-b3be-dab7d04396d3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 2
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "1017d402-188a-4b8d-937c-4902b05b2816:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16101,6 +16209,12 @@
         "10badbfc-8518-4295-a6a8-c41ba0762893:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
+                "denominator": 5
+            }
+        },
+        "10e2fab5-6c38-418e-a340-55168b5d5d1a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
                 "denominator": 5
             }
         },
@@ -16192,6 +16306,12 @@
             "odds": {
                 "numerator": 100,
                 "denominator": 1
+            }
+        },
+        "151e69bf-3c0e-476c-8b32-8b9e970b1445:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
+                "denominator": 5
             }
         },
         "15d4544a-9d30-4132-9125-b17c331597c0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16382,8 +16502,8 @@
         },
         "213d079f-a5c5-4b1d-9eaf-8d803d900a91:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 2
+                "numerator": 9,
+                "denominator": 1
             }
         },
         "214131c2-1451-49b4-b2d7-4282a285b414:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16418,7 +16538,7 @@
         },
         "21c08b7c-1f7a-4b53-96ee-5f5a15934864:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
+                "numerator": 16,
                 "denominator": 1
             }
         },
@@ -16562,8 +16682,8 @@
         },
         "27fa7160-06d7-4b77-a8e5-31f176a38353:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 15,
+                "denominator": 4
             }
         },
         "28610e0c-9f00-4246-92c0-1832a9fe7da1:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16598,7 +16718,7 @@
         },
         "292ca81e-e09f-4dc4-8654-f17b05216430:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 50,
+                "numerator": 40,
                 "denominator": 1
             }
         },
@@ -16610,8 +16730,8 @@
         },
         "299d1e96-4090-4011-93a5-242120c34f8f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 2
+                "numerator": 27,
+                "denominator": 5
             }
         },
         "2a06a2f4-c543-4d41-9491-67c34192e3f9:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16758,12 +16878,6 @@
                 "denominator": 100
             }
         },
-        "2e5e65c7-d852-4e5a-923f-6b5574a77a9e:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 83,
-                "denominator": 100
-            }
-        },
         "2e963e93-1246-4379-a143-b67d0b6d9a75:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 23,
@@ -16862,8 +16976,8 @@
         },
         "315f04eb-3100-43ed-8499-919ed14e1e94:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 2
+                "numerator": 31,
+                "denominator": 4
             }
         },
         "318599e4-d5da-4a5a-a600-03f871f5b6e8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -16970,8 +17084,8 @@
         },
         "35928cf4-06a2-4ba4-82c5-6a92a7b9a53b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 4
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "35bb398a-8865-4a16-af99-7b1b9c8beda4:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17042,8 +17156,8 @@
         },
         "3732cb34-2c00-46f0-9719-6d0135cb80bf:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 20
+                "numerator": 51,
+                "denominator": 50
             }
         },
         "3777b061-81fd-4bdb-b0e1-933c4d2f3d04:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17094,12 +17208,6 @@
                 "denominator": 5
             }
         },
-        "39a4648c-2720-47db-9038-1c8a7edc1721:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 91,
-                "denominator": 100
-            }
-        },
         "39b047c5-6814-43ee-842a-225e6d0a59a9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 23,
@@ -17126,14 +17234,14 @@
         },
         "3ae8092e-9c66-4c71-9f4d-96e17fce40cb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 40,
+                "numerator": 50,
                 "denominator": 1
             }
         },
         "3b2feab6-28d9-4c4c-b7f5-761fd713d96c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 4
+                "numerator": 8,
+                "denominator": 1
             }
         },
         "3b7f1fa9-204b-4d69-93a7-e882c61c2d9b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17336,8 +17444,8 @@
         },
         "4157cffd-badb-4561-b225-4850a8f8f25f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
+                "numerator": 5,
+                "denominator": 4
             }
         },
         "41d97453-1fea-432e-beb6-15850ee3d28c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17358,9 +17466,15 @@
                 "denominator": 4
             }
         },
+        "42b3177d-24e6-488e-aac6-79de110477dd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 17,
+                "denominator": 20
+            }
+        },
         "432b1a59-0151-48b3-97ca-c44c3cfd993d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 25,
                 "denominator": 1
             }
         },
@@ -17474,7 +17588,7 @@
         },
         "4778e4ab-80c0-40ea-bf4e-b74d7c536799:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
+                "numerator": 14,
                 "denominator": 1
             }
         },
@@ -17516,8 +17630,8 @@
         },
         "485d34e9-d7f8-4265-96c1-91744bf4ffcc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 2
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "48e3974e-17f4-4ee4-af64-d63f47c20baa:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17636,7 +17750,7 @@
         },
         "4c15d29d-526f-4b42-8eb0-a84f20278470:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 125,
+                "numerator": 100,
                 "denominator": 1
             }
         },
@@ -17702,8 +17816,8 @@
         },
         "4e54e52c-9a2c-4ad8-b9e6-61ae18e64d3c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 2
+                "numerator": 22,
+                "denominator": 5
             }
         },
         "4e588d69-959b-4641-9884-74ff4c5cc237:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -17738,13 +17852,13 @@
         },
         "4f8dd505-8c4f-45cd-9ca1-89fbfb669187:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 2
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "514d06da-33b5-496b-bc39-2679b373f9b4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 14,
+                "numerator": 13,
                 "denominator": 1
             }
         },
@@ -17804,7 +17918,7 @@
         },
         "54e1f305-b242-4e0c-8549-c904236b53e1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 80,
+                "numerator": 66,
                 "denominator": 1
             }
         },
@@ -17864,7 +17978,7 @@
         },
         "5754c0b4-5663-4e58-a4d1-f1f8da6eb01d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 125,
+                "numerator": 100,
                 "denominator": 1
             }
         },
@@ -17960,7 +18074,7 @@
         },
         "5a099988-5cc0-4c55-976e-ae7c8bcd7fd0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 66,
+                "numerator": 80,
                 "denominator": 1
             }
         },
@@ -18116,14 +18230,8 @@
         },
         "6167fd5c-8448-4906-8824-804bf4b795e1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 30,
+                "numerator": 28,
                 "denominator": 1
-            }
-        },
-        "61742d40-b391-4c26-8323-3e3284c62a99:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 17,
-                "denominator": 25
             }
         },
         "61768ced-a332-4d9e-a45f-5dcc48cf9769:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18176,8 +18284,8 @@
         },
         "6330a064-7e1c-4fe5-af0e-397a4a471bb6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 1
+                "numerator": 19,
+                "denominator": 2
             }
         },
         "634ad7e9-74a6-4fd9-b392-709e875e0e90:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18278,7 +18386,7 @@
         },
         "66d3a18c-1d8e-4a56-9f9d-6cf568127d7a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 80,
+                "numerator": 100,
                 "denominator": 1
             }
         },
@@ -18308,7 +18416,7 @@
         },
         "687ad515-0074-4959-9866-13c43f5da791:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 66,
+                "numerator": 50,
                 "denominator": 1
             }
         },
@@ -18452,8 +18560,8 @@
         },
         "6e6b29ca-c3e6-4b6c-932d-9ff8e11114c6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 5
+                "numerator": 11,
+                "denominator": 2
             }
         },
         "6e7a5b01-cf6d-43c5-9906-389ebf489386:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18518,7 +18626,7 @@
         },
         "6ff0382f-79c8-49d5-b825-0b31ee701fb8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 66,
+                "numerator": 80,
                 "denominator": 1
             }
         },
@@ -18566,7 +18674,7 @@
         },
         "724477c5-2146-4e68-ba32-0389d9ff1f7a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 25,
+                "numerator": 28,
                 "denominator": 1
             }
         },
@@ -18620,8 +18728,8 @@
         },
         "755e28cc-1ff1-4690-a254-9846af4407eb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 50
+                "numerator": 12,
+                "denominator": 25
             }
         },
         "7568422d-dbf4-450e-8f77-3261f49886f7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18788,14 +18896,14 @@
         },
         "7a756395-3c56-4968-a8ac-3acc33d3c305:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 2
             }
         },
         "7a7bdf5c-ef8f-481e-936e-fe5aff775d7f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 20
+                "numerator": 53,
+                "denominator": 100
             }
         },
         "7a9cc0ea-1508-46e7-8724-9adbad934c31:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -18834,27 +18942,27 @@
                 "denominator": 2
             }
         },
-        "7c31ae81-a43d-40b1-9a8a-8b36696a20cf:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 11,
-                "denominator": 10
-            }
-        },
         "7c385bcd-12b8-43ab-ad2d-181bf6051b90:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 5
             }
         },
+        "7c615231-b59b-4434-a959-92a794bc0f52:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 91,
+                "denominator": 100
+            }
+        },
         "7c785ddf-a2f5-4c85-82be-7e853d7cdda4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 4
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "7cb30eb8-0053-4bd7-8448-3d903fa6db76:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 20,
+                "numerator": 22,
                 "denominator": 1
             }
         },
@@ -18896,7 +19004,7 @@
         },
         "7defb76d-a9c5-4e60-8915-158597537301:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 50,
+                "numerator": 66,
                 "denominator": 1
             }
         },
@@ -18932,7 +19040,7 @@
         },
         "7f5a5510-f00d-42bd-9b69-0707513d4de9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 66,
+                "numerator": 80,
                 "denominator": 1
             }
         },
@@ -19110,6 +19218,12 @@
                 "denominator": 20
             }
         },
+        "875ac2d7-2798-4d32-b773-cb9c7e00eedc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
         "87709733-7903-4036-80cb-9d085a16040c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
@@ -19178,8 +19292,8 @@
         },
         "8aff1d66-8fd5-4467-a095-2402dd041c64:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 50
+                "numerator": 2,
+                "denominator": 5
             }
         },
         "8b0f5f04-8eb4-41a4-8a59-49fe3f3c6645:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19212,6 +19326,12 @@
                 "denominator": 2
             }
         },
+        "8bcb2743-8b21-4abb-9449-b5fbeaf3237f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 83,
+                "denominator": 100
+            }
+        },
         "8bd1f0c1-58fc-43e7-9d48-761a165ca3b3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 13,
@@ -19220,8 +19340,8 @@
         },
         "8bd46eae-3262-4f47-8e62-241de517a478:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 53,
-                "denominator": 100
+                "numerator": 3,
+                "denominator": 5
             }
         },
         "8bd58b77-3321-4dbf-be16-cdd601adcb9e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19328,7 +19448,7 @@
         },
         "8f1724e6-1809-4fbc-8c06-35afc16663af:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 30,
+                "numerator": 28,
                 "denominator": 1
             }
         },
@@ -19388,8 +19508,8 @@
         },
         "90446d97-f151-42a9-901a-ac6e21d0b03e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 4
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "90616f07-d2ce-48e5-a587-39cd7264fb84:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19466,7 +19586,7 @@
         },
         "92956181-9928-4947-abcf-f72300a56fce:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 40,
+                "numerator": 33,
                 "denominator": 1
             }
         },
@@ -19490,8 +19610,8 @@
         },
         "9343d225-bd5a-4831-bb57-de971f22e0c1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 50
+                "numerator": 7,
+                "denominator": 100
             }
         },
         "93c441e7-c4c0-4c60-b877-aff0d017e2f3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19524,6 +19644,12 @@
                 "denominator": 1
             }
         },
+        "94bde3b9-3c0b-460e-8440-2282810e4c70:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 20
+            }
+        },
         "94d100b0-c4c6-43bb-947c-1e3056c17a07:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 12,
@@ -19544,8 +19670,8 @@
         },
         "957978b4-6258-4a20-8c6e-ef99216ea06c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 5
+                "numerator": 11,
+                "denominator": 2
             }
         },
         "9579bf0f-c721-4b77-ae09-6112c453c1d4:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19622,8 +19748,8 @@
         },
         "97b2525e-f7f2-4d57-9ef6-050f127202d3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 49,
-                "denominator": 20
+                "numerator": 5,
+                "denominator": 2
             }
         },
         "9806857b-d5cb-4934-93a8-a531a63dff43:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19682,8 +19808,8 @@
         },
         "99fa55e5-7bbf-4d10-90a3-f27d88bc736d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 4
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "99fa9d77-de28-4315-9b12-fc1a8bf10514:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19736,7 +19862,7 @@
         },
         "9b2da00f-36db-4b3c-9b0d-9df9141d04da:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 300,
+                "numerator": 250,
                 "denominator": 1
             }
         },
@@ -19802,8 +19928,8 @@
         },
         "9d8835bc-a5e5-41cc-b760-c241ec96feb6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 4
+                "numerator": 7,
+                "denominator": 1
             }
         },
         "9da9eaa5-bcd5-47b4-91e6-e3fb7a95b9c4:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19856,7 +19982,7 @@
         },
         "9ed64773-66ac-4004-8095-4f3505117a42:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 100,
+                "numerator": 80,
                 "denominator": 1
             }
         },
@@ -19910,8 +20036,8 @@
         },
         "a120db65-bbc9-4ab5-a3a4-8caad62f33a1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 20
+                "numerator": 23,
+                "denominator": 10
             }
         },
         "a126df2f-7ec9-496b-9c34-5319953d6533:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -19988,8 +20114,8 @@
         },
         "a4ef6b04-05bb-4e9f-9efc-3cc86d62e5c2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 20
+                "numerator": 47,
+                "denominator": 50
             }
         },
         "a500fa4f-1523-4a99-bf86-d93c02a387ca:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20012,7 +20138,7 @@
         },
         "a56c9769-b8aa-4fcc-a116-2bc257ff8bdb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 50,
+                "numerator": 66,
                 "denominator": 1
             }
         },
@@ -20120,20 +20246,20 @@
         },
         "aa0087c0-268e-4437-822c-1f1a47fa649b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 4
+                "numerator": 21,
+                "denominator": 5
             }
         },
         "aa4c45c3-3c62-4f06-aa88-3cee037e50ae:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 83,
-                "denominator": 100
+                "numerator": 41,
+                "denominator": 50
             }
         },
         "aa56270b-94bb-4008-bfa8-de9eb32448cf:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 4
+                "numerator": 23,
+                "denominator": 10
             }
         },
         "aa673088-90df-458a-a574-ca187b54168f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20150,14 +20276,14 @@
         },
         "aa9eef87-18fb-4e80-b934-af7b8133f3a4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 50,
+                "numerator": 40,
                 "denominator": 1
             }
         },
         "aab4b353-b230-41ab-9b7e-3f5ca854a083:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 1
+                "numerator": 29,
+                "denominator": 4
             }
         },
         "aad48bc5-7157-4339-a3fa-514fdb0b7df9:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20168,7 +20294,7 @@
         },
         "aaf0ac0e-8916-4061-b93c-cd4e01797838:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
+                "numerator": 40,
                 "denominator": 1
             }
         },
@@ -20186,13 +20312,13 @@
         },
         "aba3a584-737c-48a7-8782-15fde37663c8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
-                "denominator": 4
+                "numerator": 13,
+                "denominator": 50
             }
         },
         "abafe721-579c-45af-a789-c85437ad771c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
+                "numerator": 25,
                 "denominator": 1
             }
         },
@@ -20220,15 +20346,21 @@
                 "denominator": 10
             }
         },
+        "ade7c349-9d78-49da-b387-28b421daf296:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 20
+            }
+        },
         "ae31674e-a047-4d2d-832c-13d065c4b191:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 5
+                "numerator": 21,
+                "denominator": 4
             }
         },
         "aed951fd-8701-4e8f-a24c-9107dd17d142:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
+                "numerator": 30,
                 "denominator": 1
             }
         },
@@ -20246,7 +20378,7 @@
         },
         "af986294-f34d-4d93-a273-08c4b06409a2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 350,
+                "numerator": 400,
                 "denominator": 1
             }
         },
@@ -20342,8 +20474,8 @@
         },
         "b5efd175-d372-4d58-8666-91b94878cb6e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 21,
-                "denominator": 20
+                "numerator": 1,
+                "denominator": 1
             }
         },
         "b6233c1c-4177-4d98-ad76-c7bcc40b5b28:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20438,8 +20570,8 @@
         },
         "b9c24984-c27c-4587-852c-6cd3b7b39283:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
-                "denominator": 10
+                "numerator": 27,
+                "denominator": 20
             }
         },
         "ba27fb24-04ca-4fd6-8e22-4373a7a50689:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20508,9 +20640,15 @@
                 "denominator": 1
             }
         },
+        "bcca2f0e-ba6d-40bb-86ed-87488bae4a56:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
+                "denominator": 25
+            }
+        },
         "bd8deca6-deed-41ad-b67b-4fbf54ef022d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 150,
+                "numerator": 175,
                 "denominator": 1
             }
         },
@@ -20648,14 +20786,14 @@
         },
         "c2f777b0-0774-45cd-836d-8c6cab738b4a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 87,
-                "denominator": 100
+                "numerator": 22,
+                "denominator": 25
             }
         },
         "c329d3c7-d77a-48c9-a011-6a2328a2117e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 4
+                "numerator": 15,
+                "denominator": 2
             }
         },
         "c33c5e7a-e75a-40d3-8cda-2fc19dc3eaf7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20684,8 +20822,8 @@
         },
         "c43b7b08-e0f7-4194-b7de-c8677d854051:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 20
+                "numerator": 23,
+                "denominator": 10
             }
         },
         "c44a03c6-ff88-44ce-adcb-adc8bf994638:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20792,7 +20930,7 @@
         },
         "c89cf7ca-9e64-4a01-9162-9eb651e8d1e7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 20,
                 "denominator": 1
             }
         },
@@ -20810,7 +20948,7 @@
         },
         "c90f29c5-bad9-47cb-a4ed-e85871994447:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 100,
+                "numerator": 80,
                 "denominator": 1
             }
         },
@@ -20888,8 +21026,8 @@
         },
         "cb9486e7-c004-4b12-a757-7684a8d7619a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 1
+                "numerator": 31,
+                "denominator": 4
             }
         },
         "cbb35858-9394-418e-95dc-0998a85e7c24:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -20960,7 +21098,7 @@
         },
         "cd8ac23b-8a19-49ff-b788-d4fb80a13035:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 14,
+                "numerator": 13,
                 "denominator": 1
             }
         },
@@ -21230,8 +21368,8 @@
         },
         "d6af1270-8ee7-4b5e-b237-7808e1d64604:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 15,
-                "denominator": 2
+                "numerator": 31,
+                "denominator": 4
             }
         },
         "d6d84fe2-c8c3-49a7-9565-74c40fdc7423:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21272,13 +21410,13 @@
         },
         "d7af074d-7e1e-458a-b9c5-40db2af366b7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 16,
+                "numerator": 18,
                 "denominator": 1
             }
         },
         "d7b27c3b-7263-4ddf-8ddc-18ea3e61020e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 125,
+                "numerator": 150,
                 "denominator": 1
             }
         },
@@ -21326,8 +21464,8 @@
         },
         "dac45c13-869e-4e67-a66a-8ee59e1dbf52:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "dadb0ada-bab5-4c98-95cb-b370fbf9c4fc:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21392,8 +21530,8 @@
         },
         "dd6c56b8-3d7a-4c59-a3a4-e11cb0d35bbd:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 2
+                "numerator": 9,
+                "denominator": 1
             }
         },
         "dd8fae54-c63e-471a-948c-e47f436a2d2e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21428,7 +21566,7 @@
         },
         "de9f7b75-5b75-4d21-8587-eaedbc40f283:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 150,
+                "numerator": 175,
                 "denominator": 1
             }
         },
@@ -21536,8 +21674,8 @@
         },
         "e1d9506c-8d0b-4d7e-92ff-e849f1296f19:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
-                "denominator": 1
+                "numerator": 41,
+                "denominator": 20
             }
         },
         "e211b3d9-0334-4ad0-a1bd-85a53901125d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21632,7 +21770,7 @@
         },
         "e57fe539-91c9-460e-bfe4-53175c59880b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 225,
+                "numerator": 200,
                 "denominator": 1
             }
         },
@@ -21640,12 +21778,6 @@
             "odds": {
                 "numerator": 22,
                 "denominator": 1
-            }
-        },
-        "e5e5f96a-3b18-4329-8d5c-4361697a902e:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 87,
-                "denominator": 100
             }
         },
         "e5fb0cf5-d1b1-431d-bada-f077193196b8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21662,8 +21794,8 @@
         },
         "e6075dda-f7a6-45cb-9db2-d2fea6245b55:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 10
+                "numerator": 47,
+                "denominator": 20
             }
         },
         "e68259b5-ba61-406b-a193-309efc3b0546:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21728,8 +21860,8 @@
         },
         "e93094f7-63fe-43ef-95aa-b9707574e945:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 83,
-                "denominator": 100
+                "numerator": 41,
+                "denominator": 50
             }
         },
         "e943f5d0-bf74-48f8-858c-4fe6e09a1925:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21807,6 +21939,12 @@
         "ec66a420-2ae4-46e7-b00f-f42b0dfc5fe1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 17,
+                "denominator": 25
+            }
+        },
+        "ec886b8e-47af-4fc0-906e-5e4ddb0fe568:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
                 "denominator": 25
             }
         },
@@ -21914,7 +22052,7 @@
         },
         "efe21bd8-a132-475e-9b17-ed5ecd1b507f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 25,
+                "numerator": 28,
                 "denominator": 1
             }
         },
@@ -21932,7 +22070,7 @@
         },
         "f0284cee-ab49-4c21-afe8-6a5a81a332cb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 28,
+                "numerator": 25,
                 "denominator": 1
             }
         },
@@ -21988,6 +22126,12 @@
             "odds": {
                 "numerator": 22,
                 "denominator": 25
+            }
+        },
+        "f24a4c39-972f-49e8-8215-7a22b24796ad:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 39,
+                "denominator": 50
             }
         },
         "f25d9a5e-78d0-4ad3-a86f-2a61f82f4993:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -22056,6 +22200,12 @@
                 "denominator": 1
             }
         },
+        "f45683f4-5a99-4afc-9ae8-6c4126261a6a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 39,
+                "denominator": 50
+            }
+        },
         "f46c4d81-de0d-445d-8c47-e0e4f1fa3cf6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 15,
@@ -22064,7 +22214,7 @@
         },
         "f4c596b1-e299-4e38-bae0-5c523852c734:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 13,
+                "numerator": 12,
                 "denominator": 1
             }
         },
@@ -22088,8 +22238,8 @@
         },
         "f57a7557-c8fd-4d88-ad14-397373e7c9de:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 2
+                "numerator": 11,
+                "denominator": 1
             }
         },
         "f58265d7-183a-4fb5-9b23-6101f440da88:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -22166,8 +22316,8 @@
         },
         "f7e02cdc-2677-4267-93a3-510b0203c8e1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 50
+                "numerator": 19,
+                "denominator": 20
             }
         },
         "f7e086b1-260d-4ec8-be27-9ec242175661:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -22226,7 +22376,7 @@
         },
         "f9fd1d55-7d57-4e35-b6af-624a84cd026a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 150,
+                "numerator": 175,
                 "denominator": 1
             }
         },
@@ -22292,8 +22442,8 @@
         },
         "fc80c42c-4a0e-48c0-8d04-e506aecae14b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 15,
+                "denominator": 4
             }
         },
         "fc95efbe-f1ee-4e4e-8579-4080387f772b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -22340,8 +22490,8 @@
         },
         "fe155ccf-8344-4090-9385-b3a55432702f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 5
+                "numerator": 29,
+                "denominator": 20
             }
         },
         "fe3fb7a0-a56e-4913-b522-caa05c5952e8:940b8704-e497-4a76-b390-00918ff7d282:": {
