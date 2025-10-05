@@ -1,16 +1,16 @@
 match,start_time,player_name,player_team,market,line,over_price,under_price,margin,agency
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Adam Thielen,Minnesota Vikings,Receptions,1.5,2.75,1.39,1.083,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Adam Thielen,Minnesota Vikings,Receptions,3.5,17,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,David Njoku,Cleveland Browns,Receptions,1.5,1.16,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,David Njoku,Cleveland Browns,Receptions,3.5,2.35,1.52,1.083,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,David Njoku,Cleveland Browns,Receptions,5.5,7.5,NA,NA,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,David Njoku,Cleveland Browns,Receptions,1.5,1.17,NA,NA,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,David Njoku,Cleveland Browns,Receptions,3.5,2.4,1.5,1.083,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,David Njoku,Cleveland Browns,Receptions,5.5,8,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,H Fannin,NA,Receptions,1.5,1.17,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,H Fannin,NA,Receptions,3.5,2.4,1.5,1.083,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,H Fannin,NA,Receptions,3.5,2.35,1.52,1.083,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,H Fannin,NA,Receptions,5.5,8,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Mason,NA,Receptions,1.5,1.75,1.95,1.084,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Mason,NA,Receptions,1.5,1.8,1.9,1.082,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Mason,NA,Receptions,3.5,7.5,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Nailor,NA,Receptions,1.5,2,1.72,1.081,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Nailor,NA,Receptions,3.5,9,NA,NA,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Nailor,NA,Receptions,1.5,2.05,1.68,1.083,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,J Nailor,NA,Receptions,3.5,10,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Jerome Ford,Cleveland Browns,Receptions,1.5,1.95,1.75,1.084,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Jerome Ford,Cleveland Browns,Receptions,3.5,9,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Jerry Jeudy,Cleveland Browns,Receptions,1.5,1.07,NA,NA,TAB
@@ -25,12 +25,12 @@ Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Justin Jefferson,M
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Justin Jefferson,Minnesota Vikings,Receptions,5.5,1.9,1.8,1.082,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Justin Jefferson,Minnesota Vikings,Receptions,7.5,4.25,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Justin Jefferson,Minnesota Vikings,Receptions,9.5,11,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Q Judkins,NA,Receptions,1.5,1.39,NA,NA,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Q Judkins,NA,Receptions,3.5,3.9,NA,NA,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Q Judkins,NA,Receptions,1.5,1.38,NA,NA,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Q Judkins,NA,Receptions,3.5,3.8,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,Q Judkins,NA,Receptions,5.5,15,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,T Hockenson,NA,Receptions,1.5,1.15,NA,NA,TAB
 Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,T Hockenson,NA,Receptions,3.5,2.3,1.55,1.08,TAB
-Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,T Hockenson,NA,Receptions,5.5,7.5,NA,NA,TAB
+Cleveland Browns v Minnesota Vikings,2025-10-05T13:30:00.000Z,T Hockenson,NA,Receptions,5.5,7,NA,NA,TAB
 Baltimore Ravens v Houston Texans,2025-10-05T17:00:00.000Z,Christian Kirk,Houston Texans,Receptions,1.5,1.08,NA,NA,TAB
 Baltimore Ravens v Houston Texans,2025-10-05T17:00:00.000Z,Christian Kirk,Houston Texans,Receptions,3.5,1.9,1.8,1.082,TAB
 Baltimore Ravens v Houston Texans,2025-10-05T17:00:00.000Z,Christian Kirk,Houston Texans,Receptions,5.5,5,NA,NA,TAB
@@ -105,32 +105,34 @@ Carolina Panthers v Miami Dolphins,2025-10-05T17:00:00.000Z,T Tremble,NA,Recepti
 Carolina Panthers v Miami Dolphins,2025-10-05T17:00:00.000Z,X Legette,NA,Receptions,1.5,1.3,NA,NA,TAB
 Carolina Panthers v Miami Dolphins,2025-10-05T17:00:00.000Z,X Legette,NA,Receptions,3.5,3.2,NA,NA,TAB
 Carolina Panthers v Miami Dolphins,2025-10-05T17:00:00.000Z,X Legette,NA,Receptions,5.5,13,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,A Jeanty,NA,Receptions,1.5,1.22,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,A Jeanty,NA,Receptions,1.5,1.21,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,A Jeanty,NA,Receptions,3.5,2.6,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,A Jeanty,NA,Receptions,5.5,8.5,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,A Mitchell,NA,Receptions,1.5,2.3,1.55,1.08,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,A Mitchell,NA,Receptions,3.5,11,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Receptions,3.5,1.09,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Receptions,5.5,1.6,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Receptions,7.5,3,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Receptions,9.5,7.5,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jakobi Meyers,Las Vegas Raiders,Receptions,11.5,19,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Receptions,1.5,1.23,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Receptions,3.5,2.8,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Receptions,1.5,1.24,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Receptions,3.5,2.9,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Jonathan Taylor,Indianapolis Colts,Receptions,5.5,10,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,1.5,1.07,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,3.5,1.8,1.9,1.082,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,5.5,4.6,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,7.5,15,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Receptions,3.5,1.26,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Receptions,5.5,2.2,1.6,1.08,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,1.5,1.06,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,3.5,1.75,1.95,1.084,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,5.5,4.25,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Josh Downs,Indianapolis Colts,Receptions,7.5,13,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Receptions,3.5,1.28,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Receptions,5.5,2.25,1.58,1.077,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Receptions,7.5,5.5,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,Michael Pittman,Indianapolis Colts,Receptions,9.5,15,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Tucker,NA,Receptions,3.5,1.52,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Tucker,NA,Receptions,5.5,3.4,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Tucker,NA,Receptions,3.5,1.5,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Tucker,NA,Receptions,5.5,3.3,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Tucker,NA,Receptions,7.5,10,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Warren,NA,Receptions,3.5,1.24,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Warren,NA,Receptions,5.5,2.15,NA,NA,TAB
 Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Warren,NA,Receptions,7.5,5.25,NA,NA,TAB
-Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Warren,NA,Receptions,9.5,15,NA,NA,TAB
+Indianapolis Colts v Las Vegas Raiders,2025-10-05T17:00:00.000Z,T Warren,NA,Receptions,9.5,13,NA,NA,TAB
 New Orleans Saints v New York Giants,2025-10-05T17:00:00.000Z,Alvin Kamara,New Orleans Saints,Receptions,1.5,1.21,NA,NA,TAB
 New Orleans Saints v New York Giants,2025-10-05T17:00:00.000Z,Alvin Kamara,New Orleans Saints,Receptions,3.5,2.7,NA,NA,TAB
 New Orleans Saints v New York Giants,2025-10-05T17:00:00.000Z,Alvin Kamara,New Orleans Saints,Receptions,5.5,9,NA,NA,TAB
@@ -299,8 +301,8 @@ Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,S Tucker,NA,Rec
 Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Tez Johnson,Tampa Bay Buccaneers,Receptions,1.5,4.25,NA,NA,TAB
 Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Tory Horton,Seattle Seahawks,Receptions,1.5,1.58,NA,NA,TAB
 Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Tory Horton,Seattle Seahawks,Receptions,3.5,5.5,NA,NA,TAB
-Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Z Charbonet,NA,Receptions,1.5,2.1,1.65,1.082,TAB
-Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Z Charbonet,NA,Receptions,3.5,10,NA,NA,TAB
+Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Z Charbonet,NA,Receptions,1.5,1.9,1.8,1.082,TAB
+Seattle Seahawks v Tampa Bay Buccaneers,2025-10-05T20:05:00.000Z,Z Charbonet,NA,Receptions,3.5,9,NA,NA,TAB
 Cincinnati Bengals v Detroit Lions,2025-10-05T20:25:00.000Z,A Iosivas,NA,Receptions,1.5,2.2,1.6,1.08,TAB
 Cincinnati Bengals v Detroit Lions,2025-10-05T20:25:00.000Z,A Iosivas,NA,Receptions,3.5,11,NA,NA,TAB
 Cincinnati Bengals v Detroit Lions,2025-10-05T20:25:00.000Z,Amon-Ra St. Brown,Detroit Lions,Receptions,3.5,1.07,NA,NA,TAB
@@ -353,35 +355,35 @@ Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Keenan All
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Keenan Allen,Los Angeles Chargers,Receptions,5.5,2.1,1.65,1.082,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Keenan Allen,Los Angeles Chargers,Receptions,7.5,5,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Keenan Allen,Los Angeles Chargers,Receptions,9.5,13,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,L McCaffrey,NA,Receptions,1.5,1.46,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,L McCaffrey,NA,Receptions,3.5,4.5,NA,NA,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,L McCaffrey,NA,Receptions,1.5,1.48,NA,NA,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,L McCaffrey,NA,Receptions,3.5,4.6,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,L McCaffrey,NA,Receptions,5.5,19,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Ladd McConkey,Los Angeles Chargers,Receptions,3.5,1.29,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Ladd McConkey,Los Angeles Chargers,Receptions,5.5,2.35,NA,NA,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Ladd McConkey,Los Angeles Chargers,Receptions,5.5,2.3,1.55,1.08,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Ladd McConkey,Los Angeles Chargers,Receptions,7.5,6,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Ladd McConkey,Los Angeles Chargers,Receptions,9.5,17,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,O Hampton,NA,Receptions,1.5,1.17,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,O Hampton,NA,Receptions,3.5,2.4,1.5,1.083,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,O Hampton,NA,Receptions,1.5,1.18,NA,NA,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,O Hampton,NA,Receptions,3.5,2.45,1.48,1.084,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,O Hampton,NA,Receptions,5.5,8,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,3.5,1.26,NA,NA,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,5.5,2.2,1.6,1.08,TAB
-Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,7.5,5.5,NA,NA,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,3.5,1.28,NA,NA,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,5.5,2.25,1.58,1.077,TAB
+Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,7.5,5.75,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Q Johnston,NA,Receptions,9.5,15,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Zach Ertz,Washington Commanders,Receptions,3.5,1.58,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Zach Ertz,Washington Commanders,Receptions,5.5,3.6,NA,NA,TAB
 Los Angeles Chargers v Washington Commanders,2025-10-05T20:25:00.000Z,Zach Ertz,Washington Commanders,Receptions,7.5,11,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,A Hooper,NA,Receptions,1.5,1.75,1.95,1.084,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,A Hooper,NA,Receptions,3.5,7,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,A Hooper,NA,Receptions,1.5,1.8,1.9,1.082,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,A Hooper,NA,Receptions,3.5,7.5,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,C Samuel,NA,Receptions,1.5,2.3,1.55,1.08,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,C Samuel,NA,Receptions,3.5,11,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,C Samuel,NA,Receptions,3.5,13,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Dalton Kincaid,Buffalo Bills,Receptions,1.5,1.15,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Dalton Kincaid,Buffalo Bills,Receptions,3.5,2.3,1.55,1.08,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Dalton Kincaid,Buffalo Bills,Receptions,5.5,7.5,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Dawson Knox,Buffalo Bills,Receptions,1.5,2.5,1.46,1.085,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Dawson Knox,Buffalo Bills,Receptions,1.5,2.4,1.5,1.083,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Dawson Knox,Buffalo Bills,Receptions,3.5,13,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Demario Douglas,NA,Receptions,1.5,2.55,1.45,1.082,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Demario Douglas,NA,Receptions,3.5,15,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Hunter Henry,New England Patriots,Receptions,3.5,1.6,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Hunter Henry,New England Patriots,Receptions,3.5,1.58,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Hunter Henry,New England Patriots,Receptions,5.5,3.7,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Hunter Henry,New England Patriots,Receptions,7.5,11,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,James Cook,Buffalo Bills,Receptions,1.5,1.34,NA,NA,TAB
@@ -396,17 +398,17 @@ Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Coleman,NA,Recep
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Coleman,NA,Receptions,3.5,2.1,1.65,1.082,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Coleman,NA,Receptions,5.5,6.5,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Coleman,NA,Receptions,7.5,21,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Shakir,NA,Receptions,3.5,1.55,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Shakir,NA,Receptions,3.5,1.58,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Shakir,NA,Receptions,5.5,3.5,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Shakir,NA,Receptions,7.5,10,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,M Hollins,NA,Receptions,1.5,2.05,1.68,1.083,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,K Shakir,NA,Receptions,7.5,11,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,M Hollins,NA,Receptions,1.5,2.1,1.65,1.082,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,M Hollins,NA,Receptions,3.5,10,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Rhamondre Stevenson,New England Patriots,Receptions,1.5,1.44,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Rhamondre Stevenson,New England Patriots,Receptions,3.5,4.25,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Rhamondre Stevenson,New England Patriots,Receptions,1.5,1.42,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Rhamondre Stevenson,New England Patriots,Receptions,3.5,4,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Rhamondre Stevenson,New England Patriots,Receptions,5.5,17,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Stefon Diggs,New England Patriots,Receptions,3.5,1.55,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Stefon Diggs,New England Patriots,Receptions,5.5,3.5,NA,NA,TAB
-Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Stefon Diggs,New England Patriots,Receptions,7.5,10,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Stefon Diggs,New England Patriots,Receptions,3.5,1.58,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Stefon Diggs,New England Patriots,Receptions,5.5,3.6,NA,NA,TAB
+Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,Stefon Diggs,New England Patriots,Receptions,7.5,11,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,T Henderson,NA,Receptions,1.5,1.29,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,T Henderson,NA,Receptions,3.5,3.1,NA,NA,TAB
 Buffalo Bills v New England Patriots,2025-10-06T00:20:00.000Z,T Henderson,NA,Receptions,5.5,11,NA,NA,TAB

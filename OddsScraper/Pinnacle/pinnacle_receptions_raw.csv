@@ -13,8 +13,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616819534,Under,466,5381303530,1.675,5.5,George Pickens Total Receptions,George Pickens Total Receptions,New York Jets,Dallas Cowboys
 1616819530,Over,465,5379882637,1.769,5.5,Garrett Wilson Total Receptions,Garrett Wilson Total Receptions,New York Jets,Dallas Cowboys
 1616819531,Under,466,5379882638,2.03,5.5,Garrett Wilson Total Receptions,Garrett Wilson Total Receptions,New York Jets,Dallas Cowboys
-1616821245,Over,469,5379881998,2.63,2.5,RJ Harvey Total Receptions,RJ Harvey Total Receptions,Philadelphia Eagles,Denver Broncos
-1616821246,Under,470,5379881999,1.478,2.5,RJ Harvey Total Receptions,RJ Harvey Total Receptions,Philadelphia Eagles,Denver Broncos
+1616821245,Over,469,5382866375,2.67,2.5,RJ Harvey Total Receptions,RJ Harvey Total Receptions,Philadelphia Eagles,Denver Broncos
+1616821246,Under,470,5382866376,1.467,2.5,RJ Harvey Total Receptions,RJ Harvey Total Receptions,Philadelphia Eagles,Denver Broncos
 1616821239,Over,469,5380907376,2.24,1.5,J.K. Dobbins Total Receptions,J.K. Dobbins Total Receptions,Philadelphia Eagles,Denver Broncos
 1616821240,Under,470,5380907377,1.606,1.5,J.K. Dobbins Total Receptions,J.K. Dobbins Total Receptions,Philadelphia Eagles,Denver Broncos
 1616821257,Over,469,5382194604,1.813,3.5,Troy Franklin Total Receptions,Troy Franklin Total Receptions,Philadelphia Eagles,Denver Broncos
@@ -95,18 +95,18 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616827173,Under,464,5379504836,1.847,2.5,Hunter Renfrow Total Receptions,Hunter Renfrow Total Receptions,Carolina Panthers,Miami Dolphins
 1616832797,Over,461,5382117737,2.15,3.5,Harold Fannin Jr. Total Receptions,Harold Fannin Jr. Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832798,Under,462,5382117738,1.689,3.5,Harold Fannin Jr. Total Receptions,Harold Fannin Jr. Total Receptions,Cleveland Browns,Minnesota Vikings
-1616832861,Over,461,5382140566,1.99,3.5,Jordan Addison Total Receptions,Jordan Addison Total Receptions,Cleveland Browns,Minnesota Vikings
-1616832862,Under,462,5382140567,1.833,3.5,Jordan Addison Total Receptions,Jordan Addison Total Receptions,Cleveland Browns,Minnesota Vikings
-1616818780,Over,461,5382082879,2.59,1.5,Adam Thielen Total Receptions,Adam Thielen Total Receptions,Cleveland Browns,Minnesota Vikings
-1616818781,Under,462,5382082880,1.49,1.5,Adam Thielen Total Receptions,Adam Thielen Total Receptions,Cleveland Browns,Minnesota Vikings
-1616832777,Over,461,5382098961,2.16,3.5,David Njoku Total Receptions,David Njoku Total Receptions,Cleveland Browns,Minnesota Vikings
-1616832778,Under,462,5382098962,1.68,3.5,David Njoku Total Receptions,David Njoku Total Receptions,Cleveland Browns,Minnesota Vikings
+1616832861,Over,461,5382691275,2.0,3.5,Jordan Addison Total Receptions,Jordan Addison Total Receptions,Cleveland Browns,Minnesota Vikings
+1616832862,Under,462,5382691276,1.819,3.5,Jordan Addison Total Receptions,Jordan Addison Total Receptions,Cleveland Browns,Minnesota Vikings
+1616818780,Over,461,5382980138,2.66,1.5,Adam Thielen Total Receptions,Adam Thielen Total Receptions,Cleveland Browns,Minnesota Vikings
+1616818781,Under,462,5382980139,1.471,1.5,Adam Thielen Total Receptions,Adam Thielen Total Receptions,Cleveland Browns,Minnesota Vikings
+1616832777,Over,461,5382691141,2.16,3.5,David Njoku Total Receptions,David Njoku Total Receptions,Cleveland Browns,Minnesota Vikings
+1616832778,Under,462,5382691142,1.684,3.5,David Njoku Total Receptions,David Njoku Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832836,Over,461,5382131073,1.84,3.5,Jerry Jeudy Total Receptions,Jerry Jeudy Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832837,Under,462,5382131074,1.98,3.5,Jerry Jeudy Total Receptions,Jerry Jeudy Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832816,Over,461,5382123614,1.714,2.5,Isaiah Bond Total Receptions,Isaiah Bond Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832817,Under,462,5382123615,2.11,2.5,Isaiah Bond Total Receptions,Isaiah Bond Total Receptions,Cleveland Browns,Minnesota Vikings
-1616832877,Over,461,5382151056,2.02,5.5,Justin Jefferson Total Receptions,Justin Jefferson Total Receptions,Cleveland Browns,Minnesota Vikings
-1616832878,Under,462,5382151057,1.813,5.5,Justin Jefferson Total Receptions,Justin Jefferson Total Receptions,Cleveland Browns,Minnesota Vikings
+1616832877,Over,461,5382573103,1.99,5.5,Justin Jefferson Total Receptions,Justin Jefferson Total Receptions,Cleveland Browns,Minnesota Vikings
+1616832878,Under,462,5382573104,1.84,5.5,Justin Jefferson Total Receptions,Justin Jefferson Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832891,Over,461,5382164583,2.17,3.5,T.J. Hockenson Total Receptions,T.J. Hockenson Total Receptions,Cleveland Browns,Minnesota Vikings
 1616832892,Under,462,5382164584,1.704,3.5,T.J. Hockenson Total Receptions,T.J. Hockenson Total Receptions,Cleveland Browns,Minnesota Vikings
 1616833661,Over,483,5379882774,1.675,3.5,Hunter Henry Total Receptions,Hunter Henry Total Receptions,Buffalo Bills,New England Patriots
@@ -117,12 +117,12 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616833659,Under,484,5381123123,1.74,3.5,Dalton Kincaid Total Receptions,Dalton Kincaid Total Receptions,Buffalo Bills,New England Patriots
 1616833673,Over,483,5380980918,1.609,3.5,Khalil Shakir Total Receptions,Khalil Shakir Total Receptions,Buffalo Bills,New England Patriots
 1616833674,Under,484,5380980919,2.3,3.5,Khalil Shakir Total Receptions,Khalil Shakir Total Receptions,Buffalo Bills,New England Patriots
-1616833670,Over,483,5379882784,1.606,2.5,Keon Coleman Total Receptions,Keon Coleman Total Receptions,Buffalo Bills,New England Patriots
-1616833671,Under,484,5379882795,2.31,2.5,Keon Coleman Total Receptions,Keon Coleman Total Receptions,Buffalo Bills,New England Patriots
+1616833670,Over,483,5382577570,1.537,2.5,Keon Coleman Total Receptions,Keon Coleman Total Receptions,Buffalo Bills,New England Patriots
+1616833671,Under,484,5382577571,2.47,2.5,Keon Coleman Total Receptions,Keon Coleman Total Receptions,Buffalo Bills,New England Patriots
 1616833667,Over,483,5372248561,2.28,2.5,Kayshon Boutte Total Receptions,Kayshon Boutte Total Receptions,Buffalo Bills,New England Patriots
 1616833668,Under,484,5372248562,1.581,2.5,Kayshon Boutte Total Receptions,Kayshon Boutte Total Receptions,Buffalo Bills,New England Patriots
-1616833679,Over,483,5381949344,2.0,4.5,Stefon Diggs Total Receptions,Stefon Diggs Total Receptions,Buffalo Bills,New England Patriots
-1616833680,Under,484,5381949345,1.8,4.5,Stefon Diggs Total Receptions,Stefon Diggs Total Receptions,Buffalo Bills,New England Patriots
+1616833679,Over,483,5382533827,2.06,4.5,Stefon Diggs Total Receptions,Stefon Diggs Total Receptions,Buffalo Bills,New England Patriots
+1616833680,Under,484,5382533828,1.751,4.5,Stefon Diggs Total Receptions,Stefon Diggs Total Receptions,Buffalo Bills,New England Patriots
 1616833676,Over,483,5379883082,2.13,2.5,Rhamondre Stevenson Total Receptions,Rhamondre Stevenson Total Receptions,Buffalo Bills,New England Patriots
 1616833677,Under,484,5379883083,1.704,2.5,Rhamondre Stevenson Total Receptions,Rhamondre Stevenson Total Receptions,Buffalo Bills,New England Patriots
 1616833682,Over,483,5379883097,1.952,2.5,TreVeyon Henderson Total Receptions,TreVeyon Henderson Total Receptions,Buffalo Bills,New England Patriots
@@ -151,26 +151,26 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616841506,Under,476,5379667367,1.704,6.5,Trey McBride Total Receptions,Trey McBride Total Receptions,Arizona Cardinals,Tennessee Titans
 1616922450,Over,461,5372170133,2.06,1.5,Jalen Nailor Total Receptions,Jalen Nailor Total Receptions,Cleveland Browns,Minnesota Vikings
 1616922451,Under,462,5372170134,1.714,1.5,Jalen Nailor Total Receptions,Jalen Nailor Total Receptions,Cleveland Browns,Minnesota Vikings
-1616922526,Over,467,5381070267,2.58,2.5,Adonai Mitchell Total Receptions,Adonai Mitchell Total Receptions,Indianapolis Colts,Las Vegas Raiders
-1616922527,Under,468,5381070268,1.467,2.5,Adonai Mitchell Total Receptions,Adonai Mitchell Total Receptions,Indianapolis Colts,Las Vegas Raiders
+1616922526,Over,467,5382474654,2.85,2.5,Adonai Mitchell Total Receptions,Adonai Mitchell Total Receptions,Indianapolis Colts,Las Vegas Raiders
+1616922527,Under,468,5382474655,1.392,2.5,Adonai Mitchell Total Receptions,Adonai Mitchell Total Receptions,Indianapolis Colts,Las Vegas Raiders
 1616922921,Over,477,5379883305,2.37,5.5,Chris Godwin Jr. Total Receptions,Chris Godwin Jr. Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922922,Under,478,5379883318,1.574,5.5,Chris Godwin Jr. Total Receptions,Chris Godwin Jr. Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922858,Over,477,5380310435,1.877,2.5,Cade Otton Total Receptions,Cade Otton Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922859,Under,478,5380310436,1.862,2.5,Cade Otton Total Receptions,Cade Otton Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922861,Over,477,5379882937,1.653,3.5,Cooper Kupp Total Receptions,Cooper Kupp Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922862,Under,478,5379882939,2.22,3.5,Cooper Kupp Total Receptions,Cooper Kupp Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922804,Over,477,5382176585,2.62,2.5,AJ Barner Total Receptions,AJ Barner Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922805,Under,478,5382176586,1.454,2.5,AJ Barner Total Receptions,AJ Barner Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922864,Over,477,5382176536,1.595,1.5,Elijah Arroyo Total Receptions,Elijah Arroyo Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922865,Under,478,5382176537,2.26,1.5,Elijah Arroyo Total Receptions,Elijah Arroyo Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922867,Over,477,5379882596,2.47,5.5,Emeka Egbuka Total Receptions,Emeka Egbuka Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922868,Under,478,5379882597,1.534,5.5,Emeka Egbuka Total Receptions,Emeka Egbuka Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922804,Over,477,5382996785,2.62,2.5,AJ Barner Total Receptions,AJ Barner Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922805,Under,478,5382996796,1.454,2.5,AJ Barner Total Receptions,AJ Barner Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922864,Over,477,5382996784,1.595,1.5,Elijah Arroyo Total Receptions,Elijah Arroyo Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922865,Under,478,5382996795,2.26,1.5,Elijah Arroyo Total Receptions,Elijah Arroyo Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922867,Over,477,5382401026,2.31,5.5,Emeka Egbuka Total Receptions,Emeka Egbuka Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922868,Under,478,5382401027,1.602,5.5,Emeka Egbuka Total Receptions,Emeka Egbuka Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922870,Over,477,5380883799,1.813,6.5,Jaxon Smith-Njigba Total Receptions,Jaxon Smith-Njigba Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922871,Under,478,5380883800,1.98,6.5,Jaxon Smith-Njigba Total Receptions,Jaxon Smith-Njigba Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922873,Over,477,5380144476,2.69,2.5,Kenneth Walker Total Receptions,Kenneth Walker Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922874,Under,478,5380144477,1.46,2.5,Kenneth Walker Total Receptions,Kenneth Walker Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922876,Over,477,5381096741,1.917,3.5,Rachaad White Total Receptions,Rachaad White Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
-1616922877,Under,478,5381096742,1.869,3.5,Rachaad White Total Receptions,Rachaad White Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922873,Over,477,5382485071,2.8,2.5,Kenneth Walker Total Receptions,Kenneth Walker Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922874,Under,478,5382485072,1.429,2.5,Kenneth Walker Total Receptions,Kenneth Walker Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922876,Over,477,5382445411,1.9,3.5,Rachaad White Total Receptions,Rachaad White Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
+1616922877,Under,478,5382445412,1.884,3.5,Rachaad White Total Receptions,Rachaad White Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922882,Over,477,5372165223,1.649,1.5,Tory Horton Total Receptions,Tory Horton Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922883,Under,478,5372165224,2.16,1.5,Tory Horton Total Receptions,Tory Horton Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
 1616922880,Under,478,5371965747,1.877,2.5,Sterling Shepard Total Receptions,Sterling Shepard Total Receptions,Seattle Seahawks,Tampa Bay Buccaneers
@@ -183,24 +183,24 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616924369,Under,482,5380560785,2.06,4.5,Quentin Johnston Total Receptions,Quentin Johnston Total Receptions,Los Angeles Chargers,Washington Commanders
 1616926954,Over,485,5378785750,1.719,3.5,Brenton Strange Total Receptions,Brenton Strange Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
 1616926955,Under,486,5378785751,2.05,3.5,Brenton Strange Total Receptions,Brenton Strange Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926957,Over,485,5382187499,1.925,4.5,Brian Thomas Total Receptions,Brian Thomas Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926958,Under,486,5382187500,1.819,4.5,Brian Thomas Total Receptions,Brian Thomas Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926960,Over,485,5382187501,1.649,3.5,Hollywood Brown Total Receptions,Hollywood Brown Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926961,Under,486,5382187502,2.16,3.5,Hollywood Brown Total Receptions,Hollywood Brown Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926963,Over,485,5382187503,1.98,1.5,Isiah Pacheco Total Receptions,Isiah Pacheco Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926964,Under,486,5382187504,1.769,1.5,Isiah Pacheco Total Receptions,Isiah Pacheco Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926957,Over,485,5383014472,1.925,4.5,Brian Thomas Total Receptions,Brian Thomas Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926958,Under,486,5383014473,1.819,4.5,Brian Thomas Total Receptions,Brian Thomas Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926960,Over,485,5383014450,1.649,3.5,Hollywood Brown Total Receptions,Hollywood Brown Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926961,Under,486,5383014451,2.16,3.5,Hollywood Brown Total Receptions,Hollywood Brown Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926963,Over,485,5383014452,1.98,1.5,Isiah Pacheco Total Receptions,Isiah Pacheco Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926964,Under,486,5383014453,1.769,1.5,Isiah Pacheco Total Receptions,Isiah Pacheco Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
 1616926966,Over,485,5372117863,1.694,1.5,Noah Gray Total Receptions,Noah Gray Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
 1616926967,Under,486,5372117865,2.09,1.5,Noah Gray Total Receptions,Noah Gray Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926969,Over,485,5382187505,1.531,1.5,Travis Etienne Total Receptions,Travis Etienne Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926970,Under,486,5382187506,2.4,1.5,Travis Etienne Total Receptions,Travis Etienne Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926972,Over,485,5382187507,1.595,2.5,Travis Hunter Total Receptions,Travis Hunter Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926973,Under,486,5382187508,2.26,2.5,Travis Hunter Total Receptions,Travis Hunter Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926976,Under,486,5382187512,2.16,3.5,Travis Kelce Total Receptions,Travis Kelce Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926975,Over,485,5382187511,1.649,3.5,Travis Kelce Total Receptions,Travis Kelce Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926969,Over,485,5382978251,1.617,1.5,Travis Etienne Total Receptions,Travis Etienne Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926970,Under,486,5382978254,2.21,1.5,Travis Etienne Total Receptions,Travis Etienne Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926972,Over,485,5383014454,1.595,2.5,Travis Hunter Total Receptions,Travis Hunter Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926973,Under,486,5383014455,2.26,2.5,Travis Hunter Total Receptions,Travis Hunter Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926976,Under,486,5383014457,2.16,3.5,Travis Kelce Total Receptions,Travis Kelce Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926975,Over,485,5383014456,1.649,3.5,Travis Kelce Total Receptions,Travis Kelce Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
 1616926978,Over,485,5376011419,2.39,1.5,Tyquan Thornton Total Receptions,Tyquan Thornton Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
 1616926979,Under,486,5376011420,1.534,1.5,Tyquan Thornton Total Receptions,Tyquan Thornton Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926982,Over,485,5381064470,1.598,4.5,Xavier Worthy Total Receptions,Xavier Worthy Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
-1616926983,Under,486,5381064471,2.25,4.5,Xavier Worthy Total Receptions,Xavier Worthy Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926982,Over,485,5382337418,1.689,4.5,Xavier Worthy Total Receptions,Xavier Worthy Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
+1616926983,Under,486,5382337419,2.09,4.5,Xavier Worthy Total Receptions,Xavier Worthy Total Receptions,Jacksonville Jaguars,Kansas City Chiefs
 1616953748,Over,469,5379882502,1.793,2.5,Marvin Mims Total Receptions,Marvin Mims Total Receptions,Philadelphia Eagles,Denver Broncos
 1616953749,Under,470,5379882503,2.01,2.5,Marvin Mims Total Receptions,Marvin Mims Total Receptions,Philadelphia Eagles,Denver Broncos
 1616953740,Over,469,5379882508,1.806,3.5,Dallas Goedert Total Receptions,Dallas Goedert Total Receptions,Philadelphia Eagles,Denver Broncos
@@ -221,8 +221,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616954056,Under,482,5381912733,2.52,1.5,Luke McCaffrey Total Receptions,Luke McCaffrey Total Receptions,Los Angeles Chargers,Washington Commanders
 1616954061,Over,481,5380932591,2.21,1.5,Jacory Croskey-Merritt Total Receptions,Jacory Croskey-Merritt Total Receptions,Los Angeles Chargers,Washington Commanders
 1616954062,Under,482,5380932592,1.621,1.5,Jacory Croskey-Merritt Total Receptions,Jacory Croskey-Merritt Total Receptions,Los Angeles Chargers,Washington Commanders
-1616954089,Over,481,5381211515,2.13,5.5,Deebo Samuel Total Receptions,Deebo Samuel Total Receptions,Los Angeles Chargers,Washington Commanders
-1616954090,Under,482,5381211516,1.704,5.5,Deebo Samuel Total Receptions,Deebo Samuel Total Receptions,Los Angeles Chargers,Washington Commanders
+1616954089,Over,481,5382876829,2.05,5.5,Deebo Samuel Total Receptions,Deebo Samuel Total Receptions,Los Angeles Chargers,Washington Commanders
+1616954090,Under,482,5382876830,1.757,5.5,Deebo Samuel Total Receptions,Deebo Samuel Total Receptions,Los Angeles Chargers,Washington Commanders
 1616954080,Under,482,5380717145,2.45,3.5,Zach Ertz Total Receptions,Zach Ertz Total Receptions,Los Angeles Chargers,Washington Commanders
 1616954079,Over,481,5380717144,1.54,3.5,Zach Ertz Total Receptions,Zach Ertz Total Receptions,Los Angeles Chargers,Washington Commanders
 1616954131,Over,483,5372607540,2.45,1.5,Dawson Knox Total Receptions,Dawson Knox Total Receptions,Buffalo Bills,New England Patriots
