@@ -1,20 +1,4 @@
 id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
-1616819560,Over,465,5385655096,1.769,67.5,Breece Hall Total Rushing Yards,Breece Hall Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819561,Under,466,5385655097,2.04,67.5,Breece Hall Total Rushing Yards,Breece Hall Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819563,Over,465,5385435065,2.04,4.5,Dak Prescott Total Rushing Yards,Dak Prescott Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819564,Under,466,5385435066,1.769,4.5,Dak Prescott Total Rushing Yards,Dak Prescott Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819569,Over,465,5385411422,1.813,50.5,Justin Fields Total Rushing Yards,Justin Fields Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819570,Under,466,5385411423,1.98,50.5,Justin Fields Total Rushing Yards,Justin Fields Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819566,Over,465,5385555711,2.26,74.5,Javonte Williams Total Rushing Yards,Javonte Williams Total Rushing Yards,New York Jets,Dallas Cowboys
-1616819567,Under,466,5385555712,1.628,74.5,Javonte Williams Total Rushing Yards,Javonte Williams Total Rushing Yards,New York Jets,Dallas Cowboys
-1616821179,Over,469,5385632652,1.869,51.5,J.K. Dobbins Total Rushing Yards,J.K. Dobbins Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821180,Under,470,5385632653,1.917,51.5,J.K. Dobbins Total Rushing Yards,J.K. Dobbins Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821185,Over,469,5385624842,1.74,38.5,Jalen Hurts Total Rushing Yards,Jalen Hurts Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821186,Under,470,5385624843,2.07,38.5,Jalen Hurts Total Rushing Yards,Jalen Hurts Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821206,Over,469,5385621265,1.709,79.5,Saquon Barkley Total Rushing Yards,Saquon Barkley Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821207,Under,470,5385621266,2.12,79.5,Saquon Barkley Total Rushing Yards,Saquon Barkley Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821200,Over,469,5385594674,2.07,30.5,RJ Harvey Total Rushing Yards,RJ Harvey Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821201,Under,470,5385594675,1.74,30.5,RJ Harvey Total Rushing Yards,RJ Harvey Total Rushing Yards,Philadelphia Eagles,Denver Broncos
 1616821572,Over,479,5386833384,2.05,8.5,Jake Browning Total Rushing Yards,Jake Browning Total Rushing Yards,Cincinnati Bengals,Detroit Lions
 1616821573,Under,480,5386833385,1.719,8.5,Jake Browning Total Rushing Yards,Jake Browning Total Rushing Yards,Cincinnati Bengals,Detroit Lions
 1616821568,Over,479,5385707685,2.07,77.5,Jahmyr Gibbs Total Rushing Yards,Jahmyr Gibbs Total Rushing Yards,Cincinnati Bengals,Detroit Lions
@@ -23,42 +7,16 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616821566,Under,480,5386824158,2.14,51.5,David Montgomery Total Rushing Yards,David Montgomery Total Rushing Yards,Cincinnati Bengals,Detroit Lions
 1616821562,Over,479,5386539659,2.07,52.5,Chase Brown Total Rushing Yards,Chase Brown Total Rushing Yards,Cincinnati Bengals,Detroit Lions
 1616821563,Under,480,5386539660,1.746,52.5,Chase Brown Total Rushing Yards,Chase Brown Total Rushing Yards,Cincinnati Bengals,Detroit Lions
-1616821161,Over,469,5385502173,1.74,19.5,Bo Nix Total Rushing Yards,Bo Nix Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616821162,Under,470,5385502174,2.07,19.5,Bo Nix Total Rushing Yards,Bo Nix Total Rushing Yards,Philadelphia Eagles,Denver Broncos
-1616825554,Over,473,5385263427,1.751,14.5,C.J. Stroud Total Rushing Yards,C.J. Stroud Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825555,Under,474,5385263428,2.06,14.5,C.J. Stroud Total Rushing Yards,C.J. Stroud Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825563,Over,473,5385281529,2.05,54.5,Woody Marks Total Rushing Yards,Woody Marks Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825564,Under,474,5385281530,1.757,54.5,Woody Marks Total Rushing Yards,Woody Marks Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825560,Over,473,5385672857,1.961,33.5,Nick Chubb Total Rushing Yards,Nick Chubb Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825561,Under,474,5385672858,1.826,33.5,Nick Chubb Total Rushing Yards,Nick Chubb Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825993,Over,467,5385657967,1.819,65.5,Ashton Jeanty Total Rushing Yards,Ashton Jeanty Total Rushing Yards,Indianapolis Colts,Las Vegas Raiders
-1616825994,Under,468,5385657968,1.97,65.5,Ashton Jeanty Total Rushing Yards,Ashton Jeanty Total Rushing Yards,Indianapolis Colts,Las Vegas Raiders
-1616825996,Over,467,5385206497,1.943,89.5,Jonathan Taylor Total Rushing Yards,Jonathan Taylor Total Rushing Yards,Indianapolis Colts,Las Vegas Raiders
-1616825997,Under,468,5385206499,1.847,89.5,Jonathan Taylor Total Rushing Yards,Jonathan Taylor Total Rushing Yards,Indianapolis Colts,Las Vegas Raiders
-1616825557,Over,473,5385593521,1.98,86.5,Derrick Henry Total Rushing Yards,Derrick Henry Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616825558,Under,474,5385593522,1.813,86.5,Derrick Henry Total Rushing Yards,Derrick Henry Total Rushing Yards,Baltimore Ravens,Houston Texans
-1616827365,Over,463,5385637694,1.8,65.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Carolina Panthers,Miami Dolphins
-1616827366,Under,464,5385637695,2.0,65.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Carolina Panthers,Miami Dolphins
-1616833693,Over,483,5387165772,1.729,27.5,Drake Maye Total Rushing Yards,Drake Maye Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833694,Under,484,5387165773,2.09,27.5,Drake Maye Total Rushing Yards,Drake Maye Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833696,Over,483,5386974457,2.15,78.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833697,Under,484,5386974458,1.689,78.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833699,Over,483,5383967625,1.892,31.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833700,Under,484,5383967629,1.892,31.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833693,Over,483,5387354750,1.769,27.5,Drake Maye Total Rushing Yards,Drake Maye Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833694,Under,484,5387354751,2.03,27.5,Drake Maye Total Rushing Yards,Drake Maye Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833696,Over,483,5387346533,2.13,78.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833697,Under,484,5387346534,1.704,78.5,James Cook Total Rushing Yards,James Cook Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833699,Over,483,5387354309,1.884,31.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833700,Under,484,5387354310,1.9,31.5,Josh Allen Total Rushing Yards,Josh Allen Total Rushing Yards,Buffalo Bills,New England Patriots
 1616833706,Under,484,5386863448,1.8,26.5,TreVeyon Henderson Total Rushing Yards,TreVeyon Henderson Total Rushing Yards,Buffalo Bills,New England Patriots
 1616833705,Over,483,5386863447,2.0,26.5,TreVeyon Henderson Total Rushing Yards,TreVeyon Henderson Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833702,Over,483,5383969381,1.952,32.5,Rhamondre Stevenson Total Rushing Yards,Rhamondre Stevenson Total Rushing Yards,Buffalo Bills,New England Patriots
-1616833703,Under,484,5383969382,1.84,32.5,Rhamondre Stevenson Total Rushing Yards,Rhamondre Stevenson Total Rushing Yards,Buffalo Bills,New England Patriots
-1616836381,Over,471,5385562281,1.729,66.5,Cam Skattebo Total Rushing Yards,Cam Skattebo Total Rushing Yards,New Orleans Saints,New York Giants
-1616836382,Under,472,5385562282,2.09,66.5,Cam Skattebo Total Rushing Yards,Cam Skattebo Total Rushing Yards,New Orleans Saints,New York Giants
-1616836374,Over,471,5385672868,2.14,57.5,Alvin Kamara Total Rushing Yards,Alvin Kamara Total Rushing Yards,New Orleans Saints,New York Giants
-1616836375,Under,472,5385672869,1.694,57.5,Alvin Kamara Total Rushing Yards,Alvin Kamara Total Rushing Yards,New Orleans Saints,New York Giants
-1616836408,Over,471,5385309330,2.04,36.5,Jaxson Dart Total Rushing Yards,Jaxson Dart Total Rushing Yards,New Orleans Saints,New York Giants
-1616836409,Under,472,5385309331,1.763,36.5,Jaxson Dart Total Rushing Yards,Jaxson Dart Total Rushing Yards,New Orleans Saints,New York Giants
-1616836434,Over,471,5384475827,1.769,15.5,Spencer Rattler Total Rushing Yards,Spencer Rattler Total Rushing Yards,New Orleans Saints,New York Giants
-1616836435,Under,472,5384475828,2.04,15.5,Spencer Rattler Total Rushing Yards,Spencer Rattler Total Rushing Yards,New Orleans Saints,New York Giants
-1616836418,Over,471,5385658695,1.952,32.5,Kendre Miller Total Rushing Yards,Kendre Miller Total Rushing Yards,New Orleans Saints,New York Giants
-1616836419,Under,472,5385658696,1.833,32.5,Kendre Miller Total Rushing Yards,Kendre Miller Total Rushing Yards,New Orleans Saints,New York Giants
+1616833702,Over,483,5387332130,1.892,32.5,Rhamondre Stevenson Total Rushing Yards,Rhamondre Stevenson Total Rushing Yards,Buffalo Bills,New England Patriots
+1616833703,Under,484,5387332131,1.892,32.5,Rhamondre Stevenson Total Rushing Yards,Rhamondre Stevenson Total Rushing Yards,Buffalo Bills,New England Patriots
 1616841520,Over,475,5386497101,1.9,11.5,Cam Ward Total Rushing Yards,Cam Ward Total Rushing Yards,Arizona Cardinals,Tennessee Titans
 1616841521,Under,476,5386497102,1.884,11.5,Cam Ward Total Rushing Yards,Cam Ward Total Rushing Yards,Arizona Cardinals,Tennessee Titans
 1616841526,Over,475,5386783813,1.704,27.5,Kyler Murray Total Rushing Yards,Kyler Murray Total Rushing Yards,Arizona Cardinals,Tennessee Titans
@@ -99,11 +57,9 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1616927007,Under,486,5386965223,1.892,63.5,Travis Etienne Total Rushing Yards,Travis Etienne Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
 1616927009,Over,485,5386960390,1.892,9.5,Trevor Lawrence Total Rushing Yards,Trevor Lawrence Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
 1616927010,Under,486,5386960395,1.892,9.5,Trevor Lawrence Total Rushing Yards,Trevor Lawrence Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
-1616930108,Over,463,5385451849,2.02,60.5,Rico Dowdle Total Rushing Yards,Rico Dowdle Total Rushing Yards,Carolina Panthers,Miami Dolphins
-1616930109,Under,464,5385451850,1.781,60.5,Rico Dowdle Total Rushing Yards,Rico Dowdle Total Rushing Yards,Carolina Panthers,Miami Dolphins
 1616841523,Over,475,5386738148,2.32,23.5,Emari Demercado Total Rushing Yards,Emari Demercado Total Rushing Yards,Arizona Cardinals,Tennessee Titans
 1616841524,Under,476,5386738149,1.564,23.5,Emari Demercado Total Rushing Yards,Emari Demercado Total Rushing Yards,Arizona Cardinals,Tennessee Titans
-1616927012,Over,485,5386958176,1.952,6.5,Xavier Worthy Total Rushing Yards,Xavier Worthy Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
-1616927013,Under,486,5386958177,1.84,6.5,Xavier Worthy Total Rushing Yards,Xavier Worthy Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
+1616927012,Over,485,5387268114,1.952,6.5,Xavier Worthy Total Rushing Yards,Xavier Worthy Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
+1616927013,Under,486,5387268115,1.84,6.5,Xavier Worthy Total Rushing Yards,Xavier Worthy Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
 1617070533,Over,485,5386961916,1.892,20.5,Bhayshul Tuten Total Rushing Yards,Bhayshul Tuten Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs
 1617070534,Under,486,5386961917,1.892,20.5,Bhayshul Tuten Total Rushing Yards,Bhayshul Tuten Total Rushing Yards,Jacksonville Jaguars,Kansas City Chiefs

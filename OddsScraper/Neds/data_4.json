@@ -1,0 +1,240 @@
+{
+    "entrants": {
+        "262165b3-ffe3-4462-9341-5f9be5aed1ef": {
+            "id": "262165b3-ffe3-4462-9341-5f9be5aed1ef",
+            "name": "Draw",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "468aac53-7f88-4389-923d-20a5e205a537"
+        },
+        "5eb333ea-ffb8-40fb-92c6-a968c5311669": {
+            "id": "5eb333ea-ffb8-40fb-92c6-a968c5311669",
+            "name": "Pittsburgh Steelers",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "c6a20735-4f57-441c-9d0e-5975ccd840a5"
+        },
+        "62de47d5-18a7-4da0-944d-02b0d3e8743f": {
+            "id": "62de47d5-18a7-4da0-944d-02b0d3e8743f",
+            "name": "Cleveland Browns 1-13",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "468aac53-7f88-4389-923d-20a5e205a537"
+        },
+        "816eaa31-8168-4878-929f-237d7d752ef9": {
+            "id": "816eaa31-8168-4878-929f-237d7d752ef9",
+            "name": "Cleveland Browns",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "c6a20735-4f57-441c-9d0e-5975ccd840a5"
+        },
+        "9d763730-6cc1-48fb-b68c-a81d1fe6e26c": {
+            "id": "9d763730-6cc1-48fb-b68c-a81d1fe6e26c",
+            "name": "Pittsburgh Steelers 1-13",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "468aac53-7f88-4389-923d-20a5e205a537"
+        },
+        "b7cf4b8c-c940-4b5c-b56d-dd95146d2051": {
+            "id": "b7cf4b8c-c940-4b5c-b56d-dd95146d2051",
+            "name": "Pittsburgh Steelers 14+",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "468aac53-7f88-4389-923d-20a5e205a537"
+        },
+        "cbb0d968-333a-4aab-b8e3-a26aef46f53e": {
+            "id": "cbb0d968-333a-4aab-b8e3-a26aef46f53e",
+            "name": "Cleveland Browns 14+",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "468aac53-7f88-4389-923d-20a5e205a537"
+        }
+    },
+    "event_participants": {
+        "c78e0135-3839-4e02-bdbb-10d2d4c09d38": {
+            "id": "c78e0135-3839-4e02-bdbb-10d2d4c09d38",
+            "event_id": "60f1586e-6853-4569-93f4-efa7d9b61bfd",
+            "name": "Cleveland Browns",
+            "home_away": "AWAY",
+            "colour": "#311d00"
+        },
+        "e7821e76-2748-4f04-921d-7af3f5a3e9c6": {
+            "id": "e7821e76-2748-4f04-921d-7af3f5a3e9c6",
+            "event_id": "60f1586e-6853-4569-93f4-efa7d9b61bfd",
+            "name": "Pittsburgh Steelers",
+            "home_away": "HOME",
+            "colour": "#ffb612"
+        }
+    },
+    "events": {
+        "60f1586e-6853-4569-93f4-efa7d9b61bfd": {
+            "id": "60f1586e-6853-4569-93f4-efa7d9b61bfd",
+            "name": "Pittsburgh Steelers vs Cleveland Browns",
+            "event_type": {
+                "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
+                "name": "Match"
+            },
+            "match_status": "BettingOpen",
+            "advertised_start": "2025-10-12T17:00:00Z",
+            "actual_start": "2025-10-12T17:00:00Z",
+            "visible": true,
+            "slug": "pittsburgh-steelers-vs-cleveland-browns",
+            "competition": {
+                "id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+                "name": "NFL",
+                "sort_order": 1,
+                "region": "USA"
+            },
+            "competition_id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+            "market_type_group_ids": [
+                "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                "05fe767b-30dd-42fb-a9a6-b8719592ac6d"
+            ],
+            "market_type_group_markets": [
+                {
+                    "market_type_group_id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                    "market_ids": [
+                        "c6a20735-4f57-441c-9d0e-5975ccd840a5"
+                    ]
+                },
+                {
+                    "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+                    "market_ids": [
+                        "468aac53-7f88-4389-923d-20a5e205a537"
+                    ]
+                }
+            ],
+            "market_count": 2,
+            "main_markets": [
+                "c6a20735-4f57-441c-9d0e-5975ccd840a5"
+            ],
+            "market_ids": [
+                "c6a20735-4f57-441c-9d0e-5975ccd840a5",
+                "468aac53-7f88-4389-923d-20a5e205a537"
+            ],
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "participant_ids": [
+                "c78e0135-3839-4e02-bdbb-10d2d4c09d38",
+                "e7821e76-2748-4f04-921d-7af3f5a3e9c6"
+            ]
+        }
+    },
+    "market_type_groups": {
+        "05fe767b-30dd-42fb-a9a6-b8719592ac6d": {
+            "id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Margin Markets",
+            "priority": 160,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        },
+        "81a92a58-39c5-4adc-85f0-6e6fb1798226": {
+            "id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Top Markets",
+            "priority": 711,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        }
+    },
+    "markets": {
+        "468aac53-7f88-4389-923d-20a5e205a537": {
+            "id": "468aac53-7f88-4389-923d-20a5e205a537",
+            "event_id": "60f1586e-6853-4569-93f4-efa7d9b61bfd",
+            "market_type_id": "c0e86b7d-b27a-4a85-b7d1-f15867d8415d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Winning Margin 1-13",
+            "advertised_start": {
+                "seconds": 1760288400
+            },
+            "actual_start": {
+                "seconds": 1760288400
+            },
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "9d763730-6cc1-48fb-b68c-a81d1fe6e26c",
+                "b7cf4b8c-c940-4b5c-b56d-dd95146d2051",
+                "262165b3-ffe3-4462-9341-5f9be5aed1ef",
+                "62de47d5-18a7-4da0-944d-02b0d3e8743f",
+                "cbb0d968-333a-4aab-b8e3-a26aef46f53e"
+            ],
+            "num_winners": 1
+        },
+        "c6a20735-4f57-441c-9d0e-5975ccd840a5": {
+            "id": "c6a20735-4f57-441c-9d0e-5975ccd840a5",
+            "event_id": "60f1586e-6853-4569-93f4-efa7d9b61bfd",
+            "market_type_id": "9592f47d-6ad7-4f66-a97f-b3d80f540721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Head To Head",
+            "advertised_start": {
+                "seconds": 1760288400
+            },
+            "actual_start": {
+                "seconds": 1760288400
+            },
+            "is_primary": true,
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "5eb333ea-ffb8-40fb-92c6-a968c5311669",
+                "816eaa31-8168-4878-929f-237d7d752ef9"
+            ],
+            "num_winners": 1
+        }
+    },
+    "markets_allow_cashout": {
+        "468aac53-7f88-4389-923d-20a5e205a537": true,
+        "c6a20735-4f57-441c-9d0e-5975ccd840a5": true
+    },
+    "prices": {
+        "262165b3-ffe3-4462-9341-5f9be5aed1ef:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 66,
+                "denominator": 1
+            }
+        },
+        "5eb333ea-ffb8-40fb-92c6-a968c5311669:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 25
+            }
+        },
+        "62de47d5-18a7-4da0-944d-02b0d3e8743f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 5
+            }
+        },
+        "816eaa31-8168-4878-929f-237d7d752ef9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 37,
+                "denominator": 20
+            }
+        },
+        "9d763730-6cc1-48fb-b68c-a81d1fe6e26c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 5
+            }
+        },
+        "b7cf4b8c-c940-4b5c-b56d-dd95146d2051:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "cbb0d968-333a-4aab-b8e3-a26aef46f53e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 1
+            }
+        }
+    }
+}
