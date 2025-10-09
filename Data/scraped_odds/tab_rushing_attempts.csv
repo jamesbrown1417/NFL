@@ -1,8 +1,8 @@
 match,start_time,player_name,player_team,market,line,over_price,under_price,margin,agency
-New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,9.5,1.3,NA,NA,TAB
-New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,12.5,2.1,1.68,1.071,TAB
-New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,14.5,3.3,NA,NA,TAB
-New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,19.5,15,NA,NA,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,9.5,1.2,NA,NA,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,12.5,1.85,1.9,1.067,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,14.5,2.7,NA,NA,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,C Skattebo,NA,Rushing Attempts,19.5,11,NA,NA,TAB
 New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Attempts,8.5,1.68,2.1,1.071,TAB
 New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Attempts,9.5,2.05,NA,NA,TAB
 New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Jalen Hurts,Philadelphia Eagles,Rushing Attempts,14.5,10,NA,NA,TAB
@@ -13,50 +13,122 @@ New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Saquon Barkley,Ph
 New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,18.5,2,1.75,1.071,TAB
 New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,19.5,2.3,NA,NA,TAB
 New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,Saquon Barkley,Philadelphia Eagles,Rushing Attempts,24.5,7,NA,NA,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Attempts,4.5,1.65,2.15,1.071,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Attempts,4.5,1.62,2.15,1.082,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Attempts,9.5,13,NA,NA,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,T Tracy,NA,Rushing Attempts,4.5,1.29,NA,NA,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,T Tracy,NA,Rushing Attempts,6.5,2.05,1.72,1.069,TAB
+New York Giants v Philadelphia Eagles,2025-10-10T00:15:00.000Z,T Tracy,NA,Rushing Attempts,9.5,6.5,NA,NA,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Attempts,4.5,1.68,2.1,1.071,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Attempts,4.5,1.65,2.1,1.082,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Attempts,9.5,15,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Breece Hall,New York Jets,Rushing Attempts,14.5,1.62,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Breece Hall,New York Jets,Rushing Attempts,15.5,1.9,1.85,1.067,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Breece Hall,New York Jets,Rushing Attempts,19.5,4.25,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Breece Hall,New York Jets,Rushing Attempts,24.5,17,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,J Fields,NA,Rushing Attempts,4.5,1.11,NA,NA,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,J Fields,NA,Rushing Attempts,8.5,2.45,1.52,1.066,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,J Fields,NA,Rushing Attempts,9.5,3.3,NA,NA,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,J Fields,NA,Rushing Attempts,8.5,2.5,1.5,1.067,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,J Fields,NA,Rushing Attempts,9.5,3.4,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,9.5,1.06,NA,NA,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,14.5,1.72,NA,NA,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,14.5,1.75,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,15.5,2.05,1.72,1.069,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,19.5,4.8,NA,NA,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,24.5,19,NA,NA,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,19.5,5,NA,NA,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,JK Dobbins,NA,Rushing Attempts,24.5,21,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Attempts,4.5,1.18,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Attempts,6.5,1.72,2.05,1.069,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Attempts,9.5,4.25,NA,NA,TAB
-Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Attempts,2.5,3,1.36,1.069,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Attempts,9.5,4.5,NA,NA,TAB
+Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Kyr William,NA,Rushing Attempts,14.5,1.4,NA,NA,TAB
+Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Kyr William,NA,Rushing Attempts,16.5,1.85,1.9,1.067,TAB
+Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Kyr William,NA,Rushing Attempts,19.5,3.1,NA,NA,TAB
+Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Kyr William,NA,Rushing Attempts,24.5,11,NA,NA,TAB
+Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Attempts,2.5,3.1,1.34,1.069,TAB
 Baltimore Ravens v Los Angeles Rams,2025-10-12T17:00:00.000Z,Matthew Stafford,Los Angeles Rams,Rushing Attempts,4.5,15,NA,NA,TAB
-Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,9.5,1.05,NA,NA,TAB
-Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,14.5,1.72,2.05,1.069,TAB
-Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,14.5,1.68,2.05,1.083,TAB
-Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,19.5,4.8,NA,NA,TAB
-Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,24.5,19,NA,NA,TAB
+Carolina Panthers v Dallas Cowboys,2025-10-12T17:00:00.000Z,Bryce Young,Carolina Panthers,Rushing Attempts,2.5,1.85,1.9,1.067,TAB
+Carolina Panthers v Dallas Cowboys,2025-10-12T17:00:00.000Z,Bryce Young,Carolina Panthers,Rushing Attempts,4.5,5.75,NA,NA,TAB
+Carolina Panthers v Dallas Cowboys,2025-10-12T17:00:00.000Z,Javonte Williams,Dallas Cowboys,Rushing Attempts,14.5,1.26,NA,NA,TAB
+Carolina Panthers v Dallas Cowboys,2025-10-12T17:00:00.000Z,Javonte Williams,Dallas Cowboys,Rushing Attempts,17.5,1.8,1.95,1.068,TAB
+Carolina Panthers v Dallas Cowboys,2025-10-12T17:00:00.000Z,Javonte Williams,Dallas Cowboys,Rushing Attempts,19.5,2.4,NA,NA,TAB
+Carolina Panthers v Dallas Cowboys,2025-10-12T17:00:00.000Z,Javonte Williams,Dallas Cowboys,Rushing Attempts,24.5,7.5,NA,NA,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,9.5,1.22,NA,NA,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,12.5,1.87,1.87,1.07,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,14.5,2.75,NA,NA,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Kenneth Walker III,Seattle Seahawks,Rushing Attempts,19.5,11,NA,NA,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Z Charbonet,NA,Rushing Attempts,9.5,1.52,NA,NA,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Z Charbonet,NA,Rushing Attempts,10.5,1.85,1.9,1.067,TAB
+Jacksonville Jaguars v Seattle Seahawks,2025-10-12T17:00:00.000Z,Z Charbonet,NA,Rushing Attempts,14.5,5.25,NA,NA,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,De'Von Achane,Miami Dolphins,Rushing Attempts,9.5,1.07,NA,NA,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,De'Von Achane,Miami Dolphins,Rushing Attempts,14.5,1.85,1.9,1.067,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,De'Von Achane,Miami Dolphins,Rushing Attempts,14.5,1.8,1.9,1.082,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,De'Von Achane,Miami Dolphins,Rushing Attempts,19.5,5.5,NA,NA,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Tua Tagovailoa,Miami Dolphins,Rushing Attempts,2.5,2.65,1.45,1.067,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Tua Tagovailoa,Miami Dolphins,Rushing Attempts,4.5,11,NA,NA,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Attempts,9.5,1.21,NA,NA,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Attempts,12.5,1.85,1.9,1.067,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Attempts,14.5,2.7,NA,NA,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,Rhamondre Stevenson,New England Patriots,Rushing Attempts,19.5,11,NA,NA,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,T Henderson,NA,Rushing Attempts,9.5,1.8,NA,NA,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,T Henderson,NA,Rushing Attempts,10.5,2.25,1.6,1.069,TAB
+New Orleans Saints v New England Patriots,2025-10-12T17:00:00.000Z,T Henderson,NA,Rushing Attempts,14.5,7.5,NA,NA,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,9.5,1.1,NA,NA,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,14.5,2.05,1.72,1.069,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,14.5,2,1.72,1.081,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Attempts,19.5,7,NA,NA,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Q Judkins,NA,Rushing Attempts,14.5,1.16,NA,NA,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Q Judkins,NA,Rushing Attempts,18.5,1.75,2,1.071,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Q Judkins,NA,Rushing Attempts,19.5,2,NA,NA,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Q Judkins,NA,Rushing Attempts,24.5,5.25,NA,NA,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Q Judkins,NA,Rushing Attempts,29.5,19,NA,NA,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,A Jeanty,NA,Rushing Attempts,14.5,1.24,NA,NA,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,A Jeanty,NA,Rushing Attempts,18.5,2,1.75,1.071,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,A Jeanty,NA,Rushing Attempts,19.5,2.35,NA,NA,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,A Jeanty,NA,Rushing Attempts,24.5,7,NA,NA,TAB
 Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Cam Ward,Tennessee Titans,Rushing Attempts,2.5,1.65,2.15,1.071,TAB
 Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Cam Ward,Tennessee Titans,Rushing Attempts,4.5,4.5,NA,NA,TAB
-Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,9.5,1.1,NA,NA,TAB
-Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,14.5,2.05,1.72,1.069,TAB
-Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,19.5,7,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,David Montgomery,Detroit Lions,Rushing Attempts,9.5,1.5,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,David Montgomery,Detroit Lions,Rushing Attempts,10.5,1.8,1.95,1.068,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,David Montgomery,Detroit Lions,Rushing Attempts,14.5,5,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,4.5,1.06,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,8.5,1.95,1.8,1.068,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,9.5,2.45,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,14.5,15,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,14.5,1.62,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,15.5,1.9,1.85,1.067,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,19.5,4.25,NA,NA,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,9.5,1.11,NA,NA,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,14.5,2.15,1.65,1.071,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,14.5,2.1,1.65,1.082,TAB
+Las Vegas Raiders v Tennessee Titans,2025-10-12T20:05:00.000Z,Tony Pollard,Tennessee Titans,Rushing Attempts,19.5,7.5,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Attempts,9.5,1.17,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Attempts,12.5,1.68,2.1,1.071,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Attempts,14.5,2.4,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Chase Brown,Cincinnati Bengals,Rushing Attempts,19.5,9,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,E Wilson,NA,Rushing Attempts,4.5,1.72,2.05,1.069,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,E Wilson,NA,Rushing Attempts,4.5,1.68,2.05,1.083,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,E Wilson,NA,Rushing Attempts,9.5,15,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Jordan Love,Green Bay Packers,Rushing Attempts,4.5,3,1.36,1.069,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Josh Jacobs,Green Bay Packers,Rushing Attempts,14.5,1.16,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Josh Jacobs,Green Bay Packers,Rushing Attempts,19.5,1.95,1.8,1.068,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Josh Jacobs,Green Bay Packers,Rushing Attempts,24.5,5,NA,NA,TAB
+Green Bay Packers v Cincinnati Bengals,2025-10-12T20:25:00.000Z,Josh Jacobs,Green Bay Packers,Rushing Attempts,29.5,17,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,David Montgomery,Detroit Lions,Rushing Attempts,9.5,1.46,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,David Montgomery,Detroit Lions,Rushing Attempts,10.5,1.75,2,1.071,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,David Montgomery,Detroit Lions,Rushing Attempts,14.5,4.6,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,4.5,1.05,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,8.5,1.9,1.85,1.067,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,9.5,2.4,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Attempts,14.5,13,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,9.5,1.05,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,14.5,1.65,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,15.5,1.95,1.8,1.068,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,19.5,4.5,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jahmyr Gibbs,Detroit Lions,Rushing Attempts,24.5,17,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Attempts,8.5,1.85,1.9,1.067,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Attempts,9.5,2.3,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jared Goff,Detroit Lions,Rushing Attempts,2.5,3.5,1.27,1.073,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jared Goff,Detroit Lions,Rushing Attempts,4.5,21,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Attempts,4.5,1.05,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Attempts,8.5,1.9,1.85,1.067,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Attempts,9.5,2.4,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Attempts,14.5,13,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Attempts,4.5,1.95,1.8,1.068,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Attempts,4.5,1.9,1.8,1.082,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Attempts,4.5,2,1.75,1.071,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Attempts,4.5,1.95,1.75,1.084,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Patrick Mahomes,Kansas City Chiefs,Rushing Attempts,9.5,21,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Attempts,14.5,1.38,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Attempts,16.5,1.8,1.95,1.068,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Attempts,19.5,3,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Bijan Robinson,Atlanta Falcons,Rushing Attempts,24.5,10,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,James Cook,Buffalo Bills,Rushing Attempts,14.5,1.36,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,James Cook,Buffalo Bills,Rushing Attempts,17.5,2.05,1.72,1.069,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,James Cook,Buffalo Bills,Rushing Attempts,19.5,2.9,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,James Cook,Buffalo Bills,Rushing Attempts,24.5,10,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Attempts,4.5,1.15,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Attempts,6.5,1.62,2.2,1.072,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Josh Allen,Buffalo Bills,Rushing Attempts,9.5,3.9,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Attempts,4.5,1.1,NA,NA,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Attempts,8.5,2.4,1.53,1.07,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Attempts,9.5,3.2,NA,NA,TAB
