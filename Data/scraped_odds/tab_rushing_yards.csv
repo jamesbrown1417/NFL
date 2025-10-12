@@ -1,7 +1,7 @@
 match,start_time,player_name,player_team,market,line,over_price,under_price,margin,agency
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,9.5,1.3,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,19.5,1.75,NA,NA,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,25.5,2.3,1.58,1.068,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,20.5,2,1.75,1.071,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,29.5,2.5,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,39.5,4,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Bo Nix,Denver Broncos,Rushing Yards,49.5,6.5,NA,NA,TAB
@@ -46,7 +46,7 @@ New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Justin Fields,New York J
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,Justin Fields,New York Jets,Rushing Yards,99.5,11,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,19.5,1.4,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,29.5,1.9,NA,NA,TAB
-New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,35.5,2.35,1.55,1.071,TAB
+New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,30.5,1.95,1.8,1.068,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,39.5,2.8,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,49.5,4,NA,NA,TAB
 New York Jets v Denver Broncos,2025-10-12T13:30:00.000Z,RJ Harvey,Denver Broncos,Rushing Yards,59.5,6,NA,NA,TAB
@@ -214,7 +214,7 @@ Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,DeVon Achane,NA,R
 Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,H Haskins,NA,Rushing Yards,40.5,1.95,1.8,1.068,TAB
 Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,19.5,1.15,NA,NA,TAB
 Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,29.5,1.42,NA,NA,TAB
-Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,39.5,2,NA,NA,TAB
+Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,39.5,1.8,NA,NA,TAB
 Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,49.5,2.7,NA,NA,TAB
 Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,59.5,3.75,NA,NA,TAB
 Miami Dolphins v Los Angeles Chargers,2025-10-12T17:00:00.000Z,Hassan Haskins,Los Angeles Chargers,Rushing Yards,69.5,4.75,NA,NA,TAB
@@ -303,7 +303,7 @@ Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Dillon Gabriel,C
 Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Dillon Gabriel,Cleveland Browns,Rushing Yards,29.5,5,NA,NA,TAB
 Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Dillon Gabriel,Cleveland Browns,Rushing Yards,39.5,8.5,NA,NA,TAB
 Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Dillon Gabriel,Cleveland Browns,Rushing Yards,49.5,15,NA,NA,TAB
-Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Yards,45.5,1.95,1.8,1.068,TAB
+Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,J Warren,NA,Rushing Yards,45.5,2.15,1.65,1.071,TAB
 Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,29.5,1.19,NA,NA,TAB
 Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,39.5,1.52,NA,NA,TAB
 Pittsburgh Steelers v Cleveland Browns,2025-10-12T17:00:00.000Z,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,49.5,2,NA,NA,TAB
@@ -458,7 +458,7 @@ Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,19.5,1.35,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,29.5,1.7,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,30.5,2,1.75,1.071,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,39.5,2.5,NA,NA,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,39.5,2.3,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,49.5,4,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,59.5,6.5,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Isiah Pacheco,Kansas City Chiefs,Rushing Yards,69.5,11,NA,NA,TAB
@@ -477,12 +477,12 @@ Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jameson Williams,Det
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jameson Williams,Detroit Lions,Rushing Yards,9.5,2.8,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jameson Williams,Detroit Lions,Rushing Yards,19.5,5,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jameson Williams,Detroit Lions,Rushing Yards,29.5,9,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,5.5,2.05,1.72,1.069,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,5.5,3.2,1.32,1.07,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,9.5,4.75,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Jared Goff,Detroit Lions,Rushing Yards,19.5,15,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,19.5,1.3,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,29.5,1.65,NA,NA,TAB
-Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,35.5,2,1.75,1.071,TAB
+Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,35.5,2.3,1.58,1.068,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,39.5,2.4,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,49.5,3.5,NA,NA,TAB
 Kansas City Chiefs v Detroit Lions,2025-10-13T00:20:00.000Z,Kareem Hunt,Kansas City Chiefs,Rushing Yards,59.5,5.25,NA,NA,TAB
@@ -539,7 +539,7 @@ Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Michael Penix Jr.,Atlan
 Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,9.5,1.06,NA,NA,TAB
 Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,19.5,1.35,NA,NA,TAB
 Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,29.5,1.8,NA,NA,TAB
-Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,35.5,2.2,1.62,1.072,TAB
+Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,35.5,2.25,1.6,1.069,TAB
 Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,39.5,2.5,NA,NA,TAB
 Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,49.5,3.5,NA,NA,TAB
 Atlanta Falcons v Buffalo Bills,2025-10-13T23:15:00.000Z,Tyler Allgeier,Atlanta Falcons,Rushing Yards,59.5,5,NA,NA,TAB
