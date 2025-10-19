@@ -1,6 +1,6 @@
 match,player_name,player_team,market,line,over_price,agency,under_price
 Arizona Cardinals v Green Bay Packers,Josh Jacobs,Green Bay Packers,Receptions,2.5,1.769,Pinnacle,2.04
-Arizona Cardinals v Green Bay Packers,Marvin Harrison Jr.,Arizona Cardinals,Receptions,3.5,1.595,Pinnacle,2.33
+Arizona Cardinals v Green Bay Packers,Marvin Harrison Jr.,Arizona Cardinals,Receptions,3.5,1.613,Pinnacle,2.29
 Arizona Cardinals v Green Bay Packers,Matthew Golden,Green Bay Packers,Receptions,3.5,2.06,Pinnacle,1.751
 Arizona Cardinals v Green Bay Packers,Romeo Doubs,Green Bay Packers,Receptions,4.5,2.18,Pinnacle,1.675
 Arizona Cardinals v Green Bay Packers,Trey McBride,Arizona Cardinals,Receptions,6.5,1.806,Pinnacle,1.99
@@ -19,7 +19,7 @@ Dallas Cowboys v Washington Commanders,CeeDee Lamb,Dallas Cowboys,Receptions,5.5
 Dallas Cowboys v Washington Commanders,George Pickens,Dallas Cowboys,Receptions,4.5,2.06,Pinnacle,1.746
 Dallas Cowboys v Washington Commanders,Jake Ferguson,Dallas Cowboys,Receptions,4.5,1.684,Pinnacle,2.16
 Denver Broncos v New York Giants,Cam Skattebo,New York Giants,Receptions,2.5,1.657,Pinnacle,2.2
-Denver Broncos v New York Giants,Courtland Sutton,Denver Broncos,Receptions,4.5,1.769,Pinnacle,2.04
+Denver Broncos v New York Giants,Courtland Sutton,Denver Broncos,Receptions,4.5,1.751,Pinnacle,2.06
 Denver Broncos v New York Giants,Evan Engram,Denver Broncos,Receptions,3.5,2.04,Pinnacle,1.763
 Denver Broncos v New York Giants,Marvin Mims,NA,Receptions,2.5,2.1,Pinnacle,1.719
 Denver Broncos v New York Giants,RJ Harvey,Denver Broncos,Receptions,2.5,2.14,Pinnacle,1.694
@@ -32,14 +32,14 @@ Detroit Lions v Tampa Bay Buccaneers,Jameson Williams,Detroit Lions,Receptions,3
 Detroit Lions v Tampa Bay Buccaneers,Sam LaPorta,Detroit Lions,Receptions,4.5,2,Pinnacle,1.751
 Jacksonville Jaguars v Los Angeles Rams,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,5.5,2.38,Pinnacle,1.571
 Jacksonville Jaguars v Los Angeles Rams,Davante Adams,Los Angeles Rams,Receptions,6.5,2.17,Pinnacle,1.68
-Jacksonville Jaguars v Los Angeles Rams,Dyami Brown,Jacksonville Jaguars,Receptions,2.5,2,Pinnacle,1.8
-Jacksonville Jaguars v Los Angeles Rams,Jordan Whittington,Los Angeles Rams,Receptions,3.5,1.775,Pinnacle,2.03
+Jacksonville Jaguars v Los Angeles Rams,Dyami Brown,Jacksonville Jaguars,Receptions,2.5,1.97,Pinnacle,1.826
+Jacksonville Jaguars v Los Angeles Rams,Jordan Whittington,Los Angeles Rams,Receptions,3.5,1.769,Pinnacle,2.04
 Jacksonville Jaguars v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Receptions,2.5,1.657,Pinnacle,2.21
-Jacksonville Jaguars v Los Angeles Rams,Parker Washington,Jacksonville Jaguars,Receptions,1.5,1.826,Pinnacle,1.97
-Jacksonville Jaguars v Los Angeles Rams,Travis Etienne,Jacksonville Jaguars,Receptions,2.5,2.2,Pinnacle,1.662
+Jacksonville Jaguars v Los Angeles Rams,Parker Washington,Jacksonville Jaguars,Receptions,1.5,1.819,Pinnacle,1.97
+Jacksonville Jaguars v Los Angeles Rams,Travis Etienne,Jacksonville Jaguars,Receptions,2.5,2.14,Pinnacle,1.699
 Jacksonville Jaguars v Los Angeles Rams,Travis Hunter,Jacksonville Jaguars,Receptions,3.5,1.757,Pinnacle,2.05
-Jacksonville Jaguars v Los Angeles Rams,Tutu Atwell,Los Angeles Rams,Receptions,3.5,2.73,Pinnacle,1.448
-Jacksonville Jaguars v Los Angeles Rams,Tyler Higbee,Los Angeles Rams,Receptions,3.5,2.54,Pinnacle,1.507
+Jacksonville Jaguars v Los Angeles Rams,Tutu Atwell,Los Angeles Rams,Receptions,3.5,2.6,Pinnacle,1.49
+Jacksonville Jaguars v Los Angeles Rams,Tyler Higbee,Los Angeles Rams,Receptions,3.5,2.49,Pinnacle,1.526
 Kansas City Chiefs v Las Vegas Raiders,Hollywood Brown,NA,Receptions,2.5,1.884,Pinnacle,1.9
 Kansas City Chiefs v Las Vegas Raiders,Rashee Rice,Kansas City Chiefs,Receptions,5.5,1.892,Pinnacle,1.847
 Kansas City Chiefs v Las Vegas Raiders,Travis Kelce,Kansas City Chiefs,Receptions,3.5,1.625,Pinnacle,2.26
@@ -55,12 +55,12 @@ Minnesota Vikings v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Reception
 Minnesota Vikings v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receptions,4.5,2.08,Pinnacle,1.74
 Minnesota Vikings v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receptions,4.5,2.05,Pinnacle,1.757
 Minnesota Vikings v Philadelphia Eagles,Jordan Addison,Minnesota Vikings,Receptions,3.5,1.704,Pinnacle,2.12
-Minnesota Vikings v Philadelphia Eagles,Justin Jefferson,Minnesota Vikings,Receptions,5.5,1.751,Pinnacle,2.06
+Minnesota Vikings v Philadelphia Eagles,Justin Jefferson,Minnesota Vikings,Receptions,5.5,1.694,Pinnacle,2.14
 Minnesota Vikings v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Receptions,3.5,2.68,Pinnacle,1.462
 Minnesota Vikings v Philadelphia Eagles,T.J. Hockenson,Minnesota Vikings,Receptions,3.5,1.819,Pinnacle,1.97
 New York Jets v Carolina Panthers,Breece Hall,New York Jets,Receptions,3.5,2.2,Pinnacle,1.662
 New York Jets v Carolina Panthers,Jalen Coker,Carolina Panthers,Receptions,2.5,2.23,Pinnacle,1.645
-New York Jets v Carolina Panthers,Josh Reynolds,New York Jets,Receptions,2.5,1.662,Pinnacle,2.19
+New York Jets v Carolina Panthers,Josh Reynolds,New York Jets,Receptions,2.5,1.662,Pinnacle,2.2
 New York Jets v Carolina Panthers,Mason Taylor,New York Jets,Receptions,4.5,2.05,Pinnacle,1.757
 New York Jets v Carolina Panthers,Rico Dowdle,Carolina Panthers,Receptions,2.5,2.51,Pinnacle,1.52
 New York Jets v Carolina Panthers,Tetairoa McMillan,Carolina Panthers,Receptions,4.5,2.07,Pinnacle,1.74
@@ -89,8 +89,8 @@ Tennessee Titans v New England Patriots,Elic Ayomanor,Tennessee Titans,Reception
 Tennessee Titans v New England Patriots,Gunnar Helm,Tennessee Titans,Receptions,2.5,2.39,Pinnacle,1.568
 Tennessee Titans v New England Patriots,Hunter Henry,New England Patriots,Receptions,3.5,2.15,Pinnacle,1.689
 Tennessee Titans v New England Patriots,Kayshon Boutte,New England Patriots,Receptions,2.5,2.17,Pinnacle,1.68
-Tennessee Titans v New England Patriots,Rhamondre Stevenson,New England Patriots,Receptions,2.5,2.6,Pinnacle,1.487
+Tennessee Titans v New England Patriots,Rhamondre Stevenson,New England Patriots,Receptions,2.5,2.56,Pinnacle,1.502
 Tennessee Titans v New England Patriots,Stefon Diggs,New England Patriots,Receptions,4.5,1.943,Pinnacle,1.847
-Tennessee Titans v New England Patriots,TreVeyon Henderson,New England Patriots,Receptions,2.5,2.3,Pinnacle,1.609
+Tennessee Titans v New England Patriots,TreVeyon Henderson,New England Patriots,Receptions,2.5,2.26,Pinnacle,1.628
 Tennessee Titans v New England Patriots,Tyjae Spears,Tennessee Titans,Receptions,1.5,1.507,Pinnacle,2.54
 Tennessee Titans v New England Patriots,Van Jefferson,Tennessee Titans,Receptions,2.5,2.18,Pinnacle,1.671
