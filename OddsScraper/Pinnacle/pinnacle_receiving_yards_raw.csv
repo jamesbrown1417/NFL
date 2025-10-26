@@ -3,8 +3,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618136243,Under,43153,5454099848,2.11,15.5,Saquon Barkley Total Receiving Yards,Saquon Barkley Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618136164,Over,43100,5452977035,1.952,21.5,Cam Skattebo Total Receiving Yards,Cam Skattebo Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618136165,Under,43101,5452977037,1.84,21.5,Cam Skattebo Total Receiving Yards,Cam Skattebo Total Receiving Yards,Philadelphia Eagles,New York Giants
-1618136170,Over,43104,5454631882,2.14,52.5,Dallas Goedert Total Receiving Yards,Dallas Goedert Total Receiving Yards,Philadelphia Eagles,New York Giants
-1618136171,Under,43105,5454631883,1.699,52.5,Dallas Goedert Total Receiving Yards,Dallas Goedert Total Receiving Yards,Philadelphia Eagles,New York Giants
+1618136170,Over,43104,5455478898,2.04,52.5,Dallas Goedert Total Receiving Yards,Dallas Goedert Total Receiving Yards,Philadelphia Eagles,New York Giants
+1618136171,Under,43105,5455478899,1.769,52.5,Dallas Goedert Total Receiving Yards,Dallas Goedert Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618136176,Over,43108,5452975579,1.775,71.5,DeVonta Smith Total Receiving Yards,DeVonta Smith Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618136177,Under,43109,5452975581,2.03,71.5,DeVonta Smith Total Receiving Yards,DeVonta Smith Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618136152,Over,43092,5443630069,1.869,65.5,A.J. Brown Total Receiving Yards,A.J. Brown Total Receiving Yards,Philadelphia Eagles,New York Giants
@@ -15,8 +15,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618136270,Under,43171,5454280568,1.787,53.5,Wan'Dale Robinson Total Receiving Yards,Wan'Dale Robinson Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618138999,Over,43328,5454459870,1.961,42.5,Keon Coleman Total Receiving Yards,Keon Coleman Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618139000,Under,43329,5454459871,1.826,42.5,Keon Coleman Total Receiving Yards,Keon Coleman Total Receiving Yards,Carolina Panthers,Buffalo Bills
-1618139017,Over,43340,5454791267,1.826,55.5,Tetairoa McMillan Total Receiving Yards,Tetairoa McMillan Total Receiving Yards,Carolina Panthers,Buffalo Bills
-1618139018,Under,43341,5454791268,1.961,55.5,Tetairoa McMillan Total Receiving Yards,Tetairoa McMillan Total Receiving Yards,Carolina Panthers,Buffalo Bills
+1618139017,Over,43340,5455319482,1.826,55.5,Tetairoa McMillan Total Receiving Yards,Tetairoa McMillan Total Receiving Yards,Carolina Panthers,Buffalo Bills
+1618139018,Under,43341,5455319483,1.97,55.5,Tetairoa McMillan Total Receiving Yards,Tetairoa McMillan Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618139023,Over,43344,5454575960,1.9,32.5,Xavier Legette Total Receiving Yards,Xavier Legette Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618139024,Under,43345,5454575961,1.884,32.5,Xavier Legette Total Receiving Yards,Xavier Legette Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618139005,Over,43332,5454364693,1.833,48.5,Khalil Shakir Total Receiving Yards,Khalil Shakir Total Receiving Yards,Carolina Panthers,Buffalo Bills
@@ -27,12 +27,12 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618138946,Under,43293,5452977920,1.917,55.5,Rome Odunze Total Receiving Yards,Rome Odunze Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618138939,Over,43288,5452998316,1.892,22.5,Mark Andrews Total Receiving Yards,Mark Andrews Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618138940,Under,43289,5452998317,1.892,22.5,Mark Andrews Total Receiving Yards,Mark Andrews Total Receiving Yards,Baltimore Ravens,Chicago Bears
-1618138954,Over,43298,5454722295,1.757,46.5,Zay Flowers Total Receiving Yards,Zay Flowers Total Receiving Yards,Baltimore Ravens,Chicago Bears
-1618138955,Under,43299,5454722296,2.05,46.5,Zay Flowers Total Receiving Yards,Zay Flowers Total Receiving Yards,Baltimore Ravens,Chicago Bears
+1618138954,Over,43298,5454900513,1.847,46.5,Zay Flowers Total Receiving Yards,Zay Flowers Total Receiving Yards,Baltimore Ravens,Chicago Bears
+1618138955,Under,43299,5454900514,1.943,46.5,Zay Flowers Total Receiving Yards,Zay Flowers Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618136278,Over,43176,5454793344,1.909,45.5,Jerry Jeudy Total Receiving Yards,Jerry Jeudy Total Receiving Yards,New England Patriots,Cleveland Browns
 1618136279,Under,43177,5454793345,1.877,45.5,Jerry Jeudy Total Receiving Yards,Jerry Jeudy Total Receiving Yards,New England Patriots,Cleveland Browns
-1618136284,Over,43180,5454686789,1.775,30.5,Kayshon Boutte Total Receiving Yards,Kayshon Boutte Total Receiving Yards,New England Patriots,Cleveland Browns
-1618136285,Under,43181,5454686790,2.03,30.5,Kayshon Boutte Total Receiving Yards,Kayshon Boutte Total Receiving Yards,New England Patriots,Cleveland Browns
+1618136284,Over,43180,5454913975,1.862,30.5,Kayshon Boutte Total Receiving Yards,Kayshon Boutte Total Receiving Yards,New England Patriots,Cleveland Browns
+1618136285,Under,43181,5454913976,1.925,30.5,Kayshon Boutte Total Receiving Yards,Kayshon Boutte Total Receiving Yards,New England Patriots,Cleveland Browns
 1618136272,Over,43172,5452975575,2.01,35.5,Hunter Henry Total Receiving Yards,Hunter Henry Total Receiving Yards,New England Patriots,Cleveland Browns
 1618136273,Under,43173,5452975577,1.793,35.5,Hunter Henry Total Receiving Yards,Hunter Henry Total Receiving Yards,New England Patriots,Cleveland Browns
 1618136302,Over,43192,5454149918,1.847,55.5,Stefon Diggs Total Receiving Yards,Stefon Diggs Total Receiving Yards,New England Patriots,Cleveland Browns
@@ -41,18 +41,18 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618139174,Under,43445,5454110587,2.05,57.5,George Pickens Total Receiving Yards,George Pickens Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139161,Over,43436,5453954381,1.724,30.5,Evan Engram Total Receiving Yards,Evan Engram Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139162,Under,43437,5453954382,2.1,30.5,Evan Engram Total Receiving Yards,Evan Engram Total Receiving Yards,Denver Broncos,Dallas Cowboys
-1618139113,Over,43404,5454721384,1.787,75.5,CeeDee Lamb Total Receiving Yards,CeeDee Lamb Total Receiving Yards,Denver Broncos,Dallas Cowboys
-1618139114,Under,43405,5454721385,2.01,75.5,CeeDee Lamb Total Receiving Yards,CeeDee Lamb Total Receiving Yards,Denver Broncos,Dallas Cowboys
-1618139119,Over,43408,5454705708,1.793,60.5,Courtland Sutton Total Receiving Yards,Courtland Sutton Total Receiving Yards,Denver Broncos,Dallas Cowboys
-1618139120,Under,43409,5454705709,2.0,60.5,Courtland Sutton Total Receiving Yards,Courtland Sutton Total Receiving Yards,Denver Broncos,Dallas Cowboys
+1618139113,Over,43404,5455193081,1.735,75.5,CeeDee Lamb Total Receiving Yards,CeeDee Lamb Total Receiving Yards,Denver Broncos,Dallas Cowboys
+1618139114,Under,43405,5455193082,2.08,75.5,CeeDee Lamb Total Receiving Yards,CeeDee Lamb Total Receiving Yards,Denver Broncos,Dallas Cowboys
+1618139119,Over,43408,5454885070,1.787,60.5,Courtland Sutton Total Receiving Yards,Courtland Sutton Total Receiving Yards,Denver Broncos,Dallas Cowboys
+1618139120,Under,43409,5454885071,2.01,60.5,Courtland Sutton Total Receiving Yards,Courtland Sutton Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139188,Over,43454,5454392720,2.01,40.5,Jake Ferguson Total Receiving Yards,Jake Ferguson Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139189,Under,43455,5454392721,1.793,40.5,Jake Ferguson Total Receiving Yards,Jake Ferguson Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139191,Over,43456,5452977655,1.952,8.5,Jalen Tolbert Total Receiving Yards,Jalen Tolbert Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139192,Under,43457,5452977656,1.84,8.5,Jalen Tolbert Total Receiving Yards,Jalen Tolbert Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139224,Over,43478,5453624783,1.819,13.5,RJ Harvey Total Receiving Yards,RJ Harvey Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139225,Under,43479,5453624784,1.97,13.5,RJ Harvey Total Receiving Yards,RJ Harvey Total Receiving Yards,Denver Broncos,Dallas Cowboys
-1618139230,Over,43482,5452977741,1.574,32.5,Troy Franklin Total Receiving Yards,Troy Franklin Total Receiving Yards,Denver Broncos,Dallas Cowboys
-1618139231,Under,43483,5452977745,2.37,32.5,Troy Franklin Total Receiving Yards,Troy Franklin Total Receiving Yards,Denver Broncos,Dallas Cowboys
+1618139230,Over,43482,5454894713,1.645,32.5,Troy Franklin Total Receiving Yards,Troy Franklin Total Receiving Yards,Denver Broncos,Dallas Cowboys
+1618139231,Under,43483,5454894714,2.23,32.5,Troy Franklin Total Receiving Yards,Troy Franklin Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139203,Over,43464,5452977781,1.84,14.5,Javonte Williams Total Receiving Yards,Javonte Williams Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139204,Under,43465,5452977782,1.952,14.5,Javonte Williams Total Receiving Yards,Javonte Williams Total Receiving Yards,Denver Broncos,Dallas Cowboys
 1618139209,Over,43468,5452977709,2.0,15.5,KaVontae Turpin Total Receiving Yards,KaVontae Turpin Total Receiving Yards,Denver Broncos,Dallas Cowboys
@@ -65,8 +65,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618139165,Under,43439,5452977724,1.892,55.5,Tyler Warren Total Receiving Yards,Tyler Warren Total Receiving Yards,Indianapolis Colts,Tennessee Titans
 1618139065,Over,43372,5454120364,1.775,35.5,Elic Ayomanor Total Receiving Yards,Elic Ayomanor Total Receiving Yards,Indianapolis Colts,Tennessee Titans
 1618139066,Under,43373,5454120365,2.02,35.5,Elic Ayomanor Total Receiving Yards,Elic Ayomanor Total Receiving Yards,Indianapolis Colts,Tennessee Titans
-1618139072,Under,43377,5453799177,2.07,21.5,Gunnar Helm Total Receiving Yards,Gunnar Helm Total Receiving Yards,Indianapolis Colts,Tennessee Titans
-1618139071,Over,43376,5453799176,1.74,21.5,Gunnar Helm Total Receiving Yards,Gunnar Helm Total Receiving Yards,Indianapolis Colts,Tennessee Titans
+1618139072,Under,43377,5454910512,1.961,21.5,Gunnar Helm Total Receiving Yards,Gunnar Helm Total Receiving Yards,Indianapolis Colts,Tennessee Titans
+1618139071,Over,43376,5454910511,1.826,21.5,Gunnar Helm Total Receiving Yards,Gunnar Helm Total Receiving Yards,Indianapolis Colts,Tennessee Titans
 1618139140,Over,43422,5452977649,1.925,13.5,Tony Pollard Total Receiving Yards,Tony Pollard Total Receiving Yards,Indianapolis Colts,Tennessee Titans
 1618139141,Under,43423,5452977650,1.862,13.5,Tony Pollard Total Receiving Yards,Tony Pollard Total Receiving Yards,Indianapolis Colts,Tennessee Titans
 1618139041,Over,43356,5452975354,1.884,27.5,Chig Okonkwo Total Receiving Yards,Chig Okonkwo Total Receiving Yards,Indianapolis Colts,Tennessee Titans
@@ -81,8 +81,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618139153,Under,43431,5453632161,1.769,14.5,Tyjae Spears Total Receiving Yards,Tyjae Spears Total Receiving Yards,Indianapolis Colts,Tennessee Titans
 1618136344,Over,43220,5454713417,1.826,75.5,Emeka Egbuka Total Receiving Yards,Emeka Egbuka Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136345,Under,43221,5454713418,1.961,75.5,Emeka Egbuka Total Receiving Yards,Emeka Egbuka Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
-1618136314,Over,43200,5454556839,1.719,19.5,Alvin Kamara Total Receiving Yards,Alvin Kamara Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
-1618136315,Under,43201,5454556840,2.11,19.5,Alvin Kamara Total Receiving Yards,Alvin Kamara Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
+1618136314,Over,43200,5455290073,1.709,19.5,Alvin Kamara Total Receiving Yards,Alvin Kamara Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
+1618136315,Under,43201,5455290074,2.12,19.5,Alvin Kamara Total Receiving Yards,Alvin Kamara Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136386,Over,43248,5453826376,1.909,31.5,Sterling Shepard Total Receiving Yards,Sterling Shepard Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136387,Under,43249,5453826377,1.877,31.5,Sterling Shepard Total Receiving Yards,Sterling Shepard Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136392,Over,43252,5454444578,1.833,41.5,Tez Johnson Total Receiving Yards,Tez Johnson Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
@@ -91,8 +91,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618136333,Under,43213,5454764552,1.943,37.5,Cade Otton Total Receiving Yards,Cade Otton Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136362,Over,43232,5452975027,1.869,21.5,Rachaad White Total Receiving Yards,Rachaad White Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136363,Under,43233,5452975766,1.892,21.5,Rachaad White Total Receiving Yards,Rachaad White Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
-1618136368,Over,43236,5452977227,1.884,47.5,Rashid Shaheed Total Receiving Yards,Rashid Shaheed Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
-1618136369,Under,43237,5452977228,1.9,47.5,Rashid Shaheed Total Receiving Yards,Rashid Shaheed Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
+1618136368,Over,43236,5455454738,1.787,47.5,Rashid Shaheed Total Receiving Yards,Rashid Shaheed Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
+1618136369,Under,43237,5455454739,2.01,47.5,Rashid Shaheed Total Receiving Yards,Rashid Shaheed Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136350,Over,43224,5454136947,1.775,38.5,Juwan Johnson Total Receiving Yards,Juwan Johnson Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136351,Under,43225,5454136948,2.02,38.5,Juwan Johnson Total Receiving Yards,Juwan Johnson Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618146066,Over,43550,5452978279,1.877,52.5,Tucker Kraft Total Receiving Yards,Tucker Kraft Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
@@ -105,8 +105,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618146052,Under,43541,5454004891,2.0,21.5,Jaylen Warren Total Receiving Yards,Jaylen Warren Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
 1618146054,Over,43542,5453059249,1.961,27.5,Jonnu Smith Total Receiving Yards,Jonnu Smith Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
 1618146055,Under,43543,5453059250,1.833,27.5,Jonnu Smith Total Receiving Yards,Jonnu Smith Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
-1618146060,Over,43546,5453826814,1.869,41.5,Matthew Golden Total Receiving Yards,Matthew Golden Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
-1618146061,Under,43547,5453826815,1.917,41.5,Matthew Golden Total Receiving Yards,Matthew Golden Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
+1618146060,Over,43546,5455324356,1.833,41.5,Matthew Golden Total Receiving Yards,Matthew Golden Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
+1618146061,Under,43547,5455324357,1.961,41.5,Matthew Golden Total Receiving Yards,Matthew Golden Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
 1618146057,Over,43544,5452978039,1.892,16.5,Josh Jacobs Total Receiving Yards,Josh Jacobs Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
 1618146058,Under,43545,5452978040,1.892,16.5,Josh Jacobs Total Receiving Yards,Josh Jacobs Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
 1618146063,Over,43548,5452978261,1.892,54.5,Romeo Doubs Total Receiving Yards,Romeo Doubs Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
@@ -123,8 +123,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618136090,Under,43051,5452301143,2.39,37.5,Darnell Mooney Total Receiving Yards,Darnell Mooney Total Receiving Yards,Atlanta Falcons,Miami Dolphins
 1618136119,Over,43070,5452975319,1.775,24.5,Malik Washington Total Receiving Yards,Malik Washington Total Receiving Yards,Atlanta Falcons,Miami Dolphins
 1618136120,Under,43071,5452975320,2.02,24.5,Malik Washington Total Receiving Yards,Malik Washington Total Receiving Yards,Atlanta Falcons,Miami Dolphins
-1618211506,Over,53344,5454432464,1.757,43.5,Christian McCaffrey Total Receiving Yards,Christian McCaffrey Total Receiving Yards,Houston Texans,San Francisco 49ers
-1618211507,Under,53345,5454432465,2.05,43.5,Christian McCaffrey Total Receiving Yards,Christian McCaffrey Total Receiving Yards,Houston Texans,San Francisco 49ers
+1618211506,Over,53344,5455482033,1.724,43.5,Christian McCaffrey Total Receiving Yards,Christian McCaffrey Total Receiving Yards,Houston Texans,San Francisco 49ers
+1618211507,Under,53345,5455482034,2.1,43.5,Christian McCaffrey Total Receiving Yards,Christian McCaffrey Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211512,Over,53348,5453570149,1.689,45.5,Dalton Schultz Total Receiving Yards,Dalton Schultz Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211513,Under,53349,5453570150,2.15,45.5,Dalton Schultz Total Receiving Yards,Dalton Schultz Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211542,Over,53368,5454699426,1.806,31.5,Kendrick Bourne Total Receiving Yards,Kendrick Bourne Total Receiving Yards,Houston Texans,San Francisco 49ers
@@ -133,8 +133,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618211531,Under,53361,5452978248,1.877,35.5,Jayden Higgins Total Receiving Yards,Jayden Higgins Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211536,Over,53364,5454439626,1.819,35.5,Jaylin Noel Total Receiving Yards,Jaylin Noel Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211537,Under,53365,5454439627,1.97,35.5,Jaylin Noel Total Receiving Yards,Jaylin Noel Total Receiving Yards,Houston Texans,San Francisco 49ers
-1618211518,Over,53352,5454793787,1.869,55.5,George Kittle Total Receiving Yards,George Kittle Total Receiving Yards,Houston Texans,San Francisco 49ers
-1618211519,Under,53353,5454793788,1.917,55.5,George Kittle Total Receiving Yards,George Kittle Total Receiving Yards,Houston Texans,San Francisco 49ers
+1618211518,Over,53352,5454971493,1.97,55.5,George Kittle Total Receiving Yards,George Kittle Total Receiving Yards,Houston Texans,San Francisco 49ers
+1618211519,Under,53353,5454971494,1.819,55.5,George Kittle Total Receiving Yards,George Kittle Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211575,Over,53390,5453557769,1.819,16.5,Woody Marks Total Receiving Yards,Woody Marks Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211576,Under,53391,5453557770,1.97,16.5,Woody Marks Total Receiving Yards,Woody Marks Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618211581,Over,53394,5454454105,1.684,26.5,Xavier Hutchinson Total Receiving Yards,Xavier Hutchinson Total Receiving Yards,Houston Texans,San Francisco 49ers
@@ -153,22 +153,22 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618246165,Under,53465,5453896753,1.884,13.5,James Cook Total Receiving Yards,James Cook Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618246152,Over,53456,5454568862,1.99,12.5,Chuba Hubbard Total Receiving Yards,Chuba Hubbard Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618246153,Under,53457,5454568863,1.8,12.5,Chuba Hubbard Total Receiving Yards,Chuba Hubbard Total Receiving Yards,Carolina Panthers,Buffalo Bills
-1618246159,Under,53461,5454363204,2.18,14.5,Ja'Tavion Sanders Total Receiving Yards,Ja'Tavion Sanders Total Receiving Yards,Carolina Panthers,Buffalo Bills
-1618246158,Over,53460,5454363203,1.671,14.5,Ja'Tavion Sanders Total Receiving Yards,Ja'Tavion Sanders Total Receiving Yards,Carolina Panthers,Buffalo Bills
+1618246158,Over,53460,5454903622,1.751,14.5,Ja'Tavion Sanders Total Receiving Yards,Ja'Tavion Sanders Total Receiving Yards,Carolina Panthers,Buffalo Bills
+1618246159,Under,53461,5454903623,2.06,14.5,Ja'Tavion Sanders Total Receiving Yards,Ja'Tavion Sanders Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618246170,Over,53468,5452978774,1.892,10.5,Rico Dowdle Total Receiving Yards,Rico Dowdle Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618246171,Under,53469,5452978775,1.892,10.5,Rico Dowdle Total Receiving Yards,Rico Dowdle Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618246200,Over,53488,5452998284,1.892,17.5,Isaiah Likely Total Receiving Yards,Isaiah Likely Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246201,Under,53489,5452998285,1.892,17.5,Isaiah Likely Total Receiving Yards,Isaiah Likely Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246194,Over,53484,5452998282,1.892,13.5,DeAndre Hopkins Total Receiving Yards,DeAndre Hopkins Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246195,Under,53485,5452998283,1.892,13.5,DeAndre Hopkins Total Receiving Yards,DeAndre Hopkins Total Receiving Yards,Baltimore Ravens,Chicago Bears
-1618246182,Over,53476,5454577407,2.11,34.5,Colston Loveland Total Receiving Yards,Colston Loveland Total Receiving Yards,Baltimore Ravens,Chicago Bears
-1618246183,Under,53477,5454577408,1.714,34.5,Colston Loveland Total Receiving Yards,Colston Loveland Total Receiving Yards,Baltimore Ravens,Chicago Bears
+1618246182,Over,53476,5455248103,2.07,34.5,Colston Loveland Total Receiving Yards,Colston Loveland Total Receiving Yards,Baltimore Ravens,Chicago Bears
+1618246183,Under,53477,5455248104,1.746,34.5,Colston Loveland Total Receiving Yards,Colston Loveland Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246188,Over,53480,5452979563,1.892,15.5,D'Andre Swift Total Receiving Yards,D'Andre Swift Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246189,Under,53481,5452979565,1.892,15.5,D'Andre Swift Total Receiving Yards,D'Andre Swift Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246215,Over,53498,5452998485,1.892,22.5,Olamide Zaccheaus Total Receiving Yards,Olamide Zaccheaus Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618246216,Under,53499,5452998486,1.892,22.5,Olamide Zaccheaus Total Receiving Yards,Olamide Zaccheaus Total Receiving Yards,Baltimore Ravens,Chicago Bears
-1618246221,Over,53502,5452979663,1.892,17.5,Rashod Bateman Total Receiving Yards,Rashod Bateman Total Receiving Yards,Baltimore Ravens,Chicago Bears
-1618246222,Under,53503,5452979664,1.892,17.5,Rashod Bateman Total Receiving Yards,Rashod Bateman Total Receiving Yards,Baltimore Ravens,Chicago Bears
+1618246221,Over,53502,5454897669,1.8,17.5,Rashod Bateman Total Receiving Yards,Rashod Bateman Total Receiving Yards,Baltimore Ravens,Chicago Bears
+1618246222,Under,53503,5454897670,1.99,17.5,Rashod Bateman Total Receiving Yards,Rashod Bateman Total Receiving Yards,Baltimore Ravens,Chicago Bears
 1618247574,Over,53508,5452980036,1.952,19.5,DeMario Douglas Total Receiving Yards,DeMario Douglas Total Receiving Yards,New England Patriots,Cleveland Browns
 1618247575,Under,53509,5452980037,1.84,19.5,DeMario Douglas Total Receiving Yards,DeMario Douglas Total Receiving Yards,New England Patriots,Cleveland Browns
 1618247610,Over,53532,5453282423,1.934,8.5,Quinshon Judkins Total Receiving Yards,Quinshon Judkins Total Receiving Yards,New England Patriots,Cleveland Browns
@@ -199,8 +199,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618251856,Under,53665,5443970179,1.869,67.5,Rashee Rice Total Receiving Yards,Rashee Rice Total Receiving Yards,Kansas City Chiefs,Washington Commanders
 1618251868,Over,53672,5452950385,1.869,45.5,Xavier Worthy Total Receiving Yards,Xavier Worthy Total Receiving Yards,Kansas City Chiefs,Washington Commanders
 1618251869,Under,53673,5452950386,1.869,45.5,Xavier Worthy Total Receiving Yards,Xavier Worthy Total Receiving Yards,Kansas City Chiefs,Washington Commanders
-1618211524,Over,53356,5454347874,1.546,35.5,Jauan Jennings Total Receiving Yards,Jauan Jennings Total Receiving Yards,Houston Texans,San Francisco 49ers
-1618211525,Under,53357,5454347875,2.44,35.5,Jauan Jennings Total Receiving Yards,Jauan Jennings Total Receiving Yards,Houston Texans,San Francisco 49ers
+1618211524,Over,53356,5454891187,1.613,35.5,Jauan Jennings Total Receiving Yards,Jauan Jennings Total Receiving Yards,Houston Texans,San Francisco 49ers
+1618211525,Under,53357,5454891188,2.29,35.5,Jauan Jennings Total Receiving Yards,Jauan Jennings Total Receiving Yards,Houston Texans,San Francisco 49ers
 1618326513,Over,17280,5452977582,1.884,24.5,Noah Fant Total Receiving Yards,Noah Fant Total Receiving Yards,Cincinnati Bengals,New York Jets
 1618326514,Under,17281,5452977583,1.9,24.5,Noah Fant Total Receiving Yards,Noah Fant Total Receiving Yards,Cincinnati Bengals,New York Jets
 1618326507,Over,17276,5452977580,1.925,18.5,Andrei Iosivas Total Receiving Yards,Andrei Iosivas Total Receiving Yards,Cincinnati Bengals,New York Jets
@@ -219,18 +219,18 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1618372048,Under,17329,5453557898,1.847,11.5,Tommy Tremble Total Receiving Yards,Tommy Tremble Total Receiving Yards,Carolina Panthers,Buffalo Bills
 1618372056,Over,17334,5452975017,1.892,25.5,Allen Lazard Total Receiving Yards,Allen Lazard Total Receiving Yards,Cincinnati Bengals,New York Jets
 1618372057,Under,17335,5452975018,1.892,25.5,Allen Lazard Total Receiving Yards,Allen Lazard Total Receiving Yards,Cincinnati Bengals,New York Jets
-1618373209,Over,17346,5454098970,2.04,38.5,Darius Slayton Total Receiving Yards,Darius Slayton Total Receiving Yards,Philadelphia Eagles,New York Giants
-1618373210,Under,17347,5454098971,1.763,38.5,Darius Slayton Total Receiving Yards,Darius Slayton Total Receiving Yards,Philadelphia Eagles,New York Giants
+1618373209,Over,17346,5455108083,2.04,38.5,Darius Slayton Total Receiving Yards,Darius Slayton Total Receiving Yards,Philadelphia Eagles,New York Giants
+1618373210,Under,17347,5455108084,1.769,38.5,Darius Slayton Total Receiving Yards,Darius Slayton Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618373116,Over,17340,5454290387,1.934,22.5,Jahan Dotson Total Receiving Yards,Jahan Dotson Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618373117,Under,17341,5454290388,1.854,22.5,Jahan Dotson Total Receiving Yards,Jahan Dotson Total Receiving Yards,Philadelphia Eagles,New York Giants
 1618136338,Over,43216,5454409524,1.806,61.5,Chris Olave Total Receiving Yards,Chris Olave Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
 1618136339,Under,43217,5454409525,1.99,61.5,Chris Olave Total Receiving Yards,Chris Olave Total Receiving Yards,New Orleans Saints,Tampa Bay Buccaneers
-1618374632,Over,17354,5454433378,1.751,35.5,Alec Pierce Total Receiving Yards,Alec Pierce Total Receiving Yards,Indianapolis Colts,Tennessee Titans
-1618374633,Under,17355,5454433379,2.06,35.5,Alec Pierce Total Receiving Yards,Alec Pierce Total Receiving Yards,Indianapolis Colts,Tennessee Titans
-1618374638,Over,17358,5454114871,1.769,34.5,Josh Downs Total Receiving Yards,Josh Downs Total Receiving Yards,Indianapolis Colts,Tennessee Titans
-1618374639,Under,17359,5454114872,2.03,34.5,Josh Downs Total Receiving Yards,Josh Downs Total Receiving Yards,Indianapolis Colts,Tennessee Titans
-1618374855,Over,17362,5454123206,1.833,30.5,Calvin Austin III Total Receiving Yards,Calvin Austin III Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
-1618374856,Under,17363,5454123207,1.952,30.5,Calvin Austin III Total Receiving Yards,Calvin Austin III Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
+1618374632,Over,17354,5455285753,1.714,35.5,Alec Pierce Total Receiving Yards,Alec Pierce Total Receiving Yards,Indianapolis Colts,Tennessee Titans
+1618374633,Under,17355,5455285754,2.11,35.5,Alec Pierce Total Receiving Yards,Alec Pierce Total Receiving Yards,Indianapolis Colts,Tennessee Titans
+1618374638,Over,17358,5454908700,1.862,34.5,Josh Downs Total Receiving Yards,Josh Downs Total Receiving Yards,Indianapolis Colts,Tennessee Titans
+1618374639,Under,17359,5454908701,1.925,34.5,Josh Downs Total Receiving Yards,Josh Downs Total Receiving Yards,Indianapolis Colts,Tennessee Titans
+1618374855,Over,17362,5454898329,1.84,30.5,Calvin Austin III Total Receiving Yards,Calvin Austin III Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
+1618374856,Under,17363,5454898330,1.952,30.5,Calvin Austin III Total Receiving Yards,Calvin Austin III Total Receiving Yards,Pittsburgh Steelers,Green Bay Packers
 1618374987,Over,17392,5452971360,1.84,15.5,Brashard Smith Total Receiving Yards,Brashard Smith Total Receiving Yards,Kansas City Chiefs,Washington Commanders
 1618374988,Under,17393,5452971361,1.952,15.5,Brashard Smith Total Receiving Yards,Brashard Smith Total Receiving Yards,Kansas City Chiefs,Washington Commanders
 1618374996,Over,17398,5452952491,1.869,41.5,Deebo Samuel Total Receiving Yards,Deebo Samuel Total Receiving Yards,Kansas City Chiefs,Washington Commanders
