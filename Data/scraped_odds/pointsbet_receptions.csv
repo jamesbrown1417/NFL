@@ -1,56 +1,554 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,1.5,1.08,NA,NA,Pointsbet,2466095,97948913,69,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,2.5,1.2,NA,NA,Pointsbet,2466095,97948913,70,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,3.5,1.5,NA,NA,Pointsbet,2466095,97948913,71,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,4.5,2,1.77,1.065,Pointsbet,2466095,97948914,11,12
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,4.5,2,NA,NA,Pointsbet,2466095,97948913,72,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,5.5,3,NA,NA,Pointsbet,2466095,97948913,73,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,6.5,4.75,NA,NA,Pointsbet,2466095,97948913,74,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,7.5,7.5,NA,NA,Pointsbet,2466095,97948913,75,NA
-Kansas City Chiefs v Washington Commanders,Deebo Samuel Sr.,Washington Commanders,Receptions,8.5,13,NA,NA,Pointsbet,2466095,97948913,76,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,3.5,1.16,NA,NA,Pointsbet,2466095,97948913,3,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,4.5,1.36,NA,NA,Pointsbet,2466095,97948913,4,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,5.5,1.71,NA,NA,Pointsbet,2466095,97948913,5,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,6.5,2.25,1.63,1.058,Pointsbet,2466095,97948914,1,2
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,6.5,2.25,NA,NA,Pointsbet,2466095,97948913,6,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,7.5,3.1,NA,NA,Pointsbet,2466095,97948913,7,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,8.5,4.5,NA,NA,Pointsbet,2466095,97948913,8,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,9.5,6.5,NA,NA,Pointsbet,2466095,97948913,9,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,10.5,10,NA,NA,Pointsbet,2466095,97948913,10,NA
-Kansas City Chiefs v Washington Commanders,Rashee Rice,Kansas City Chiefs,Receptions,11.5,16,NA,NA,Pointsbet,2466095,97948913,11,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,1.5,1.09,NA,NA,Pointsbet,2466095,97948913,35,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,2.5,1.29,NA,NA,Pointsbet,2466095,97948913,36,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,3.5,1.74,NA,NA,Pointsbet,2466095,97948913,37,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,4.5,2.5,1.5,1.067,Pointsbet,2466095,97948914,5,6
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,4.5,2.5,NA,NA,Pointsbet,2466095,97948913,38,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,5.5,4,NA,NA,Pointsbet,2466095,97948913,39,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,6.5,6,NA,NA,Pointsbet,2466095,97948913,40,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,7.5,11,NA,NA,Pointsbet,2466095,97948913,41,NA
-Kansas City Chiefs v Washington Commanders,Terry McLaurin,Washington Commanders,Receptions,8.5,18,NA,NA,Pointsbet,2466095,97948913,42,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,1.5,1.2,NA,NA,Pointsbet,2466095,97948913,18,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,2.5,1.4,NA,NA,Pointsbet,2466095,97948913,19,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,3.5,1.77,NA,NA,Pointsbet,2466095,97948913,20,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,4.5,2.45,1.53,1.062,Pointsbet,2466095,97948914,3,4
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,4.5,2.45,NA,NA,Pointsbet,2466095,97948913,21,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,5.5,3.5,NA,NA,Pointsbet,2466095,97948913,22,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,6.5,5.25,NA,NA,Pointsbet,2466095,97948913,23,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,7.5,7.5,NA,NA,Pointsbet,2466095,97948913,24,NA
-Kansas City Chiefs v Washington Commanders,Travis Kelce,Kansas City Chiefs,Receptions,8.5,13,NA,NA,Pointsbet,2466095,97948913,25,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,1.5,1.09,NA,NA,Pointsbet,2466095,97948913,86,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,2.5,1.25,NA,NA,Pointsbet,2466095,97948913,87,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,3.5,1.63,NA,NA,Pointsbet,2466095,97948913,88,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,4.5,2.3,1.59,1.064,Pointsbet,2466095,97948914,15,16
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,4.5,2.3,NA,NA,Pointsbet,2466095,97948913,89,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,5.5,3.6,NA,NA,Pointsbet,2466095,97948913,90,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,6.5,5.75,NA,NA,Pointsbet,2466095,97948913,91,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,7.5,9,NA,NA,Pointsbet,2466095,97948913,92,NA
-Kansas City Chiefs v Washington Commanders,Xavier Worthy,Kansas City Chiefs,Receptions,8.5,15,NA,NA,Pointsbet,2466095,97948913,93,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,1.5,1.2,NA,NA,Pointsbet,2466095,97948913,52,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,2.5,1.44,NA,NA,Pointsbet,2466095,97948913,53,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,3.5,1.87,1.87,1.07,Pointsbet,2466095,97948914,13,14
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,3.5,1.87,NA,NA,Pointsbet,2466095,97948913,54,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,4.5,2.6,NA,NA,Pointsbet,2466095,97948913,55,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,5.5,3.8,NA,NA,Pointsbet,2466095,97948913,56,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,6.5,5.75,NA,NA,Pointsbet,2466095,97948913,57,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,7.5,9.5,NA,NA,Pointsbet,2466095,97948913,58,NA
-Kansas City Chiefs v Washington Commanders,Zach Ertz,Washington Commanders,Receptions,8.5,14,NA,NA,Pointsbet,2466095,97948913,59,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,1.5,1.13,NA,NA,Pointsbet,2473659,98372278,18,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,2.5,1.36,NA,NA,Pointsbet,2473659,98372278,19,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,3.5,1.83,1.9,1.073,Pointsbet,2473659,98372286,15,16
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,3.5,1.83,NA,NA,Pointsbet,2473659,98372278,20,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,4.5,2.65,NA,NA,Pointsbet,2473659,98372278,21,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,5.5,4.3,NA,NA,Pointsbet,2473659,98372278,22,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,6.5,7,NA,NA,Pointsbet,2473659,98372278,23,NA
+Buffalo Bills v Kansas City Chiefs,Keon Coleman,Buffalo Bills,Receptions,7.5,12,NA,NA,Pointsbet,2473659,98372278,24,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,1.5,1.08,NA,NA,Pointsbet,2473659,98372278,1,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,2.5,1.16,NA,NA,Pointsbet,2473659,98372278,2,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,3.5,1.36,NA,NA,Pointsbet,2473659,98372278,3,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,4.5,1.69,NA,NA,Pointsbet,2473659,98372278,4,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,5.5,2.2,1.67,1.053,Pointsbet,2473659,98372286,3,4
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,5.5,2.2,NA,NA,Pointsbet,2473659,98372278,5,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,6.5,3,NA,NA,Pointsbet,2473659,98372278,6,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,7.5,4.3,NA,NA,Pointsbet,2473659,98372278,7,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,8.5,6.5,NA,NA,Pointsbet,2473659,98372278,8,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,9.5,10,NA,NA,Pointsbet,2473659,98372278,9,NA
+Buffalo Bills v Kansas City Chiefs,Khalil Shakir,Buffalo Bills,Receptions,10.5,16,NA,NA,Pointsbet,2473659,98372278,10,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,4.5,1.17,NA,NA,Pointsbet,2473659,98372278,55,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,5.5,1.36,NA,NA,Pointsbet,2473659,98372278,56,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,6.5,1.63,NA,NA,Pointsbet,2473659,98372278,57,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,7.5,2.05,1.74,1.063,Pointsbet,2473659,98372286,13,14
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,7.5,2.05,NA,NA,Pointsbet,2473659,98372278,58,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,8.5,2.65,NA,NA,Pointsbet,2473659,98372278,59,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,9.5,3.6,NA,NA,Pointsbet,2473659,98372278,60,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,10.5,5.25,NA,NA,Pointsbet,2473659,98372278,61,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,11.5,7,NA,NA,Pointsbet,2473659,98372278,62,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,12.5,11,NA,NA,Pointsbet,2473659,98372278,63,NA
+Buffalo Bills v Kansas City Chiefs,Rashee Rice,Kansas City Chiefs,Receptions,13.5,15,NA,NA,Pointsbet,2473659,98372278,64,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,1.5,1.13,NA,NA,Pointsbet,2473659,98372278,35,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,2.5,1.29,NA,NA,Pointsbet,2473659,98372278,36,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,3.5,1.59,NA,NA,Pointsbet,2473659,98372278,37,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,4.5,2.05,1.74,1.063,Pointsbet,2473659,98372286,11,12
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,4.5,2.05,NA,NA,Pointsbet,2473659,98372278,38,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,5.5,2.9,NA,NA,Pointsbet,2473659,98372278,39,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,6.5,4.1,NA,NA,Pointsbet,2473659,98372278,40,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,7.5,6,NA,NA,Pointsbet,2473659,98372278,41,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,8.5,9.5,NA,NA,Pointsbet,2473659,98372278,42,NA
+Buffalo Bills v Kansas City Chiefs,Travis Kelce,Kansas City Chiefs,Receptions,9.5,15,NA,NA,Pointsbet,2473659,98372278,43,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,1.5,1.09,NA,NA,Pointsbet,2473659,98372278,69,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,2.5,1.22,NA,NA,Pointsbet,2473659,98372278,70,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,3.5,1.57,NA,NA,Pointsbet,2473659,98372278,71,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,4.5,2.25,1.63,1.058,Pointsbet,2473659,98372286,9,10
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,4.5,2.25,NA,NA,Pointsbet,2473659,98372278,72,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,5.5,3.4,NA,NA,Pointsbet,2473659,98372278,73,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,6.5,5.5,NA,NA,Pointsbet,2473659,98372278,74,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,7.5,9,NA,NA,Pointsbet,2473659,98372278,75,NA
+Buffalo Bills v Kansas City Chiefs,Xavier Worthy,Kansas City Chiefs,Receptions,8.5,16,NA,NA,Pointsbet,2473659,98372278,76,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,2.5,1.2,NA,NA,Pointsbet,2473426,98550481,70,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,3.5,1.53,NA,NA,Pointsbet,2473426,98550481,71,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,4.5,2.1,1.71,1.061,Pointsbet,2473426,98550489,9,10
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,4.5,2.1,NA,NA,Pointsbet,2473426,98550481,72,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,5.5,3.3,NA,NA,Pointsbet,2473426,98550481,73,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,6.5,5.25,NA,NA,Pointsbet,2473426,98550481,74,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,7.5,9,NA,NA,Pointsbet,2473426,98550481,75,NA
+Cincinnati Bengals v Chicago Bears,D.J. Moore,NA,Receptions,8.5,15,NA,NA,Pointsbet,2473426,98550481,76,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,4.5,1.08,NA,NA,Pointsbet,2473426,98550481,38,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,5.5,1.16,NA,NA,Pointsbet,2473426,98550481,39,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,6.5,1.31,NA,NA,Pointsbet,2473426,98550481,40,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,7.5,1.53,NA,NA,Pointsbet,2473426,98550481,41,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,8.5,1.83,1.9,1.073,Pointsbet,2473426,98550489,13,14
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,8.5,1.83,NA,NA,Pointsbet,2473426,98550481,42,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,9.5,2.25,NA,NA,Pointsbet,2473426,98550481,43,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,10.5,2.9,NA,NA,Pointsbet,2473426,98550481,44,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,11.5,3.8,NA,NA,Pointsbet,2473426,98550481,45,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,12.5,5,NA,NA,Pointsbet,2473426,98550481,46,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,13.5,6.5,NA,NA,Pointsbet,2473426,98550481,47,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,14.5,9.5,NA,NA,Pointsbet,2473426,98550481,48,NA
+Cincinnati Bengals v Chicago Bears,Ja'marr Chase,NA,Receptions,15.5,13,NA,NA,Pointsbet,2473426,98550481,49,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,1.5,1.27,NA,NA,Pointsbet,2473426,98550481,86,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,2.5,1.44,NA,NA,Pointsbet,2473426,98550481,87,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,3.5,1.8,NA,NA,Pointsbet,2473426,98550481,88,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,4.5,2.4,1.56,1.058,Pointsbet,2473426,98550489,15,16
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,4.5,2.4,NA,NA,Pointsbet,2473426,98550481,89,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,5.5,3.3,NA,NA,Pointsbet,2473426,98550481,90,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,6.5,4.75,NA,NA,Pointsbet,2473426,98550481,91,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,7.5,7,NA,NA,Pointsbet,2473426,98550481,92,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,8.5,11,NA,NA,Pointsbet,2473426,98550481,93,NA
+Cincinnati Bengals v Chicago Bears,Olamide Zaccheaus,Chicago Bears,Receptions,9.5,18,NA,NA,Pointsbet,2473426,98550481,94,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,2.5,1.13,NA,NA,Pointsbet,2473426,98550481,53,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,3.5,1.4,NA,NA,Pointsbet,2473426,98550481,54,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,4.5,1.95,1.8,1.068,Pointsbet,2473426,98550489,7,8
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,4.5,1.95,NA,NA,Pointsbet,2473426,98550481,55,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,5.5,3,NA,NA,Pointsbet,2473426,98550481,56,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,6.5,4.75,NA,NA,Pointsbet,2473426,98550481,57,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,7.5,8,NA,NA,Pointsbet,2473426,98550481,58,NA
+Cincinnati Bengals v Chicago Bears,Rome Odunze,Chicago Bears,Receptions,8.5,13,NA,NA,Pointsbet,2473426,98550481,59,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,2.5,1.2,NA,NA,Pointsbet,2473426,98550481,19,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,3.5,1.53,NA,NA,Pointsbet,2473426,98550481,20,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,4.5,2.1,1.71,1.061,Pointsbet,2473426,98550489,5,6
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,4.5,2.1,NA,NA,Pointsbet,2473426,98550481,21,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,5.5,3.2,NA,NA,Pointsbet,2473426,98550481,22,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,6.5,5,NA,NA,Pointsbet,2473426,98550481,23,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,7.5,8,NA,NA,Pointsbet,2473426,98550481,24,NA
+Cincinnati Bengals v Chicago Bears,Tee Higgins,Cincinnati Bengals,Receptions,8.5,13,NA,NA,Pointsbet,2473426,98550481,25,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,3.5,1.09,NA,NA,Pointsbet,2475264,98619887,3,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,4.5,1.22,NA,NA,Pointsbet,2475264,98619887,4,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,5.5,1.48,NA,NA,Pointsbet,2475264,98619887,5,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,6.5,1.9,1.83,1.073,Pointsbet,2475264,98619893,5,6
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,6.5,1.9,NA,NA,Pointsbet,2475264,98619887,6,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,7.5,2.6,NA,NA,Pointsbet,2475264,98619887,7,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,8.5,3.6,NA,NA,Pointsbet,2475264,98619887,8,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,9.5,5.25,NA,NA,Pointsbet,2475264,98619887,9,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,10.5,7,NA,NA,Pointsbet,2475264,98619887,10,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,11.5,11,NA,NA,Pointsbet,2475264,98619887,11,NA
+Dallas Cowboys v Arizona Cardinals,CeeDee Lamb,Dallas Cowboys,Receptions,12.5,16,NA,NA,Pointsbet,2475264,98619887,12,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,2.5,1.14,NA,NA,Pointsbet,2475264,98619887,19,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,3.5,1.36,NA,NA,Pointsbet,2475264,98619887,20,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,4.5,1.8,1.95,1.068,Pointsbet,2475264,98619893,13,14
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,4.5,1.8,NA,NA,Pointsbet,2475264,98619887,21,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,5.5,2.5,NA,NA,Pointsbet,2475264,98619887,22,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,6.5,3.8,NA,NA,Pointsbet,2475264,98619887,23,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,7.5,5.75,NA,NA,Pointsbet,2475264,98619887,24,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,8.5,9,NA,NA,Pointsbet,2475264,98619887,25,NA
+Dallas Cowboys v Arizona Cardinals,George Pickens,Dallas Cowboys,Receptions,9.5,14,NA,NA,Pointsbet,2475264,98619887,26,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,1.5,1.1,NA,NA,Pointsbet,2475264,98619887,35,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,2.5,1.18,NA,NA,Pointsbet,2475264,98619887,36,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,3.5,1.36,NA,NA,Pointsbet,2475264,98619887,37,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,4.5,1.59,NA,NA,Pointsbet,2475264,98619887,38,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,5.5,2,1.77,1.065,Pointsbet,2475264,98619893,1,2
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,5.5,2,NA,NA,Pointsbet,2475264,98619887,39,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,6.5,2.65,NA,NA,Pointsbet,2475264,98619887,40,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,7.5,3.6,NA,NA,Pointsbet,2475264,98619887,41,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,8.5,5.5,NA,NA,Pointsbet,2475264,98619887,42,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,9.5,7.5,NA,NA,Pointsbet,2475264,98619887,43,NA
+Dallas Cowboys v Arizona Cardinals,Jake Ferguson,Dallas Cowboys,Receptions,10.5,12,NA,NA,Pointsbet,2475264,98619887,44,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,2.5,1.22,NA,NA,Pointsbet,2475264,98619887,70,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,3.5,1.63,NA,NA,Pointsbet,2475264,98619887,71,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,4.5,2.4,1.56,1.058,Pointsbet,2475264,98619893,9,10
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,4.5,2.4,NA,NA,Pointsbet,2475264,98619887,72,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,5.5,3.8,NA,NA,Pointsbet,2475264,98619887,73,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,6.5,6,NA,NA,Pointsbet,2475264,98619887,74,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,7.5,10,NA,NA,Pointsbet,2475264,98619887,75,NA
+Dallas Cowboys v Arizona Cardinals,Marvin Harrison Jr.,Arizona Cardinals,Receptions,8.5,16,NA,NA,Pointsbet,2475264,98619887,76,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,3.5,1.08,NA,NA,Pointsbet,2475264,98619887,54,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,4.5,1.18,NA,NA,Pointsbet,2475264,98619887,55,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,5.5,1.36,NA,NA,Pointsbet,2475264,98619887,56,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,6.5,1.69,NA,NA,Pointsbet,2475264,98619887,57,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,7.5,2.25,1.63,1.058,Pointsbet,2475264,98619893,3,4
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,7.5,2.25,NA,NA,Pointsbet,2475264,98619887,58,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,8.5,3,NA,NA,Pointsbet,2475264,98619887,59,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,9.5,4.1,NA,NA,Pointsbet,2475264,98619887,60,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,10.5,6,NA,NA,Pointsbet,2475264,98619887,61,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,11.5,9,NA,NA,Pointsbet,2475264,98619887,62,NA
+Dallas Cowboys v Arizona Cardinals,Trey McBride,Arizona Cardinals,Receptions,12.5,14,NA,NA,Pointsbet,2475264,98619887,63,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,4.5,1.16,NA,NA,Pointsbet,2473423,98382068,21,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,5.5,1.36,NA,NA,Pointsbet,2473423,98382068,22,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,6.5,1.67,NA,NA,Pointsbet,2473423,98382068,23,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,7.5,2.1,1.71,1.061,Pointsbet,2473423,98382075,5,6
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,7.5,2.1,NA,NA,Pointsbet,2473423,98382068,24,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,8.5,2.9,NA,NA,Pointsbet,2473423,98382068,25,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,9.5,4.1,NA,NA,Pointsbet,2473423,98382068,26,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,10.5,5.75,NA,NA,Pointsbet,2473423,98382068,27,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,11.5,9,NA,NA,Pointsbet,2473423,98382068,28,NA
+Detroit Lions v Minnesota Vikings,Amon-Ra St. Brown,Detroit Lions,Receptions,12.5,13,NA,NA,Pointsbet,2473423,98382068,29,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,1.5,1.1,NA,NA,Pointsbet,2473423,98382068,1,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,2.5,1.29,NA,NA,Pointsbet,2473423,98382068,2,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,3.5,1.74,NA,NA,Pointsbet,2473423,98382068,3,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,4.5,2.5,1.5,1.067,Pointsbet,2473423,98382075,1,2
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,4.5,2.5,NA,NA,Pointsbet,2473423,98382068,4,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,5.5,4,NA,NA,Pointsbet,2473423,98382068,5,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,6.5,6.5,NA,NA,Pointsbet,2473423,98382068,6,NA
+Detroit Lions v Minnesota Vikings,Jordan Addison,Minnesota Vikings,Receptions,7.5,11,NA,NA,Pointsbet,2473423,98382068,7,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,3.5,1.2,NA,NA,Pointsbet,2473423,98382068,54,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,4.5,1.44,NA,NA,Pointsbet,2473423,98382068,55,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,5.5,1.87,1.87,1.07,Pointsbet,2473423,98382075,7,8
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,5.5,1.87,NA,NA,Pointsbet,2473423,98382068,56,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,6.5,2.6,NA,NA,Pointsbet,2473423,98382068,57,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,7.5,3.8,NA,NA,Pointsbet,2473423,98382068,58,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,8.5,5.5,NA,NA,Pointsbet,2473423,98382068,59,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,9.5,8,NA,NA,Pointsbet,2473423,98382068,60,NA
+Detroit Lions v Minnesota Vikings,Justin Jefferson,Minnesota Vikings,Receptions,10.5,13,NA,NA,Pointsbet,2473423,98382068,61,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,1.5,1.11,NA,NA,Pointsbet,2473423,98382068,69,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,2.5,1.27,NA,NA,Pointsbet,2473423,98382068,70,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,3.5,1.56,NA,NA,Pointsbet,2473423,98382068,71,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,4.5,2,1.77,1.065,Pointsbet,2473423,98382075,11,12
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,4.5,2,NA,NA,Pointsbet,2473423,98382068,72,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,5.5,2.75,NA,NA,Pointsbet,2473423,98382068,73,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,6.5,4.1,NA,NA,Pointsbet,2473423,98382068,74,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,7.5,6,NA,NA,Pointsbet,2473423,98382068,75,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,8.5,9,NA,NA,Pointsbet,2473423,98382068,76,NA
+Detroit Lions v Minnesota Vikings,Sam LaPorta,Detroit Lions,Receptions,9.5,14,NA,NA,Pointsbet,2473423,98382068,77,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,1.5,1.25,NA,NA,Pointsbet,2473423,98382068,35,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,2.5,1.48,NA,NA,Pointsbet,2473423,98382068,36,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,3.5,1.83,NA,NA,Pointsbet,2473423,98382068,37,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,4.5,2.4,1.56,1.058,Pointsbet,2473423,98382075,3,4
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,4.5,2.4,NA,NA,Pointsbet,2473423,98382068,38,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,5.5,3.3,NA,NA,Pointsbet,2473423,98382068,39,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,6.5,4.5,NA,NA,Pointsbet,2473423,98382068,40,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,7.5,6,NA,NA,Pointsbet,2473423,98382068,41,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,8.5,9.5,NA,NA,Pointsbet,2473423,98382068,42,NA
+Detroit Lions v Minnesota Vikings,T.J. Hockenson,Minnesota Vikings,Receptions,9.5,14,NA,NA,Pointsbet,2473423,98382068,43,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,1.5,1.1,NA,NA,Pointsbet,2473420,98445145,1,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,2.5,1.29,NA,NA,Pointsbet,2473420,98445145,2,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,3.5,1.69,NA,NA,Pointsbet,2473420,98445145,3,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,4.5,2.45,1.53,1.062,Pointsbet,2473420,98445153,1,2
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,4.5,2.45,NA,NA,Pointsbet,2473420,98445145,4,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,5.5,3.8,NA,NA,Pointsbet,2473420,98445145,5,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,6.5,6.5,NA,NA,Pointsbet,2473420,98445145,6,NA
+Green Bay Packers v Carolina Panthers,Romeo Doubs,Green Bay Packers,Receptions,7.5,11.5,NA,NA,Pointsbet,2473420,98445145,7,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,2.5,1.14,NA,NA,Pointsbet,2473420,98445145,19,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,3.5,1.44,NA,NA,Pointsbet,2473420,98445145,20,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,4.5,1.9,1.83,1.073,Pointsbet,2473420,98445153,7,8
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,4.5,1.9,NA,NA,Pointsbet,2473420,98445145,21,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,5.5,2.85,NA,NA,Pointsbet,2473420,98445145,22,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,6.5,4.1,NA,NA,Pointsbet,2473420,98445145,23,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,7.5,6.5,NA,NA,Pointsbet,2473420,98445145,24,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,8.5,10,NA,NA,Pointsbet,2473420,98445145,25,NA
+Green Bay Packers v Carolina Panthers,Tetairoa Mcmillan,NA,Receptions,9.5,18,NA,NA,Pointsbet,2473420,98445145,26,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,2.5,1.18,NA,NA,Pointsbet,2473420,98445145,36,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,3.5,1.5,NA,NA,Pointsbet,2473420,98445145,37,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,4.5,2.05,1.74,1.063,Pointsbet,2473420,98445153,9,10
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,4.5,2.05,NA,NA,Pointsbet,2473420,98445145,38,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,5.5,3,NA,NA,Pointsbet,2473420,98445145,39,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,6.5,4.75,NA,NA,Pointsbet,2473420,98445145,40,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,7.5,8,NA,NA,Pointsbet,2473420,98445145,41,NA
+Green Bay Packers v Carolina Panthers,Tucker Kraft,Green Bay Packers,Receptions,8.5,14,NA,NA,Pointsbet,2473420,98445145,42,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,2.5,1.13,NA,NA,Pointsbet,2473422,98461280,19,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,3.5,1.4,NA,NA,Pointsbet,2473422,98461280,20,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,4.5,1.87,1.87,1.07,Pointsbet,2473422,98461287,11,12
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,4.5,1.87,NA,NA,Pointsbet,2473422,98461280,21,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,5.5,2.65,NA,NA,Pointsbet,2473422,98461280,22,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,6.5,4,NA,NA,Pointsbet,2473422,98461280,23,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,7.5,5.5,NA,NA,Pointsbet,2473422,98461280,24,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,8.5,9,NA,NA,Pointsbet,2473422,98461280,25,NA
+Houston Texans v Denver Broncos,Courtland Sutton,Denver Broncos,Receptions,9.5,14,NA,NA,Pointsbet,2473422,98461280,26,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,1.5,1.25,NA,NA,Pointsbet,2473422,98461280,69,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,2.5,1.57,NA,NA,Pointsbet,2473422,98461280,70,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,3.5,2.15,NA,NA,Pointsbet,2473422,98461280,71,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,4.5,3.2,1.33,1.064,Pointsbet,2473422,98461287,9,10
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,4.5,3.2,NA,NA,Pointsbet,2473422,98461280,72,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,5.5,5,NA,NA,Pointsbet,2473422,98461280,73,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,6.5,9,NA,NA,Pointsbet,2473422,98461280,74,NA
+Houston Texans v Denver Broncos,Dalton Schultz,Houston Texans,Receptions,7.5,15,NA,NA,Pointsbet,2473422,98461280,75,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,1.5,1.24,NA,NA,Pointsbet,2473422,98461280,52,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,2.5,1.42,NA,NA,Pointsbet,2473422,98461280,53,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,3.5,1.74,NA,NA,Pointsbet,2473422,98461280,54,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,4.5,2.15,1.69,1.057,Pointsbet,2473422,98461287,7,8
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,4.5,2.15,NA,NA,Pointsbet,2473422,98461280,55,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,5.5,2.85,NA,NA,Pointsbet,2473422,98461280,56,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,6.5,3.6,NA,NA,Pointsbet,2473422,98461280,57,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,7.5,5,NA,NA,Pointsbet,2473422,98461280,58,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,8.5,6.5,NA,NA,Pointsbet,2473422,98461280,59,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,9.5,9.5,NA,NA,Pointsbet,2473422,98461280,60,NA
+Houston Texans v Denver Broncos,Evan Engram,Denver Broncos,Receptions,10.5,14,NA,NA,Pointsbet,2473422,98461280,61,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,2.5,1.11,NA,NA,Pointsbet,2473422,98461280,2,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,3.5,1.31,NA,NA,Pointsbet,2473422,98461280,3,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,4.5,1.69,NA,NA,Pointsbet,2473422,98461280,4,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,5.5,2.3,1.59,1.064,Pointsbet,2473422,98461287,1,2
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,5.5,2.3,NA,NA,Pointsbet,2473422,98461280,5,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,6.5,3.4,NA,NA,Pointsbet,2473422,98461280,6,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,7.5,5,NA,NA,Pointsbet,2473422,98461280,7,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,8.5,7.5,NA,NA,Pointsbet,2473422,98461280,8,NA
+Houston Texans v Denver Broncos,Nico Collins,Houston Texans,Receptions,9.5,13,NA,NA,Pointsbet,2473422,98461280,9,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,1.5,1.09,NA,NA,Pointsbet,2473422,98461280,35,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,2.5,1.27,NA,NA,Pointsbet,2473422,98461280,36,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,3.5,1.69,NA,NA,Pointsbet,2473422,98461280,37,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,4.5,2.4,1.56,1.058,Pointsbet,2473422,98461287,5,6
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,4.5,2.4,NA,NA,Pointsbet,2473422,98461280,38,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,5.5,3.6,NA,NA,Pointsbet,2473422,98461280,39,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,6.5,5.75,NA,NA,Pointsbet,2473422,98461280,40,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,7.5,9,NA,NA,Pointsbet,2473422,98461280,41,NA
+Houston Texans v Denver Broncos,Troy Franklin,Denver Broncos,Receptions,8.5,15,NA,NA,Pointsbet,2473422,98461280,42,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,3.5,1.2,NA,NA,Pointsbet,2473654,98508250,20,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,4.5,1.48,NA,NA,Pointsbet,2473654,98508250,21,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,5.5,1.95,1.8,1.068,Pointsbet,2473654,98508252,15,16
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,5.5,1.95,NA,NA,Pointsbet,2473654,98508250,22,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,6.5,2.9,NA,NA,Pointsbet,2473654,98508250,23,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,7.5,4.3,NA,NA,Pointsbet,2473654,98508250,24,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,8.5,6.5,NA,NA,Pointsbet,2473654,98508250,25,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,9.5,10,NA,NA,Pointsbet,2473654,98508250,26,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brian Thomas Jr.,Jacksonville Jaguars,Receptions,10.5,16,NA,NA,Pointsbet,2473654,98508250,27,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,2.5,1.13,NA,NA,Pointsbet,2473654,98508250,2,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,3.5,1.31,NA,NA,Pointsbet,2473654,98508250,3,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,4.5,1.63,NA,NA,Pointsbet,2473654,98508250,4,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,5.5,2.05,1.74,1.063,Pointsbet,2473654,98508252,1,2
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,5.5,2.05,NA,NA,Pointsbet,2473654,98508250,5,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,6.5,2.9,NA,NA,Pointsbet,2473654,98508250,6,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,7.5,4.1,NA,NA,Pointsbet,2473654,98508250,7,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,8.5,6,NA,NA,Pointsbet,2473654,98508250,8,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,9.5,9.5,NA,NA,Pointsbet,2473654,98508250,9,NA
+Las Vegas Raiders v Jacksonville Jaguars,Brock Bowers,Las Vegas Raiders,Receptions,10.5,14,NA,NA,Pointsbet,2473654,98508250,10,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,1.5,1.13,NA,NA,Pointsbet,2473654,98508250,69,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,2.5,1.36,NA,NA,Pointsbet,2473654,98508250,70,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,3.5,1.9,1.83,1.073,Pointsbet,2473654,98508252,23,24
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,3.5,1.9,NA,NA,Pointsbet,2473654,98508250,71,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,4.5,2.9,NA,NA,Pointsbet,2473654,98508250,72,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,5.5,4.75,NA,NA,Pointsbet,2473654,98508250,73,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,6.5,8,NA,NA,Pointsbet,2473654,98508250,74,NA
+Las Vegas Raiders v Jacksonville Jaguars,Dyami Brown,Jacksonville Jaguars,Receptions,7.5,14,NA,NA,Pointsbet,2473654,98508250,75,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,1.5,1.08,NA,NA,Pointsbet,2473654,98508250,52,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,2.5,1.2,NA,NA,Pointsbet,2473654,98508250,53,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,3.5,1.48,NA,NA,Pointsbet,2473654,98508250,54,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,4.5,1.95,1.8,1.068,Pointsbet,2473654,98508252,7,8
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,4.5,1.95,NA,NA,Pointsbet,2473654,98508250,55,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,5.5,2.75,NA,NA,Pointsbet,2473654,98508250,56,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,6.5,4.1,NA,NA,Pointsbet,2473654,98508250,57,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,7.5,6,NA,NA,Pointsbet,2473654,98508250,58,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,8.5,9.5,NA,NA,Pointsbet,2473654,98508250,59,NA
+Las Vegas Raiders v Jacksonville Jaguars,Jakobi Meyers,Las Vegas Raiders,Receptions,9.5,14,NA,NA,Pointsbet,2473654,98508250,60,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,1.5,1.11,NA,NA,Pointsbet,2473654,98508250,86,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,2.5,1.31,NA,NA,Pointsbet,2473654,98508250,87,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,3.5,1.8,NA,NA,Pointsbet,2473654,98508250,88,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,4.5,2.65,1.44,1.072,Pointsbet,2473654,98508252,19,20
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,4.5,2.65,NA,NA,Pointsbet,2473654,98508250,89,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,5.5,4.75,NA,NA,Pointsbet,2473654,98508250,90,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,6.5,8,NA,NA,Pointsbet,2473654,98508250,91,NA
+Las Vegas Raiders v Jacksonville Jaguars,Parker Washington,Jacksonville Jaguars,Receptions,7.5,14,NA,NA,Pointsbet,2473654,98508250,92,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,3.5,1.18,NA,NA,Pointsbet,2473652,98522449,37,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,4.5,1.4,NA,NA,Pointsbet,2473652,98522449,38,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,5.5,1.74,NA,NA,Pointsbet,2473652,98522449,39,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,6.5,2.2,1.67,1.053,Pointsbet,2473652,98522452,7,8
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,6.5,2.2,NA,NA,Pointsbet,2473652,98522449,40,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,7.5,2.9,NA,NA,Pointsbet,2473652,98522449,41,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,8.5,4,NA,NA,Pointsbet,2473652,98522449,42,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,9.5,5.5,NA,NA,Pointsbet,2473652,98522449,43,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,10.5,7.5,NA,NA,Pointsbet,2473652,98522449,44,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,11.5,11.5,NA,NA,Pointsbet,2473652,98522449,45,NA
+Los Angeles Rams v New Orleans Saints,Chris Olave,New Orleans Saints,Receptions,12.5,16,NA,NA,Pointsbet,2473652,98522449,46,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,2.5,1.13,NA,NA,Pointsbet,2473652,98522449,2,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,3.5,1.4,NA,NA,Pointsbet,2473652,98522449,3,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,4.5,1.87,1.87,1.07,Pointsbet,2473652,98522452,13,14
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,4.5,1.87,NA,NA,Pointsbet,2473652,98522449,4,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,5.5,2.75,NA,NA,Pointsbet,2473652,98522449,5,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,6.5,4.3,NA,NA,Pointsbet,2473652,98522449,6,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,7.5,7,NA,NA,Pointsbet,2473652,98522449,7,NA
+Los Angeles Rams v New Orleans Saints,Davante Adams,Los Angeles Rams,Receptions,8.5,12,NA,NA,Pointsbet,2473652,98522449,8,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,1.5,1.1,NA,NA,Pointsbet,2473652,98522449,69,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,2.5,1.27,NA,NA,Pointsbet,2473652,98522449,70,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,3.5,1.59,NA,NA,Pointsbet,2473652,98522449,71,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,4.5,2.1,1.71,1.061,Pointsbet,2473652,98522452,11,12
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,4.5,2.1,NA,NA,Pointsbet,2473652,98522449,72,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,5.5,3.1,NA,NA,Pointsbet,2473652,98522449,73,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,6.5,4.5,NA,NA,Pointsbet,2473652,98522449,74,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,7.5,6.5,NA,NA,Pointsbet,2473652,98522449,75,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,8.5,11,NA,NA,Pointsbet,2473652,98522449,76,NA
+Los Angeles Rams v New Orleans Saints,Juwan Johnson,New Orleans Saints,Receptions,9.5,16,NA,NA,Pointsbet,2473652,98522449,77,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,4.5,1.09,NA,NA,Pointsbet,2473652,98522449,21,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,5.5,1.22,NA,NA,Pointsbet,2473652,98522449,22,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,6.5,1.4,NA,NA,Pointsbet,2473652,98522449,23,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,7.5,1.69,NA,NA,Pointsbet,2473652,98522449,24,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,8.5,2.05,1.74,1.063,Pointsbet,2473652,98522452,1,2
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,8.5,2.05,NA,NA,Pointsbet,2473652,98522449,25,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,9.5,2.65,NA,NA,Pointsbet,2473652,98522449,26,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,10.5,3.6,NA,NA,Pointsbet,2473652,98522449,27,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,11.5,5,NA,NA,Pointsbet,2473652,98522449,28,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,12.5,7,NA,NA,Pointsbet,2473652,98522449,29,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,13.5,10,NA,NA,Pointsbet,2473652,98522449,30,NA
+Los Angeles Rams v New Orleans Saints,Puka Nacua,Los Angeles Rams,Receptions,14.5,15,NA,NA,Pointsbet,2473652,98522449,31,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,2.5,1.24,NA,NA,Pointsbet,2473652,98522449,53,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,3.5,1.56,NA,NA,Pointsbet,2473652,98522449,54,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,4.5,2.1,1.71,1.061,Pointsbet,2473652,98522452,9,10
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,4.5,2.1,NA,NA,Pointsbet,2473652,98522449,55,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,5.5,3,NA,NA,Pointsbet,2473652,98522449,56,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,6.5,4.5,NA,NA,Pointsbet,2473652,98522449,57,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,7.5,6.5,NA,NA,Pointsbet,2473652,98522449,58,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,8.5,11,NA,NA,Pointsbet,2473652,98522449,59,NA
+Los Angeles Rams v New Orleans Saints,Rashid Shaheed,New Orleans Saints,Receptions,9.5,16,NA,NA,Pointsbet,2473652,98522449,60,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,2.5,1.18,NA,NA,Pointsbet,2473424,98504143,36,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,3.5,1.44,NA,NA,Pointsbet,2473424,98504143,37,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,4.5,1.87,1.87,1.07,Pointsbet,2473424,98504151,1,2
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,4.5,1.87,NA,NA,Pointsbet,2473424,98504143,38,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,5.5,2.65,NA,NA,Pointsbet,2473424,98504143,39,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,6.5,4,NA,NA,Pointsbet,2473424,98504143,40,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,7.5,5.75,NA,NA,Pointsbet,2473424,98504143,41,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,8.5,9,NA,NA,Pointsbet,2473424,98504143,42,NA
+New England Patriots v Atlanta Falcons,Bijan Robinson,Atlanta Falcons,Receptions,9.5,14,NA,NA,Pointsbet,2473424,98504143,43,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,2.5,1.1,NA,NA,Pointsbet,2473424,98504143,19,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,3.5,1.25,NA,NA,Pointsbet,2473424,98504143,20,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,4.5,1.56,NA,NA,Pointsbet,2473424,98504143,21,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,5.5,2,1.77,1.065,Pointsbet,2473424,98504151,5,6
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,5.5,2,NA,NA,Pointsbet,2473424,98504143,22,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,6.5,2.75,NA,NA,Pointsbet,2473424,98504143,23,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,7.5,4,NA,NA,Pointsbet,2473424,98504143,24,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,8.5,5.75,NA,NA,Pointsbet,2473424,98504143,25,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,9.5,9,NA,NA,Pointsbet,2473424,98504143,26,NA
+New England Patriots v Atlanta Falcons,Drake London,Atlanta Falcons,Receptions,10.5,14,NA,NA,Pointsbet,2473424,98504143,27,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,1.5,1.1,NA,NA,Pointsbet,2473424,98504143,52,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,2.5,1.27,NA,NA,Pointsbet,2473424,98504143,53,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,3.5,1.63,NA,NA,Pointsbet,2473424,98504143,54,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,4.5,2.25,1.63,1.058,Pointsbet,2473424,98504151,9,10
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,4.5,2.25,NA,NA,Pointsbet,2473424,98504143,55,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,5.5,3.3,NA,NA,Pointsbet,2473424,98504143,56,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,6.5,5.25,NA,NA,Pointsbet,2473424,98504143,57,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,7.5,9,NA,NA,Pointsbet,2473424,98504143,58,NA
+New England Patriots v Atlanta Falcons,Kyle Pitts,Atlanta Falcons,Receptions,8.5,14,NA,NA,Pointsbet,2473424,98504143,59,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,1.5,1.1,NA,NA,Pointsbet,2473424,98504143,1,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,2.5,1.24,NA,NA,Pointsbet,2473424,98504143,2,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,3.5,1.5,NA,NA,Pointsbet,2473424,98504143,3,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,4.5,1.9,1.83,1.073,Pointsbet,2473424,98504151,3,4
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,4.5,1.9,NA,NA,Pointsbet,2473424,98504143,4,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,5.5,2.65,NA,NA,Pointsbet,2473424,98504143,5,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,6.5,3.8,NA,NA,Pointsbet,2473424,98504143,6,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,7.5,5.75,NA,NA,Pointsbet,2473424,98504143,7,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,8.5,9,NA,NA,Pointsbet,2473424,98504143,8,NA
+New England Patriots v Atlanta Falcons,Stefon Diggs,New England Patriots,Receptions,9.5,14,NA,NA,Pointsbet,2473424,98504143,9,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,2.5,1.1,NA,NA,Pointsbet,2473428,98620505,36,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,3.5,1.24,NA,NA,Pointsbet,2473428,98620505,37,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,4.5,1.44,NA,NA,Pointsbet,2473428,98620505,38,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,5.5,1.83,NA,NA,Pointsbet,2473428,98620505,39,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,6.5,2.35,1.57,1.062,Pointsbet,2473428,98620513,5,6
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,6.5,2.35,NA,NA,Pointsbet,2473428,98620505,40,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,7.5,3.2,NA,NA,Pointsbet,2473428,98620505,41,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,8.5,4.5,NA,NA,Pointsbet,2473428,98620505,42,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,9.5,6,NA,NA,Pointsbet,2473428,98620505,43,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,10.5,9,NA,NA,Pointsbet,2473428,98620505,44,NA
+New York Giants v San Francisco 49ers,Christian McCaffrey,San Francisco 49ers,Receptions,11.5,13,NA,NA,Pointsbet,2473428,98620505,45,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,1.5,1.08,NA,NA,Pointsbet,2473428,98620505,52,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,2.5,1.22,NA,NA,Pointsbet,2473428,98620505,53,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,3.5,1.48,NA,NA,Pointsbet,2473428,98620505,54,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,4.5,1.95,1.8,1.068,Pointsbet,2473428,98620513,3,4
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,4.5,1.95,NA,NA,Pointsbet,2473428,98620505,55,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,5.5,2.75,NA,NA,Pointsbet,2473428,98620505,56,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,6.5,4.1,NA,NA,Pointsbet,2473428,98620505,57,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,7.5,6,NA,NA,Pointsbet,2473428,98620505,58,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,8.5,10,NA,NA,Pointsbet,2473428,98620505,59,NA
+New York Giants v San Francisco 49ers,George Kittle,San Francisco 49ers,Receptions,9.5,15,NA,NA,Pointsbet,2473428,98620505,60,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,1.5,1.08,NA,NA,Pointsbet,2473428,98620505,69,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,2.5,1.22,NA,NA,Pointsbet,2473428,98620505,70,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,3.5,1.56,NA,NA,Pointsbet,2473428,98620505,71,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,4.5,2.15,1.69,1.057,Pointsbet,2473428,98620513,9,10
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,4.5,2.15,NA,NA,Pointsbet,2473428,98620505,72,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,5.5,3.3,NA,NA,Pointsbet,2473428,98620505,73,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,6.5,5.25,NA,NA,Pointsbet,2473428,98620505,74,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,7.5,9,NA,NA,Pointsbet,2473428,98620505,75,NA
+New York Giants v San Francisco 49ers,Jauan Jennings,San Francisco 49ers,Receptions,8.5,15,NA,NA,Pointsbet,2473428,98620505,76,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,1.5,1.14,NA,NA,Pointsbet,2473428,98620505,18,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,2.5,1.36,NA,NA,Pointsbet,2473428,98620505,19,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,3.5,1.74,NA,NA,Pointsbet,2473428,98620505,20,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,4.5,2.4,1.56,1.058,Pointsbet,2473428,98620513,1,2
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,4.5,2.4,NA,NA,Pointsbet,2473428,98620505,21,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,5.5,3.5,NA,NA,Pointsbet,2473428,98620505,22,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,6.5,5.75,NA,NA,Pointsbet,2473428,98620505,23,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,7.5,9.5,NA,NA,Pointsbet,2473428,98620505,24,NA
+New York Giants v San Francisco 49ers,Theo Johnson,New York Giants,Receptions,8.5,15,NA,NA,Pointsbet,2473428,98620505,25,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,2.5,1.13,NA,NA,Pointsbet,2473428,98620505,2,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,3.5,1.29,NA,NA,Pointsbet,2473428,98620505,3,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,4.5,1.63,NA,NA,Pointsbet,2473428,98620505,4,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,5.5,2.15,1.69,1.057,Pointsbet,2473428,98620513,7,8
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,5.5,2.15,NA,NA,Pointsbet,2473428,98620505,5,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,6.5,3.1,NA,NA,Pointsbet,2473428,98620505,6,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,7.5,4.5,NA,NA,Pointsbet,2473428,98620505,7,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,8.5,7,NA,NA,Pointsbet,2473428,98620505,8,NA
+New York Giants v San Francisco 49ers,Wan'Dale Robinson,New York Giants,Receptions,9.5,11.5,NA,NA,Pointsbet,2473428,98620505,9,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,2.5,1.17,NA,NA,Pointsbet,2473425,98499347,2,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,3.5,1.56,NA,NA,Pointsbet,2473425,98499347,3,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,4.5,2.3,1.59,1.064,Pointsbet,2473425,98499351,3,4
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,4.5,2.3,NA,NA,Pointsbet,2473425,98499347,4,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,5.5,3.5,NA,NA,Pointsbet,2473425,98499347,5,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,6.5,5.75,NA,NA,Pointsbet,2473425,98499347,6,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,7.5,9.5,NA,NA,Pointsbet,2473425,98499347,7,NA
+Pittsburgh Steelers v Indianapolis Colts,DK Metcalf,Pittsburgh Steelers,Receptions,8.5,16,NA,NA,Pointsbet,2473425,98499347,8,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,1.5,1.22,NA,NA,Pointsbet,2473425,98499347,52,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,2.5,1.4,NA,NA,Pointsbet,2473425,98499347,53,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,3.5,1.74,NA,NA,Pointsbet,2473425,98499347,54,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,4.5,2.25,1.63,1.058,Pointsbet,2473425,98499351,7,8
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,4.5,2.25,NA,NA,Pointsbet,2473425,98499347,55,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,5.5,3.2,NA,NA,Pointsbet,2473425,98499347,56,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,6.5,4.5,NA,NA,Pointsbet,2473425,98499347,57,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,7.5,6.5,NA,NA,Pointsbet,2473425,98499347,58,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,8.5,9.5,NA,NA,Pointsbet,2473425,98499347,59,NA
+Pittsburgh Steelers v Indianapolis Colts,Josh Downs,Indianapolis Colts,Receptions,9.5,15,NA,NA,Pointsbet,2473425,98499347,60,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,2.5,1.09,NA,NA,Pointsbet,2473425,98499347,19,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,3.5,1.24,NA,NA,Pointsbet,2473425,98499347,20,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,4.5,1.5,NA,NA,Pointsbet,2473425,98499347,21,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,5.5,2,1.77,1.065,Pointsbet,2473425,98499351,5,6
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,5.5,2,NA,NA,Pointsbet,2473425,98499347,22,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,6.5,2.85,NA,NA,Pointsbet,2473425,98499347,23,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,7.5,4.3,NA,NA,Pointsbet,2473425,98499347,24,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,8.5,6,NA,NA,Pointsbet,2473425,98499347,25,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,9.5,9.5,NA,NA,Pointsbet,2473425,98499347,26,NA
+Pittsburgh Steelers v Indianapolis Colts,Michael Pittman,Indianapolis Colts,Receptions,10.5,15,NA,NA,Pointsbet,2473425,98499347,27,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,2.5,1.11,NA,NA,Pointsbet,2473425,98499347,36,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,3.5,1.29,NA,NA,Pointsbet,2473425,98499347,37,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,4.5,1.63,NA,NA,Pointsbet,2473425,98499347,38,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,5.5,2.15,1.69,1.057,Pointsbet,2473425,98499351,1,2
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,5.5,2.15,NA,NA,Pointsbet,2473425,98499347,39,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,6.5,3,NA,NA,Pointsbet,2473425,98499347,40,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,7.5,4.3,NA,NA,Pointsbet,2473425,98499347,41,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,8.5,6.5,NA,NA,Pointsbet,2473425,98499347,42,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,9.5,10,NA,NA,Pointsbet,2473425,98499347,43,NA
+Pittsburgh Steelers v Indianapolis Colts,Tyler Warren,Indianapolis Colts,Receptions,10.5,14,NA,NA,Pointsbet,2473425,98499347,44,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,1.5,1.13,NA,NA,Pointsbet,2473427,98560240,1,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,2.5,1.24,NA,NA,Pointsbet,2473427,98560240,2,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,3.5,1.48,NA,NA,Pointsbet,2473427,98560240,3,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,4.5,1.87,1.87,1.07,Pointsbet,2473427,98560248,7,8
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,4.5,1.87,NA,NA,Pointsbet,2473427,98560240,4,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,5.5,2.45,NA,NA,Pointsbet,2473427,98560240,5,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,6.5,3.4,NA,NA,Pointsbet,2473427,98560240,6,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,7.5,5,NA,NA,Pointsbet,2473427,98560240,7,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,8.5,7,NA,NA,Pointsbet,2473427,98560240,8,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,9.5,11,NA,NA,Pointsbet,2473427,98560240,9,NA
+Tennessee Titans v Los Angeles Chargers,Keenan Allen,Los Angeles Chargers,Receptions,10.5,18,NA,NA,Pointsbet,2473427,98560240,10,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,2.5,1.11,NA,NA,Pointsbet,2473427,98560240,19,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,3.5,1.27,NA,NA,Pointsbet,2473427,98560240,20,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,4.5,1.53,NA,NA,Pointsbet,2473427,98560240,21,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,5.5,1.95,1.8,1.068,Pointsbet,2473427,98560248,9,10
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,5.5,1.95,NA,NA,Pointsbet,2473427,98560240,22,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,6.5,2.75,NA,NA,Pointsbet,2473427,98560240,23,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,7.5,3.8,NA,NA,Pointsbet,2473427,98560240,24,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,8.5,5.5,NA,NA,Pointsbet,2473427,98560240,25,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,9.5,8,NA,NA,Pointsbet,2473427,98560240,26,NA
+Tennessee Titans v Los Angeles Chargers,Ladd McConkey,Los Angeles Chargers,Receptions,10.5,12,NA,NA,Pointsbet,2473427,98560240,27,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,1.5,1.1,NA,NA,Pointsbet,2473427,98560240,35,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,2.5,1.27,NA,NA,Pointsbet,2473427,98560240,36,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,3.5,1.56,NA,NA,Pointsbet,2473427,98560240,37,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,4.5,1.95,1.8,1.068,Pointsbet,2473427,98560248,1,2
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,4.5,1.95,NA,NA,Pointsbet,2473427,98560240,38,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,5.5,2.65,NA,NA,Pointsbet,2473427,98560240,39,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,6.5,3.8,NA,NA,Pointsbet,2473427,98560240,40,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,7.5,5.5,NA,NA,Pointsbet,2473427,98560240,41,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,8.5,7.5,NA,NA,Pointsbet,2473427,98560240,42,NA
+Tennessee Titans v Los Angeles Chargers,Oronde Gadsden Ii,NA,Receptions,9.5,13,NA,NA,Pointsbet,2473427,98560240,43,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,1.5,1.2,NA,NA,Pointsbet,2473799,98483075,35,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,2.5,1.44,NA,NA,Pointsbet,2473799,98483075,36,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,3.5,1.95,NA,NA,Pointsbet,2473799,98483075,37,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,4.5,3,1.36,1.069,Pointsbet,2473799,98483076,5,6
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,4.5,3,NA,NA,Pointsbet,2473799,98483075,38,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,5.5,4.75,NA,NA,Pointsbet,2473799,98483075,39,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,6.5,7.5,NA,NA,Pointsbet,2473799,98483075,40,NA
+Washington Commanders v Seattle Seahawks,Cooper Kupp,Seattle Seahawks,Receptions,7.5,13,NA,NA,Pointsbet,2473799,98483075,41,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,2.5,1.08,NA,NA,Pointsbet,2473799,98483075,19,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,3.5,1.22,NA,NA,Pointsbet,2473799,98483075,20,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,4.5,1.48,NA,NA,Pointsbet,2473799,98483075,21,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,5.5,1.9,1.83,1.073,Pointsbet,2473799,98483076,3,4
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,5.5,1.9,NA,NA,Pointsbet,2473799,98483075,22,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,6.5,2.65,NA,NA,Pointsbet,2473799,98483075,23,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,7.5,4,NA,NA,Pointsbet,2473799,98483075,24,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,8.5,6,NA,NA,Pointsbet,2473799,98483075,25,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,9.5,9.5,NA,NA,Pointsbet,2473799,98483075,26,NA
+Washington Commanders v Seattle Seahawks,Deebo Samuel Sr.,Washington Commanders,Receptions,10.5,15,NA,NA,Pointsbet,2473799,98483075,27,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,4.5,1.18,NA,NA,Pointsbet,2473799,98483075,55,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,5.5,1.36,NA,NA,Pointsbet,2473799,98483075,56,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,6.5,1.69,NA,NA,Pointsbet,2473799,98483075,57,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,7.5,2.15,1.69,1.057,Pointsbet,2473799,98483076,9,10
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,7.5,2.15,NA,NA,Pointsbet,2473799,98483075,58,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,8.5,2.85,NA,NA,Pointsbet,2473799,98483075,59,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,9.5,3.8,NA,NA,Pointsbet,2473799,98483075,60,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,10.5,5.5,NA,NA,Pointsbet,2473799,98483075,61,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,11.5,7.5,NA,NA,Pointsbet,2473799,98483075,62,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,12.5,11,NA,NA,Pointsbet,2473799,98483075,63,NA
+Washington Commanders v Seattle Seahawks,Jaxon Smith-Njigba,Seattle Seahawks,Receptions,13.5,15,NA,NA,Pointsbet,2473799,98483075,64,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,1.5,1.17,NA,NA,Pointsbet,2473799,98483075,1,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,2.5,1.36,NA,NA,Pointsbet,2473799,98483075,2,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,3.5,1.67,NA,NA,Pointsbet,2473799,98483075,3,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,4.5,2.1,1.71,1.061,Pointsbet,2473799,98483076,1,2
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,4.5,2.1,NA,NA,Pointsbet,2473799,98483075,4,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,5.5,2.9,NA,NA,Pointsbet,2473799,98483075,5,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,6.5,4.3,NA,NA,Pointsbet,2473799,98483075,6,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,7.5,6,NA,NA,Pointsbet,2473799,98483075,7,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,8.5,9.5,NA,NA,Pointsbet,2473799,98483075,8,NA
+Washington Commanders v Seattle Seahawks,Zach Ertz,Washington Commanders,Receptions,9.5,14,NA,NA,Pointsbet,2473799,98483075,9,NA
