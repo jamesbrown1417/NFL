@@ -1,0 +1,344 @@
+{
+    "entrants": {
+        "0714298c-51a0-4d16-bc50-f4670239d993": {
+            "id": "0714298c-51a0-4d16-bc50-f4670239d993",
+            "name": "Washington Commanders",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "030be862-ba05-419e-879b-22d1cc03ff31"
+        },
+        "0a78c907-78e9-4f84-8597-b35933ec407f": {
+            "id": "0a78c907-78e9-4f84-8597-b35933ec407f",
+            "name": "Draw",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+        },
+        "388dc87c-0e81-4950-9462-81e6da64021d": {
+            "id": "388dc87c-0e81-4950-9462-81e6da64021d",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "72dd7749-9bc8-4e3f-b835-3729c4ad32be"
+        },
+        "3d00419f-21a8-427a-a1db-c402050341f3": {
+            "id": "3d00419f-21a8-427a-a1db-c402050341f3",
+            "name": "Miami Dolphins 14+",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+        },
+        "443a5b55-87e7-430f-a01f-7134b8a780ec": {
+            "id": "443a5b55-87e7-430f-a01f-7134b8a780ec",
+            "name": "Washington Commanders 1-13",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+        },
+        "624f0e85-b502-44bb-9080-bcfca389d9ca": {
+            "id": "624f0e85-b502-44bb-9080-bcfca389d9ca",
+            "name": "Washington Commanders",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "d28c8648-d00c-4c42-bb6c-db6495c88e06"
+        },
+        "688fde5a-d745-4d57-adb2-faae6a422589": {
+            "id": "688fde5a-d745-4d57-adb2-faae6a422589",
+            "name": "Miami Dolphins 1-13",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+        },
+        "71067710-47ab-4c42-8209-f4c0f90ad7b7": {
+            "id": "71067710-47ab-4c42-8209-f4c0f90ad7b7",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "72dd7749-9bc8-4e3f-b835-3729c4ad32be"
+        },
+        "a8c39a0b-185d-4214-91fd-d1626748571f": {
+            "id": "a8c39a0b-185d-4214-91fd-d1626748571f",
+            "name": "Miami Dolphins",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "d28c8648-d00c-4c42-bb6c-db6495c88e06"
+        },
+        "abea990b-7c23-4472-a80d-a952606cb600": {
+            "id": "abea990b-7c23-4472-a80d-a952606cb600",
+            "name": "Miami Dolphins",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "030be862-ba05-419e-879b-22d1cc03ff31"
+        },
+        "ea0b2a42-e1d0-4dc3-97c6-fa342d28c092": {
+            "id": "ea0b2a42-e1d0-4dc3-97c6-fa342d28c092",
+            "name": "Washington Commanders 14+",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+        }
+    },
+    "event_participants": {
+        "2309af45-45fc-481d-a252-53c2386a39f8": {
+            "id": "2309af45-45fc-481d-a252-53c2386a39f8",
+            "event_id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "name": "Washington Commanders",
+            "home_away": "AWAY",
+            "colour": "#5a1414"
+        },
+        "29eae09b-9ba9-4e94-9d3e-5f0197c2caf3": {
+            "id": "29eae09b-9ba9-4e94-9d3e-5f0197c2caf3",
+            "event_id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "name": "Miami Dolphins",
+            "home_away": "HOME",
+            "colour": "#008e97"
+        }
+    },
+    "events": {
+        "ccd7512a-93a0-4b1c-a37b-2aa613ab9061": {
+            "id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "name": "Miami Dolphins vs Washington Commanders",
+            "event_type": {
+                "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
+                "name": "Match"
+            },
+            "match_status": "BettingOpen",
+            "advertised_start": "2025-11-16T14:30:00Z",
+            "actual_start": "2025-11-16T14:30:00Z",
+            "visible": true,
+            "slug": "miami-dolphins-vs-washington-commanders",
+            "competition": {
+                "id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+                "name": "NFL",
+                "sort_order": 1,
+                "region": "USA"
+            },
+            "competition_id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+            "market_type_group_ids": [
+                "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                "05fe767b-30dd-42fb-a9a6-b8719592ac6d"
+            ],
+            "market_type_group_markets": [
+                {
+                    "market_type_group_id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                    "market_ids": [
+                        "030be862-ba05-419e-879b-22d1cc03ff31",
+                        "d28c8648-d00c-4c42-bb6c-db6495c88e06",
+                        "72dd7749-9bc8-4e3f-b835-3729c4ad32be"
+                    ]
+                },
+                {
+                    "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+                    "market_ids": [
+                        "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+                    ]
+                }
+            ],
+            "market_count": 4,
+            "main_markets": [
+                "030be862-ba05-419e-879b-22d1cc03ff31"
+            ],
+            "market_ids": [
+                "030be862-ba05-419e-879b-22d1cc03ff31",
+                "d28c8648-d00c-4c42-bb6c-db6495c88e06",
+                "72dd7749-9bc8-4e3f-b835-3729c4ad32be",
+                "13be7247-9e5b-4dd7-8212-a492a30a2fac"
+            ],
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "participant_ids": [
+                "2309af45-45fc-481d-a252-53c2386a39f8",
+                "29eae09b-9ba9-4e94-9d3e-5f0197c2caf3"
+            ]
+        }
+    },
+    "market_type_groups": {
+        "05fe767b-30dd-42fb-a9a6-b8719592ac6d": {
+            "id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Margin Markets",
+            "priority": 160,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        },
+        "81a92a58-39c5-4adc-85f0-6e6fb1798226": {
+            "id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Top Markets",
+            "priority": 711,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        }
+    },
+    "markets": {
+        "030be862-ba05-419e-879b-22d1cc03ff31": {
+            "id": "030be862-ba05-419e-879b-22d1cc03ff31",
+            "event_id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "market_type_id": "9592f47d-6ad7-4f66-a97f-b3d80f540721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Head To Head",
+            "advertised_start": {
+                "seconds": 1763303400
+            },
+            "actual_start": {
+                "seconds": 1763303400
+            },
+            "is_primary": true,
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "abea990b-7c23-4472-a80d-a952606cb600",
+                "0714298c-51a0-4d16-bc50-f4670239d993"
+            ],
+            "num_winners": 1
+        },
+        "13be7247-9e5b-4dd7-8212-a492a30a2fac": {
+            "id": "13be7247-9e5b-4dd7-8212-a492a30a2fac",
+            "event_id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "market_type_id": "c0e86b7d-b27a-4a85-b7d1-f15867d8415d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Winning Margin 1-13",
+            "advertised_start": {
+                "seconds": 1763303400
+            },
+            "actual_start": {
+                "seconds": 1763303400
+            },
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "688fde5a-d745-4d57-adb2-faae6a422589",
+                "3d00419f-21a8-427a-a1db-c402050341f3",
+                "0a78c907-78e9-4f84-8597-b35933ec407f",
+                "443a5b55-87e7-430f-a01f-7134b8a780ec",
+                "ea0b2a42-e1d0-4dc3-97c6-fa342d28c092"
+            ],
+            "num_winners": 1
+        },
+        "72dd7749-9bc8-4e3f-b835-3729c4ad32be": {
+            "id": "72dd7749-9bc8-4e3f-b835-3729c4ad32be",
+            "event_id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Total",
+            "advertised_start": {
+                "seconds": 1763303400
+            },
+            "actual_start": {
+                "seconds": 1763303400
+            },
+            "handicap": 46.5,
+            "same_game_multi_available": true,
+            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "388dc87c-0e81-4950-9462-81e6da64021d",
+                "71067710-47ab-4c42-8209-f4c0f90ad7b7"
+            ],
+            "num_winners": 1
+        },
+        "d28c8648-d00c-4c42-bb6c-db6495c88e06": {
+            "id": "d28c8648-d00c-4c42-bb6c-db6495c88e06",
+            "event_id": "ccd7512a-93a0-4b1c-a37b-2aa613ab9061",
+            "market_type_id": "15127a4c-20a0-409a-843f-3d6ea56c6721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Line",
+            "advertised_start": {
+                "seconds": 1763303400
+            },
+            "actual_start": {
+                "seconds": 1763303400
+            },
+            "handicap": 2,
+            "same_game_multi_available": true,
+            "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "a8c39a0b-185d-4214-91fd-d1626748571f",
+                "624f0e85-b502-44bb-9080-bcfca389d9ca"
+            ],
+            "num_winners": 1
+        }
+    },
+    "markets_allow_cashout": {
+        "030be862-ba05-419e-879b-22d1cc03ff31": true,
+        "13be7247-9e5b-4dd7-8212-a492a30a2fac": true,
+        "72dd7749-9bc8-4e3f-b835-3729c4ad32be": false,
+        "d28c8648-d00c-4c42-bb6c-db6495c88e06": false
+    },
+    "prices": {
+        "0714298c-51a0-4d16-bc50-f4670239d993:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 10
+            }
+        },
+        "0a78c907-78e9-4f84-8597-b35933ec407f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 66,
+                "denominator": 1
+            }
+        },
+        "388dc87c-0e81-4950-9462-81e6da64021d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "3d00419f-21a8-427a-a1db-c402050341f3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 5
+            }
+        },
+        "443a5b55-87e7-430f-a01f-7134b8a780ec:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 4
+            }
+        },
+        "624f0e85-b502-44bb-9080-bcfca389d9ca:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "688fde5a-d745-4d57-adb2-faae6a422589:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 2
+            }
+        },
+        "71067710-47ab-4c42-8209-f4c0f90ad7b7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "a8c39a0b-185d-4214-91fd-d1626748571f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 10
+            }
+        },
+        "abea990b-7c23-4472-a80d-a952606cb600:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 4
+            }
+        },
+        "ea0b2a42-e1d0-4dc3-97c6-fa342d28c092:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 2
+            }
+        }
+    }
+}
