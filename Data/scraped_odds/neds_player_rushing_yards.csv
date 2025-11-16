@@ -1,38 +1,524 @@
 match,home_team,away_team,market,player_name,player_team,opposition_team,line,over_price,under_price,agency
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Emanuel Wilson,Green Bay Packers,Philadelphia Eagles,9.5,1.3599999999999999,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Emanuel Wilson,Green Bay Packers,Philadelphia Eagles,19.5,1.75,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Emanuel Wilson,Green Bay Packers,Philadelphia Eagles,21.5,1.88,1.88,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Emanuel Wilson,Green Bay Packers,Philadelphia Eagles,29.5,2.5,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Emanuel Wilson,Green Bay Packers,Philadelphia Eagles,39.5,4,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,9.5,1.22,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,19.5,1.5,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,27.5,1.88,1.88,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,29.5,2,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,39.5,2.9,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,49.5,4.8,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Green Bay Packers,59.5,9,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jordan Love,Green Bay Packers,Philadelphia Eagles,9.5,1.75,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jordan Love,Green Bay Packers,Philadelphia Eagles,11.5,1.88,1.88,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jordan Love,Green Bay Packers,Philadelphia Eagles,19.5,2.55,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Jordan Love,Green Bay Packers,Philadelphia Eagles,29.5,4.25,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,29.5,1.02,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,39.5,1.11,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,49.5,1.25,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,59.5,1.46,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,69.5,1.72,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,70.5,1.88,1.88,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,79.5,2.2,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,89.5,2.95,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Josh Jacobs,Green Bay Packers,Philadelphia Eagles,99.5,4.2,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,29.5,1.01,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,39.5,1.05,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,49.5,1.15,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,59.5,1.32,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,69.5,1.5,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,77.5,1.88,1.88,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,79.5,1.83,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,89.5,2.35,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Green Bay Packers,99.5,3.15,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Green Bay Packers,9.5,1.78,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Green Bay Packers,19.5,2.65,NA,Neds
-Green Bay Packers v Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Green Bay Packers,29.5,4.5,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brian Robinson,San Francisco 49ers,Arizona Cardinals,9.5,1.44,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brian Robinson,San Francisco 49ers,Arizona Cardinals,18.5,1.88,1.88,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brian Robinson,San Francisco 49ers,Arizona Cardinals,19.5,1.92,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brian Robinson,San Francisco 49ers,Arizona Cardinals,29.5,2.85,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brian Robinson,San Francisco 49ers,Arizona Cardinals,39.5,4.8,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brock Purdy,San Francisco 49ers,Arizona Cardinals,7.5,1.88,1.88,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brock Purdy,San Francisco 49ers,Arizona Cardinals,9.5,2,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brock Purdy,San Francisco 49ers,Arizona Cardinals,19.5,3.15,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Brock Purdy,San Francisco 49ers,Arizona Cardinals,29.5,5.75,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,29.5,1.02,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,39.5,1.11,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,49.5,1.25,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,59.5,1.46,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,69.5,1.72,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,70.5,1.88,1.88,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,79.5,2.2,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,89.5,2.95,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,99.5,4.2,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Jacoby Brissett,Arizona Cardinals,San Francisco 49ers,9.5,1.44,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Jacoby Brissett,Arizona Cardinals,San Francisco 49ers,18.5,1.88,1.88,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Jacoby Brissett,Arizona Cardinals,San Francisco 49ers,19.5,1.92,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Jacoby Brissett,Arizona Cardinals,San Francisco 49ers,29.5,2.85,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Jacoby Brissett,Arizona Cardinals,San Francisco 49ers,39.5,4.8,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,9.5,1.12,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,19.5,1.3,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,29.5,1.62,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,34.5,1.88,1.88,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,39.5,2.2,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,49.5,3.25,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,59.5,5.4,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,69.5,7.5,NA,Neds
+Arizona Cardinals v San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Rushing Yards,Zonovan Knight,NA,NA,79.5,14,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,29.5,1.01,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,39.5,1.07,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,49.5,1.19,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,59.5,1.38,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,69.5,1.58,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,74.5,1.88,1.88,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,79.5,1.96,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,89.5,2.55,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bijan Robinson,Atlanta Falcons,Carolina Panthers,99.5,3.5,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bryce Young,Carolina Panthers,Atlanta Falcons,7.5,1.88,1.88,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bryce Young,Carolina Panthers,Atlanta Falcons,9.5,2,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bryce Young,Carolina Panthers,Atlanta Falcons,19.5,3.15,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Bryce Young,Carolina Panthers,Atlanta Falcons,29.5,5.75,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Chuba Hubbard,Carolina Panthers,Atlanta Falcons,9.5,1.6,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Chuba Hubbard,Carolina Panthers,Atlanta Falcons,14.5,1.88,1.88,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Chuba Hubbard,Carolina Panthers,Atlanta Falcons,19.5,2.25,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Chuba Hubbard,Carolina Panthers,Atlanta Falcons,29.5,3.6,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Michael Penix,NA,NA,6.5,1.88,1.88,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Michael Penix,NA,NA,9.5,2.1,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Michael Penix,NA,NA,19.5,3.3,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Michael Penix,NA,NA,29.5,6.2,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,39.5,1.01,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,49.5,1.06,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,59.5,1.16,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,69.5,1.28,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,79.5,1.48,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,88.5,1.88,1.88,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,89.5,1.8,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Rico Dowdle,Carolina Panthers,Atlanta Falcons,99.5,2.25,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,9.5,1.16,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,19.5,1.38,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,29.5,1.75,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,31.5,1.88,1.88,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,39.5,2.45,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,49.5,3.8,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,59.5,6.6,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,69.5,9.5,NA,Neds
+Atlanta Falcons v Carolina Panthers,Atlanta Falcons,Carolina Panthers,Rushing Yards,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,79.5,19,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Baker Mayfield,Tampa Bay Buccaneers,Buffalo Bills,9.5,1.7,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Baker Mayfield,Tampa Bay Buccaneers,Buffalo Bills,12.5,1.88,1.88,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Baker Mayfield,Tampa Bay Buccaneers,Buffalo Bills,19.5,2.45,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Baker Mayfield,Tampa Bay Buccaneers,Buffalo Bills,29.5,4,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,39.5,1.02,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,49.5,1.1,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,59.5,1.24,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,69.5,1.38,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,79.5,1.65,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,82.5,1.88,1.88,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,89.5,2.05,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,James Cook,Buffalo Bills,Tampa Bay Buccaneers,99.5,2.65,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,9.5,1.12,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,19.5,1.3,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,29.5,1.62,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,34.5,1.88,1.88,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,39.5,2.2,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,49.5,3.25,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,59.5,5.4,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,69.5,7.5,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,79.5,14,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,9.5,1.03,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,19.5,1.1400000000000001,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,29.5,1.32,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,39.5,1.6400000000000001,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,44.5,1.88,1.88,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,49.5,2.15,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,59.5,3.1,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,69.5,4.1,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,79.5,6.75,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,89.5,12,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,9.5,1.07,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,19.5,1.2,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,29.5,1.44,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,39.5,1.88,1.88,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,39.5,1.85,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,49.5,2.6,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,59.5,4,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,69.5,5.4,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,79.5,9.5,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Sean Tucker,Tampa Bay Buccaneers,Buffalo Bills,89.5,19,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Ty Johnson,Buffalo Bills,Tampa Bay Buccaneers,6.5,1.88,1.88,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Ty Johnson,Buffalo Bills,Tampa Bay Buccaneers,9.5,2.1,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Ty Johnson,Buffalo Bills,Tampa Bay Buccaneers,19.5,3.3,NA,Neds
+Buffalo Bills v Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Rushing Yards,Ty Johnson,Buffalo Bills,Tampa Bay Buccaneers,29.5,6.2,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,29.5,1.01,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,39.5,1.07,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,49.5,1.19,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,59.5,1.38,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,69.5,1.58,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,74.5,1.88,1.88,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,79.5,1.96,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,89.5,2.55,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Derrick Henry,Baltimore Ravens,Cleveland Browns,99.5,3.5,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Dillon Gabriel,Cleveland Browns,Baltimore Ravens,9.5,1.8,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Dillon Gabriel,Cleveland Browns,Baltimore Ravens,10.5,1.88,1.88,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Dillon Gabriel,Cleveland Browns,Baltimore Ravens,19.5,2.7,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Dillon Gabriel,Cleveland Browns,Baltimore Ravens,29.5,4.6,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Keaton Mitchell,Baltimore Ravens,Cleveland Browns,9.5,1.48,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Keaton Mitchell,Baltimore Ravens,Cleveland Browns,17.5,1.88,1.88,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Keaton Mitchell,Baltimore Ravens,Cleveland Browns,19.5,2,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Keaton Mitchell,Baltimore Ravens,Cleveland Browns,29.5,3,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Keaton Mitchell,Baltimore Ravens,Cleveland Browns,39.5,5.2,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,9.5,1.08,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,19.5,1.25,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,29.5,1.52,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,37.5,1.88,1.88,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,39.5,1.98,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,49.5,2.8,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,59.5,4.5,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,69.5,6.2,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Lamar Jackson,Baltimore Ravens,Cleveland Browns,79.5,11,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,29.5,1.02,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,39.5,1.11,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,49.5,1.25,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,59.5,1.46,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,69.5,1.72,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,70.5,1.88,1.88,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,79.5,2.2,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,89.5,2.95,NA,Neds
+Cleveland Browns v Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Rushing Yards,Quinshon Judkins,Cleveland Browns,Baltimore Ravens,99.5,4.2,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,9.5,1.28,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,19.5,1.6,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,24.5,1.88,1.88,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,29.5,2.2,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,39.5,3.4,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,49.5,5.8,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Bo Nix,Denver Broncos,Kansas City Chiefs,59.5,11.5,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Brashard Smith,Kansas City Chiefs,Denver Broncos,9.5,1.75,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Brashard Smith,Kansas City Chiefs,Denver Broncos,11.5,1.88,1.88,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Brashard Smith,Kansas City Chiefs,Denver Broncos,19.5,2.55,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Brashard Smith,Kansas City Chiefs,Denver Broncos,29.5,4.25,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Jaleel McLaughlin,Denver Broncos,Kansas City Chiefs,9.5,1.6,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Jaleel McLaughlin,Denver Broncos,Kansas City Chiefs,14.5,1.88,1.88,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Jaleel McLaughlin,Denver Broncos,Kansas City Chiefs,19.5,2.25,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Jaleel McLaughlin,Denver Broncos,Kansas City Chiefs,29.5,3.6,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,9.5,1.04,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,19.5,1.15,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,29.5,1.35,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,39.5,1.67,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,43.5,1.88,1.88,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,49.5,2.25,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,59.5,3.25,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,69.5,4.4,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,79.5,7.25,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Kareem Hunt,Kansas City Chiefs,Denver Broncos,89.5,13,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,9.5,1.24,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,19.5,1.53,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,26.5,1.88,1.88,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,29.5,2.05,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,39.5,3.05,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,49.5,5,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,59.5,9.75,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,9.5,1.01,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,19.5,1.1,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,29.5,1.26,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,39.5,1.52,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,47.5,1.88,1.88,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,49.5,1.96,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,59.5,2.75,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,69.5,3.6,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,79.5,5.6,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,89.5,9.75,NA,Neds
+Denver Broncos v Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Rushing Yards,RJ Harvey,Denver Broncos,Kansas City Chiefs,99.5,19,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Bhayshul Tuten,Jacksonville Jaguars,Los Angeles Chargers,9.5,1.6,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Bhayshul Tuten,Jacksonville Jaguars,Los Angeles Chargers,14.5,1.88,1.88,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Bhayshul Tuten,Jacksonville Jaguars,Los Angeles Chargers,19.5,2.25,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Bhayshul Tuten,Jacksonville Jaguars,Los Angeles Chargers,29.5,3.6,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,9.5,1.28,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,19.5,1.6,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,24.5,1.88,1.88,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,29.5,2.2,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,39.5,3.4,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,49.5,5.8,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Justin Herbert,Los Angeles Chargers,Jacksonville Jaguars,59.5,11.5,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,19.5,1.01,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,29.5,1.06,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,39.5,1.17,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,49.5,1.3599999999999999,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,59.5,1.65,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,64.5,1.88,1.88,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,69.5,1.98,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,79.5,2.6,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,89.5,3.7,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Kimani Vidal,Los Angeles Chargers,Jacksonville Jaguars,99.5,5.6,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,19.5,1.01,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,29.5,1.09,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,39.5,1.22,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,49.5,1.45,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,59.5,1.8199999999999998,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,60.5,1.88,1.88,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,69.5,2.2,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,79.5,3,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,89.5,4.4,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Travis Etienne,Jacksonville Jaguars,Los Angeles Chargers,99.5,7,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Trevor Lawrence,Jacksonville Jaguars,Los Angeles Chargers,9.5,1.52,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Trevor Lawrence,Jacksonville Jaguars,Los Angeles Chargers,16.5,1.88,1.88,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Trevor Lawrence,Jacksonville Jaguars,Los Angeles Chargers,19.5,2.05,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Trevor Lawrence,Jacksonville Jaguars,Los Angeles Chargers,29.5,3.2,NA,Neds
+Jacksonville Jaguars v Los Angeles Chargers,Jacksonville Jaguars,Los Angeles Chargers,Rushing Yards,Trevor Lawrence,Jacksonville Jaguars,Los Angeles Chargers,39.5,5.6,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,19.5,1.01,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,29.5,1.07,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,39.5,1.2,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,49.5,1.4,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,59.5,1.73,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,62.5,1.88,1.88,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,69.5,2.1,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,79.5,2.8,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,89.5,4,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Ashton Jeanty,Las Vegas Raiders,Dallas Cowboys,99.5,6.25,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Dak Prescott,Dallas Cowboys,Las Vegas Raiders,9.5,1.8,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Dak Prescott,Dallas Cowboys,Las Vegas Raiders,10.5,1.88,1.88,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Dak Prescott,Dallas Cowboys,Las Vegas Raiders,19.5,2.7,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Dak Prescott,Dallas Cowboys,Las Vegas Raiders,29.5,4.6,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Geno Smith,Las Vegas Raiders,Dallas Cowboys,8.5,1.88,1.88,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Geno Smith,Las Vegas Raiders,Dallas Cowboys,9.5,1.94,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Geno Smith,Las Vegas Raiders,Dallas Cowboys,19.5,2.95,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Geno Smith,Las Vegas Raiders,Dallas Cowboys,29.5,5.25,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,29.5,1.01,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,39.5,1.07,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,49.5,1.18,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,59.5,1.3599999999999999,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,69.5,1.5699999999999998,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,75.5,1.88,1.88,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,79.5,1.92,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,89.5,2.5,NA,Neds
+Las Vegas Raiders v Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Rushing Yards,Javonte Williams,Dallas Cowboys,Las Vegas Raiders,99.5,3.4,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,9.5,1.19,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,19.5,1.44,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,29.5,1.88,1.88,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,29.5,1.85,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,39.5,2.65,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,49.5,4.25,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Blake Corum,Los Angeles Rams,Seattle Seahawks,59.5,7.5,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,9.5,1.04,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,19.5,1.15,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,29.5,1.35,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,39.5,1.67,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,43.5,1.88,1.88,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,49.5,2.25,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,59.5,3.25,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,69.5,4.4,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,79.5,7.25,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kenneth Walker III,Seattle Seahawks,Los Angeles Rams,89.5,13,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,9.5,1.01,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,19.5,1.06,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,29.5,1.18,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,39.5,1.38,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,49.5,1.72,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,52.5,1.88,1.88,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,59.5,2.3,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,69.5,2.9,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,79.5,4.25,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,89.5,6.8,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Kyren Williams,Los Angeles Rams,Seattle Seahawks,99.5,12,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,9.5,1.1400000000000001,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,19.5,1.35,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,29.5,1.72,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,32.5,1.88,1.88,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,39.5,2.35,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,49.5,3.6,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,59.5,6.2,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,69.5,8.75,NA,Neds
+Los Angeles Rams v Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Rushing Yards,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,79.5,17,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,9.5,1.07,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,19.5,1.2,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,29.5,1.44,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,39.5,1.88,1.88,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,39.5,1.85,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,49.5,2.6,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,59.5,4,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,69.5,5.4,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,79.5,9.5,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Chris Rodriguez,NA,NA,89.5,19,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,29.5,1.01,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,39.5,1.03,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,49.5,1.11,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,59.5,1.25,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,69.5,1.4,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,79.5,1.7,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,81.5,1.88,1.88,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,89.5,2.1,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,De'Von Achane,Miami Dolphins,Washington Commanders,99.5,2.75,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,9.5,1.19,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,19.5,1.44,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,29.5,1.88,1.88,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,29.5,1.85,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,39.5,2.65,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,49.5,4.25,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Jacory Croskey-Merritt,Washington Commanders,Miami Dolphins,59.5,7.5,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,9.5,1.26,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,19.5,1.5699999999999998,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,25.5,1.88,1.88,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,29.5,2.15,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,39.5,3.2,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,49.5,5.4,NA,Neds
+Miami Dolphins v Washington Commanders,Miami Dolphins,Washington Commanders,Rushing Yards,Marcus Mariota,Washington Commanders,Miami Dolphins,59.5,10.5,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,9.5,1.01,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,19.5,1.04,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,29.5,1.16,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,39.5,1.33,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,49.5,1.6400000000000001,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,54.5,1.88,1.88,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,59.5,2.15,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,69.5,2.7,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,79.5,3.9,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,89.5,6.2,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Aaron Jones,Minnesota Vikings,Chicago Bears,99.5,10.5,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,9.5,1.28,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,19.5,1.6,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,24.5,1.88,1.88,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,29.5,2.2,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,39.5,3.4,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,49.5,5.8,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Caleb Williams,Chicago Bears,Minnesota Vikings,59.5,11.5,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,9.5,1.01,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,19.5,1.04,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,29.5,1.1400000000000001,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,39.5,1.32,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,49.5,1.6,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,55.5,1.88,1.88,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,59.5,2.1,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,69.5,2.6,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,79.5,3.7,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,89.5,5.75,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,D'Andre Swift,Chicago Bears,Minnesota Vikings,99.5,9.75,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,J.J. McCarthy,Minnesota Vikings,Chicago Bears,9.5,1.3,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,J.J. McCarthy,Minnesota Vikings,Chicago Bears,19.5,1.65,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,J.J. McCarthy,Minnesota Vikings,Chicago Bears,23.5,1.88,1.88,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,J.J. McCarthy,Minnesota Vikings,Chicago Bears,29.5,2.3,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,J.J. McCarthy,Minnesota Vikings,Chicago Bears,39.5,3.6,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,J.J. McCarthy,Minnesota Vikings,Chicago Bears,59.5,12.5,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,9.5,1.17,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,19.5,1.4,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,29.5,1.8199999999999998,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,30.5,1.88,1.88,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,39.5,2.55,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,49.5,4,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,59.5,7,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Jordan Mason,Minnesota Vikings,Chicago Bears,69.5,10,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,9.5,1.16,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,19.5,1.38,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,29.5,1.75,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,31.5,1.88,1.88,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,39.5,2.45,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,49.5,3.8,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,59.5,6.6,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,69.5,9.5,NA,Neds
+Minnesota Vikings v Chicago Bears,Minnesota Vikings,Chicago Bears,Rushing Yards,Kyle Monangai,Chicago Bears,Minnesota Vikings,79.5,19,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Devin Singletary,New York Giants,Green Bay Packers,9.5,1.33,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Devin Singletary,New York Giants,Green Bay Packers,19.5,1.7,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Devin Singletary,New York Giants,Green Bay Packers,22.5,1.88,1.88,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Devin Singletary,New York Giants,Green Bay Packers,29.5,2.4,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Devin Singletary,New York Giants,Green Bay Packers,39.5,3.75,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Devin Singletary,New York Giants,Green Bay Packers,59.5,14,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Emanuel Wilson,Green Bay Packers,New York Giants,9.5,1.55,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Emanuel Wilson,Green Bay Packers,New York Giants,15.5,1.88,1.88,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Emanuel Wilson,Green Bay Packers,New York Giants,19.5,2.15,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Emanuel Wilson,Green Bay Packers,New York Giants,29.5,3.35,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Emanuel Wilson,Green Bay Packers,New York Giants,39.5,6,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jameis Winston,New York Giants,Green Bay Packers,9.5,1.75,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jameis Winston,New York Giants,Green Bay Packers,11.5,1.88,1.88,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jameis Winston,New York Giants,Green Bay Packers,19.5,2.55,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jameis Winston,New York Giants,Green Bay Packers,29.5,4.25,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jordan Love,Green Bay Packers,New York Giants,8.5,1.88,1.88,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jordan Love,Green Bay Packers,New York Giants,9.5,1.94,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jordan Love,Green Bay Packers,New York Giants,19.5,2.95,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Jordan Love,Green Bay Packers,New York Giants,29.5,5.25,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,39.5,1.02,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,49.5,1.1,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,59.5,1.24,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,69.5,1.38,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,79.5,1.65,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,82.5,1.88,1.88,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,89.5,2.05,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Josh Jacobs,Green Bay Packers,New York Giants,99.5,2.65,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,9.5,1.06,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,19.5,1.19,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,29.5,1.42,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,39.5,1.8199999999999998,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,40.5,1.88,1.88,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,49.5,2.5,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,59.5,3.8,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,69.5,5.2,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,79.5,8.75,NA,Neds
+New York Giants v Green Bay Packers,New York Giants,Green Bay Packers,Rushing Yards,Tyrone Tracy,NA,NA,89.5,17,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,9.5,1.07,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,19.5,1.2,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,29.5,1.44,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,39.5,1.88,1.88,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,39.5,1.85,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,49.5,2.6,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,59.5,4,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,69.5,5.4,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,79.5,9.5,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,David Montgomery,Detroit Lions,Philadelphia Eagles,89.5,19,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,19.5,1.01,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,29.5,1.08,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,39.5,1.22,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,49.5,1.42,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,59.5,1.77,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,61.5,1.88,1.88,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,69.5,2.15,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,79.5,2.9,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,89.5,4.25,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jahmyr Gibbs,Detroit Lions,Philadelphia Eagles,99.5,6.6,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,9.5,1.17,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,19.5,1.4,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,29.5,1.8199999999999998,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,30.5,1.88,1.88,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,39.5,2.55,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,49.5,4,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,59.5,7,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Jalen Hurts,Philadelphia Eagles,Detroit Lions,69.5,10,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,29.5,1.02,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,39.5,1.11,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,49.5,1.25,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,59.5,1.46,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,69.5,1.72,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,70.5,1.88,1.88,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,79.5,2.2,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,89.5,2.95,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Saquon Barkley,Philadelphia Eagles,Detroit Lions,99.5,4.2,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Detroit Lions,9.5,1.88,1.88,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Detroit Lions,9.5,1.87,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Detroit Lions,19.5,2.8,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Tank Bigsby,Philadelphia Eagles,Detroit Lions,29.5,5,NA,Neds
+Philadelphia Eagles v Detroit Lions,Philadelphia Eagles,Detroit Lions,Rushing Yards,Will Shipley,Philadelphia Eagles,Detroit Lions,5.5,1.88,1.88,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,19.5,1.01,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,29.5,1.09,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,39.5,1.22,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,49.5,1.45,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,59.5,1.8199999999999998,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,60.5,1.88,1.88,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,69.5,2.2,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,79.5,3,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,89.5,4.4,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Chase Brown,Cincinnati Bengals,Pittsburgh Steelers,99.5,7,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,39.5,1.02,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,49.5,1.1,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,59.5,1.24,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,69.5,1.38,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,79.5,1.65,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,82.5,1.88,1.88,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,89.5,2.05,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,99.5,2.65,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Kenneth Gainwell,Pittsburgh Steelers,Cincinnati Bengals,9.5,1.6400000000000001,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Kenneth Gainwell,Pittsburgh Steelers,Cincinnati Bengals,13.5,1.88,1.88,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Kenneth Gainwell,Pittsburgh Steelers,Cincinnati Bengals,19.5,2.35,NA,Neds
+Pittsburgh Steelers v Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Rushing Yards,Kenneth Gainwell,Pittsburgh Steelers,Cincinnati Bengals,29.5,3.75,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Cam Ward,Tennessee Titans,Houston Texans,6.5,1.88,1.88,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Cam Ward,Tennessee Titans,Houston Texans,9.5,2.1,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Cam Ward,Tennessee Titans,Houston Texans,19.5,3.3,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Cam Ward,Tennessee Titans,Houston Texans,29.5,6.2,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Davis Mills,Houston Texans,Tennessee Titans,6.5,1.88,1.88,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Davis Mills,Houston Texans,Tennessee Titans,9.5,2.1,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Davis Mills,Houston Texans,Tennessee Titans,19.5,3.3,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Davis Mills,Houston Texans,Tennessee Titans,29.5,6.2,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,9.5,1.17,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,19.5,1.4,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,29.5,1.8199999999999998,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,30.5,1.88,1.88,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,39.5,2.55,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,49.5,4,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,59.5,7,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Nick Chubb,Houston Texans,Tennessee Titans,69.5,10,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,9.5,1.07,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,19.5,1.2,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,29.5,1.44,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,39.5,1.88,1.88,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,39.5,1.85,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,49.5,2.6,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,59.5,4,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,69.5,5.4,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,79.5,9.5,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tony Pollard,Tennessee Titans,Houston Texans,89.5,19,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,9.5,1.19,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,19.5,1.44,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,29.5,1.88,1.88,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,29.5,1.85,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,39.5,2.65,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,49.5,4.25,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Tyjae Spears,Tennessee Titans,Houston Texans,59.5,7.5,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,19.5,1.01,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,29.5,1.08,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,39.5,1.22,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,49.5,1.42,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,59.5,1.77,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,61.5,1.88,1.88,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,69.5,2.15,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,79.5,2.9,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,89.5,4.25,NA,Neds
+Tennessee Titans v Houston Texans,Tennessee Titans,Houston Texans,Rushing Yards,Woody Marks,Houston Texans,Tennessee Titans,99.5,6.6,NA,Neds

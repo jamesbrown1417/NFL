@@ -1,17 +1,245 @@
 id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
-1619396152,Over,59086,5520806358,1.862,2.5,Christian Watson Total Receptions,Christian Watson Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396153,Under,59087,5520806359,1.925,2.5,Christian Watson Total Receptions,Christian Watson Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396146,Over,59082,5520295094,1.97,4.5,A.J. Brown Total Receptions,A.J. Brown Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396147,Under,59083,5520295095,1.819,4.5,A.J. Brown Total Receptions,A.J. Brown Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396158,Over,59090,5520852264,1.666,3.5,Dallas Goedert Total Receptions,Dallas Goedert Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396159,Under,59091,5520852265,2.19,3.5,Dallas Goedert Total Receptions,Dallas Goedert Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396200,Over,59118,5520839345,1.689,2.5,Josh Jacobs Total Receptions,Josh Jacobs Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396201,Under,59119,5520839346,2.15,2.5,Josh Jacobs Total Receptions,Josh Jacobs Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396164,Over,59094,5520852123,1.781,4.5,DeVonta Smith Total Receptions,DeVonta Smith Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396165,Under,59095,5520852124,2.02,4.5,DeVonta Smith Total Receptions,DeVonta Smith Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396212,Over,59126,5520295626,1.952,4.5,Romeo Doubs Total Receptions,Romeo Doubs Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396213,Under,59127,5520295627,1.84,4.5,Romeo Doubs Total Receptions,Romeo Doubs Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396224,Over,59134,5520822922,1.847,2.5,Saquon Barkley Total Receptions,Saquon Barkley Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396225,Under,59135,5520822923,1.943,2.5,Saquon Barkley Total Receptions,Saquon Barkley Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396206,Over,59122,5520839536,2.27,3.5,Luke Musgrave Total Receptions,Luke Musgrave Total Receptions,Green Bay Packers,Philadelphia Eagles
-1619396207,Under,59123,5520839537,1.621,3.5,Luke Musgrave Total Receptions,Luke Musgrave Total Receptions,Green Bay Packers,Philadelphia Eagles
+1619539945,Over,25646,5530829524,2.07,7.5,Amon-Ra St. Brown Total Receptions,Amon-Ra St. Brown Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539946,Under,25647,5530829525,1.74,7.5,Amon-Ra St. Brown Total Receptions,Amon-Ra St. Brown Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539963,Over,25658,5530829838,1.813,2.5,Saquon Barkley Total Receptions,Saquon Barkley Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539964,Under,25659,5530829839,1.98,2.5,Saquon Barkley Total Receptions,Saquon Barkley Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539948,Over,25648,5530829404,2.23,4.5,Dallas Goedert Total Receptions,Dallas Goedert Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539949,Under,25649,5530829405,1.645,4.5,Dallas Goedert Total Receptions,Dallas Goedert Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539951,Over,25650,5531116477,1.746,4.5,DeVonta Smith Total Receptions,DeVonta Smith Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539952,Under,25651,5531116478,2.07,4.5,DeVonta Smith Total Receptions,DeVonta Smith Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539954,Over,25652,5530829433,2.2,3.5,Jahmyr Gibbs Total Receptions,Jahmyr Gibbs Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539955,Under,25653,5530829445,1.657,3.5,Jahmyr Gibbs Total Receptions,Jahmyr Gibbs Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539957,Over,25654,5530829550,1.775,3.5,Jameson Williams Total Receptions,Jameson Williams Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539958,Under,25655,5530829551,2.03,3.5,Jameson Williams Total Receptions,Jameson Williams Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539942,Over,25644,5531246733,1.943,4.5,A.J. Brown Total Receptions,A.J. Brown Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539943,Under,25645,5531246734,1.84,4.5,A.J. Brown Total Receptions,A.J. Brown Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539960,Over,25656,5530324085,1.657,3.5,Sam LaPorta Total Receptions,Sam LaPorta Total Receptions,Philadelphia Eagles,Detroit Lions
+1619539961,Under,25657,5530324086,2.14,3.5,Sam LaPorta Total Receptions,Sam LaPorta Total Receptions,Philadelphia Eagles,Detroit Lions
+1619542125,Over,25706,5530886990,2.07,5.5,De'Von Achane Total Receptions,De'Von Achane Total Receptions,Miami Dolphins,Washington Commanders
+1619542126,Under,25707,5530886991,1.74,5.5,De'Von Achane Total Receptions,De'Von Achane Total Receptions,Miami Dolphins,Washington Commanders
+1619542128,Over,25708,5531431056,1.833,4.5,Deebo Samuel Total Receptions,Deebo Samuel Total Receptions,Miami Dolphins,Washington Commanders
+1619542129,Under,25709,5531431057,1.961,4.5,Deebo Samuel Total Receptions,Deebo Samuel Total Receptions,Miami Dolphins,Washington Commanders
+1619542131,Over,25710,5531435196,1.909,5.5,Jaylen Waddle Total Receptions,Jaylen Waddle Total Receptions,Miami Dolphins,Washington Commanders
+1619542132,Under,25711,5531435197,1.877,5.5,Jaylen Waddle Total Receptions,Jaylen Waddle Total Receptions,Miami Dolphins,Washington Commanders
+1619542134,Over,25712,5530841559,1.602,3.5,Zach Ertz Total Receptions,Zach Ertz Total Receptions,Miami Dolphins,Washington Commanders
+1619542135,Under,25713,5530841560,2.31,3.5,Zach Ertz Total Receptions,Zach Ertz Total Receptions,Miami Dolphins,Washington Commanders
+1619569357,Over,50014,5530830204,2.23,2.5,Andrei Iosivas Total Receptions,Andrei Iosivas Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569358,Under,50015,5530830205,1.645,2.5,Andrei Iosivas Total Receptions,Andrei Iosivas Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569360,Over,50016,5530830649,2.23,3.5,Calvin Austin Total Receptions,Calvin Austin Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569361,Under,50017,5530830654,1.645,3.5,Calvin Austin Total Receptions,Calvin Austin Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569369,Over,50022,5530830610,1.98,8.5,Ja'Marr Chase Total Receptions,Ja'Marr Chase Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569370,Under,50023,5530830611,1.813,8.5,Ja'Marr Chase Total Receptions,Ja'Marr Chase Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569372,Over,50024,5531515919,2.02,2.5,Jaylen Warren Total Receptions,Jaylen Warren Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569373,Under,50025,5531515920,1.787,2.5,Jaylen Warren Total Receptions,Jaylen Warren Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569376,Under,50027,5531400141,2.32,2.5,Jonnu Smith Total Receptions,Jonnu Smith Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569375,Over,50026,5531400140,1.598,2.5,Jonnu Smith Total Receptions,Jonnu Smith Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569378,Over,50028,5530939521,2.52,3.5,Noah Fant Total Receptions,Noah Fant Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569379,Under,50029,5530939522,1.515,3.5,Noah Fant Total Receptions,Noah Fant Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569363,Over,50018,5530832158,1.793,3.5,Chase Brown Total Receptions,Chase Brown Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569364,Under,50019,5530832159,2.0,3.5,Chase Brown Total Receptions,Chase Brown Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569366,Over,50020,5530890470,2.18,4.5,DK Metcalf Total Receptions,DK Metcalf Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569367,Under,50021,5530890471,1.671,4.5,DK Metcalf Total Receptions,DK Metcalf Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569381,Over,50030,5530830712,1.746,2.5,Pat Freiermuth Total Receptions,Pat Freiermuth Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569382,Under,50031,5530830713,2.07,2.5,Pat Freiermuth Total Receptions,Pat Freiermuth Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569384,Over,50032,5530830732,2.01,4.5,Tee Higgins Total Receptions,Tee Higgins Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619569385,Under,50033,5530830737,1.787,4.5,Tee Higgins Total Receptions,Tee Higgins Total Receptions,Pittsburgh Steelers,Cincinnati Bengals
+1619570633,Over,50078,5530830714,2.0,3.5,DJ Moore Total Receptions,DJ Moore Total Receptions,Minnesota Vikings,Chicago Bears
+1619570634,Under,50079,5530830715,1.8,3.5,DJ Moore Total Receptions,DJ Moore Total Receptions,Minnesota Vikings,Chicago Bears
+1619570636,Over,50080,5531123549,2.08,3.5,Jordan Addison Total Receptions,Jordan Addison Total Receptions,Minnesota Vikings,Chicago Bears
+1619570637,Under,50081,5531123550,1.735,3.5,Jordan Addison Total Receptions,Jordan Addison Total Receptions,Minnesota Vikings,Chicago Bears
+1619570639,Over,50082,5530830786,1.884,5.5,Justin Jefferson Total Receptions,Justin Jefferson Total Receptions,Minnesota Vikings,Chicago Bears
+1619570640,Under,50083,5530830787,1.9,5.5,Justin Jefferson Total Receptions,Justin Jefferson Total Receptions,Minnesota Vikings,Chicago Bears
+1619570642,Over,50084,5530831156,2.3,4.5,Rome Odunze Total Receptions,Rome Odunze Total Receptions,Minnesota Vikings,Chicago Bears
+1619570643,Under,50085,5530831159,1.609,4.5,Rome Odunze Total Receptions,Rome Odunze Total Receptions,Minnesota Vikings,Chicago Bears
+1619572202,Over,50122,5530832927,2.23,5.5,Davante Adams Total Receptions,Davante Adams Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572203,Under,50123,5530832932,1.645,5.5,Davante Adams Total Receptions,Davante Adams Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572205,Over,50124,5531392026,2.1,7.5,Jaxon Smith-Njigba Total Receptions,Jaxon Smith-Njigba Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572206,Under,50125,5531392027,1.719,7.5,Jaxon Smith-Njigba Total Receptions,Jaxon Smith-Njigba Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572208,Over,50126,5531246735,1.787,7.5,Puka Nacua Total Receptions,Puka Nacua Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572209,Under,50127,5531246736,2.01,7.5,Puka Nacua Total Receptions,Puka Nacua Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572211,Over,50128,5530832652,2.07,2.5,Rashid Shaheed Total Receptions,Rashid Shaheed Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572212,Under,50129,5530832653,1.746,2.5,Rashid Shaheed Total Receptions,Rashid Shaheed Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619572342,Over,50174,5530829358,1.826,3.5,Xavier Worthy Total Receptions,Xavier Worthy Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572343,Under,50175,5530829359,1.961,3.5,Xavier Worthy Total Receptions,Xavier Worthy Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572330,Over,50166,5530829364,1.877,2.5,RJ Harvey Total Receptions,RJ Harvey Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572331,Under,50167,5530829365,1.909,2.5,RJ Harvey Total Receptions,RJ Harvey Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572333,Over,50168,5531491271,1.689,6.5,Rashee Rice Total Receptions,Rashee Rice Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572334,Under,50169,5531491272,2.15,6.5,Rashee Rice Total Receptions,Rashee Rice Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572318,Over,50158,5530829360,1.694,3.5,Courtland Sutton Total Receptions,Courtland Sutton Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572319,Under,50159,5530829361,2.14,3.5,Courtland Sutton Total Receptions,Courtland Sutton Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572321,Over,50160,5530829814,1.98,3.5,Evan Engram Total Receptions,Evan Engram Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572322,Under,50161,5530316803,1.787,3.5,Evan Engram Total Receptions,Evan Engram Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572327,Over,50164,5530829818,2.1,2.5,Marvin Mims Total Receptions,Marvin Mims Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572328,Under,50165,5530829820,1.719,2.5,Marvin Mims Total Receptions,Marvin Mims Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572336,Over,50170,5530953978,2.36,4.5,Travis Kelce Total Receptions,Travis Kelce Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572337,Under,50171,5530953979,1.578,4.5,Travis Kelce Total Receptions,Travis Kelce Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572339,Over,50172,5530829255,2.17,4.5,Troy Franklin Total Receptions,Troy Franklin Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572340,Under,50173,5530829259,1.675,4.5,Troy Franklin Total Receptions,Troy Franklin Total Receptions,Denver Broncos,Kansas City Chiefs
+1619595464,Over,25276,5530830869,2.25,4.5,Keenan Allen Total Receptions,Keenan Allen Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595465,Under,25277,5530830884,1.632,4.5,Keenan Allen Total Receptions,Keenan Allen Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595497,Over,25298,5530830834,1.819,4.5,Oronde Gadsden II Total Receptions,Oronde Gadsden II Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595498,Under,25299,5530830835,1.97,4.5,Oronde Gadsden II Total Receptions,Oronde Gadsden II Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595488,Over,25292,5531246739,2.07,5.5,Ladd McConkey Total Receptions,Ladd McConkey Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595489,Under,25293,5531246740,1.74,5.5,Ladd McConkey Total Receptions,Ladd McConkey Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595503,Over,25302,5530831059,1.892,3.5,Quentin Johnston Total Receptions,Quentin Johnston Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619595504,Under,25303,5530831068,1.892,3.5,Quentin Johnston Total Receptions,Quentin Johnston Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619600299,Over,25456,5530829824,2.15,4.5,Harold Fannin Jr. Total Receptions,Harold Fannin Jr. Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600300,Under,25457,5530829830,1.689,4.5,Harold Fannin Jr. Total Receptions,Harold Fannin Jr. Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600368,Over,25500,5530829572,1.719,4.5,Zay Flowers Total Receptions,Zay Flowers Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600369,Under,25501,5530829575,2.1,4.5,Zay Flowers Total Receptions,Zay Flowers Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600356,Over,25492,5530829971,2.13,3.5,Mark Andrews Total Receptions,Mark Andrews Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600357,Under,25493,5530829972,1.699,3.5,Mark Andrews Total Receptions,Mark Andrews Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600311,Over,25464,5531047709,1.869,3.5,Jerry Jeudy Total Receptions,Jerry Jeudy Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600312,Under,25465,5531047710,1.917,3.5,Jerry Jeudy Total Receptions,Jerry Jeudy Total Receptions,Cleveland Browns,Baltimore Ravens
+1619600260,Over,25430,5530830487,1.84,4.5,Kyle Pitts Total Receptions,Kyle Pitts Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600261,Under,25431,5530830488,1.952,4.5,Kyle Pitts Total Receptions,Kyle Pitts Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600314,Over,25466,5531460874,1.917,2.5,Rico Dowdle Total Receptions,Rico Dowdle Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600315,Under,25467,5531460875,1.869,2.5,Rico Dowdle Total Receptions,Rico Dowdle Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600327,Over,25474,5530831225,1.869,4.5,Tetairoa McMillan Total Receptions,Tetairoa McMillan Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600328,Under,25475,5530831232,1.917,4.5,Tetairoa McMillan Total Receptions,Tetairoa McMillan Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600212,Over,25398,5530831098,1.952,4.5,Bijan Robinson Total Receptions,Bijan Robinson Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600213,Under,25399,5530831100,1.84,4.5,Bijan Robinson Total Receptions,Bijan Robinson Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600344,Over,25484,5530831169,2.37,2.5,Xavier Legette Total Receptions,Xavier Legette Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600345,Under,25485,5530831170,1.574,2.5,Xavier Legette Total Receptions,Xavier Legette Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600236,Over,25414,5530830489,1.97,2.5,Darnell Mooney Total Receptions,Darnell Mooney Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600237,Under,25415,5530830490,1.819,2.5,Darnell Mooney Total Receptions,Darnell Mooney Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600254,Over,25426,5530831101,2.01,2.5,Jalen Coker Total Receptions,Jalen Coker Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600255,Under,25427,5530831102,1.793,2.5,Jalen Coker Total Receptions,Jalen Coker Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600242,Over,25418,5530830221,2.11,6.5,Drake London Total Receptions,Drake London Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600243,Under,25419,5530830224,1.719,6.5,Drake London Total Receptions,Drake London Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600248,Over,25422,5530831096,2.54,2.5,Ja'Tavion Sanders Total Receptions,Ja'Tavion Sanders Total Receptions,Atlanta Falcons,Carolina Panthers
+1619600249,Under,25423,5530831099,1.507,2.5,Ja'Tavion Sanders Total Receptions,Ja'Tavion Sanders Total Receptions,Atlanta Falcons,Carolina Panthers
+1619609658,Over,25570,5530831478,1.854,2.5,Colston Loveland Total Receptions,Colston Loveland Total Receptions,Minnesota Vikings,Chicago Bears
+1619609659,Under,25571,5530831479,1.934,2.5,Colston Loveland Total Receptions,Colston Loveland Total Receptions,Minnesota Vikings,Chicago Bears
+1619609661,Over,25572,5530831195,1.925,2.5,D'Andre Swift Total Receptions,D'Andre Swift Total Receptions,Minnesota Vikings,Chicago Bears
+1619609662,Under,25573,5530831196,1.862,2.5,D'Andre Swift Total Receptions,D'Andre Swift Total Receptions,Minnesota Vikings,Chicago Bears
+1619609664,Over,25574,5531393038,1.666,1.5,Jalen Nailor Total Receptions,Jalen Nailor Total Receptions,Minnesota Vikings,Chicago Bears
+1619609665,Under,25575,5531393039,2.19,1.5,Jalen Nailor Total Receptions,Jalen Nailor Total Receptions,Minnesota Vikings,Chicago Bears
+1619609655,Over,25568,5530831198,1.847,2.5,Aaron Jones Total Receptions,Aaron Jones Total Receptions,Minnesota Vikings,Chicago Bears
+1619609656,Under,25569,5530831200,1.943,2.5,Aaron Jones Total Receptions,Aaron Jones Total Receptions,Minnesota Vikings,Chicago Bears
+1619609673,Over,25580,5530831161,2.33,3.5,T.J. Hockenson Total Receptions,T.J. Hockenson Total Receptions,Minnesota Vikings,Chicago Bears
+1619609674,Under,25581,5530831162,1.595,3.5,T.J. Hockenson Total Receptions,T.J. Hockenson Total Receptions,Minnesota Vikings,Chicago Bears
+1619609667,Over,25576,5531266869,1.757,1.5,Luther Burden Total Receptions,Luther Burden Total Receptions,Minnesota Vikings,Chicago Bears
+1619609668,Under,25577,5531266870,2.05,1.5,Luther Burden Total Receptions,Luther Burden Total Receptions,Minnesota Vikings,Chicago Bears
+1619609670,Over,25578,5531429809,2.5,3.5,Olamide Zaccheaus Total Receptions,Olamide Zaccheaus Total Receptions,Minnesota Vikings,Chicago Bears
+1619609671,Under,25579,5531429810,1.52,3.5,Olamide Zaccheaus Total Receptions,Olamide Zaccheaus Total Receptions,Minnesota Vikings,Chicago Bears
+1619610418,Over,25666,5530829907,1.84,1.5,David Montgomery Total Receptions,David Montgomery Total Receptions,Philadelphia Eagles,Detroit Lions
+1619610419,Under,25667,5530829908,1.952,1.5,David Montgomery Total Receptions,David Montgomery Total Receptions,Philadelphia Eagles,Detroit Lions
+1619610493,Over,25710,5531136789,1.934,2.5,Christian Watson Total Receptions,Christian Watson Total Receptions,New York Giants,Green Bay Packers
+1619610494,Under,25711,5531136790,1.847,2.5,Christian Watson Total Receptions,Christian Watson Total Receptions,New York Giants,Green Bay Packers
+1619610496,Over,25712,5530831330,1.609,2.5,Josh Jacobs Total Receptions,Josh Jacobs Total Receptions,New York Giants,Green Bay Packers
+1619610497,Under,25713,5530831331,2.3,2.5,Josh Jacobs Total Receptions,Josh Jacobs Total Receptions,New York Giants,Green Bay Packers
+1619610505,Over,25718,5530831685,1.961,4.5,Theo Johnson Total Receptions,Theo Johnson Total Receptions,New York Giants,Green Bay Packers
+1619610506,Under,25719,5530831692,1.826,4.5,Theo Johnson Total Receptions,Theo Johnson Total Receptions,New York Giants,Green Bay Packers
+1619610508,Over,25720,5531383643,1.719,2.5,Tyrone Tracy Total Receptions,Tyrone Tracy Total Receptions,New York Giants,Green Bay Packers
+1619610509,Under,25721,5531383644,2.11,2.5,Tyrone Tracy Total Receptions,Tyrone Tracy Total Receptions,New York Giants,Green Bay Packers
+1619610511,Over,25722,5531544944,1.793,5.5,Wan'Dale Robinson Total Receptions,Wan'Dale Robinson Total Receptions,New York Giants,Green Bay Packers
+1619610512,Under,25723,5531544945,2.0,5.5,Wan'Dale Robinson Total Receptions,Wan'Dale Robinson Total Receptions,New York Giants,Green Bay Packers
+1619610499,Over,25714,5531092666,1.684,2.5,Luke Musgrave Total Receptions,Luke Musgrave Total Receptions,New York Giants,Green Bay Packers
+1619610500,Under,25715,5531092667,2.16,2.5,Luke Musgrave Total Receptions,Luke Musgrave Total Receptions,New York Giants,Green Bay Packers
+1619610502,Over,25716,5531020578,2.41,4.5,Romeo Doubs Total Receptions,Romeo Doubs Total Receptions,New York Giants,Green Bay Packers
+1619610503,Under,25717,5531020579,1.558,4.5,Romeo Doubs Total Receptions,Romeo Doubs Total Receptions,New York Giants,Green Bay Packers
+1619610637,Over,25782,5530831994,1.943,2.5,Calvin Ridley Total Receptions,Calvin Ridley Total Receptions,Tennessee Titans,Houston Texans
+1619610638,Under,25783,5530831996,1.847,2.5,Calvin Ridley Total Receptions,Calvin Ridley Total Receptions,Tennessee Titans,Houston Texans
+1619610640,Over,25784,5531210412,2.01,2.5,Chig Okonkwo Total Receptions,Chig Okonkwo Total Receptions,Tennessee Titans,Houston Texans
+1619610641,Under,25785,5531210413,1.793,2.5,Chig Okonkwo Total Receptions,Chig Okonkwo Total Receptions,Tennessee Titans,Houston Texans
+1619610649,Over,25790,5531303290,1.769,2.5,Elic Ayomanor Total Receptions,Elic Ayomanor Total Receptions,Tennessee Titans,Houston Texans
+1619610650,Under,25791,5531303291,2.04,2.5,Elic Ayomanor Total Receptions,Elic Ayomanor Total Receptions,Tennessee Titans,Houston Texans
+1619610652,Over,25792,5530831621,2.17,5.5,Nico Collins Total Receptions,Nico Collins Total Receptions,Tennessee Titans,Houston Texans
+1619610653,Under,25793,5530831622,1.68,5.5,Nico Collins Total Receptions,Nico Collins Total Receptions,Tennessee Titans,Houston Texans
+1619610643,Over,25786,5531091585,2.28,2.5,Chimere Dike Total Receptions,Chimere Dike Total Receptions,Tennessee Titans,Houston Texans
+1619610644,Under,25787,5531091586,1.617,2.5,Chimere Dike Total Receptions,Chimere Dike Total Receptions,Tennessee Titans,Houston Texans
+1619610646,Over,25788,5530831672,1.606,1.5,Christian Kirk Total Receptions,Christian Kirk Total Receptions,Tennessee Titans,Houston Texans
+1619610647,Under,25789,5530831675,2.31,1.5,Christian Kirk Total Receptions,Christian Kirk Total Receptions,Tennessee Titans,Houston Texans
+1619610749,Over,25830,5531397256,1.943,1.5,Kareem Hunt Total Receptions,Kareem Hunt Total Receptions,Denver Broncos,Kansas City Chiefs
+1619610750,Under,25831,5531397257,1.84,1.5,Kareem Hunt Total Receptions,Kareem Hunt Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572324,Over,50162,5530829266,1.584,1.5,Hollywood Brown Total Receptions,Hollywood Brown Total Receptions,Denver Broncos,Kansas City Chiefs
+1619572325,Under,50163,5530829273,2.35,1.5,Hollywood Brown Total Receptions,Hollywood Brown Total Receptions,Denver Broncos,Kansas City Chiefs
+1619595407,Over,25238,5531215911,2.01,5.5,Christian McCaffrey Total Receptions,Christian McCaffrey Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595408,Under,25239,5531215912,1.787,5.5,Christian McCaffrey Total Receptions,Christian McCaffrey Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595449,Over,25266,5531015738,1.591,3.5,Jauan Jennings Total Receptions,Jauan Jennings Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595450,Under,25267,5531015739,2.34,3.5,Jauan Jennings Total Receptions,Jauan Jennings Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595419,Over,25246,5530833006,2.09,3.5,Greg Dortch Total Receptions,Greg Dortch Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595420,Under,25247,5530833008,1.729,3.5,Greg Dortch Total Receptions,Greg Dortch Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595413,Over,25242,5531399598,1.813,4.5,George Kittle Total Receptions,George Kittle Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595414,Under,25243,5531399599,1.98,4.5,George Kittle Total Receptions,George Kittle Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595461,Over,25274,5530833098,1.666,3.5,Michael Wilson Total Receptions,Michael Wilson Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595462,Under,25275,5530833103,2.19,3.5,Michael Wilson Total Receptions,Michael Wilson Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595485,Over,25290,5531220151,1.961,7.5,Trey McBride Total Receptions,Trey McBride Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595486,Under,25291,5531220152,1.826,7.5,Trey McBride Total Receptions,Trey McBride Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595473,Over,25282,5530833105,2.26,3.5,Ricky Pearsall Total Receptions,Ricky Pearsall Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619595474,Under,25283,5530833114,1.628,3.5,Ricky Pearsall Total Receptions,Ricky Pearsall Total Receptions,Arizona Cardinals,San Francisco 49ers
+1619611793,Over,25874,5530833111,1.952,2.5,AJ Barner Total Receptions,AJ Barner Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611794,Under,25875,5530833116,1.84,2.5,AJ Barner Total Receptions,AJ Barner Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611796,Over,25876,5531346220,2.15,1.5,Colby Parkinson Total Receptions,Colby Parkinson Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611797,Under,25877,5531346221,1.694,1.5,Colby Parkinson Total Receptions,Colby Parkinson Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611802,Over,25880,5531229079,1.694,1.5,Elijah Arroyo Total Receptions,Elijah Arroyo Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611803,Under,25881,5531229080,2.15,1.5,Elijah Arroyo Total Receptions,Elijah Arroyo Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611805,Over,25882,5530833113,2.23,2.5,Kyren Williams Total Receptions,Kyren Williams Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611806,Under,25883,5530833118,1.645,2.5,Kyren Williams Total Receptions,Kyren Williams Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611808,Over,25884,5530835360,1.662,2.5,Tyler Higbee Total Receptions,Tyler Higbee Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611809,Under,25885,5530835361,2.2,2.5,Tyler Higbee Total Receptions,Tyler Higbee Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611799,Over,25878,5530833216,1.649,2.5,Cooper Kupp Total Receptions,Cooper Kupp Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619611800,Under,25879,5530833217,2.22,2.5,Cooper Kupp Total Receptions,Cooper Kupp Total Receptions,Los Angeles Rams,Seattle Seahawks
+1619613262,Over,25958,5530831635,1.625,3.5,Cade Otton Total Receptions,Cade Otton Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613263,Under,25959,5530831636,2.27,3.5,Cade Otton Total Receptions,Cade Otton Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613265,Over,25960,5531535963,2.15,2.5,Dawson Knox Total Receptions,Dawson Knox Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613266,Under,25961,5531535964,1.689,2.5,Dawson Knox Total Receptions,Dawson Knox Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613274,Over,25966,5531163588,1.555,1.5,Joshua Palmer Total Receptions,Joshua Palmer Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613275,Under,25967,5531163589,2.34,1.5,Joshua Palmer Total Receptions,Joshua Palmer Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613289,Over,25976,5531387875,1.602,2.5,Tez Johnson Total Receptions,Tez Johnson Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613290,Under,25977,5531387876,2.31,2.5,Tez Johnson Total Receptions,Tez Johnson Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613277,Over,25968,5531028733,2.14,2.5,Keon Coleman Total Receptions,Keon Coleman Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613278,Under,25969,5531028734,1.699,2.5,Keon Coleman Total Receptions,Keon Coleman Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613280,Over,25970,5531155022,1.632,4.5,Khalil Shakir Total Receptions,Khalil Shakir Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613281,Under,25971,5531155023,2.25,4.5,Khalil Shakir Total Receptions,Khalil Shakir Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613268,Over,25962,5530835435,1.917,4.5,Emeka Egbuka Total Receptions,Emeka Egbuka Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613269,Under,25963,5530835436,1.869,4.5,Emeka Egbuka Total Receptions,Emeka Egbuka Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613283,Over,25972,5530832093,1.657,2.5,Rachaad White Total Receptions,Rachaad White Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613284,Under,25973,5530832094,2.21,2.5,Rachaad White Total Receptions,Rachaad White Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613286,Over,25974,5530832644,1.452,1.5,Sterling Shepard Total Receptions,Sterling Shepard Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613287,Under,25975,5530832645,2.71,1.5,Sterling Shepard Total Receptions,Sterling Shepard Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613271,Over,25964,5530832206,2.75,2.5,James Cook Total Receptions,James Cook Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613272,Under,25965,5530832215,1.442,2.5,James Cook Total Receptions,James Cook Total Receptions,Buffalo Bills,Tampa Bay Buccaneers
+1619613513,Over,26040,5530847351,1.862,3.5,Malik Washington Total Receptions,Malik Washington Total Receptions,Miami Dolphins,Washington Commanders
+1619613514,Under,26041,5530847352,1.925,3.5,Malik Washington Total Receptions,Malik Washington Total Receptions,Miami Dolphins,Washington Commanders
+1619613507,Over,26036,5530846827,1.98,2.5,Greg Dulcich Total Receptions,Greg Dulcich Total Receptions,Miami Dolphins,Washington Commanders
+1619613508,Under,26037,5530846828,1.813,2.5,Greg Dulcich Total Receptions,Greg Dulcich Total Receptions,Miami Dolphins,Washington Commanders
+1619613510,Over,26038,5530847168,2.67,2.5,Jaylin Lane Total Receptions,Jaylin Lane Total Receptions,Miami Dolphins,Washington Commanders
+1619613511,Under,26039,5530847169,1.465,2.5,Jaylin Lane Total Receptions,Jaylin Lane Total Receptions,Miami Dolphins,Washington Commanders
+1619613516,Over,26042,5530830079,1.769,1.5,Nick Westbrook-Ikhine Total Receptions,Nick Westbrook-Ikhine Total Receptions,Miami Dolphins,Washington Commanders
+1619613517,Under,26043,5530830080,2.04,1.5,Nick Westbrook-Ikhine Total Receptions,Nick Westbrook-Ikhine Total Receptions,Miami Dolphins,Washington Commanders
+1619613626,Over,26112,5527141162,1.719,4.5,George Pickens Total Receptions,George Pickens Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613627,Under,26113,5527141163,2.05,4.5,George Pickens Total Receptions,George Pickens Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613629,Over,26114,5531551348,1.819,4.5,Jake Ferguson Total Receptions,Jake Ferguson Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613630,Under,26115,5531551349,1.925,4.5,Jake Ferguson Total Receptions,Jake Ferguson Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613632,Over,26116,5531550748,2.09,2.5,Javonte Williams Total Receptions,Javonte Williams Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613633,Under,26117,5531550749,1.689,2.5,Javonte Williams Total Receptions,Javonte Williams Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613617,Over,26106,5527083100,2.37,3.5,Ashton Jeanty Total Receptions,Ashton Jeanty Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613618,Under,26107,5527083101,1.546,3.5,Ashton Jeanty Total Receptions,Ashton Jeanty Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613620,Over,26108,5531359477,1.952,6.5,Brock Bowers Total Receptions,Brock Bowers Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613621,Under,26109,5531359478,1.8,6.5,Brock Bowers Total Receptions,Brock Bowers Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613635,Over,26118,5528045666,1.724,3.5,Tre Tucker Total Receptions,Tre Tucker Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613636,Under,26119,5528045667,2.04,3.5,Tre Tucker Total Receptions,Tre Tucker Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613623,Over,26110,5531551346,1.781,6.5,CeeDee Lamb Total Receptions,CeeDee Lamb Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619613624,Under,26111,5531551347,1.97,6.5,CeeDee Lamb Total Receptions,CeeDee Lamb Total Receptions,Las Vegas Raiders,Dallas Cowboys
+1619674046,Over,45520,5530829806,2.39,2.5,Brock Wright Total Receptions,Brock Wright Total Receptions,Philadelphia Eagles,Detroit Lions
+1619674047,Under,45521,5530829807,1.568,2.5,Brock Wright Total Receptions,Brock Wright Total Receptions,Philadelphia Eagles,Detroit Lions
+1619674050,Under,45523,5531049329,1.515,2.5,Kalif Raymond Total Receptions,Kalif Raymond Total Receptions,Philadelphia Eagles,Detroit Lions
+1619674049,Over,45522,5531049328,2.52,2.5,Kalif Raymond Total Receptions,Kalif Raymond Total Receptions,Philadelphia Eagles,Detroit Lions
+1619674736,Over,45562,5530832640,2.19,4.5,Dalton Schultz Total Receptions,Dalton Schultz Total Receptions,Tennessee Titans,Houston Texans
+1619674737,Under,45563,5530832641,1.671,4.5,Dalton Schultz Total Receptions,Dalton Schultz Total Receptions,Tennessee Titans,Houston Texans
+1619674748,Over,45570,5530832211,1.84,2.5,Tyjae Spears Total Receptions,Tyjae Spears Total Receptions,Tennessee Titans,Houston Texans
+1619674749,Under,45571,5530832219,1.952,2.5,Tyjae Spears Total Receptions,Tyjae Spears Total Receptions,Tennessee Titans,Houston Texans
+1619674745,Over,45568,5531136791,1.826,1.5,Tony Pollard Total Receptions,Tony Pollard Total Receptions,Tennessee Titans,Houston Texans
+1619674746,Under,45569,5531136792,1.961,1.5,Tony Pollard Total Receptions,Tony Pollard Total Receptions,Tennessee Titans,Houston Texans
+1619674752,Under,45573,5530832715,1.595,2.5,Woody Marks Total Receptions,Woody Marks Total Receptions,Tennessee Titans,Houston Texans
+1619674751,Over,45572,5530832711,2.33,2.5,Woody Marks Total Receptions,Woody Marks Total Receptions,Tennessee Titans,Houston Texans
+1619674742,Over,45566,5531450752,1.704,1.5,Jayden Higgins Total Receptions,Jayden Higgins Total Receptions,Tennessee Titans,Houston Texans
+1619674743,Under,45567,5531450753,2.13,1.5,Jayden Higgins Total Receptions,Jayden Higgins Total Receptions,Tennessee Titans,Houston Texans
+1619674811,Over,45608,5531396036,1.763,2.5,Travis Etienne Total Receptions,Travis Etienne Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619674812,Under,45609,5531396037,2.04,2.5,Travis Etienne Total Receptions,Travis Etienne Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619674814,Over,45610,5531336186,2.05,1.5,Tre' Harris Total Receptions,Tre' Harris Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619674815,Under,45611,5531336187,1.757,1.5,Tre' Harris Total Receptions,Tre' Harris Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619674808,Over,45606,5531152798,1.632,1.5,Kimani Vidal Total Receptions,Kimani Vidal Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
+1619674809,Under,45607,5531152799,2.25,1.5,Kimani Vidal Total Receptions,Kimani Vidal Total Receptions,Jacksonville Jaguars,Los Angeles Chargers
