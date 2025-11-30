@@ -1,102 +1,73 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,174.5,1.09,NA,NA,Pointsbet,2506414,100068145,15,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,199.5,1.21,NA,NA,Pointsbet,2506414,100068145,16,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,224.5,1.42,NA,NA,Pointsbet,2506414,100068145,17,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,249.5,1.8,NA,NA,Pointsbet,2506414,100068145,18,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,250.5,1.83,1.9,1.073,Pointsbet,2506414,100068153,15,16
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,274.5,2.4,NA,NA,Pointsbet,2506414,100068145,19,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,299.5,3.4,NA,NA,Pointsbet,2506414,100068145,20,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,324.5,5.25,NA,NA,Pointsbet,2506414,100068145,21,NA
-Baltimore Ravens v Cincinnati Bengals,Joe Burrow,Cincinnati Bengals,Passing Yards,349.5,9,NA,NA,Pointsbet,2506414,100068145,22,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,174.5,1.13,NA,NA,Pointsbet,2506414,100068145,2,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,199.5,1.31,NA,NA,Pointsbet,2506414,100068145,3,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,224.5,1.67,NA,NA,Pointsbet,2506414,100068145,4,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,235.5,1.87,1.87,1.07,Pointsbet,2506414,100068153,1,2
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,249.5,2.3,NA,NA,Pointsbet,2506414,100068145,5,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,274.5,3.3,NA,NA,Pointsbet,2506414,100068145,6,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,299.5,5,NA,NA,Pointsbet,2506414,100068145,7,NA
-Baltimore Ravens v Cincinnati Bengals,Lamar Jackson,Baltimore Ravens,Passing Yards,324.5,9,NA,NA,Pointsbet,2506414,100068145,8,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,149.5,1.14,NA,NA,Pointsbet,2509588,100037535,14,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,174.5,1.33,NA,NA,Pointsbet,2509588,100037535,15,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,199.5,1.74,NA,NA,Pointsbet,2509588,100037535,16,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,205.5,1.87,1.87,1.07,Pointsbet,2509588,100037540,19,20
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,224.5,2.35,NA,NA,Pointsbet,2509588,100037535,17,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,249.5,3.6,NA,NA,Pointsbet,2509588,100037535,18,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,274.5,5.75,NA,NA,Pointsbet,2509588,100037535,19,NA
-Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,299.5,10,NA,NA,Pointsbet,2509588,100037535,20,NA
-Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,149.5,1.67,NA,NA,Pointsbet,2509588,100037535,1,NA
-Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,155.5,1.83,1.9,1.073,Pointsbet,2509588,100037540,13,14
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,199.5,1.15,NA,NA,Pointsbet,2509586,100260289,3,NA
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,224.5,1.33,NA,NA,Pointsbet,2509586,100260289,4,NA
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,249.5,1.74,NA,NA,Pointsbet,2509586,100260289,5,NA
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,255.5,1.87,1.87,1.07,Pointsbet,2509586,100260297,9,10
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,274.5,2.5,NA,NA,Pointsbet,2509586,100260289,6,NA
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,299.5,3.7,NA,NA,Pointsbet,2509586,100260289,7,NA
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,324.5,5.75,NA,NA,Pointsbet,2509586,100260289,8,NA
+Carolina Panthers v Los Angeles Rams,Matthew Stafford,Los Angeles Rams,Passing Yards,349.5,10,NA,NA,Pointsbet,2509586,100260289,9,NA
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,149.5,1.19,NA,NA,Pointsbet,2509588,100037535,14,NA
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,174.5,1.44,NA,NA,Pointsbet,2509588,100037535,15,NA
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,195.5,1.87,1.87,1.07,Pointsbet,2509588,100037540,25,26
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,199.5,1.95,NA,NA,Pointsbet,2509588,100037535,16,NA
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,224.5,2.75,NA,NA,Pointsbet,2509588,100037535,17,NA
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,249.5,4.4,NA,NA,Pointsbet,2509588,100037535,18,NA
+Cleveland Browns v San Francisco 49ers,Brock Purdy,San Francisco 49ers,Passing Yards,274.5,7.5,NA,NA,Pointsbet,2509588,100037535,19,NA
+Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,149.5,1.69,NA,NA,Pointsbet,2509588,100037535,1,NA
+Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,155.5,1.87,1.87,1.07,Pointsbet,2509588,100037540,13,14
 Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,174.5,2.5,NA,NA,Pointsbet,2509588,100037535,2,NA
 Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,199.5,4,NA,NA,Pointsbet,2509588,100037535,3,NA
-Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,224.5,6.5,NA,NA,Pointsbet,2509588,100037535,4,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,249.5,1.18,NA,NA,Pointsbet,2506264,100005647,18,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,274.5,1.31,NA,NA,Pointsbet,2506264,100005647,19,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,299.5,1.69,NA,NA,Pointsbet,2506264,100005647,20,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,310.5,1.85,1.85,1.081,Pointsbet,2506264,100004472,45,46
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,324.5,2.3,NA,NA,Pointsbet,2506264,100005647,21,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,349.5,3.3,NA,NA,Pointsbet,2506264,100005647,22,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,374.5,5,NA,NA,Pointsbet,2506264,100005647,23,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,399.5,8.5,NA,NA,Pointsbet,2506264,100005647,24,NA
-Dallas Cowboys v Kansas City Chiefs,Dak Prescott,Dallas Cowboys,Passing Yards,424.5,12,NA,NA,Pointsbet,2506264,100005647,25,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,224.5,1.11,NA,NA,Pointsbet,2506264,100005647,4,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,249.5,1.25,NA,NA,Pointsbet,2506264,100005647,5,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,274.5,1.56,NA,NA,Pointsbet,2506264,100005647,6,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,290.5,1.85,1.85,1.081,Pointsbet,2506264,100004472,29,30
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,299.5,2.1,NA,NA,Pointsbet,2506264,100005647,7,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,324.5,3.1,NA,NA,Pointsbet,2506264,100005647,8,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,349.5,5.25,NA,NA,Pointsbet,2506264,100005647,9,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,374.5,8,NA,NA,Pointsbet,2506264,100005647,10,NA
-Dallas Cowboys v Kansas City Chiefs,Patrick Mahomes,Kansas City Chiefs,Passing Yards,399.5,16,NA,NA,Pointsbet,2506264,100005647,11,NA
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,174.5,1.15,NA,NA,Pointsbet,2509590,100004489,15,NA
+Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,224.5,7,NA,NA,Pointsbet,2509588,100037535,4,NA
+Cleveland Browns v San Francisco 49ers,Shedeur Sanders,Cleveland Browns,Passing Yards,249.5,12,NA,NA,Pointsbet,2509588,100037535,5,NA
+Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,174.5,1.14,NA,NA,Pointsbet,2509590,100004489,15,NA
 Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,199.5,1.33,NA,NA,Pointsbet,2509590,100004489,16,NA
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,224.5,1.67,NA,NA,Pointsbet,2509590,100004489,17,NA
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,235.5,1.9,1.83,1.073,Pointsbet,2509590,100004494,3,4
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,249.5,2.25,NA,NA,Pointsbet,2509590,100004489,18,NA
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,274.5,3.4,NA,NA,Pointsbet,2509590,100004489,19,NA
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,299.5,5,NA,NA,Pointsbet,2509590,100004489,20,NA
+Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,224.5,1.69,NA,NA,Pointsbet,2509590,100004489,17,NA
+Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,230.5,1.83,1.9,1.073,Pointsbet,2509590,100004494,7,8
+Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,249.5,2.35,NA,NA,Pointsbet,2509590,100004489,18,NA
+Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,274.5,3.3,NA,NA,Pointsbet,2509590,100004489,19,NA
+Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,299.5,4.75,NA,NA,Pointsbet,2509590,100004489,20,NA
 Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,324.5,8.5,NA,NA,Pointsbet,2509590,100004489,21,NA
-Indianapolis Colts v Houston Texans,C.J. Stroud,Houston Texans,Passing Yards,349.5,12,NA,NA,Pointsbet,2509590,100004489,22,NA
-Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,174.5,1.18,NA,NA,Pointsbet,2509590,100004489,2,NA
+Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,174.5,1.16,NA,NA,Pointsbet,2509590,100004489,2,NA
 Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,199.5,1.4,NA,NA,Pointsbet,2509590,100004489,3,NA
-Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,224.5,1.85,NA,NA,Pointsbet,2509590,100004489,4,NA
+Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,224.5,1.8,NA,NA,Pointsbet,2509590,100004489,4,NA
 Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,225.5,1.87,1.87,1.07,Pointsbet,2509590,100004494,1,2
 Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,249.5,2.55,NA,NA,Pointsbet,2509590,100004489,5,NA
 Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,274.5,3.9,NA,NA,Pointsbet,2509590,100004489,6,NA
-Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,299.5,5.75,NA,NA,Pointsbet,2509590,100004489,7,NA
+Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,299.5,6,NA,NA,Pointsbet,2509590,100004489,7,NA
 Indianapolis Colts v Houston Texans,Daniel Jones,Indianapolis Colts,Passing Yards,324.5,10,NA,NA,Pointsbet,2509590,100004489,8,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,149.5,1.16,NA,NA,Pointsbet,2509814,100072986,14,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,174.5,1.36,NA,NA,Pointsbet,2509814,100072986,15,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,199.5,1.8,NA,NA,Pointsbet,2509814,100072986,16,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,200.5,1.83,1.9,1.073,Pointsbet,2509814,100072991,3,4
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,224.5,2.5,NA,NA,Pointsbet,2509814,100072986,17,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,249.5,3.7,NA,NA,Pointsbet,2509814,100072986,18,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,274.5,5.75,NA,NA,Pointsbet,2509814,100072986,19,NA
-Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,299.5,10,NA,NA,Pointsbet,2509814,100072986,20,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,174.5,1.13,NA,NA,Pointsbet,2509814,100072986,2,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,199.5,1.29,NA,NA,Pointsbet,2509814,100072986,3,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,224.5,1.63,NA,NA,Pointsbet,2509814,100072986,4,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,235.5,1.87,1.87,1.07,Pointsbet,2509814,100072991,1,2
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,249.5,2.2,NA,NA,Pointsbet,2509814,100072986,5,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,274.5,3.25,NA,NA,Pointsbet,2509814,100072986,6,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,299.5,5,NA,NA,Pointsbet,2509814,100072986,7,NA
-Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,324.5,9,NA,NA,Pointsbet,2509814,100072986,8,NA
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,149.5,1.1,NA,NA,Pointsbet,2509585,100004665,1,NA
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,174.5,1.25,NA,NA,Pointsbet,2509585,100004665,2,NA
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,199.5,1.56,NA,NA,Pointsbet,2509585,100004665,3,NA
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,215.5,1.87,1.87,1.07,Pointsbet,2509585,100004670,1,2
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,224.5,2.15,NA,NA,Pointsbet,2509585,100004665,4,NA
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,249.5,3.1,NA,NA,Pointsbet,2509585,100004665,5,NA
-Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,274.5,5,NA,NA,Pointsbet,2509585,100004665,6,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,149.5,1.14,NA,NA,Pointsbet,2509814,100072986,14,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,174.5,1.33,NA,NA,Pointsbet,2509814,100072986,15,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,199.5,1.67,NA,NA,Pointsbet,2509814,100072986,16,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,210.5,1.87,1.87,1.07,Pointsbet,2509814,100072991,9,10
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,224.5,2.25,NA,NA,Pointsbet,2509814,100072986,17,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,249.5,3.3,NA,NA,Pointsbet,2509814,100072986,18,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,274.5,5,NA,NA,Pointsbet,2509814,100072986,19,NA
+Los Angeles Chargers v Las Vegas Raiders,Geno Smith,Las Vegas Raiders,Passing Yards,299.5,8.5,NA,NA,Pointsbet,2509814,100072986,20,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,174.5,1.14,NA,NA,Pointsbet,2509814,100072986,2,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,199.5,1.33,NA,NA,Pointsbet,2509814,100072986,3,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,224.5,1.71,NA,NA,Pointsbet,2509814,100072986,4,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,230.5,1.87,1.87,1.07,Pointsbet,2509814,100072991,5,6
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,249.5,2.4,NA,NA,Pointsbet,2509814,100072986,5,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,274.5,3.6,NA,NA,Pointsbet,2509814,100072986,6,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,299.5,5.75,NA,NA,Pointsbet,2509814,100072986,7,NA
+Los Angeles Chargers v Las Vegas Raiders,Justin Herbert,Los Angeles Chargers,Passing Yards,324.5,10,NA,NA,Pointsbet,2509814,100072986,8,NA
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,149.5,1.09,NA,NA,Pointsbet,2509585,100004665,1,NA
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,174.5,1.22,NA,NA,Pointsbet,2509585,100004665,2,NA
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,199.5,1.5,NA,NA,Pointsbet,2509585,100004665,3,NA
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,220.5,1.9,1.83,1.073,Pointsbet,2509585,100004670,5,6
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,224.5,2,NA,NA,Pointsbet,2509585,100004665,4,NA
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,249.5,3,NA,NA,Pointsbet,2509585,100004665,5,NA
+Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,274.5,4.75,NA,NA,Pointsbet,2509585,100004665,6,NA
 Miami Dolphins v New Orleans Saints,Tua Tagovailoa,Miami Dolphins,Passing Yards,299.5,8.5,NA,NA,Pointsbet,2509585,100004665,7,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,149.5,1.11,NA,NA,Pointsbet,2509585,100004665,14,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,174.5,1.25,NA,NA,Pointsbet,2509585,100004665,15,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,199.5,1.53,NA,NA,Pointsbet,2509585,100004665,16,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,220.5,1.9,1.83,1.073,Pointsbet,2509585,100004670,3,4
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,224.5,2,NA,NA,Pointsbet,2509585,100004665,17,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,249.5,2.75,NA,NA,Pointsbet,2509585,100004665,18,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,274.5,4.2,NA,NA,Pointsbet,2509585,100004665,19,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,299.5,6,NA,NA,Pointsbet,2509585,100004665,20,NA
-Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,324.5,10,NA,NA,Pointsbet,2509585,100004665,21,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,149.5,1.15,NA,NA,Pointsbet,2509585,100004665,14,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,174.5,1.33,NA,NA,Pointsbet,2509585,100004665,15,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,199.5,1.74,NA,NA,Pointsbet,2509585,100004665,16,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,205.5,1.87,1.87,1.07,Pointsbet,2509585,100004670,15,16
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,224.5,2.4,NA,NA,Pointsbet,2509585,100004665,17,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,249.5,3.7,NA,NA,Pointsbet,2509585,100004665,18,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,274.5,5.75,NA,NA,Pointsbet,2509585,100004665,19,NA
+Miami Dolphins v New Orleans Saints,Tyler Shough,New Orleans Saints,Passing Yards,299.5,10,NA,NA,Pointsbet,2509585,100004665,20,NA
 New England Patriots v New York Giants,Drake Maye,New England Patriots,Passing Yards,174.5,1.09,NA,NA,Pointsbet,2511366,100004429,15,NA
 New England Patriots v New York Giants,Drake Maye,New England Patriots,Passing Yards,199.5,1.22,NA,NA,Pointsbet,2511366,100004429,16,NA
 New England Patriots v New York Giants,Drake Maye,New England Patriots,Passing Yards,224.5,1.5,NA,NA,Pointsbet,2511366,100004429,17,NA
@@ -115,96 +86,95 @@ New England Patriots v New York Giants,Jaxson Dart,New York Giants,Passing Yards
 New England Patriots v New York Giants,Jaxson Dart,New York Giants,Passing Yards,274.5,5.25,NA,NA,Pointsbet,2511366,100004429,6,NA
 New England Patriots v New York Giants,Jaxson Dart,New York Giants,Passing Yards,299.5,10,NA,NA,Pointsbet,2511366,100004429,7,NA
 New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,149.5,1.21,NA,NA,Pointsbet,2509589,100073212,14,NA
-New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,174.5,1.48,NA,NA,Pointsbet,2509589,100073212,15,NA
-New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,195.5,1.87,1.87,1.07,Pointsbet,2509589,100073218,5,6
-New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,199.5,1.95,NA,NA,Pointsbet,2509589,100073212,16,NA
+New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,174.5,1.5,NA,NA,Pointsbet,2509589,100073212,15,NA
+New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,195.5,1.9,1.83,1.073,Pointsbet,2509589,100073218,5,6
+New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,199.5,2,NA,NA,Pointsbet,2509589,100073212,16,NA
 New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,224.5,2.85,NA,NA,Pointsbet,2509589,100073212,17,NA
-New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,249.5,4.4,NA,NA,Pointsbet,2509589,100073212,18,NA
-New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,274.5,7.5,NA,NA,Pointsbet,2509589,100073212,19,NA
-New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,299.5,12,NA,NA,Pointsbet,2509589,100073212,20,NA
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,149.5,1.31,NA,NA,Pointsbet,2509589,100073212,1,NA
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,174.5,1.71,NA,NA,Pointsbet,2509589,100073212,2,NA
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,180.5,1.87,1.87,1.07,Pointsbet,2509589,100073218,1,2
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,199.5,2.4,NA,NA,Pointsbet,2509589,100073212,3,NA
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,224.5,3.7,NA,NA,Pointsbet,2509589,100073212,4,NA
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,249.5,5.75,NA,NA,Pointsbet,2509589,100073212,5,NA
-New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,274.5,10,NA,NA,Pointsbet,2509589,100073212,6,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,149.5,1.15,NA,NA,Pointsbet,2507405,100005776,1,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,174.5,1.33,NA,NA,Pointsbet,2507405,100005776,2,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,199.5,1.69,NA,NA,Pointsbet,2507405,100005776,3,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,210.5,1.9,1.83,1.073,Pointsbet,2507405,100004746,3,4
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,224.5,2.3,NA,NA,Pointsbet,2507405,100005776,4,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,249.5,3.3,NA,NA,Pointsbet,2507405,100005776,5,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,274.5,5,NA,NA,Pointsbet,2507405,100005776,6,NA
-Philadelphia Eagles v Chicago Bears,Caleb Williams,Chicago Bears,Passing Yards,299.5,8,NA,NA,Pointsbet,2507405,100005776,7,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,149.5,1.14,NA,NA,Pointsbet,2507405,100005776,14,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,174.5,1.33,NA,NA,Pointsbet,2507405,100005776,15,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,199.5,1.74,NA,NA,Pointsbet,2507405,100005776,16,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,205.5,1.87,1.87,1.07,Pointsbet,2507405,100004746,13,14
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,224.5,2.5,NA,NA,Pointsbet,2507405,100005776,17,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,249.5,3.7,NA,NA,Pointsbet,2507405,100005776,18,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,274.5,5.75,NA,NA,Pointsbet,2507405,100005776,19,NA
-Philadelphia Eagles v Chicago Bears,Jalen Hurts,Philadelphia Eagles,Passing Yards,299.5,10,NA,NA,Pointsbet,2507405,100005776,20,NA
-Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,149.5,1.14,NA,NA,Pointsbet,2509817,100050334,1,NA
-Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,174.5,1.33,NA,NA,Pointsbet,2509817,100050334,2,NA
+New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,249.5,4.5,NA,NA,Pointsbet,2509589,100073212,18,NA
+New York Jets v Atlanta Falcons,Kirk Cousins,Atlanta Falcons,Passing Yards,274.5,8,NA,NA,Pointsbet,2509589,100073212,19,NA
+New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,149.5,1.48,NA,NA,Pointsbet,2509589,100073212,1,NA
+New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,170.5,1.9,1.83,1.073,Pointsbet,2509589,100073218,13,14
+New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,174.5,2,NA,NA,Pointsbet,2509589,100073212,2,NA
+New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,199.5,3,NA,NA,Pointsbet,2509589,100073212,3,NA
+New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,224.5,4.75,NA,NA,Pointsbet,2509589,100073212,4,NA
+New York Jets v Atlanta Falcons,Tyrod Taylor,New York Jets,Passing Yards,249.5,8.5,NA,NA,Pointsbet,2509589,100073212,5,NA
+Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,149.5,1.15,NA,NA,Pointsbet,2509817,100050334,1,NA
+Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,174.5,1.36,NA,NA,Pointsbet,2509817,100050334,2,NA
 Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,199.5,1.77,NA,NA,Pointsbet,2509817,100050334,3,NA
-Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,200.5,1.83,1.9,1.073,Pointsbet,2509817,100050339,1,2
-Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,224.5,2.5,NA,NA,Pointsbet,2509817,100050334,4,NA
+Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,205.5,1.9,1.83,1.073,Pointsbet,2509817,100050339,7,8
+Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,224.5,2.55,NA,NA,Pointsbet,2509817,100050334,4,NA
 Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,249.5,3.9,NA,NA,Pointsbet,2509817,100050334,5,NA
 Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,274.5,6,NA,NA,Pointsbet,2509817,100050334,6,NA
-Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,299.5,10.5,NA,NA,Pointsbet,2509817,100050334,7,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,174.5,1.13,NA,NA,Pointsbet,2509817,100050334,15,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,199.5,1.27,NA,NA,Pointsbet,2509817,100050334,16,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,224.5,1.59,NA,NA,Pointsbet,2509817,100050334,17,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,240.5,1.87,1.87,1.07,Pointsbet,2509817,100050339,3,4
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,249.5,2.1,NA,NA,Pointsbet,2509817,100050334,18,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,274.5,2.9,NA,NA,Pointsbet,2509817,100050334,19,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,299.5,4.4,NA,NA,Pointsbet,2509817,100050334,20,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,324.5,7,NA,NA,Pointsbet,2509817,100050334,21,NA
-Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,349.5,11,NA,NA,Pointsbet,2509817,100050334,22,NA
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,149.5,1.33,NA,NA,Pointsbet,2509732,100077662,14,NA
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,174.5,1.77,NA,NA,Pointsbet,2509732,100077662,15,NA
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,175.5,1.83,1.9,1.073,Pointsbet,2509732,100077667,15,16
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,199.5,2.55,NA,NA,Pointsbet,2509732,100077662,16,NA
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,224.5,4,NA,NA,Pointsbet,2509732,100077662,17,NA
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,249.5,6.5,NA,NA,Pointsbet,2509732,100077662,18,NA
-Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,274.5,13,NA,NA,Pointsbet,2509732,100077662,19,NA
+Pittsburgh Steelers v Buffalo Bills,Aaron Rodgers,Pittsburgh Steelers,Passing Yards,299.5,11,NA,NA,Pointsbet,2509817,100050334,7,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,174.5,1.15,NA,NA,Pointsbet,2509817,100050334,15,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,199.5,1.33,NA,NA,Pointsbet,2509817,100050334,16,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,224.5,1.71,NA,NA,Pointsbet,2509817,100050334,17,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,230.5,1.87,1.87,1.07,Pointsbet,2509817,100050339,11,12
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,249.5,2.35,NA,NA,Pointsbet,2509817,100050334,18,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,274.5,3.3,NA,NA,Pointsbet,2509817,100050334,19,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,299.5,5,NA,NA,Pointsbet,2509817,100050334,20,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,324.5,8.5,NA,NA,Pointsbet,2509817,100050334,21,NA
+Pittsburgh Steelers v Buffalo Bills,Josh Allen,Buffalo Bills,Passing Yards,349.5,12,NA,NA,Pointsbet,2509817,100050334,22,NA
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,149.5,1.36,NA,NA,Pointsbet,2509732,100077662,14,NA
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,174.5,1.85,NA,NA,Pointsbet,2509732,100077662,15,NA
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,175.5,1.87,1.87,1.07,Pointsbet,2509732,100077667,15,16
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,199.5,2.7,NA,NA,Pointsbet,2509732,100077662,16,NA
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,224.5,4.2,NA,NA,Pointsbet,2509732,100077662,17,NA
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,249.5,7.5,NA,NA,Pointsbet,2509732,100077662,18,NA
+Seattle Seahawks v Minnesota Vikings,Max Brosmer,Minnesota Vikings,Passing Yards,274.5,12,NA,NA,Pointsbet,2509732,100077662,19,NA
 Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,174.5,1.18,NA,NA,Pointsbet,2509732,100077662,2,NA
-Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,199.5,1.4,NA,NA,Pointsbet,2509732,100077662,3,NA
-Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,224.5,1.8,NA,NA,Pointsbet,2509732,100077662,4,NA
-Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,225.5,1.87,1.87,1.07,Pointsbet,2509732,100077667,19,20
-Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,249.5,2.55,NA,NA,Pointsbet,2509732,100077662,5,NA
-Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,274.5,3.7,NA,NA,Pointsbet,2509732,100077662,6,NA
+Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,199.5,1.36,NA,NA,Pointsbet,2509732,100077662,3,NA
+Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,224.5,1.77,NA,NA,Pointsbet,2509732,100077662,4,NA
+Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,230.5,1.9,1.83,1.073,Pointsbet,2509732,100077667,1,2
+Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,249.5,2.5,NA,NA,Pointsbet,2509732,100077662,5,NA
+Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,274.5,3.9,NA,NA,Pointsbet,2509732,100077662,6,NA
 Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,299.5,5.75,NA,NA,Pointsbet,2509732,100077662,7,NA
 Seattle Seahawks v Minnesota Vikings,Sam Darnold,Seattle Seahawks,Passing Yards,324.5,10,NA,NA,Pointsbet,2509732,100077662,8,NA
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,149.5,1.18,NA,NA,Pointsbet,2509592,100005696,1,NA
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,174.5,1.42,NA,NA,Pointsbet,2509592,100005696,2,NA
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,195.5,1.83,1.9,1.073,Pointsbet,2509592,100004638,5,6
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,199.5,1.9,NA,NA,Pointsbet,2509592,100005696,3,NA
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,224.5,2.75,NA,NA,Pointsbet,2509592,100005696,4,NA
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,249.5,4.4,NA,NA,Pointsbet,2509592,100005696,5,NA
-Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,274.5,7.5,NA,NA,Pointsbet,2509592,100005696,6,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,174.5,1.18,NA,NA,Pointsbet,2509587,100236438,2,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,199.5,1.36,NA,NA,Pointsbet,2509587,100236438,3,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,224.5,1.77,NA,NA,Pointsbet,2509587,100236438,4,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,230.5,1.87,1.87,1.07,Pointsbet,2509587,100235025,9,10
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,249.5,2.4,NA,NA,Pointsbet,2509587,100236438,5,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,274.5,3.6,NA,NA,Pointsbet,2509587,100236438,6,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,299.5,5.25,NA,NA,Pointsbet,2509587,100236438,7,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Baker Mayfield,Tampa Bay Buccaneers,Passing Yards,324.5,9.5,NA,NA,Pointsbet,2509587,100236438,8,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,199.5,1.15,NA,NA,Pointsbet,2509587,100236438,16,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,224.5,1.31,NA,NA,Pointsbet,2509587,100236438,17,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,249.5,1.59,NA,NA,Pointsbet,2509587,100236438,18,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,265.5,1.87,1.87,1.07,Pointsbet,2509587,100235025,15,16
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,274.5,2.05,NA,NA,Pointsbet,2509587,100236438,19,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,299.5,2.75,NA,NA,Pointsbet,2509587,100236438,20,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,324.5,4,NA,NA,Pointsbet,2509587,100236438,21,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,349.5,6,NA,NA,Pointsbet,2509587,100236438,22,NA
+Tampa Bay Buccaneers v Arizona Cardinals,Jacoby Brissett,Arizona Cardinals,Passing Yards,374.5,10,NA,NA,Pointsbet,2509587,100236438,23,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,149.5,1.11,NA,NA,Pointsbet,2509592,100005696,1,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,174.5,1.29,NA,NA,Pointsbet,2509592,100005696,2,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,199.5,1.63,NA,NA,Pointsbet,2509592,100005696,3,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,210.5,1.83,1.9,1.073,Pointsbet,2509592,100004638,21,22
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,224.5,2.2,NA,NA,Pointsbet,2509592,100005696,4,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,249.5,3.1,NA,NA,Pointsbet,2509592,100005696,5,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,274.5,4.75,NA,NA,Pointsbet,2509592,100005696,6,NA
+Tennessee Titans v Jacksonville Jaguars,Cameron Ward,NA,Passing Yards,299.5,8,NA,NA,Pointsbet,2509592,100005696,7,NA
 Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,174.5,1.22,NA,NA,Pointsbet,2509592,100005696,15,NA
-Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,199.5,1.5,NA,NA,Pointsbet,2509592,100005696,16,NA
-Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,220.5,1.9,1.83,1.073,Pointsbet,2509592,100004638,11,12
+Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,199.5,1.48,NA,NA,Pointsbet,2509592,100005696,16,NA
+Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,220.5,1.87,1.87,1.07,Pointsbet,2509592,100004638,11,12
 Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,224.5,2,NA,NA,Pointsbet,2509592,100005696,17,NA
-Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,249.5,2.85,NA,NA,Pointsbet,2509592,100005696,18,NA
-Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,274.5,4.4,NA,NA,Pointsbet,2509592,100005696,19,NA
+Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,249.5,2.75,NA,NA,Pointsbet,2509592,100005696,18,NA
+Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,274.5,4.2,NA,NA,Pointsbet,2509592,100005696,19,NA
 Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,299.5,7,NA,NA,Pointsbet,2509592,100005696,20,NA
-Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,324.5,12,NA,NA,Pointsbet,2509592,100005696,21,NA
+Tennessee Titans v Jacksonville Jaguars,Trevor Lawrence,Jacksonville Jaguars,Passing Yards,324.5,11,NA,NA,Pointsbet,2509592,100005696,21,NA
 Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,174.5,1.19,NA,NA,Pointsbet,2509944,100130646,15,NA
-Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,199.5,1.42,NA,NA,Pointsbet,2509944,100130646,16,NA
-Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,224.5,1.85,NA,NA,Pointsbet,2509944,100130646,17,NA
-Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,225.5,1.87,1.87,1.07,Pointsbet,2509944,100130654,3,4
-Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,249.5,2.6,NA,NA,Pointsbet,2509944,100130646,18,NA
+Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,199.5,1.4,NA,NA,Pointsbet,2509944,100130646,16,NA
+Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,220.5,1.83,1.9,1.073,Pointsbet,2509944,100130654,5,6
+Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,224.5,1.9,NA,NA,Pointsbet,2509944,100130646,17,NA
+Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,249.5,2.7,NA,NA,Pointsbet,2509944,100130646,18,NA
 Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,274.5,4,NA,NA,Pointsbet,2509944,100130646,19,NA
 Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,299.5,6,NA,NA,Pointsbet,2509944,100130646,20,NA
 Washington Commanders v Denver Broncos,Bo Nix,Denver Broncos,Passing Yards,324.5,10.5,NA,NA,Pointsbet,2509944,100130646,21,NA
-Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,149.5,1.24,NA,NA,Pointsbet,2509944,100130646,1,NA
-Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,174.5,1.53,NA,NA,Pointsbet,2509944,100130646,2,NA
+Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,149.5,1.25,NA,NA,Pointsbet,2509944,100130646,1,NA
+Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,174.5,1.56,NA,NA,Pointsbet,2509944,100130646,2,NA
 Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,190.5,1.87,1.87,1.07,Pointsbet,2509944,100130654,1,2
-Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,199.5,2.1,NA,NA,Pointsbet,2509944,100130646,3,NA
+Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,199.5,2.15,NA,NA,Pointsbet,2509944,100130646,3,NA
 Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,224.5,3.1,NA,NA,Pointsbet,2509944,100130646,4,NA
 Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,249.5,4.75,NA,NA,Pointsbet,2509944,100130646,5,NA
-Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,274.5,8,NA,NA,Pointsbet,2509944,100130646,6,NA
-Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,299.5,12,NA,NA,Pointsbet,2509944,100130646,7,NA
+Washington Commanders v Denver Broncos,Marcus Mariota,Washington Commanders,Passing Yards,274.5,8.5,NA,NA,Pointsbet,2509944,100130646,6,NA
