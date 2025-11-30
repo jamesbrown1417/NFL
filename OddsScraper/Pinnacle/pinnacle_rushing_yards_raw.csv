@@ -9,24 +9,24 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1620371491,Under,40011,5577488444,1.775,14.5,C.J. Stroud Total Rushing Yards,C.J. Stroud Total Rushing Yards,Indianapolis Colts,Houston Texans
 1620371523,Over,40032,5577489989,1.892,17.5,Nick Chubb Total Rushing Yards,Nick Chubb Total Rushing Yards,Indianapolis Colts,Houston Texans
 1620371524,Under,40033,5577489990,1.892,17.5,Nick Chubb Total Rushing Yards,Nick Chubb Total Rushing Yards,Indianapolis Colts,Houston Texans
-1620371535,Over,40040,5577489751,1.862,52.5,Woody Marks Total Rushing Yards,Woody Marks Total Rushing Yards,Indianapolis Colts,Houston Texans
-1620371536,Under,40041,5577489752,1.925,52.5,Woody Marks Total Rushing Yards,Woody Marks Total Rushing Yards,Indianapolis Colts,Houston Texans
-1620371799,Over,40208,5579634353,1.884,21.5,Tyjae Spears Total Rushing Yards,Tyjae Spears Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
-1620371800,Under,40209,5579634354,1.9,21.5,Tyjae Spears Total Rushing Yards,Tyjae Spears Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
+1620371535,Over,40040,5580141376,1.854,52.5,Woody Marks Total Rushing Yards,Woody Marks Total Rushing Yards,Indianapolis Colts,Houston Texans
+1620371536,Under,40041,5580141377,1.934,52.5,Woody Marks Total Rushing Yards,Woody Marks Total Rushing Yards,Indianapolis Colts,Houston Texans
+1620371799,Over,40208,5579931026,1.892,21.5,Tyjae Spears Total Rushing Yards,Tyjae Spears Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
+1620371800,Under,40209,5579931027,1.892,21.5,Tyjae Spears Total Rushing Yards,Tyjae Spears Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371736,Over,40170,5579437013,1.74,13.5,Cam Ward Total Rushing Yards,Cam Ward Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371737,Under,40171,5579437014,2.07,13.5,Cam Ward Total Rushing Yards,Cam Ward Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371778,Over,40196,5579625270,1.819,15.5,Trevor Lawrence Total Rushing Yards,Trevor Lawrence Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371779,Under,40197,5579625271,1.97,15.5,Trevor Lawrence Total Rushing Yards,Trevor Lawrence Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
-1620371760,Over,40186,5579310852,1.74,63.5,Travis Etienne Total Rushing Yards,Travis Etienne Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
-1620371761,Under,40187,5579310853,2.08,63.5,Travis Etienne Total Rushing Yards,Travis Etienne Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
+1620371760,Over,40186,5580266549,1.751,63.5,Travis Etienne Total Rushing Yards,Travis Etienne Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
+1620371761,Under,40187,5580266550,2.06,63.5,Travis Etienne Total Rushing Yards,Travis Etienne Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371754,Over,40180,5577488778,1.813,38.5,Tony Pollard Total Rushing Yards,Tony Pollard Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371755,Under,40181,5577488779,1.98,38.5,Tony Pollard Total Rushing Yards,Tony Pollard Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371724,Over,40162,5577488146,1.862,27.5,Bhayshul Tuten Total Rushing Yards,Bhayshul Tuten Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371725,Under,40163,5577488147,1.925,27.5,Bhayshul Tuten Total Rushing Yards,Bhayshul Tuten Total Rushing Yards,Tennessee Titans,Jacksonville Jaguars
 1620371655,Over,40116,5577489488,2.03,65.5,Kyren Williams Total Rushing Yards,Kyren Williams Total Rushing Yards,Carolina Panthers,Los Angeles Rams
 1620371656,Under,40117,5577489489,1.775,65.5,Kyren Williams Total Rushing Yards,Kyren Williams Total Rushing Yards,Carolina Panthers,Los Angeles Rams
-1620371680,Under,40133,5579662649,1.833,59.5,Rico Dowdle Total Rushing Yards,Rico Dowdle Total Rushing Yards,Carolina Panthers,Los Angeles Rams
-1620371679,Over,40132,5579662648,1.961,59.5,Rico Dowdle Total Rushing Yards,Rico Dowdle Total Rushing Yards,Carolina Panthers,Los Angeles Rams
+1620371680,Under,40133,5580045964,1.833,59.5,Rico Dowdle Total Rushing Yards,Rico Dowdle Total Rushing Yards,Carolina Panthers,Los Angeles Rams
+1620371679,Over,40132,5580045963,1.952,59.5,Rico Dowdle Total Rushing Yards,Rico Dowdle Total Rushing Yards,Carolina Panthers,Los Angeles Rams
 1620371613,Over,40090,5579247563,1.826,27.5,Jordan Mason Total Rushing Yards,Jordan Mason Total Rushing Yards,Seattle Seahawks,Minnesota Vikings
 1620371614,Under,40091,5579247564,1.934,27.5,Jordan Mason Total Rushing Yards,Jordan Mason Total Rushing Yards,Seattle Seahawks,Minnesota Vikings
 1620371646,Over,40110,5579240712,1.833,32.5,Zach Charbonnet Total Rushing Yards,Zach Charbonnet Total Rushing Yards,Seattle Seahawks,Minnesota Vikings
@@ -37,8 +37,8 @@ id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
 1620371599,Under,40081,5577969232,1.806,42.5,Aaron Jones Total Rushing Yards,Aaron Jones Total Rushing Yards,Seattle Seahawks,Minnesota Vikings
 1620371460,Over,39990,5579592571,1.757,79.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Miami Dolphins,New Orleans Saints
 1620371461,Under,39991,5579592572,2.05,79.5,De'Von Achane Total Rushing Yards,De'Von Achane Total Rushing Yards,Miami Dolphins,New Orleans Saints
-1620371445,Over,39982,5579274835,1.884,10.5,Shedeur Sanders Total Rushing Yards,Shedeur Sanders Total Rushing Yards,Cleveland Browns,San Francisco 49ers
-1620371446,Under,39983,5579274836,1.9,10.5,Shedeur Sanders Total Rushing Yards,Shedeur Sanders Total Rushing Yards,Cleveland Browns,San Francisco 49ers
+1620371445,Over,39982,5579816846,1.877,10.5,Shedeur Sanders Total Rushing Yards,Shedeur Sanders Total Rushing Yards,Cleveland Browns,San Francisco 49ers
+1620371446,Under,39983,5579816847,1.909,10.5,Shedeur Sanders Total Rushing Yards,Shedeur Sanders Total Rushing Yards,Cleveland Browns,San Francisco 49ers
 1620371430,Over,39970,5577488445,1.925,68.5,Christian McCaffrey Total Rushing Yards,Christian McCaffrey Total Rushing Yards,Cleveland Browns,San Francisco 49ers
 1620371431,Under,39971,5577488446,1.862,68.5,Christian McCaffrey Total Rushing Yards,Christian McCaffrey Total Rushing Yards,Cleveland Browns,San Francisco 49ers
 1620371436,Over,39974,5578030053,1.917,69.5,Quinshon Judkins Total Rushing Yards,Quinshon Judkins Total Rushing Yards,Cleveland Browns,San Francisco 49ers
