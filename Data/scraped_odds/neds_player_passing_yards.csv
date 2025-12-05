@@ -1,16 +1,155 @@
 match,home_team,away_team,market,player_name,player_team,opposition_team,line,over_price,under_price,agency
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,174.5,1.11,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,199.5,1.26,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,224.5,1.53,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,244.5,1.88,1.88,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,249.5,1.96,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,274.5,2.75,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,299.5,4.2,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Drake Maye,New England Patriots,New York Giants,324.5,7.25,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,149.5,1.19,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,174.5,1.4,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,199.5,1.77,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,204.5,1.88,1.88,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,224.5,2.4,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,249.5,3.6,NA,Neds
-New England Patriots v New York Giants,New England Patriots,New York Giants,Passing Yards,Jaxson Dart,New York Giants,New England Patriots,274.5,5.8,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,199.5,1.17,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,224.5,1.3599999999999999,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,249.5,1.7,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,258.5,1.88,1.88,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,274.5,2.25,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,299.5,3.25,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,324.5,5.2,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,349.5,9.25,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,199.5,1.15,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,224.5,1.33,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,249.5,1.6400000000000001,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,262.5,1.88,1.88,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,274.5,2.15,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,299.5,3.05,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,324.5,4.8,NA,Neds
+Arizona Cardinals v Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Passing Yards,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,349.5,8.25,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,124.5,1.09,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,149.5,1.24,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,174.5,1.5,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,196.5,1.88,1.88,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,199.5,1.92,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,224.5,2.7,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,249.5,4.1,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Kirk Cousins,Atlanta Falcons,Seattle Seahawks,274.5,7,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,174.5,1.16,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,199.5,1.35,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,224.5,1.6800000000000002,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,234.5,1.88,1.88,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,249.5,2.25,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,274.5,3.25,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,299.5,5.2,NA,Neds
+Atlanta Falcons v Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Passing Yards,Sam Darnold,Seattle Seahawks,Atlanta Falcons,324.5,9.25,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,199.5,1.19,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,224.5,1.4,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,249.5,1.77,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,254.5,1.88,1.88,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,274.5,2.4,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,299.5,3.5,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Joe Burrow,Cincinnati Bengals,Buffalo Bills,324.5,5.75,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,174.5,1.16,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,199.5,1.35,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,224.5,1.6800000000000002,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,234.5,1.88,1.88,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,249.5,2.25,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,274.5,3.25,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,299.5,5.2,NA,Neds
+Buffalo Bills v Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Passing Yards,Josh Allen,Buffalo Bills,Cincinnati Bengals,324.5,9.25,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,124.5,1.19,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,149.5,1.4,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,174.5,1.78,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,178.5,1.88,1.88,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,199.5,2.45,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,224.5,3.7,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Cam Ward,Tennessee Titans,Cleveland Browns,249.5,6.2,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,99.5,1.15,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,124.5,1.35,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,149.5,1.7,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,158.5,1.88,1.88,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,174.5,2.3,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,199.5,3.35,NA,Neds
+Cleveland Browns v Tennessee Titans,Cleveland Browns,Tennessee Titans,Passing Yards,Shedeur Sanders,Cleveland Browns,Tennessee Titans,224.5,5.6,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,199.5,1.12,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,224.5,1.25,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,249.5,1.53,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,268.5,1.85,1.9,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,274.5,1.98,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,299.5,2.75,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,324.5,4.2,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Dak Prescott,Dallas Cowboys,Detroit Lions,349.5,7,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,199.5,1.2,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,224.5,1.4,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,249.5,1.8,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,251.5,1.85,1.9,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,274.5,2.45,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,299.5,3.6,NA,Neds
+Detroit Lions v Dallas Cowboys,Detroit Lions,Dallas Cowboys,Passing Yards,Jared Goff,Detroit Lions,Dallas Cowboys,324.5,5.8,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,124.5,1.12,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,149.5,1.28,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,174.5,1.55,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,191.5,1.88,1.88,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,199.5,2.05,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,224.5,2.9,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,249.5,4.6,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Caleb Williams,Chicago Bears,Green Bay Packers,274.5,8,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,149.5,1.12,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,174.5,1.3,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,199.5,1.58,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,215.5,1.88,1.88,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,224.5,2.05,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,249.5,2.95,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,274.5,4.6,NA,Neds
+Green Bay Packers v Chicago Bears,Green Bay Packers,Chicago Bears,Passing Yards,Jordan Love,Green Bay Packers,Chicago Bears,299.5,8,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,174.5,1.12,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,199.5,1.28,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,224.5,1.55,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,242.5,1.88,1.88,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,249.5,2.02,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,274.5,2.85,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,299.5,4.4,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Daniel Jones,Indianapolis Colts,Jacksonville Jaguars,324.5,7.5,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,149.5,1.1,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,174.5,1.25,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,199.5,1.5,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,220.5,1.88,1.88,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,224.5,1.95,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,249.5,2.7,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,274.5,4.2,NA,Neds
+Jacksonville Jaguars v Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Passing Yards,Trevor Lawrence,Jacksonville Jaguars,Indianapolis Colts,299.5,7.25,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,174.5,1.17,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,199.5,1.3599999999999999,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,224.5,1.7,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,232.5,1.88,1.88,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,249.5,2.3,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,274.5,3.35,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,C.J. Stroud,Houston Texans,Kansas City Chiefs,299.5,5.4,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,174.5,1.13,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,199.5,1.3,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,224.5,1.6,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,239.5,1.88,1.88,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,249.5,2.1,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,274.5,3,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,299.5,4.6,NA,Neds
+Kansas City Chiefs v Houston Texans,Kansas City Chiefs,Houston Texans,Passing Yards,Patrick Mahomes,Kansas City Chiefs,Houston Texans,324.5,8,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,149.5,1.12,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,174.5,1.28,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,199.5,1.5699999999999998,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,216.5,1.88,1.88,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,224.5,2.05,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,249.5,2.9,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,274.5,4.5,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Bo Nix,Denver Broncos,Las Vegas Raiders,299.5,8,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,124.5,1.09,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,149.5,1.24,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,174.5,1.48,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,197.5,1.88,1.88,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,199.5,1.9100000000000001,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,224.5,2.65,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,249.5,4.1,NA,Neds
+Las Vegas Raiders v Denver Broncos,Las Vegas Raiders,Denver Broncos,Passing Yards,Geno Smith,Las Vegas Raiders,Denver Broncos,274.5,7,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,149.5,1.12,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,174.5,1.28,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,199.5,1.5699999999999998,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,216.5,1.88,1.88,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,224.5,2.05,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,249.5,2.9,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,274.5,4.5,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tua Tagovailoa,Miami Dolphins,New York Jets,299.5,8,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,124.5,1.19,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,149.5,1.42,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,174.5,1.8,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,177.5,1.88,1.88,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,199.5,2.45,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,224.5,3.75,NA,Neds
+New York Jets v Miami Dolphins,New York Jets,Miami Dolphins,Passing Yards,Tyrod Taylor,New York Jets,Miami Dolphins,249.5,6.25,NA,Neds

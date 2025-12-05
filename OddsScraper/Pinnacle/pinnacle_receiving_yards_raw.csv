@@ -1,23 +1,141 @@
 id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
-1620435286,Over,30722,5584399531,1.961,34.5,Mack Hollins Total Receiving Yards,Mack Hollins Total Receiving Yards,New England Patriots,New York Giants
-1620435287,Under,30723,5584399532,1.826,34.5,Mack Hollins Total Receiving Yards,Mack Hollins Total Receiving Yards,New England Patriots,New York Giants
-1620435250,Over,30714,5584047305,1.892,33.5,Darius Slayton Total Receiving Yards,Darius Slayton Total Receiving Yards,New England Patriots,New York Giants
-1620435251,Under,30715,5584047306,1.892,33.5,Darius Slayton Total Receiving Yards,Darius Slayton Total Receiving Yards,New England Patriots,New York Giants
-1620435296,Over,30724,5584047631,1.892,47.5,Stefon Diggs Total Receiving Yards,Stefon Diggs Total Receiving Yards,New England Patriots,New York Giants
-1620435297,Under,30725,5584047632,1.892,47.5,Stefon Diggs Total Receiving Yards,Stefon Diggs Total Receiving Yards,New England Patriots,New York Giants
-1620435360,Over,30732,5584048132,1.98,59.5,Wan'Dale Robinson Total Receiving Yards,Wan'Dale Robinson Total Receiving Yards,New England Patriots,New York Giants
-1620435361,Under,30733,5584048133,1.813,59.5,Wan'Dale Robinson Total Receiving Yards,Wan'Dale Robinson Total Receiving Yards,New England Patriots,New York Giants
-1620435263,Over,30718,5584047468,1.892,38.5,Hunter Henry Total Receiving Yards,Hunter Henry Total Receiving Yards,New England Patriots,New York Giants
-1620435264,Under,30719,5584047469,1.892,38.5,Hunter Henry Total Receiving Yards,Hunter Henry Total Receiving Yards,New England Patriots,New York Giants
-1620435328,Under,30729,5584043906,1.892,14.5,TreVeyon Henderson Total Receiving Yards,TreVeyon Henderson Total Receiving Yards,New England Patriots,New York Giants
-1620435327,Over,30728,5584043904,1.892,14.5,TreVeyon Henderson Total Receiving Yards,TreVeyon Henderson Total Receiving Yards,New England Patriots,New York Giants
-1620435259,Over,30716,5584535683,2.0,16.5,DeMario Douglas Total Receiving Yards,DeMario Douglas Total Receiving Yards,New England Patriots,New York Giants
-1620435260,Under,30717,5584535684,1.8,16.5,DeMario Douglas Total Receiving Yards,DeMario Douglas Total Receiving Yards,New England Patriots,New York Giants
-1620435300,Over,30726,5584043680,1.892,32.5,Theo Johnson Total Receiving Yards,Theo Johnson Total Receiving Yards,New England Patriots,New York Giants
-1620435301,Under,30727,5584043681,1.892,32.5,Theo Johnson Total Receiving Yards,Theo Johnson Total Receiving Yards,New England Patriots,New York Giants
-1620435337,Over,30730,5584461945,1.884,17.5,Tyrone Tracy Total Receiving Yards,Tyrone Tracy Total Receiving Yards,New England Patriots,New York Giants
-1620435338,Under,30731,5584461946,1.9,17.5,Tyrone Tracy Total Receiving Yards,Tyrone Tracy Total Receiving Yards,New England Patriots,New York Giants
-1620435275,Over,30720,5584043915,1.892,34.5,Kayshon Boutte Total Receiving Yards,Kayshon Boutte Total Receiving Yards,New England Patriots,New York Giants
-1620435276,Under,30721,5584043916,1.892,34.5,Kayshon Boutte Total Receiving Yards,Kayshon Boutte Total Receiving Yards,New England Patriots,New York Giants
-1620582009,Over,24408,5584550730,1.877,21.5,Isaiah Hodgins Total Receiving Yards,Isaiah Hodgins Total Receiving Yards,New England Patriots,New York Giants
-1620582010,Under,24409,5584550731,1.909,21.5,Isaiah Hodgins Total Receiving Yards,Isaiah Hodgins Total Receiving Yards,New England Patriots,New York Giants
+1620662681,Over,58338,5592372062,1.813,33.5,Jahmyr Gibbs Total Receiving Yards,Jahmyr Gibbs Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662682,Under,58339,5592372063,2.01,33.5,Jahmyr Gibbs Total Receiving Yards,Jahmyr Gibbs Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662714,Over,58360,5592380486,2.03,66.5,Jameson Williams Total Receiving Yards,Jameson Williams Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662715,Under,58361,5592380487,1.8,66.5,Jameson Williams Total Receiving Yards,Jameson Williams Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662699,Over,58350,5592099353,1.892,36.5,Jake Ferguson Total Receiving Yards,Jake Ferguson Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662700,Under,58351,5592099354,1.892,36.5,Jake Ferguson Total Receiving Yards,Jake Ferguson Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662606,Over,58290,5592360716,1.847,82.5,CeeDee Lamb Total Receiving Yards,CeeDee Lamb Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662607,Under,58291,5592360717,1.98,82.5,CeeDee Lamb Total Receiving Yards,CeeDee Lamb Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662660,Over,58324,5592269291,1.833,82.5,George Pickens Total Receiving Yards,George Pickens Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662661,Under,58325,5592269292,1.99,82.5,George Pickens Total Receiving Yards,George Pickens Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662750,Over,58384,5592251226,2.0,10.5,Javonte Williams Total Receiving Yards,Javonte Williams Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662751,Under,58385,5592251227,1.826,10.5,Javonte Williams Total Receiving Yards,Javonte Williams Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662640,Under,58313,5592376737,1.925,11.5,David Montgomery Total Receiving Yards,David Montgomery Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620662639,Over,58312,5592376736,1.892,11.5,David Montgomery Total Receiving Yards,David Montgomery Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737196,Over,8030,5592365618,1.934,14.5,KaVontae Turpin Total Receiving Yards,KaVontae Turpin Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737197,Under,8031,5592365619,1.884,14.5,KaVontae Turpin Total Receiving Yards,KaVontae Turpin Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737214,Over,8042,5592343294,1.925,27.5,Tom Kennedy Total Receiving Yards,Tom Kennedy Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737215,Under,8043,5592343295,1.892,27.5,Tom Kennedy Total Receiving Yards,Tom Kennedy Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737208,Over,8038,5592302439,1.84,11.5,Ryan Flournoy Total Receiving Yards,Ryan Flournoy Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737209,Under,8039,5592302440,1.98,11.5,Ryan Flournoy Total Receiving Yards,Ryan Flournoy Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737502,Over,8052,5592271351,1.781,37.5,Isaac TeSlaa Total Receiving Yards,Isaac TeSlaa Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737503,Under,8053,5592271352,2.06,37.5,Isaac TeSlaa Total Receiving Yards,Isaac TeSlaa Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737712,Over,8058,5592151488,1.833,12.5,Ross Dwelley Total Receiving Yards,Ross Dwelley Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620737713,Under,8059,5592151489,1.99,12.5,Ross Dwelley Total Receiving Yards,Ross Dwelley Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620740481,Over,8122,5592254383,1.892,17.5,Hollywood Brown Total Receiving Yards,Hollywood Brown Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740482,Under,8123,5592254384,1.847,17.5,Hollywood Brown Total Receiving Yards,Hollywood Brown Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740475,Over,8118,5590408846,1.869,15.5,Christian Kirk Total Receiving Yards,Christian Kirk Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740476,Under,8119,5590408847,1.869,15.5,Christian Kirk Total Receiving Yards,Christian Kirk Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740478,Over,8120,5590409263,1.869,38.5,Dalton Schultz Total Receiving Yards,Dalton Schultz Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740479,Under,8121,5590409264,1.869,38.5,Dalton Schultz Total Receiving Yards,Dalton Schultz Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740505,Over,8138,5591499868,2.04,47.5,Travis Kelce Total Receiving Yards,Travis Kelce Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740506,Under,8139,5591499869,1.724,47.5,Travis Kelce Total Receiving Yards,Travis Kelce Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740490,Over,8128,5590988051,1.961,8.5,JuJu Smith-Schuster Total Receiving Yards,JuJu Smith-Schuster Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740491,Under,8129,5590988052,1.787,8.5,JuJu Smith-Schuster Total Receiving Yards,JuJu Smith-Schuster Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740512,Under,8143,5590988951,1.819,16.5,Xavier Hutchinson Total Receiving Yards,Xavier Hutchinson Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740511,Over,8142,5590988950,1.917,16.5,Xavier Hutchinson Total Receiving Yards,Xavier Hutchinson Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740496,Over,8132,5590988840,1.884,70.5,Nico Collins Total Receiving Yards,Nico Collins Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740497,Under,8133,5590988841,1.854,70.5,Nico Collins Total Receiving Yards,Nico Collins Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740493,Over,8130,5590411261,1.869,6.5,Kareem Hunt Total Receiving Yards,Kareem Hunt Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740494,Under,8131,5590411263,1.869,6.5,Kareem Hunt Total Receiving Yards,Kareem Hunt Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740484,Over,8124,5590410325,1.869,6.5,Isiah Pacheco Total Receiving Yards,Isiah Pacheco Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740485,Under,8125,5590410326,1.869,6.5,Isiah Pacheco Total Receiving Yards,Isiah Pacheco Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740514,Over,8144,5590413269,1.869,35.5,Xavier Worthy Total Receiving Yards,Xavier Worthy Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740515,Under,8145,5590413270,1.869,35.5,Xavier Worthy Total Receiving Yards,Xavier Worthy Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740487,Over,8126,5590410555,1.869,33.5,Jayden Higgins Total Receiving Yards,Jayden Higgins Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740488,Under,8127,5590410556,1.869,33.5,Jayden Higgins Total Receiving Yards,Jayden Higgins Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740502,Over,8136,5590988946,1.877,68.5,Rashee Rice Total Receiving Yards,Rashee Rice Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620740503,Under,8137,5590988947,1.862,68.5,Rashee Rice Total Receiving Yards,Rashee Rice Total Receiving Yards,Kansas City Chiefs,Houston Texans
+1620789275,Under,19165,5591728385,1.869,103.5,Wyatt Young Total Receiving Yards,Wyatt Young Total Receiving Yards,Tulane,North Texas
+1620789274,Over,19164,5591728384,1.869,103.5,Wyatt Young Total Receiving Yards,Wyatt Young Total Receiving Yards,Tulane,North Texas
+1620789271,Over,19162,5591726004,1.869,50.5,Christian Moss Total Receiving Yards,Christian Moss Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789272,Under,19163,5591726005,1.869,50.5,Christian Moss Total Receiving Yards,Christian Moss Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789292,Over,19170,5591726442,1.869,65.5,Gabriel Benyard Total Receiving Yards,Gabriel Benyard Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789293,Under,19171,5591726443,1.869,65.5,Gabriel Benyard Total Receiving Yards,Gabriel Benyard Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789259,Over,19156,5591729355,1.869,25.5,Omari Hayes Total Receiving Yards,Omari Hayes Total Receiving Yards,Tulane,North Texas
+1620789260,Under,19157,5591729356,1.869,25.5,Omari Hayes Total Receiving Yards,Omari Hayes Total Receiving Yards,Tulane,North Texas
+1620789226,Over,19134,5591728673,1.869,62.5,Cameron Dorner Total Receiving Yards,Cameron Dorner Total Receiving Yards,Tulane,North Texas
+1620789227,Under,19135,5591728674,1.869,62.5,Cameron Dorner Total Receiving Yards,Cameron Dorner Total Receiving Yards,Tulane,North Texas
+1620789262,Over,19158,5591725559,1.869,15.5,Cam Cook Total Receiving Yards,Cam Cook Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789263,Under,19159,5591725560,1.869,15.5,Cam Cook Total Receiving Yards,Cam Cook Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789217,Over,19128,5591730310,1.869,47.5,Anthony Brown-Stephens Total Receiving Yards,Anthony Brown-Stephens Total Receiving Yards,Tulane,North Texas
+1620789218,Under,19129,5591730311,1.869,47.5,Anthony Brown-Stephens Total Receiving Yards,Anthony Brown-Stephens Total Receiving Yards,Tulane,North Texas
+1620789223,Over,19132,5591728349,1.869,20.5,Caleb Hawkins Total Receiving Yards,Caleb Hawkins Total Receiving Yards,Tulane,North Texas
+1620789224,Under,19133,5591728350,1.869,20.5,Caleb Hawkins Total Receiving Yards,Caleb Hawkins Total Receiving Yards,Tulane,North Texas
+1620789286,Over,19168,5591726365,1.869,15.5,Coleman Bennett Total Receiving Yards,Coleman Bennett Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789287,Under,19169,5591726366,1.869,15.5,Coleman Bennett Total Receiving Yards,Coleman Bennett Total Receiving Yards,Jacksonville State,Kennesaw State
+1620789265,Over,19160,5591730975,1.869,48.5,Shazz Preston Total Receiving Yards,Shazz Preston Total Receiving Yards,Tulane,North Texas
+1620789266,Under,19161,5591730976,1.869,48.5,Shazz Preston Total Receiving Yards,Shazz Preston Total Receiving Yards,Tulane,North Texas
+1620789301,Over,109,5591735099,1.869,60.5,Jaden Bradley Total Receiving Yards,Jaden Bradley Total Receiving Yards,Boise State,UNLV
+1620789302,Under,110,5591735100,1.869,60.5,Jaden Bradley Total Receiving Yards,Jaden Bradley Total Receiving Yards,Boise State,UNLV
+1620789289,Over,109,5591734521,1.869,34.5,Chase Penry Total Receiving Yards,Chase Penry Total Receiving Yards,Boise State,UNLV
+1620789290,Under,110,5591734522,1.869,34.5,Chase Penry Total Receiving Yards,Chase Penry Total Receiving Yards,Boise State,UNLV
+1620789295,Over,109,5591734621,1.869,28.5,DaeDae Reynolds Total Receiving Yards,DaeDae Reynolds Total Receiving Yards,Boise State,UNLV
+1620789296,Under,110,5591734622,1.869,28.5,DaeDae Reynolds Total Receiving Yards,DaeDae Reynolds Total Receiving Yards,Boise State,UNLV
+1620789283,Over,109,5591733787,1.869,23.5,Cameron Bates Total Receiving Yards,Cameron Bates Total Receiving Yards,Boise State,UNLV
+1620789284,Under,110,5591733788,1.869,23.5,Cameron Bates Total Receiving Yards,Cameron Bates Total Receiving Yards,Boise State,UNLV
+1620789253,Over,19152,5591730844,1.869,29.5,Miles Coleman Total Receiving Yards,Miles Coleman Total Receiving Yards,Tulane,North Texas
+1620789254,Under,19153,5591730845,1.869,29.5,Miles Coleman Total Receiving Yards,Miles Coleman Total Receiving Yards,Tulane,North Texas
+1620789307,Over,109,5591735459,1.869,13.5,Jai'Den Thomas Total Receiving Yards,Jai'Den Thomas Total Receiving Yards,Boise State,UNLV
+1620789308,Under,110,5591735460,1.869,13.5,Jai'Den Thomas Total Receiving Yards,Jai'Den Thomas Total Receiving Yards,Boise State,UNLV
+1620789328,Over,109,5591735846,1.869,31.5,Troy Omeire Total Receiving Yards,Troy Omeire Total Receiving Yards,Boise State,UNLV
+1620789329,Under,110,5591735847,1.869,31.5,Troy Omeire Total Receiving Yards,Troy Omeire Total Receiving Yards,Boise State,UNLV
+1620789313,Over,109,5591735644,1.869,51.5,Latrell Caples Total Receiving Yards,Latrell Caples Total Receiving Yards,Boise State,UNLV
+1620789314,Under,110,5591735645,1.869,51.5,Latrell Caples Total Receiving Yards,Latrell Caples Total Receiving Yards,Boise State,UNLV
+1620789319,Over,109,5591735815,1.869,24.5,Matt Lauter Total Receiving Yards,Matt Lauter Total Receiving Yards,Boise State,UNLV
+1620789320,Under,110,5591735816,1.869,24.5,Matt Lauter Total Receiving Yards,Matt Lauter Total Receiving Yards,Boise State,UNLV
+1620789868,Over,56992,5592281319,1.917,55.5,Alec Pierce Total Receiving Yards,Alec Pierce Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789869,Under,56993,5592281320,1.819,55.5,Alec Pierce Total Receiving Yards,Alec Pierce Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789931,Over,57034,5591898654,1.869,51.5,Tyler Warren Total Receiving Yards,Tyler Warren Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789932,Under,57035,5591898655,1.869,51.5,Tyler Warren Total Receiving Yards,Tyler Warren Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789904,Over,57016,5591898722,1.869,49.5,Michael Pittman Jr. Total Receiving Yards,Michael Pittman Jr. Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789905,Under,57017,5591898723,1.869,49.5,Michael Pittman Jr. Total Receiving Yards,Michael Pittman Jr. Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789898,Over,57012,5591902823,1.869,17.5,Jonathan Taylor Total Receiving Yards,Jonathan Taylor Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620789899,Under,57013,5591902824,1.869,17.5,Jonathan Taylor Total Receiving Yards,Jonathan Taylor Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795531,Over,57510,5592156981,1.869,13.5,James Cook Total Receiving Yards,James Cook Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795532,Under,57511,5592156982,1.869,13.5,James Cook Total Receiving Yards,James Cook Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795534,Over,57512,5592157169,1.869,44.5,Khalil Shakir Total Receiving Yards,Khalil Shakir Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795535,Under,57513,5592157170,1.869,44.5,Khalil Shakir Total Receiving Yards,Khalil Shakir Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795528,Over,57508,5592156054,1.869,87.5,Ja'Marr Chase Total Receiving Yards,Ja'Marr Chase Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795529,Under,57509,5592156055,1.869,87.5,Ja'Marr Chase Total Receiving Yards,Ja'Marr Chase Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795525,Over,57506,5592155897,1.869,20.5,Chase Brown Total Receiving Yards,Chase Brown Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795526,Under,57507,5592155902,1.869,20.5,Chase Brown Total Receiving Yards,Chase Brown Total Receiving Yards,Buffalo Bills,Cincinnati Bengals
+1620795369,Over,57402,5592282797,1.9,52.5,Jakobi Meyers Total Receiving Yards,Jakobi Meyers Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795370,Under,57403,5592282798,1.84,52.5,Jakobi Meyers Total Receiving Yards,Jakobi Meyers Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795376,Over,57408,5592163269,1.869,13.5,Travis Etienne Total Receiving Yards,Travis Etienne Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795377,Under,57409,5592163271,1.869,13.5,Travis Etienne Total Receiving Yards,Travis Etienne Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795357,Over,57394,5592162360,1.869,42.5,Brenton Strange Total Receiving Yards,Brenton Strange Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795358,Under,57395,5592162361,1.869,42.5,Brenton Strange Total Receiving Yards,Brenton Strange Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795363,Over,57398,5592282201,1.892,46.5,Brian Thomas Total Receiving Yards,Brian Thomas Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795364,Under,57399,5592282202,1.847,46.5,Brian Thomas Total Receiving Yards,Brian Thomas Total Receiving Yards,Jacksonville Jaguars,Indianapolis Colts
+1620795902,Over,57752,5592278295,1.925,66.5,Jaylen Waddle Total Receiving Yards,Jaylen Waddle Total Receiving Yards,New York Jets,Miami Dolphins
+1620795903,Under,57753,5592278296,1.819,66.5,Jaylen Waddle Total Receiving Yards,Jaylen Waddle Total Receiving Yards,New York Jets,Miami Dolphins
+1620795890,Over,57744,5592168874,1.869,18.5,Breece Hall Total Receiving Yards,Breece Hall Total Receiving Yards,New York Jets,Miami Dolphins
+1620795891,Under,57745,5592168875,1.869,18.5,Breece Hall Total Receiving Yards,Breece Hall Total Receiving Yards,New York Jets,Miami Dolphins
+1620795896,Over,57748,5592169003,1.869,30.5,De'Von Achane Total Receiving Yards,De'Von Achane Total Receiving Yards,New York Jets,Miami Dolphins
+1620795897,Under,57749,5592169004,1.869,30.5,De'Von Achane Total Receiving Yards,De'Von Achane Total Receiving Yards,New York Jets,Miami Dolphins
+1620795893,Over,57746,5592168950,1.869,30.5,Darren Waller Total Receiving Yards,Darren Waller Total Receiving Yards,New York Jets,Miami Dolphins
+1620795894,Under,57747,5592168951,1.869,30.5,Darren Waller Total Receiving Yards,Darren Waller Total Receiving Yards,New York Jets,Miami Dolphins
+1620795887,Over,57742,5592168744,1.869,48.5,Adonai Mitchell Total Receiving Yards,Adonai Mitchell Total Receiving Yards,New York Jets,Miami Dolphins
+1620795888,Under,57743,5592168745,1.869,48.5,Adonai Mitchell Total Receiving Yards,Adonai Mitchell Total Receiving Yards,New York Jets,Miami Dolphins
+1620795908,Over,57756,5592278427,1.869,25.5,Malik Washington Total Receiving Yards,Malik Washington Total Receiving Yards,New York Jets,Miami Dolphins
+1620795909,Under,57757,5592278428,1.869,25.5,Malik Washington Total Receiving Yards,Malik Washington Total Receiving Yards,New York Jets,Miami Dolphins
+1620795905,Over,57754,5592278772,1.909,38.5,John Metchie III Total Receiving Yards,John Metchie III Total Receiving Yards,New York Jets,Miami Dolphins
+1620795906,Under,57755,5592278773,1.833,38.5,John Metchie III Total Receiving Yards,John Metchie III Total Receiving Yards,New York Jets,Miami Dolphins
+1620795911,Over,57758,5592171687,1.869,26.5,Mason Taylor Total Receiving Yards,Mason Taylor Total Receiving Yards,New York Jets,Miami Dolphins
+1620795912,Under,57759,5592171688,1.869,26.5,Mason Taylor Total Receiving Yards,Mason Taylor Total Receiving Yards,New York Jets,Miami Dolphins
+1620795770,Over,57664,5592182865,1.869,13.5,Kenneth Walker Total Receiving Yards,Kenneth Walker Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795771,Under,57665,5592182866,1.869,13.5,Kenneth Walker Total Receiving Yards,Kenneth Walker Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795764,Over,57660,5592283785,1.917,30.5,Cooper Kupp Total Receiving Yards,Cooper Kupp Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795765,Under,57661,5592283786,1.826,30.5,Cooper Kupp Total Receiving Yards,Cooper Kupp Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795761,Over,57658,5592182075,1.869,35.5,Bijan Robinson Total Receiving Yards,Bijan Robinson Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795762,Under,57659,5592182076,1.869,35.5,Bijan Robinson Total Receiving Yards,Bijan Robinson Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795767,Over,57662,5592283967,1.884,91.5,Jaxon Smith-Njigba Total Receiving Yards,Jaxon Smith-Njigba Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795768,Under,57663,5592283968,1.854,91.5,Jaxon Smith-Njigba Total Receiving Yards,Jaxon Smith-Njigba Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795758,Over,57656,5592181890,1.869,31.5,AJ Barner Total Receiving Yards,AJ Barner Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795759,Under,57657,5592181891,1.869,31.5,AJ Barner Total Receiving Yards,AJ Barner Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795773,Over,57666,5592183812,1.869,20.5,Rashid Shaheed Total Receiving Yards,Rashid Shaheed Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620795774,Under,57667,5592183813,1.869,20.5,Rashid Shaheed Total Receiving Yards,Rashid Shaheed Total Receiving Yards,Atlanta Falcons,Seattle Seahawks
+1620801593,Over,57796,5592378900,1.909,67.5,Amon-Ra St. Brown Total Receiving Yards,Amon-Ra St. Brown Total Receiving Yards,Detroit Lions,Dallas Cowboys
+1620801594,Under,57797,5592378901,1.909,67.5,Amon-Ra St. Brown Total Receiving Yards,Amon-Ra St. Brown Total Receiving Yards,Detroit Lions,Dallas Cowboys
