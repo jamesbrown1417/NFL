@@ -1,0 +1,344 @@
+{
+    "entrants": {
+        "05799c56-8d08-4956-b817-24214ee93dac": {
+            "id": "05799c56-8d08-4956-b817-24214ee93dac",
+            "name": "Baltimore Ravens",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84"
+        },
+        "062afa49-1951-4abf-8314-993912ca6602": {
+            "id": "062afa49-1951-4abf-8314-993912ca6602",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d"
+        },
+        "1da16d02-fca8-411c-a31d-4fbccb282d19": {
+            "id": "1da16d02-fca8-411c-a31d-4fbccb282d19",
+            "name": "Cincinnati Bengals",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "f355d52f-d768-438b-b5fa-f2e706e5dea2"
+        },
+        "1df19025-05c2-423a-b5c6-2a11945eabb5": {
+            "id": "1df19025-05c2-423a-b5c6-2a11945eabb5",
+            "name": "Cincinnati Bengals 14+",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "55652113-bc2e-4e37-979f-e93bdb98d79e"
+        },
+        "2b1e1087-ca8f-415c-8c2d-5113946884f0": {
+            "id": "2b1e1087-ca8f-415c-8c2d-5113946884f0",
+            "name": "Draw",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "55652113-bc2e-4e37-979f-e93bdb98d79e"
+        },
+        "49e36755-71a9-4378-b794-98af5eac6717": {
+            "id": "49e36755-71a9-4378-b794-98af5eac6717",
+            "name": "Cincinnati Bengals 1-13",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "55652113-bc2e-4e37-979f-e93bdb98d79e"
+        },
+        "910f4f5a-e76c-4831-98cb-d7678ac0b10c": {
+            "id": "910f4f5a-e76c-4831-98cb-d7678ac0b10c",
+            "name": "Baltimore Ravens",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "f355d52f-d768-438b-b5fa-f2e706e5dea2"
+        },
+        "a4fa8439-a666-421e-aca1-edf0a25b48cb": {
+            "id": "a4fa8439-a666-421e-aca1-edf0a25b48cb",
+            "name": "Cincinnati Bengals",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84"
+        },
+        "be400f66-0822-4cc6-aae1-79131a08433b": {
+            "id": "be400f66-0822-4cc6-aae1-79131a08433b",
+            "name": "Baltimore Ravens 1-13",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "55652113-bc2e-4e37-979f-e93bdb98d79e"
+        },
+        "e402227f-9a0b-4137-af87-c90646248a7c": {
+            "id": "e402227f-9a0b-4137-af87-c90646248a7c",
+            "name": "Baltimore Ravens 14+",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "55652113-bc2e-4e37-979f-e93bdb98d79e"
+        },
+        "f8dc5dd5-4ed4-4456-a1ea-f73031bb571b": {
+            "id": "f8dc5dd5-4ed4-4456-a1ea-f73031bb571b",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d"
+        }
+    },
+    "event_participants": {
+        "3c8a8903-01f8-46b3-83cb-a407697296fa": {
+            "id": "3c8a8903-01f8-46b3-83cb-a407697296fa",
+            "event_id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "name": "Baltimore Ravens",
+            "home_away": "AWAY",
+            "colour": "#241773"
+        },
+        "9400718d-ac59-4b3b-a829-0f7cb35690fa": {
+            "id": "9400718d-ac59-4b3b-a829-0f7cb35690fa",
+            "event_id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "name": "Cincinnati Bengals",
+            "home_away": "HOME",
+            "colour": "#fb4f14"
+        }
+    },
+    "events": {
+        "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209": {
+            "id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "name": "Cincinnati Bengals vs Baltimore Ravens",
+            "event_type": {
+                "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
+                "name": "Match"
+            },
+            "match_status": "BettingOpen",
+            "advertised_start": "2025-12-14T18:00:00Z",
+            "actual_start": "2025-12-14T18:00:00Z",
+            "visible": true,
+            "slug": "cincinnati-bengals-vs-baltimore-ravens",
+            "competition": {
+                "id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+                "name": "NFL",
+                "sort_order": 1,
+                "region": "USA"
+            },
+            "competition_id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
+            "market_type_group_ids": [
+                "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                "05fe767b-30dd-42fb-a9a6-b8719592ac6d"
+            ],
+            "market_type_group_markets": [
+                {
+                    "market_type_group_id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+                    "market_ids": [
+                        "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84",
+                        "f355d52f-d768-438b-b5fa-f2e706e5dea2",
+                        "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d"
+                    ]
+                },
+                {
+                    "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+                    "market_ids": [
+                        "55652113-bc2e-4e37-979f-e93bdb98d79e"
+                    ]
+                }
+            ],
+            "market_count": 4,
+            "main_markets": [
+                "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84"
+            ],
+            "market_ids": [
+                "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84",
+                "f355d52f-d768-438b-b5fa-f2e706e5dea2",
+                "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d",
+                "55652113-bc2e-4e37-979f-e93bdb98d79e"
+            ],
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "participant_ids": [
+                "3c8a8903-01f8-46b3-83cb-a407697296fa",
+                "9400718d-ac59-4b3b-a829-0f7cb35690fa"
+            ]
+        }
+    },
+    "market_type_groups": {
+        "05fe767b-30dd-42fb-a9a6-b8719592ac6d": {
+            "id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Margin Markets",
+            "priority": 160,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        },
+        "81a92a58-39c5-4adc-85f0-6e6fb1798226": {
+            "id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
+            "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
+            "name": "Top Markets",
+            "priority": 711,
+            "type": "MARKET_TYPE_GROUP_TYPE_EVENT"
+        }
+    },
+    "markets": {
+        "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d": {
+            "id": "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d",
+            "event_id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Total",
+            "advertised_start": {
+                "seconds": 1765735200
+            },
+            "actual_start": {
+                "seconds": 1765735200
+            },
+            "handicap": 52.5,
+            "same_game_multi_available": true,
+            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "062afa49-1951-4abf-8314-993912ca6602",
+                "f8dc5dd5-4ed4-4456-a1ea-f73031bb571b"
+            ],
+            "num_winners": 1
+        },
+        "55652113-bc2e-4e37-979f-e93bdb98d79e": {
+            "id": "55652113-bc2e-4e37-979f-e93bdb98d79e",
+            "event_id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "market_type_id": "c0e86b7d-b27a-4a85-b7d1-f15867d8415d",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Winning Margin 1-13",
+            "advertised_start": {
+                "seconds": 1765735200
+            },
+            "actual_start": {
+                "seconds": 1765735200
+            },
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "49e36755-71a9-4378-b794-98af5eac6717",
+                "1df19025-05c2-423a-b5c6-2a11945eabb5",
+                "2b1e1087-ca8f-415c-8c2d-5113946884f0",
+                "be400f66-0822-4cc6-aae1-79131a08433b",
+                "e402227f-9a0b-4137-af87-c90646248a7c"
+            ],
+            "num_winners": 1
+        },
+        "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84": {
+            "id": "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84",
+            "event_id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "market_type_id": "9592f47d-6ad7-4f66-a97f-b3d80f540721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Head To Head",
+            "advertised_start": {
+                "seconds": 1765735200
+            },
+            "actual_start": {
+                "seconds": 1765735200
+            },
+            "is_primary": true,
+            "same_game_multi_available": true,
+            "comments": "Includes any Overtime.",
+            "visible": true,
+            "entrant_ids": [
+                "a4fa8439-a666-421e-aca1-edf0a25b48cb",
+                "05799c56-8d08-4956-b817-24214ee93dac"
+            ],
+            "num_winners": 1
+        },
+        "f355d52f-d768-438b-b5fa-f2e706e5dea2": {
+            "id": "f355d52f-d768-438b-b5fa-f2e706e5dea2",
+            "event_id": "b6bf7f93-1fa9-4e18-bba2-cfa3550c5209",
+            "market_type_id": "15127a4c-20a0-409a-843f-3d6ea56c6721",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Line",
+            "advertised_start": {
+                "seconds": 1765735200
+            },
+            "actual_start": {
+                "seconds": 1765735200
+            },
+            "handicap": -2.5,
+            "same_game_multi_available": true,
+            "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
+            "visible": true,
+            "entrant_ids": [
+                "1da16d02-fca8-411c-a31d-4fbccb282d19",
+                "910f4f5a-e76c-4831-98cb-d7678ac0b10c"
+            ],
+            "num_winners": 1
+        }
+    },
+    "markets_allow_cashout": {
+        "4eb1ef84-27fb-4d5d-9e4d-28b9d1d9a52d": false,
+        "55652113-bc2e-4e37-979f-e93bdb98d79e": true,
+        "95c3f6ac-cc20-417e-9717-2b0b9f8a3d84": true,
+        "f355d52f-d768-438b-b5fa-f2e706e5dea2": false
+    },
+    "prices": {
+        "05799c56-8d08-4956-b817-24214ee93dac:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 25
+            }
+        },
+        "062afa49-1951-4abf-8314-993912ca6602:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 50
+            }
+        },
+        "1da16d02-fca8-411c-a31d-4fbccb282d19:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        },
+        "1df19025-05c2-423a-b5c6-2a11945eabb5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 4
+            }
+        },
+        "2b1e1087-ca8f-415c-8c2d-5113946884f0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 66,
+                "denominator": 1
+            }
+        },
+        "49e36755-71a9-4378-b794-98af5eac6717:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 5
+            }
+        },
+        "910f4f5a-e76c-4831-98cb-d7678ac0b10c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 50
+            }
+        },
+        "a4fa8439-a666-421e-aca1-edf0a25b48cb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 20
+            }
+        },
+        "be400f66-0822-4cc6-aae1-79131a08433b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
+            }
+        },
+        "e402227f-9a0b-4137-af87-c90646248a7c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 2
+            }
+        },
+        "f8dc5dd5-4ed4-4456-a1ea-f73031bb571b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        }
+    }
+}
