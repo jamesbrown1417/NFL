@@ -1,63 +1,151 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,39.5,1.29,NA,NA,Pointsbet,2520618,100489252,51,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,49.5,1.53,NA,NA,Pointsbet,2520618,100489252,52,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,59.5,1.87,NA,NA,Pointsbet,2520618,100489252,53,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,60.5,1.9,1.83,1.073,Pointsbet,2520618,100489253,7,8
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,69.5,2.45,NA,NA,Pointsbet,2520618,100489252,54,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,79.5,3.3,NA,NA,Pointsbet,2520618,100489252,55,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,89.5,4.5,NA,NA,Pointsbet,2520618,100489252,56,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,99.5,6,NA,NA,Pointsbet,2520618,100489252,57,NA
-Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,109.5,9.5,NA,NA,Pointsbet,2520618,100489252,58,NA
-Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,19.5,1.4,NA,NA,Pointsbet,2520618,100489252,97,NA
-Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,29.5,1.83,NA,NA,Pointsbet,2520618,100489252,98,NA
-Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,30.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,23,24
-Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,39.5,2.45,NA,NA,Pointsbet,2520618,100489252,99,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,59.5,1.2,NA,NA,Pointsbet,2527329,100633177,5,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,69.5,1.33,NA,NA,Pointsbet,2527329,100633177,6,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,79.5,1.53,NA,NA,Pointsbet,2527329,100633177,7,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,89.5,1.8,NA,NA,Pointsbet,2527329,100633177,8,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,90.5,1.83,1.9,1.073,Pointsbet,2527329,100633179,5,6
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,99.5,2.15,NA,NA,Pointsbet,2527329,100633177,9,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,109.5,2.6,NA,NA,Pointsbet,2527329,100633177,10,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,119.5,3.4,NA,NA,Pointsbet,2527329,100633177,11,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,129.5,4.3,NA,NA,Pointsbet,2527329,100633177,12,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,139.5,5.75,NA,NA,Pointsbet,2527329,100633177,13,NA
+Cincinnati Bengals v Baltimore Ravens,Ja'marr Chase,NA,Receiving Yards,149.5,7.5,NA,NA,Pointsbet,2527329,100633177,14,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,39.5,1.18,NA,NA,Pointsbet,2527329,100633177,19,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,49.5,1.33,NA,NA,Pointsbet,2527329,100633177,20,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,59.5,1.56,NA,NA,Pointsbet,2527329,100633177,21,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,69.5,1.87,NA,NA,Pointsbet,2527329,100633177,22,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,70.5,1.87,1.87,1.07,Pointsbet,2527329,100633179,3,4
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,79.5,2.3,NA,NA,Pointsbet,2527329,100633177,23,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,89.5,2.9,NA,NA,Pointsbet,2527329,100633177,24,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,99.5,3.8,NA,NA,Pointsbet,2527329,100633177,25,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,109.5,5,NA,NA,Pointsbet,2527329,100633177,26,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,119.5,6.5,NA,NA,Pointsbet,2527329,100633177,27,NA
+Cincinnati Bengals v Baltimore Ravens,Zay Flowers,Baltimore Ravens,Receiving Yards,129.5,9.5,NA,NA,Pointsbet,2527329,100633177,28,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,39.5,1.25,NA,NA,Pointsbet,2520618,100489252,51,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,49.5,1.44,NA,NA,Pointsbet,2520618,100489252,52,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,59.5,1.8,NA,NA,Pointsbet,2520618,100489252,53,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,60.5,1.83,1.9,1.073,Pointsbet,2520618,100489253,7,8
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,69.5,2.3,NA,NA,Pointsbet,2520618,100489252,54,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,79.5,3,NA,NA,Pointsbet,2520618,100489252,55,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,89.5,4.1,NA,NA,Pointsbet,2520618,100489252,56,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,99.5,5.75,NA,NA,Pointsbet,2520618,100489252,57,NA
+Los Angeles Chargers v Philadelphia Eagles,A.J. Brown,Philadelphia Eagles,Receiving Yards,109.5,9,NA,NA,Pointsbet,2520618,100489252,58,NA
+Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,19.5,1.42,NA,NA,Pointsbet,2520618,100489252,97,NA
+Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,29.5,1.77,NA,NA,Pointsbet,2520618,100489252,98,NA
+Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,30.5,1.83,1.9,1.073,Pointsbet,2520618,100489253,23,24
+Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,39.5,2.4,NA,NA,Pointsbet,2520618,100489252,99,NA
 Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,49.5,3.5,NA,NA,Pointsbet,2520618,100489252,100,NA
-Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,59.5,5.75,NA,NA,Pointsbet,2520618,100489252,101,NA
+Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,59.5,5.5,NA,NA,Pointsbet,2520618,100489252,101,NA
 Los Angeles Chargers v Philadelphia Eagles,Dallas Goedert,Philadelphia Eagles,Receiving Yards,69.5,9,NA,NA,Pointsbet,2520618,100489252,102,NA
 Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,29.5,1.17,NA,NA,Pointsbet,2520618,100489252,66,NA
 Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,39.5,1.33,NA,NA,Pointsbet,2520618,100489252,67,NA
 Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,49.5,1.63,NA,NA,Pointsbet,2520618,100489252,68,NA
 Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,55.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,9,10
-Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,59.5,2,NA,NA,Pointsbet,2520618,100489252,69,NA
-Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,69.5,2.65,NA,NA,Pointsbet,2520618,100489252,70,NA
-Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,79.5,3.6,NA,NA,Pointsbet,2520618,100489252,71,NA
-Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,89.5,5.25,NA,NA,Pointsbet,2520618,100489252,72,NA
+Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,59.5,2.05,NA,NA,Pointsbet,2520618,100489252,69,NA
+Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,69.5,2.75,NA,NA,Pointsbet,2520618,100489252,70,NA
+Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,79.5,3.8,NA,NA,Pointsbet,2520618,100489252,71,NA
+Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,89.5,5.5,NA,NA,Pointsbet,2520618,100489252,72,NA
 Los Angeles Chargers v Philadelphia Eagles,DeVonta Smith,Philadelphia Eagles,Receiving Yards,99.5,7.5,NA,NA,Pointsbet,2520618,100489252,73,NA
 Los Angeles Chargers v Philadelphia Eagles,Jahan Dotson,Philadelphia Eagles,Receiving Yards,10.5,2.05,1.74,1.063,Pointsbet,2520618,100489253,27,28
 Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,19.5,1.36,NA,NA,Pointsbet,2520618,100489252,1,NA
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,29.5,1.59,NA,NA,Pointsbet,2520618,100489252,2,NA
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,35.5,1.8,1.95,1.068,Pointsbet,2520618,100489253,3,4
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,39.5,1.95,NA,NA,Pointsbet,2520618,100489252,3,NA
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,29.5,1.63,NA,NA,Pointsbet,2520618,100489252,2,NA
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,35.5,1.83,1.9,1.073,Pointsbet,2520618,100489253,3,4
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,39.5,2,NA,NA,Pointsbet,2520618,100489252,3,NA
 Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,49.5,2.5,NA,NA,Pointsbet,2520618,100489252,4,NA
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,59.5,3.3,NA,NA,Pointsbet,2520618,100489252,5,NA
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,69.5,4.3,NA,NA,Pointsbet,2520618,100489252,6,NA
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,79.5,5.75,NA,NA,Pointsbet,2520618,100489252,7,NA
-Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,89.5,7.5,NA,NA,Pointsbet,2520618,100489252,8,NA
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,59.5,3.4,NA,NA,Pointsbet,2520618,100489252,5,NA
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,69.5,4.75,NA,NA,Pointsbet,2520618,100489252,6,NA
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,79.5,6,NA,NA,Pointsbet,2520618,100489252,7,NA
+Los Angeles Chargers v Philadelphia Eagles,Keenan Allen,Los Angeles Chargers,Receiving Yards,89.5,9,NA,NA,Pointsbet,2520618,100489252,8,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,19.5,1.16,NA,NA,Pointsbet,2520618,100489252,33,NA
 Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,29.5,1.29,NA,NA,Pointsbet,2520618,100489252,34,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,39.5,1.48,NA,NA,Pointsbet,2520618,100489252,35,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,49.5,1.8,NA,NA,Pointsbet,2520618,100489252,36,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,50.5,1.83,1.9,1.073,Pointsbet,2520618,100489253,1,2
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,59.5,2.25,NA,NA,Pointsbet,2520618,100489252,37,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,69.5,3,NA,NA,Pointsbet,2520618,100489252,38,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,79.5,4,NA,NA,Pointsbet,2520618,100489252,39,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,89.5,5.5,NA,NA,Pointsbet,2520618,100489252,40,NA
-Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,99.5,7.5,NA,NA,Pointsbet,2520618,100489252,41,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,19.5,1.29,NA,NA,Pointsbet,2520618,100489252,81,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,29.5,1.56,NA,NA,Pointsbet,2520618,100489252,82,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,39.5,1.87,NA,NA,Pointsbet,2520618,100489252,83,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,40.5,1.9,1.83,1.073,Pointsbet,2520618,100489253,15,16
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,49.5,2.45,NA,NA,Pointsbet,2520618,100489252,84,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,59.5,3.3,NA,NA,Pointsbet,2520618,100489252,85,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,69.5,4.5,NA,NA,Pointsbet,2520618,100489252,86,NA
-Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,79.5,6.5,NA,NA,Pointsbet,2520618,100489252,87,NA
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,19.5,1.4,NA,NA,Pointsbet,2520618,100489252,17,NA
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,29.5,1.69,NA,NA,Pointsbet,2520618,100489252,18,NA
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,35.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,5,6
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,39.5,2.1,NA,NA,Pointsbet,2520618,100489252,19,NA
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,49.5,2.85,NA,NA,Pointsbet,2520618,100489252,20,NA
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,59.5,4,NA,NA,Pointsbet,2520618,100489252,21,NA
-Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,69.5,5.75,NA,NA,Pointsbet,2520618,100489252,22,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,39.5,1.53,NA,NA,Pointsbet,2520618,100489252,35,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,49.5,1.87,NA,NA,Pointsbet,2520618,100489252,36,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,50.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,1,2
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,59.5,2.35,NA,NA,Pointsbet,2520618,100489252,37,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,69.5,3.1,NA,NA,Pointsbet,2520618,100489252,38,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,79.5,4.3,NA,NA,Pointsbet,2520618,100489252,39,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,89.5,6,NA,NA,Pointsbet,2520618,100489252,40,NA
+Los Angeles Chargers v Philadelphia Eagles,Ladd McConkey,Los Angeles Chargers,Receiving Yards,99.5,9,NA,NA,Pointsbet,2520618,100489252,41,NA
+Los Angeles Chargers v Philadelphia Eagles,Omarion Hampton,Los Angeles Chargers,Receiving Yards,10.5,1.77,2,1.065,Pointsbet,2520618,100489253,37,38
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,19.5,1.36,NA,NA,Pointsbet,2520618,100489252,81,NA
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,29.5,1.63,NA,NA,Pointsbet,2520618,100489252,82,NA
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,35.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,13,14
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,39.5,2.05,NA,NA,Pointsbet,2520618,100489252,83,NA
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,49.5,2.75,NA,NA,Pointsbet,2520618,100489252,84,NA
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,59.5,3.8,NA,NA,Pointsbet,2520618,100489252,85,NA
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,69.5,5.25,NA,NA,Pointsbet,2520618,100489252,86,NA
+Los Angeles Chargers v Philadelphia Eagles,Oronde Gadsden Ii,NA,Receiving Yards,79.5,7.5,NA,NA,Pointsbet,2520618,100489252,87,NA
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,19.5,1.42,NA,NA,Pointsbet,2520618,100489252,17,NA
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,29.5,1.74,NA,NA,Pointsbet,2520618,100489252,18,NA
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,30.5,1.8,1.95,1.068,Pointsbet,2520618,100489253,35,36
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,39.5,2.2,NA,NA,Pointsbet,2520618,100489252,19,NA
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,49.5,3,NA,NA,Pointsbet,2520618,100489252,20,NA
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,59.5,4.3,NA,NA,Pointsbet,2520618,100489252,21,NA
+Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,69.5,6,NA,NA,Pointsbet,2520618,100489252,22,NA
 Los Angeles Chargers v Philadelphia Eagles,Quentin Johnston,Los Angeles Chargers,Receiving Yards,79.5,9,NA,NA,Pointsbet,2520618,100489252,23,NA
-Los Angeles Chargers v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Receiving Yards,15.5,1.83,1.9,1.073,Pointsbet,2520618,100489253,19,20
+Los Angeles Chargers v Philadelphia Eagles,Saquon Barkley,Philadelphia Eagles,Receiving Yards,15.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,19,20
 Los Angeles Chargers v Philadelphia Eagles,Tre Harris,Los Angeles Chargers,Receiving Yards,10.5,1.87,1.87,1.07,Pointsbet,2520618,100489253,25,26
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,19.5,1.29,NA,NA,Pointsbet,2527332,100631929,97,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,29.5,1.5,NA,NA,Pointsbet,2527332,100631929,98,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,39.5,1.8,NA,NA,Pointsbet,2527332,100631929,99,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,40.5,1.83,1.9,1.073,Pointsbet,2527332,100631937,17,18
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,49.5,2.2,NA,NA,Pointsbet,2527332,100631929,100,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,59.5,2.75,NA,NA,Pointsbet,2527332,100631929,101,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,69.5,3.4,NA,NA,Pointsbet,2527332,100631929,102,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,79.5,4.3,NA,NA,Pointsbet,2527332,100631929,103,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,89.5,5.5,NA,NA,Pointsbet,2527332,100631929,104,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,99.5,6.5,NA,NA,Pointsbet,2527332,100631929,105,NA
+New England Patriots v Buffalo Bills,Dalton Kincaid,Buffalo Bills,Receiving Yards,109.5,8,NA,NA,Pointsbet,2527332,100631929,106,NA
+New England Patriots v Buffalo Bills,Dawson Knox,Buffalo Bills,Receiving Yards,19.5,1.57,NA,NA,Pointsbet,2527332,100631929,65,NA
+New England Patriots v Buffalo Bills,Dawson Knox,Buffalo Bills,Receiving Yards,25.5,1.8,1.95,1.068,Pointsbet,2527332,100631937,35,36
+New England Patriots v Buffalo Bills,Dawson Knox,Buffalo Bills,Receiving Yards,29.5,2,NA,NA,Pointsbet,2527332,100631929,66,NA
+New England Patriots v Buffalo Bills,Dawson Knox,Buffalo Bills,Receiving Yards,39.5,2.75,NA,NA,Pointsbet,2527332,100631929,67,NA
+New England Patriots v Buffalo Bills,Dawson Knox,Buffalo Bills,Receiving Yards,49.5,4.1,NA,NA,Pointsbet,2527332,100631929,68,NA
+New England Patriots v Buffalo Bills,Dawson Knox,Buffalo Bills,Receiving Yards,59.5,6,NA,NA,Pointsbet,2527332,100631929,69,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,19.5,1.24,NA,NA,Pointsbet,2527332,100631929,1,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,29.5,1.42,NA,NA,Pointsbet,2527332,100631929,2,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,39.5,1.77,NA,NA,Pointsbet,2527332,100631929,3,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,40.5,1.83,1.9,1.073,Pointsbet,2527332,100631937,15,16
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,49.5,2.25,NA,NA,Pointsbet,2527332,100631929,4,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,59.5,3.1,NA,NA,Pointsbet,2527332,100631929,5,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,69.5,4.5,NA,NA,Pointsbet,2527332,100631929,6,NA
+New England Patriots v Buffalo Bills,Hunter Henry,New England Patriots,Receiving Yards,79.5,7,NA,NA,Pointsbet,2527332,100631929,7,NA
+New England Patriots v Buffalo Bills,James Cook,Buffalo Bills,Receiving Yards,15.5,1.9,1.83,1.073,Pointsbet,2527332,100631937,3,4
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,19.5,1.5,NA,NA,Pointsbet,2527332,100631929,49,NA
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,29.5,1.8,NA,NA,Pointsbet,2527332,100631929,50,NA
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,30.5,1.83,1.9,1.073,Pointsbet,2527332,100631937,7,8
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,39.5,2.3,NA,NA,Pointsbet,2527332,100631929,51,NA
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,49.5,3.1,NA,NA,Pointsbet,2527332,100631929,52,NA
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,59.5,4.3,NA,NA,Pointsbet,2527332,100631929,53,NA
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,69.5,6,NA,NA,Pointsbet,2527332,100631929,54,NA
+New England Patriots v Buffalo Bills,Kayshon Boutte,New England Patriots,Receiving Yards,79.5,9.5,NA,NA,Pointsbet,2527332,100631929,55,NA
+New England Patriots v Buffalo Bills,Keon Coleman,Buffalo Bills,Receiving Yards,20.5,1.95,1.8,1.068,Pointsbet,2527332,100631937,13,14
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,19.5,1.29,NA,NA,Pointsbet,2527332,100631929,81,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,29.5,1.5,NA,NA,Pointsbet,2527332,100631929,82,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,39.5,1.8,NA,NA,Pointsbet,2527332,100631929,83,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,40.5,1.87,1.87,1.07,Pointsbet,2527332,100631937,11,12
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,49.5,2.25,NA,NA,Pointsbet,2527332,100631929,84,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,59.5,3,NA,NA,Pointsbet,2527332,100631929,85,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,69.5,4,NA,NA,Pointsbet,2527332,100631929,86,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,79.5,5.25,NA,NA,Pointsbet,2527332,100631929,87,NA
+New England Patriots v Buffalo Bills,Khalil Shakir,Buffalo Bills,Receiving Yards,89.5,7.5,NA,NA,Pointsbet,2527332,100631929,88,NA
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,19.5,1.53,NA,NA,Pointsbet,2527332,100631929,17,NA
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,29.5,1.9,NA,NA,Pointsbet,2527332,100631929,18,NA
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,30.5,1.95,1.8,1.068,Pointsbet,2527332,100631937,9,10
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,39.5,2.6,NA,NA,Pointsbet,2527332,100631929,19,NA
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,49.5,3.8,NA,NA,Pointsbet,2527332,100631929,20,NA
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,59.5,5.75,NA,NA,Pointsbet,2527332,100631929,21,NA
+New England Patriots v Buffalo Bills,Mack Hollins,New England Patriots,Receiving Yards,69.5,9,NA,NA,Pointsbet,2527332,100631929,22,NA
+New England Patriots v Buffalo Bills,Rhamondre Stevenson,New England Patriots,Receiving Yards,10.5,1.87,1.87,1.07,Pointsbet,2527332,100631937,27,28
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,19.5,1.2,NA,NA,Pointsbet,2527332,100631929,33,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,29.5,1.36,NA,NA,Pointsbet,2527332,100631929,34,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,39.5,1.59,NA,NA,Pointsbet,2527332,100631929,35,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,45.5,1.8,1.95,1.068,Pointsbet,2527332,100631937,5,6
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,49.5,1.9,NA,NA,Pointsbet,2527332,100631929,36,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,59.5,2.45,NA,NA,Pointsbet,2527332,100631929,37,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,69.5,3.3,NA,NA,Pointsbet,2527332,100631929,38,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,79.5,4.3,NA,NA,Pointsbet,2527332,100631929,39,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,89.5,6,NA,NA,Pointsbet,2527332,100631929,40,NA
+New England Patriots v Buffalo Bills,Stefon Diggs,New England Patriots,Receiving Yards,99.5,9,NA,NA,Pointsbet,2527332,100631929,41,NA
+New England Patriots v Buffalo Bills,Treveyon Henderson,NA,Receiving Yards,15.5,1.8,1.95,1.068,Pointsbet,2527332,100631937,1,2
+New England Patriots v Buffalo Bills,Ty Johnson,Buffalo Bills,Receiving Yards,15.5,1.83,1.9,1.073,Pointsbet,2527332,100631937,33,34

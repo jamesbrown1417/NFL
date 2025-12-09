@@ -155,13 +155,9 @@ write_csv(betright_head_to_head_markets, "Data/scraped_odds/betright_h2h.csv")
 
 # Get API URL for each market type----------------------------------------------
 
-# Player Rushing Yards O/U
-player_rushing_over_under_links <-
-  glue("https://next-api.betright.com.au/Sports/MasterEvent?masterEventId={unique(all_betright_markets$match_id)}&groupTypeCode=G708&format=json")
-
-# Player Receiving Yards O/U
-player_receiving_over_under_links <-
-glue("https://next-api.betright.com.au/Sports/MasterEvent?masterEventId={unique(all_betright_markets$match_id)}&groupTypeCode=G709&format=json")
+# All player prop links
+all_links <-
+  glue("https://next-api.betright.com.au/Sports/MasterEventEvents?masterEventId={unique(all_betright_markets$match_id)}")
 
 # Function to extract prop data from links--------------------------------------
 
@@ -215,26 +211,22 @@ safe_get_prop_data <- safely(get_prop_data)
 
 # Get player rushing yards data--------------------------------------------------------
 
-# Match names to join
+# Match names to join (for linking prop responses back to matches)
 match_names <-
   all_betright_markets |>
   distinct(match, match_id)
 
-# All Data
-
-# Rushing Yards O/U
-betright_player_rushing_yards_over_under_all <- tryCatch({
-  
-  map(player_rushing_over_under_links, safe_get_prop_data) |>
+# Map over all links once and reuse for all player markets
+all_markets <- tryCatch({
+  map(all_links, safe_get_prop_data) |>
     map("result") |>
     bind_rows() |>
     rename(match_id = link) |>
     mutate(match_id = as.integer(str_extract(match_id, "[0-9]{4,7}"))) |>
     left_join(match_names) |>
     filter(!is.na(outcome_name))
-  
 }, error = function(e) {
-  NULL  # This will assign NULL to 'betright_player_points_over_under_all' if an error occurs
+  NULL
 })
 
 # Combine
@@ -246,8 +238,8 @@ betright_player_rushing_yards_over_under_all <- tryCatch({
 
 # Get Overs (over under markets)
 betright_player_rushing_yards_overs <-
-  betright_player_rushing_yards_over_under_all |>
-  filter(str_detect(outcome_title, "Over/Under")) |>
+  all_markets |>
+  filter(str_detect(event_name, "Rush Yards")) |>
   filter(str_detect(outcome_name, "Over")) |> 
   separate(outcome_name, into = c("player_name", "line"), sep = " Over ", remove = FALSE) |> 
   mutate(line = as.numeric(line)) |> 
@@ -257,7 +249,6 @@ betright_player_rushing_yards_overs <-
     player_name,
     line,
     over_price,
-    group_by_header,
     event_id,
     outcome_name,
     outcome_id,
@@ -266,8 +257,8 @@ betright_player_rushing_yards_overs <-
 
 # Get Unders (over under markets)
 betright_player_rushing_yards_unders <-
-  betright_player_rushing_yards_over_under_all |>
-  filter(str_detect(outcome_title, "Over/Under")) |>
+  all_markets |>
+  filter(str_detect(event_name, "Rush Yards")) |>
   filter(str_detect(outcome_name, "Under")) |> 
   separate(outcome_name, into = c("player_name", "line"), sep = " Under ", remove = FALSE) |> 
   mutate(line = as.numeric(line)) |> 
@@ -277,23 +268,11 @@ betright_player_rushing_yards_unders <-
     player_name,
     line,
     under_price,
-    group_by_header,
     event_id,
     outcome_name_under = outcome_name,
     outcome_id_under = outcome_id,
     fixed_market_id_under = fixed_market_id
   )
-
-# # Get alternate player points markets
-# betright_alternate_points <-
-#   betright_player_points_all |>
-#   filter(str_detect(outcome_title, "Over/Under", negate = TRUE)) |> 
-#   mutate(player_name = str_remove(outcome_name, " \\d+\\+$")) |> 
-#   mutate(line = str_extract(outcome_name, "\\d+\\+$")) |>
-#   mutate(line = str_remove(line, "\\+$")) |>
-#   mutate(line = as.integer(line) - 0.5) |> 
-#   rename(over_price = price) |> 
-#   select(match, player_name, line, over_price, group_by_header, event_id, outcome_name, outcome_id, fixed_market_id)
 
 # Combine
 betright_rushing_yards <-
@@ -324,7 +303,6 @@ betright_rushing_yards <-
     under_price,
     agency = "BetRight",
     opposition_team,
-    group_by_header,
     event_id,
     outcome_name,
     outcome_name_under,
@@ -334,29 +312,7 @@ betright_rushing_yards <-
     fixed_market_id_under
   )
 
-# Get player receiving yards data--------------------------------------------------------
-
-# Match names to join
-match_names <-
-  all_betright_markets |>
-  distinct(match, match_id)
-
-# All Data
-
-# Points O/U
-betright_player_receiving_yards_over_under_all <- tryCatch({
-  
-  map(player_receiving_over_under_links, safe_get_prop_data) |>
-    map("result") |>
-    bind_rows() |>
-    rename(match_id = link) |>
-    mutate(match_id = as.integer(str_extract(match_id, "[0-9]{4,7}"))) |>
-    left_join(match_names) |>
-    filter(!is.na(outcome_name))
-  
-}, error = function(e) {
-  NULL  # This will assign NULL to 'betright_player_points_over_under_all' if an error occurs
-})
+# Get player receiving yards data------------------------------------------------------
 
 # Combine
 # betright_player_points_all <-
@@ -367,8 +323,8 @@ betright_player_receiving_yards_over_under_all <- tryCatch({
 
 # Get Overs (over under markets)
 betright_player_receiving_yards_overs <-
-  betright_player_receiving_yards_over_under_all |>
-  filter(str_detect(outcome_title, "Over/Under")) |>
+  all_markets |>
+  filter(str_detect(event_name, regex("Rec.*Yards", ignore_case = TRUE))) |>
   filter(str_detect(outcome_name, "Over")) |> 
   separate(outcome_name, into = c("player_name", "line"), sep = " Over ", remove = FALSE) |> 
   mutate(line = as.numeric(line)) |> 
@@ -378,7 +334,6 @@ betright_player_receiving_yards_overs <-
     player_name,
     line,
     over_price,
-    group_by_header,
     event_id,
     outcome_name,
     outcome_id,
@@ -387,8 +342,8 @@ betright_player_receiving_yards_overs <-
 
 # Get Unders (over under markets)
 betright_player_receiving_yards_unders <-
-  betright_player_receiving_yards_over_under_all |>
-  filter(str_detect(outcome_title, "Over/Under")) |>
+  all_markets |>
+  filter(str_detect(event_name, regex("Rec.*Yards", ignore_case = TRUE))) |>
   filter(str_detect(outcome_name, "Under")) |> 
   separate(outcome_name, into = c("player_name", "line"), sep = " Under ", remove = FALSE) |> 
   mutate(line = as.numeric(line)) |> 
@@ -398,7 +353,6 @@ betright_player_receiving_yards_unders <-
     player_name,
     line,
     under_price,
-    group_by_header,
     event_id,
     outcome_name_under = outcome_name,
     outcome_id_under = outcome_id,
@@ -422,7 +376,7 @@ betright_receiving_yards <-
 #  bind_rows(betright_alternate_points) |>
   left_join(betright_player_receiving_yards_unders) |>
   mutate(agency = "BetRight") |>
-  mutate(market_type = "Player Points") |>
+  mutate(market_type = "Receiving Yards") |>
   separate(match,
            into = c("away_team", "home_team"),
            sep = " @ ") |>
@@ -445,7 +399,6 @@ betright_receiving_yards <-
     under_price,
     agency = "BetRight",
     opposition_team,
-    group_by_header,
     event_id,
     outcome_name,
     outcome_name_under,
