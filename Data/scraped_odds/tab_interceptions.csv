@@ -1,61 +1,108 @@
 match,start_time,player_name,player_team,market,line,over_price,under_price,margin,agency
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Interceptions,0.5,2.35,1.55,1.071,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Interceptions,1.5,8,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,0.5,2.05,1.72,1.069,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,0.5,2,1.72,1.081,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,1.5,6,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,2.5,17,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Interceptions,0.5,2.05,1.72,1.069,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Interceptions,0.5,2,1.72,1.081,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Interceptions,1.5,6,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Interceptions,2.5,17,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Interceptions,0.5,1.68,2.1,1.071,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Interceptions,1.5,4,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Interceptions,2.5,11,NA,NA,TAB
-Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Interceptions,0.5,2.1,1.68,1.071,TAB
-Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Interceptions,1.5,6.5,NA,NA,TAB
-Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Interceptions,2.5,19,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Interceptions,0.5,1.85,1.9,1.067,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Interceptions,0.5,1.8,1.9,1.082,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Interceptions,1.5,4.8,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Interceptions,0.5,2,1.75,1.071,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Interceptions,1.5,6,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Interceptions,2.5,17,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Interceptions,0.5,1.53,2.4,1.07,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Interceptions,0.5,1.52,2.4,1.075,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Interceptions,1.5,3.3,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Interceptions,2.5,8.5,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Interceptions,3.5,21,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Interceptions,0.5,1.8,1.95,1.068,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Interceptions,1.5,4.6,NA,NA,TAB
 Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Interceptions,2.5,13,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Interceptions,0.5,2.15,1.65,1.071,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Interceptions,0.5,2.2,1.62,1.072,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Interceptions,0.5,2.15,1.62,1.082,TAB
 Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Interceptions,1.5,7,NA,NA,TAB
 Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Interceptions,2.5,21,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,0.5,2.05,1.72,1.069,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,0.5,2,1.72,1.081,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,1.5,6,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,2.5,17,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,0.5,1.68,2.1,1.071,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,0.5,1.65,2.1,1.082,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,1.5,4,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,2.5,11,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,0.5,2.15,1.65,1.071,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,0.5,2.1,1.65,1.082,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,1.5,6.5,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,2.5,19,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,0.5,2.1,1.68,1.071,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,0.5,2.05,1.68,1.083,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,1.5,6.5,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Interceptions,2.5,19,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,0.5,1.58,2.3,1.068,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,1.5,3.5,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Interceptions,2.5,9,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Interceptions,0.5,1.42,2.75,1.068,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Interceptions,0.5,1.4,2.75,1.078,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Interceptions,1.5,2.75,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Interceptions,2.5,6.5,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Interceptions,3.5,15,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Interceptions,0.5,2,1.75,1.071,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Interceptions,1.5,5.25,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Interceptions,2.5,15,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,0.5,1.95,1.8,1.068,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,0.5,1.9,1.8,1.082,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,1.5,5.5,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Interceptions,2.5,15,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Interceptions,0.5,2.05,1.72,1.069,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Interceptions,0.5,2,1.72,1.081,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Interceptions,1.5,6,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Interceptions,2.5,17,NA,NA,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,0.5,2.2,1.62,1.072,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,1.5,7,NA,NA,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Interceptions,2.5,21,NA,NA,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Interceptions,0.5,2,1.75,1.071,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Interceptions,0.5,1.95,1.75,1.084,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Interceptions,1.5,5.75,NA,NA,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Interceptions,2.5,17,NA,NA,TAB
-Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,0.5,1.9,1.85,1.067,TAB
-Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,0.5,1.85,1.85,1.081,TAB
-Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,1.5,5,NA,NA,TAB
-Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,2.5,15,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Interceptions,0.5,2.05,1.72,1.069,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Interceptions,0.5,2,1.72,1.081,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Interceptions,1.5,6,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Interceptions,2.5,19,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Interceptions,0.5,1.85,1.9,1.067,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Interceptions,0.5,1.8,1.9,1.082,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Interceptions,1.5,4.8,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Interceptions,2.5,13,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Interceptions,0.5,2.3,1.58,1.068,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Interceptions,1.5,7,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Interceptions,2.5,19,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Interceptions,0.5,1.6,2.25,1.069,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Interceptions,0.5,1.58,2.25,1.077,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Interceptions,1.5,3.5,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Interceptions,2.5,9,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,0.5,1.8,1.95,1.068,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,1.5,4.6,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Interceptions,2.5,13,NA,NA,TAB
 Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Interceptions,0.5,1.95,1.8,1.068,TAB
 Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Interceptions,1.5,5.5,NA,NA,TAB
 Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Interceptions,2.5,15,NA,NA,TAB
 Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Interceptions,0.5,2.1,1.68,1.071,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Interceptions,0.5,2.05,1.68,1.083,TAB
 Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Interceptions,1.5,6.5,NA,NA,TAB
 Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Interceptions,2.5,19,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Interceptions,0.5,2.1,1.68,1.071,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Interceptions,1.5,6.5,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Interceptions,0.5,2.4,1.53,1.07,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Interceptions,0.5,2.35,1.53,1.079,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Interceptions,1.5,7,NA,NA,TAB
 Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Interceptions,2.5,19,NA,NA,TAB
-New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Interceptions,0.5,1.72,2.05,1.069,TAB
-New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Interceptions,1.5,4.25,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Interceptions,0.5,1.87,1.87,1.07,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Interceptions,0.5,1.85,1.87,1.075,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Interceptions,1.5,5.25,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Interceptions,2.5,15,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Interceptions,0.5,1.68,2.1,1.071,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Interceptions,1.5,4,NA,NA,TAB
 New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Interceptions,2.5,11,NA,NA,TAB
-San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Interceptions,0.5,2.25,1.6,1.069,TAB
-San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Interceptions,1.5,7.5,NA,NA,TAB
-San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Interceptions,0.5,1.87,1.87,1.07,TAB
-San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Interceptions,0.5,1.85,1.87,1.075,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Interceptions,0.5,1.9,1.85,1.067,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Interceptions,1.5,5.75,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Interceptions,2.5,17,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Interceptions,0.5,1.95,1.8,1.068,TAB
 San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Interceptions,1.5,5,NA,NA,TAB
-San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Interceptions,2.5,15,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Interceptions,2.5,13,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Interceptions,0.5,1.62,2.2,1.072,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Interceptions,0.5,1.6,2.2,1.08,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Interceptions,1.5,3.9,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Interceptions,2.5,11,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Interceptions,0.5,2.05,1.72,1.069,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Interceptions,1.5,6,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Interceptions,2.5,19,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Interceptions,0.5,1.8,1.95,1.068,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Interceptions,1.5,4.6,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Interceptions,2.5,13,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Interceptions,0.5,1.55,2.35,1.071,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Interceptions,1.5,3.6,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Interceptions,2.5,10,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Interceptions,0.5,2.05,1.72,1.069,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Interceptions,1.5,6.5,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Interceptions,2.5,19,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Interceptions,0.5,1.85,1.9,1.067,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Interceptions,0.5,1.8,1.9,1.082,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Interceptions,1.5,4.8,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Interceptions,2.5,13,NA,NA,TAB

@@ -1,73 +1,158 @@
 match,start_time,player_name,player_team,market,line,over_price,under_price,margin,agency
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,24.5,1.3,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,27.5,1.75,2,1.071,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,29.5,2.25,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,34.5,5.25,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,39.5,13,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,24.5,1.06,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,29.5,1.45,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,32.5,2,1.75,1.071,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,34.5,2.6,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,39.5,6.5,NA,NA,TAB
-Los Angeles Chargers v Philadelphia Eagles,2025-12-09T01:18:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,44.5,17,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,24.5,1.05,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,29.5,1.4,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,31.5,1.72,2.05,1.069,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,34.5,2.45,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,39.5,5.75,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Baker Mayfield,Tampa Bay Buccaneers,Passing Attempts,44.5,15,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Passing Attempts,24.5,1.06,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Passing Attempts,29.5,1.45,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Passing Attempts,32.5,2,1.75,1.071,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Passing Attempts,34.5,2.65,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Passing Attempts,39.5,6.5,NA,NA,TAB
-Tampa Bay Buccaneers v Atlanta Falcons,2025-12-12T01:15:00.000Z,Kirk Cousins,Atlanta Falcons,Passing Attempts,44.5,17,NA,NA,TAB
-Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,24.5,1.15,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,24.5,1.16,NA,NA,TAB
 Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,29.5,1.75,NA,NA,TAB
 Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,30.5,2,1.75,1.071,TAB
-Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,34.5,3.6,NA,NA,TAB
-Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,39.5,9,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,29.5,1.1,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,34.5,1.55,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,36.5,1.95,1.8,1.068,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,39.5,2.8,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,44.5,6.5,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,49.5,17,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,24.5,1.16,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,29.5,1.8,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,30.5,2.05,1.72,1.069,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,34.5,3.7,NA,NA,TAB
-Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,39.5,10,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,34.5,3.7,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,Caleb Williams,Chicago Bears,Passing Attempts,39.5,10,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Passing Attempts,24.5,1.16,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Passing Attempts,29.5,1.8,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Passing Attempts,30.5,2.05,1.72,1.069,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Passing Attempts,34.5,3.7,NA,NA,TAB
+Chicago Bears v Cleveland Browns,2025-12-14T18:00:00.000Z,S Sanders,NA,Passing Attempts,39.5,10,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,29.5,1.07,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,34.5,1.45,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,36.5,1.75,2,1.071,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,39.5,2.5,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,44.5,5.75,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Joe Burrow,Cincinnati Bengals,Passing Attempts,49.5,15,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,24.5,1.23,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,28.5,1.8,1.95,1.068,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,29.5,2.05,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,34.5,4.6,NA,NA,TAB
+Cincinnati Bengals v Baltimore Ravens,2025-12-14T18:00:00.000Z,Lamar Jackson,Baltimore Ravens,Passing Attempts,39.5,11,NA,NA,TAB
 Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,24.5,1.08,NA,NA,TAB
 Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,29.5,1.52,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,31.5,1.95,1.8,1.068,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,34.5,2.9,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,31.5,1.9,1.85,1.067,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,34.5,2.8,NA,NA,TAB
 Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,39.5,7,NA,NA,TAB
 Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,C.J. Stroud,Houston Texans,Passing Attempts,44.5,19,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,29.5,1.08,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,34.5,1.46,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,37.5,2,1.75,1.071,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,39.5,2.55,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,44.5,6,NA,NA,TAB
-Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,49.5,15,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,24.5,1.09,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,29.5,1.55,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,31.5,1.95,1.8,1.068,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,34.5,3,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,39.5,7.5,NA,NA,TAB
-New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,44.5,21,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,29.5,1.05,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,34.5,1.36,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,37.5,1.8,1.95,1.068,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,39.5,2.25,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,44.5,4.8,NA,NA,TAB
+Houston Texans v Arizona Cardinals,2025-12-14T18:00:00.000Z,J Brissett,NA,Passing Attempts,49.5,11,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Passing Attempts,24.5,1.13,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Passing Attempts,29.5,1.72,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Passing Attempts,30.5,1.95,1.8,1.068,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Passing Attempts,34.5,3.5,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,B Cook,NA,Passing Attempts,39.5,9,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Passing Attempts,24.5,1.13,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Passing Attempts,29.5,1.72,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Passing Attempts,30.5,1.95,1.8,1.068,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Passing Attempts,34.5,3.4,NA,NA,TAB
+Jacksonville Jaguars v New York Jets,2025-12-14T18:00:00.000Z,Trevor Lawrence,Jacksonville Jaguars,Passing Attempts,39.5,9,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,24.5,1.1,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,29.5,1.6,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,31.5,2.05,1.72,1.069,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,34.5,3.1,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,39.5,8,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Justin Herbert,Los Angeles Chargers,Passing Attempts,44.5,21,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Passing Attempts,29.5,1.26,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Passing Attempts,34.5,2.05,1.72,1.069,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Passing Attempts,34.5,2,1.72,1.081,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Passing Attempts,39.5,4.25,NA,NA,TAB
+Kansas City Chiefs v Los Angeles Chargers,2025-12-14T18:00:00.000Z,Patrick Mahomes,Kansas City Chiefs,Passing Attempts,44.5,11,NA,NA,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,24.5,1.18,NA,NA,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,29.5,1.85,1.9,1.067,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,34.5,3.8,NA,NA,TAB
+New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Drake Maye,New England Patriots,Passing Attempts,39.5,10,NA,NA,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Passing Attempts,24.5,1.12,NA,NA,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Passing Attempts,29.5,1.68,NA,NA,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Passing Attempts,30.5,1.9,1.85,1.067,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Passing Attempts,34.5,3.4,NA,NA,TAB
 New England Patriots v Buffalo Bills,2025-12-14T18:00:00.000Z,Josh Allen,Buffalo Bills,Passing Attempts,39.5,8.5,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,29.5,1.36,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,32.5,1.85,1.9,1.067,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,34.5,2.3,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,39.5,5.25,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,44.5,13,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,29.5,1.26,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,33.5,1.8,1.95,1.068,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,34.5,2,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,39.5,4.25,NA,NA,TAB
-Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,44.5,11,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Passing Attempts,24.5,1.29,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Passing Attempts,28.5,1.95,1.8,1.068,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Passing Attempts,29.5,2.25,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Passing Attempts,34.5,5.25,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,Jaxson Dart,New York Giants,Passing Attempts,39.5,13,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Passing Attempts,24.5,1.16,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Passing Attempts,29.5,1.8,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Passing Attempts,30.5,2.05,1.72,1.069,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Passing Attempts,34.5,3.7,NA,NA,TAB
+New York Giants v Washington Commanders,2025-12-14T18:00:00.000Z,M Mariota,NA,Passing Attempts,39.5,10,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,24.5,1.29,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,28.5,1.95,1.8,1.068,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,29.5,2.2,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,34.5,5.25,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,Jalen Hurts,Philadelphia Eagles,Passing Attempts,39.5,13,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Passing Attempts,24.5,1.1,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Passing Attempts,29.5,1.6,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Passing Attempts,31.5,2.05,1.72,1.069,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Passing Attempts,34.5,3.1,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Passing Attempts,39.5,8,NA,NA,TAB
+Philadelphia Eagles v Las Vegas Raiders,2025-12-14T18:00:00.000Z,K Pickett,NA,Passing Attempts,44.5,21,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Passing Attempts,29.5,1.17,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Passing Attempts,34.5,1.75,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Passing Attempts,35.5,1.95,1.8,1.068,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Passing Attempts,39.5,3.4,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Bo Nix,Denver Broncos,Passing Attempts,44.5,8.5,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Passing Attempts,24.5,1.08,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Passing Attempts,29.5,1.55,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Passing Attempts,31.5,1.95,1.8,1.068,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Passing Attempts,34.5,2.9,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Passing Attempts,39.5,7.5,NA,NA,TAB
+Denver Broncos v Green Bay Packers,2025-12-14T21:25:00.000Z,Jordan Love,Green Bay Packers,Passing Attempts,44.5,19,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,29.5,1.21,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,34.5,1.9,1.85,1.067,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,39.5,3.9,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Jared Goff,Detroit Lions,Passing Attempts,44.5,10,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,29.5,1.11,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,34.5,1.58,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,35.5,1.75,2,1.071,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,39.5,2.9,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,44.5,7,NA,NA,TAB
+Los Angeles Rams v Detroit Lions,2025-12-14T21:25:00.000Z,Matthew Stafford,Los Angeles Rams,Passing Attempts,49.5,17,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Passing Attempts,24.5,1.21,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Passing Attempts,28.5,1.75,2,1.071,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Passing Attempts,29.5,1.95,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Passing Attempts,34.5,4.25,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,Bryce Young,Carolina Panthers,Passing Attempts,39.5,11,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Passing Attempts,24.5,1.11,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Passing Attempts,29.5,1.65,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Passing Attempts,31.5,2.1,1.68,1.071,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Passing Attempts,34.5,3.2,NA,NA,TAB
+New Orleans Saints v Carolina Panthers,2025-12-14T21:25:00.000Z,T Shough,NA,Passing Attempts,39.5,8.5,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Passing Attempts,24.5,1.09,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Passing Attempts,29.5,1.6,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Passing Attempts,31.5,2,1.75,1.071,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Passing Attempts,34.5,3,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Passing Attempts,39.5,7.5,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Brock Purdy,San Francisco 49ers,Passing Attempts,44.5,21,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Passing Attempts,29.5,1.34,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Passing Attempts,32.5,1.8,1.95,1.068,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Passing Attempts,34.5,2.3,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Passing Attempts,39.5,5.25,NA,NA,TAB
+San Francisco 49ers v Tennessee Titans,2025-12-14T21:25:00.000Z,Cam Ward,Tennessee Titans,Passing Attempts,44.5,13,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Passing Attempts,24.5,1.38,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Passing Attempts,27.5,1.9,1.85,1.067,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Passing Attempts,29.5,2.5,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Passing Attempts,34.5,6,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,P Rivers,NA,Passing Attempts,39.5,17,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Passing Attempts,24.5,1.29,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Passing Attempts,27.5,1.72,2.05,1.069,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Passing Attempts,29.5,2.2,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Passing Attempts,34.5,5,NA,NA,TAB
+Seattle Seahawks v Indianapolis Colts,2025-12-14T21:25:00.000Z,Sam Darnold,Seattle Seahawks,Passing Attempts,39.5,13,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Passing Attempts,29.5,1.2,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Passing Attempts,34.5,1.85,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Passing Attempts,35.5,2.1,1.68,1.071,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Passing Attempts,39.5,3.7,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,Dak Prescott,Dallas Cowboys,Passing Attempts,44.5,9,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Passing Attempts,24.5,1.17,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Passing Attempts,29.5,1.8,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Passing Attempts,30.5,2.05,1.72,1.069,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Passing Attempts,34.5,3.8,NA,NA,TAB
+Dallas Cowboys v Minnesota Vikings,2025-12-15T01:20:00.000Z,JJ McCarthy,NA,Passing Attempts,39.5,10,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Passing Attempts,24.5,1.06,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Passing Attempts,29.5,1.46,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Passing Attempts,31.5,1.8,1.95,1.068,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Passing Attempts,34.5,2.65,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Passing Attempts,39.5,6.5,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Aaron Rodgers,Pittsburgh Steelers,Passing Attempts,44.5,17,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Passing Attempts,24.5,1.26,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Passing Attempts,28.5,1.9,1.85,1.067,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Passing Attempts,29.5,2.1,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Passing Attempts,34.5,4.8,NA,NA,TAB
+Pittsburgh Steelers v Miami Dolphins,2025-12-16T01:15:00.000Z,Tua Tagovailoa,Miami Dolphins,Passing Attempts,39.5,13,NA,NA,TAB
