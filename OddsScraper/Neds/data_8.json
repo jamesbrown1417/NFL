@@ -1,120 +1,120 @@
 {
     "entrants": {
-        "070e7b5e-5742-4030-a7a1-be2341356e96": {
-            "id": "070e7b5e-5742-4030-a7a1-be2341356e96",
-            "name": "Seattle Seahawks",
-            "home_away": "AWAY",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "4d76363f-b320-437f-9ce4-01e123088083"
-        },
-        "42fff094-a494-4c6c-aff7-6ba7edbd36d7": {
-            "id": "42fff094-a494-4c6c-aff7-6ba7edbd36d7",
-            "name": "Seattle Seahawks 1-13",
-            "home_away": "AWAY",
-            "visible": true,
-            "sort_order": 40,
-            "market_id": "910b4676-c8b1-4cd3-ad03-6e1867854038"
-        },
-        "57b3a540-9792-4859-8c51-a9610eb773ad": {
-            "id": "57b3a540-9792-4859-8c51-a9610eb773ad",
-            "name": "Seattle Seahawks",
-            "home_away": "AWAY",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "dafc7c58-d658-447e-9cc3-3ec28635c064"
-        },
-        "6eb6d8b1-93b0-4cc0-93d9-72eb3aeab874": {
-            "id": "6eb6d8b1-93b0-4cc0-93d9-72eb3aeab874",
-            "name": "Carolina Panthers",
+        "04748cee-6072-43c3-8ed3-4c5ec2455a51": {
+            "id": "04748cee-6072-43c3-8ed3-4c5ec2455a51",
+            "name": "Atlanta Falcons",
             "home_away": "HOME",
             "visible": true,
             "sort_order": 10,
-            "market_id": "4d76363f-b320-437f-9ce4-01e123088083"
+            "market_id": "11e401c9-327f-4865-bf78-7177350566a5"
         },
-        "8382a855-ef32-4a75-b98e-78fda0e74294": {
-            "id": "8382a855-ef32-4a75-b98e-78fda0e74294",
-            "name": "Seattle Seahawks 14+",
-            "home_away": "AWAY",
-            "visible": true,
-            "sort_order": 50,
-            "market_id": "910b4676-c8b1-4cd3-ad03-6e1867854038"
-        },
-        "b3d4eb9e-5e52-4d47-86b0-7b7de30c5ac9": {
-            "id": "b3d4eb9e-5e52-4d47-86b0-7b7de30c5ac9",
+        "240bfd3a-bf0d-4422-9163-5a812088b5df": {
+            "id": "240bfd3a-bf0d-4422-9163-5a812088b5df",
             "name": "Over",
             "visible": true,
             "sort_order": 10,
-            "market_id": "18812f98-46dd-406e-9bca-c979555f2eef"
+            "market_id": "e1959266-3ac4-49ad-8ce0-c9903ba7354a"
         },
-        "dc791169-cb0b-4930-a642-b70d83ee10c2": {
-            "id": "dc791169-cb0b-4930-a642-b70d83ee10c2",
-            "name": "Carolina Panthers",
+        "2cb3706e-953b-487b-a60c-5bf70562667d": {
+            "id": "2cb3706e-953b-487b-a60c-5bf70562667d",
+            "name": "New Orleans Saints 1-13",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
+        },
+        "4757e6e5-cf05-406b-b4e6-9ee77081449d": {
+            "id": "4757e6e5-cf05-406b-b4e6-9ee77081449d",
+            "name": "New Orleans Saints",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "11e401c9-327f-4865-bf78-7177350566a5"
+        },
+        "4b369a44-7589-4a6b-80db-dc4a8b082842": {
+            "id": "4b369a44-7589-4a6b-80db-dc4a8b082842",
+            "name": "New Orleans Saints",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "81393f42-a772-4b62-8de9-814020ae566f"
+        },
+        "52f4d50e-c9a9-43ac-adb9-99e8b5bb0fae": {
+            "id": "52f4d50e-c9a9-43ac-adb9-99e8b5bb0fae",
+            "name": "New Orleans Saints 14+",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
+        },
+        "7fdf8a1a-e318-428e-bdde-98ba34c8e84e": {
+            "id": "7fdf8a1a-e318-428e-bdde-98ba34c8e84e",
+            "name": "Atlanta Falcons 1-13",
             "home_away": "HOME",
             "visible": true,
             "sort_order": 10,
-            "market_id": "dafc7c58-d658-447e-9cc3-3ec28635c064"
+            "market_id": "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
         },
-        "f300966b-ea89-4686-8ad0-f95d245debc9": {
-            "id": "f300966b-ea89-4686-8ad0-f95d245debc9",
+        "8844850e-5ffc-4e1c-b71f-82111a78b460": {
+            "id": "8844850e-5ffc-4e1c-b71f-82111a78b460",
+            "name": "Atlanta Falcons 14+",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
+        },
+        "9e834edd-1254-43f7-96bb-c0186bb99ca7": {
+            "id": "9e834edd-1254-43f7-96bb-c0186bb99ca7",
+            "name": "Atlanta Falcons",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "81393f42-a772-4b62-8de9-814020ae566f"
+        },
+        "abafe049-ee02-408b-a710-ec70e18d6c92": {
+            "id": "abafe049-ee02-408b-a710-ec70e18d6c92",
             "name": "Draw",
             "visible": true,
             "sort_order": 30,
-            "market_id": "910b4676-c8b1-4cd3-ad03-6e1867854038"
+            "market_id": "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
         },
-        "f44a2dee-6c6a-4da6-a3fd-0d963679da16": {
-            "id": "f44a2dee-6c6a-4da6-a3fd-0d963679da16",
-            "name": "Carolina Panthers 1-13",
-            "home_away": "HOME",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "910b4676-c8b1-4cd3-ad03-6e1867854038"
-        },
-        "f9544c6f-b8fe-4580-96b3-d351612ddfc2": {
-            "id": "f9544c6f-b8fe-4580-96b3-d351612ddfc2",
+        "ef7370d6-5426-4da2-9d52-9b92056c6ffe": {
+            "id": "ef7370d6-5426-4da2-9d52-9b92056c6ffe",
             "name": "Under",
             "visible": true,
             "sort_order": 20,
-            "market_id": "18812f98-46dd-406e-9bca-c979555f2eef"
-        },
-        "fbdefc3a-072f-4c53-935d-4aabf0db268a": {
-            "id": "fbdefc3a-072f-4c53-935d-4aabf0db268a",
-            "name": "Carolina Panthers 14+",
-            "home_away": "HOME",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "910b4676-c8b1-4cd3-ad03-6e1867854038"
+            "market_id": "e1959266-3ac4-49ad-8ce0-c9903ba7354a"
         }
     },
     "event_participants": {
-        "0b1384aa-2600-4a66-8d76-1a27d6eaac60": {
-            "id": "0b1384aa-2600-4a66-8d76-1a27d6eaac60",
-            "event_id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
-            "name": "Seattle Seahawks",
-            "home_away": "AWAY",
-            "colour": "#002244"
-        },
-        "46cf2971-dd01-415a-af49-c5728d4f9e64": {
-            "id": "46cf2971-dd01-415a-af49-c5728d4f9e64",
-            "event_id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
-            "name": "Carolina Panthers",
+        "3ec4cef2-60d8-4108-8ed1-01cdbd582dc8": {
+            "id": "3ec4cef2-60d8-4108-8ed1-01cdbd582dc8",
+            "event_id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
+            "name": "Atlanta Falcons",
             "home_away": "HOME",
-            "colour": "#0085ca"
+            "colour": "#a71930"
+        },
+        "68617c8a-41a0-4a36-b8ea-a315c2b6384c": {
+            "id": "68617c8a-41a0-4a36-b8ea-a315c2b6384c",
+            "event_id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
+            "name": "New Orleans Saints",
+            "home_away": "AWAY",
+            "colour": "#d3bc8d"
         }
     },
     "events": {
-        "3152b854-e23b-4445-aa29-bf5ff1380f54": {
-            "id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
-            "name": "Carolina Panthers vs Seattle Seahawks",
+        "5d62e9cd-91b3-4940-9b79-219cf83eed1c": {
+            "id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
+            "name": "Atlanta Falcons vs New Orleans Saints",
             "event_type": {
                 "id": "6bfa0efc-05df-4ae1-9b1e-152365290cfd",
                 "name": "Match"
             },
             "match_status": "BettingOpen",
-            "advertised_start": "2025-12-28T18:00:00Z",
-            "actual_start": "2025-12-28T18:00:00Z",
+            "advertised_start": "2026-01-04T18:00:00Z",
+            "actual_start": "2026-01-04T18:00:00Z",
             "visible": true,
-            "slug": "carolina-panthers-vs-seattle-seahawks",
+            "slug": "atlanta-falcons-vs-new-orleans-saints",
             "competition": {
                 "id": "b45c7233-f151-4ab4-99a2-16f05a1eed4d",
                 "name": "NFL",
@@ -130,32 +130,32 @@
                 {
                     "market_type_group_id": "81a92a58-39c5-4adc-85f0-6e6fb1798226",
                     "market_ids": [
-                        "4d76363f-b320-437f-9ce4-01e123088083",
-                        "dafc7c58-d658-447e-9cc3-3ec28635c064",
-                        "18812f98-46dd-406e-9bca-c979555f2eef"
+                        "81393f42-a772-4b62-8de9-814020ae566f",
+                        "11e401c9-327f-4865-bf78-7177350566a5",
+                        "e1959266-3ac4-49ad-8ce0-c9903ba7354a"
                     ]
                 },
                 {
                     "market_type_group_id": "05fe767b-30dd-42fb-a9a6-b8719592ac6d",
                     "market_ids": [
-                        "910b4676-c8b1-4cd3-ad03-6e1867854038"
+                        "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
                     ]
                 }
             ],
             "market_count": 4,
             "main_markets": [
-                "4d76363f-b320-437f-9ce4-01e123088083"
+                "81393f42-a772-4b62-8de9-814020ae566f"
             ],
             "market_ids": [
-                "4d76363f-b320-437f-9ce4-01e123088083",
-                "dafc7c58-d658-447e-9cc3-3ec28635c064",
-                "18812f98-46dd-406e-9bca-c979555f2eef",
-                "910b4676-c8b1-4cd3-ad03-6e1867854038"
+                "81393f42-a772-4b62-8de9-814020ae566f",
+                "11e401c9-327f-4865-bf78-7177350566a5",
+                "e1959266-3ac4-49ad-8ce0-c9903ba7354a",
+                "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6"
             ],
             "category_id": "a19fe930-3d0c-4f23-9cd4-12132fcc6b0a",
             "participant_ids": [
-                "0b1384aa-2600-4a66-8d76-1a27d6eaac60",
-                "46cf2971-dd01-415a-af49-c5728d4f9e64"
+                "3ec4cef2-60d8-4108-8ed1-01cdbd582dc8",
+                "68617c8a-41a0-4a36-b8ea-a315c2b6384c"
             ]
         }
     },
@@ -176,168 +176,168 @@
         }
     },
     "markets": {
-        "18812f98-46dd-406e-9bca-c979555f2eef": {
-            "id": "18812f98-46dd-406e-9bca-c979555f2eef",
-            "event_id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
-            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
+        "11e401c9-327f-4865-bf78-7177350566a5": {
+            "id": "11e401c9-327f-4865-bf78-7177350566a5",
+            "event_id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
+            "market_type_id": "15127a4c-20a0-409a-843f-3d6ea56c6721",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Total",
+            "name": "Line",
             "advertised_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
             "actual_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
-            "handicap": 42.5,
+            "handicap": 2.5,
             "same_game_multi_available": true,
-            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
+            "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
             "entrant_ids": [
-                "b3d4eb9e-5e52-4d47-86b0-7b7de30c5ac9",
-                "f9544c6f-b8fe-4580-96b3-d351612ddfc2"
+                "04748cee-6072-43c3-8ed3-4c5ec2455a51",
+                "4757e6e5-cf05-406b-b4e6-9ee77081449d"
             ],
             "num_winners": 1
         },
-        "4d76363f-b320-437f-9ce4-01e123088083": {
-            "id": "4d76363f-b320-437f-9ce4-01e123088083",
-            "event_id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
+        "81393f42-a772-4b62-8de9-814020ae566f": {
+            "id": "81393f42-a772-4b62-8de9-814020ae566f",
+            "event_id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
             "market_type_id": "9592f47d-6ad7-4f66-a97f-b3d80f540721",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Head To Head",
             "advertised_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
             "actual_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
             "is_primary": true,
             "same_game_multi_available": true,
             "comments": "Includes any Overtime.",
             "visible": true,
             "entrant_ids": [
-                "6eb6d8b1-93b0-4cc0-93d9-72eb3aeab874",
-                "070e7b5e-5742-4030-a7a1-be2341356e96"
+                "9e834edd-1254-43f7-96bb-c0186bb99ca7",
+                "4b369a44-7589-4a6b-80db-dc4a8b082842"
             ],
             "num_winners": 1
         },
-        "910b4676-c8b1-4cd3-ad03-6e1867854038": {
-            "id": "910b4676-c8b1-4cd3-ad03-6e1867854038",
-            "event_id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
+        "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6": {
+            "id": "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6",
+            "event_id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
             "market_type_id": "c0e86b7d-b27a-4a85-b7d1-f15867d8415d",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
             "name": "Winning Margin 1-13",
             "advertised_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
             "actual_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
             "same_game_multi_available": true,
             "comments": "Includes any Overtime.",
             "visible": true,
             "entrant_ids": [
-                "f44a2dee-6c6a-4da6-a3fd-0d963679da16",
-                "fbdefc3a-072f-4c53-935d-4aabf0db268a",
-                "f300966b-ea89-4686-8ad0-f95d245debc9",
-                "42fff094-a494-4c6c-aff7-6ba7edbd36d7",
-                "8382a855-ef32-4a75-b98e-78fda0e74294"
+                "7fdf8a1a-e318-428e-bdde-98ba34c8e84e",
+                "8844850e-5ffc-4e1c-b71f-82111a78b460",
+                "abafe049-ee02-408b-a710-ec70e18d6c92",
+                "2cb3706e-953b-487b-a60c-5bf70562667d",
+                "52f4d50e-c9a9-43ac-adb9-99e8b5bb0fae"
             ],
             "num_winners": 1
         },
-        "dafc7c58-d658-447e-9cc3-3ec28635c064": {
-            "id": "dafc7c58-d658-447e-9cc3-3ec28635c064",
-            "event_id": "3152b854-e23b-4445-aa29-bf5ff1380f54",
-            "market_type_id": "15127a4c-20a0-409a-843f-3d6ea56c6721",
+        "e1959266-3ac4-49ad-8ce0-c9903ba7354a": {
+            "id": "e1959266-3ac4-49ad-8ce0-c9903ba7354a",
+            "event_id": "5d62e9cd-91b3-4940-9b79-219cf83eed1c",
+            "market_type_id": "db15ecb8-d0cc-4878-8c67-890ad364ab7d",
             "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
-            "name": "Line",
+            "name": "Total",
             "advertised_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
             "actual_start": {
-                "seconds": 1766944800
+                "seconds": 1767549600
             },
-            "handicap": -7,
+            "handicap": 43.5,
             "same_game_multi_available": true,
-            "comments": "If the Line market results in a refund, the whole SGM bet will be refunded.",
+            "comments": "If the Total market results in a refund, the whole SGM bet will be refunded.",
             "visible": true,
             "entrant_ids": [
-                "dc791169-cb0b-4930-a642-b70d83ee10c2",
-                "57b3a540-9792-4859-8c51-a9610eb773ad"
+                "240bfd3a-bf0d-4422-9163-5a812088b5df",
+                "ef7370d6-5426-4da2-9d52-9b92056c6ffe"
             ],
             "num_winners": 1
         }
     },
     "markets_allow_cashout": {
-        "18812f98-46dd-406e-9bca-c979555f2eef": false,
-        "4d76363f-b320-437f-9ce4-01e123088083": true,
-        "910b4676-c8b1-4cd3-ad03-6e1867854038": true,
-        "dafc7c58-d658-447e-9cc3-3ec28635c064": false
+        "11e401c9-327f-4865-bf78-7177350566a5": false,
+        "81393f42-a772-4b62-8de9-814020ae566f": true,
+        "b5e8d736-9f50-4f4d-b184-1d7e08e3b4c6": true,
+        "e1959266-3ac4-49ad-8ce0-c9903ba7354a": false
     },
     "prices": {
-        "070e7b5e-5742-4030-a7a1-be2341356e96:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 3,
-                "denominator": 10
-            }
-        },
-        "42fff094-a494-4c6c-aff7-6ba7edbd36d7:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 21,
-                "denominator": 20
-            }
-        },
-        "57b3a540-9792-4859-8c51-a9610eb773ad:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 9,
-                "denominator": 10
-            }
-        },
-        "6eb6d8b1-93b0-4cc0-93d9-72eb3aeab874:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 13,
-                "denominator": 5
-            }
-        },
-        "8382a855-ef32-4a75-b98e-78fda0e74294:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 2,
-                "denominator": 1
-            }
-        },
-        "b3d4eb9e-5e52-4d47-86b0-7b7de30c5ac9:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "04748cee-6072-43c3-8ed3-4c5ec2455a51:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 87,
                 "denominator": 100
             }
         },
-        "dc791169-cb0b-4930-a642-b70d83ee10c2:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 9,
-                "denominator": 10
-            }
-        },
-        "f300966b-ea89-4686-8ad0-f95d245debc9:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 66,
-                "denominator": 1
-            }
-        },
-        "f44a2dee-6c6a-4da6-a3fd-0d963679da16:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 14,
-                "denominator": 5
-            }
-        },
-        "f9544c6f-b8fe-4580-96b3-d351612ddfc2:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "240bfd3a-bf0d-4422-9163-5a812088b5df:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 47,
                 "denominator": 50
             }
         },
-        "fbdefc3a-072f-4c53-935d-4aabf0db268a:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "2cb3706e-953b-487b-a60c-5bf70562667d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 39,
+                "denominator": 20
+            }
+        },
+        "4757e6e5-cf05-406b-b4e6-9ee77081449d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 50
+            }
+        },
+        "4b369a44-7589-4a6b-80db-dc4a8b082842:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 4
+            }
+        },
+        "52f4d50e-c9a9-43ac-adb9-99e8b5bb0fae:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 2
+            }
+        },
+        "7fdf8a1a-e318-428e-bdde-98ba34c8e84e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
+            }
+        },
+        "8844850e-5ffc-4e1c-b71f-82111a78b460:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 10
+            }
+        },
+        "9e834edd-1254-43f7-96bb-c0186bb99ca7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 20
+            }
+        },
+        "abafe049-ee02-408b-a710-ec70e18d6c92:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 66,
                 "denominator": 1
+            }
+        },
+        "ef7370d6-5426-4da2-9d52-9b92056c6ffe:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
             }
         }
     }
