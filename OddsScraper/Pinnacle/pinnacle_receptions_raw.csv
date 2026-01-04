@@ -1,21 +1,67 @@
 id,name,rot_num,line_id,price,handicap,selection,player_name,home_team,away_team
-1621734953,Over,12770,5663680559,1.625,7.5,Puka Nacua Total Receptions,Puka Nacua Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734954,Under,12771,5663680560,2.2,7.5,Puka Nacua Total Receptions,Puka Nacua Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760165,Over,25658,5664000043,2.3,2.5,Konata Mumpfield Total Receptions,Konata Mumpfield Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760166,Under,25659,5664000044,1.574,2.5,Konata Mumpfield Total Receptions,Konata Mumpfield Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760180,Over,25668,5663697792,1.546,1.5,Kyren Williams Total Receptions,Kyren Williams Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760181,Under,25669,5663697793,2.36,1.5,Kyren Williams Total Receptions,Kyren Williams Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760138,Over,25640,5664000039,1.5,1.5,Darnell Mooney Total Receptions,Darnell Mooney Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760139,Under,25641,5664000040,2.48,1.5,Darnell Mooney Total Receptions,Darnell Mooney Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734926,Over,12752,5663931249,1.549,4.5,Kyle Pitts Total Receptions,Kyle Pitts Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734927,Under,12753,5663931250,2.36,4.5,Kyle Pitts Total Receptions,Kyle Pitts Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760150,Over,25648,5664000055,2.4,2.5,Davis Allen Total Receptions,Davis Allen Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760151,Under,25649,5664000059,1.531,2.5,Davis Allen Total Receptions,Davis Allen Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734893,Over,12730,5663689082,1.689,4.5,Bijan Robinson Total Receptions,Bijan Robinson Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734894,Under,12731,5663689083,2.09,4.5,Bijan Robinson Total Receptions,Bijan Robinson Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734905,Over,12738,5663886188,1.735,5.5,Drake London Total Receptions,Drake London Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621734906,Under,12739,5663886189,2.02,5.5,Drake London Total Receptions,Drake London Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760126,Over,25632,5663734379,1.709,3.5,Colby Parkinson Total Receptions,Colby Parkinson Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760127,Under,25633,5663734380,2.06,3.5,Colby Parkinson Total Receptions,Colby Parkinson Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760195,Over,25678,5663740662,1.555,1.5,Terrance Ferguson Total Receptions,Terrance Ferguson Total Receptions,Atlanta Falcons,Los Angeles Rams
-1621760196,Under,25679,5663740663,2.34,1.5,Terrance Ferguson Total Receptions,Terrance Ferguson Total Receptions,Atlanta Falcons,Los Angeles Rams
+1621953837,Over,26124,5675190733,1.724,1.5,Jaylen Warren Total Receptions,Jaylen Warren Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953838,Under,26125,5675190734,2.09,1.5,Jaylen Warren Total Receptions,Jaylen Warren Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953856,Under,26137,5675686448,1.952,4.5,Kenneth Gainwell Total Receptions,Kenneth Gainwell Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953855,Over,26136,5675686447,1.833,4.5,Kenneth Gainwell Total Receptions,Kenneth Gainwell Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953882,Over,26154,5671885862,2.02,3.5,Mark Andrews Total Receptions,Mark Andrews Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953883,Under,26155,5671885863,1.775,3.5,Mark Andrews Total Receptions,Mark Andrews Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953803,Over,26104,5675384022,1.961,1.5,DeAndre Hopkins Total Receptions,DeAndre Hopkins Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953804,Under,26105,5675384023,1.833,1.5,DeAndre Hopkins Total Receptions,DeAndre Hopkins Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953894,Over,26162,5671885911,2.11,1.5,Rashod Bateman Total Receptions,Rashod Bateman Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953895,Under,26163,5671885912,1.719,1.5,Rashod Bateman Total Receptions,Rashod Bateman Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953825,Over,26116,5671887684,2.39,2.5,Isaiah Likely Total Receptions,Isaiah Likely Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953826,Under,26117,5671887685,1.568,2.5,Isaiah Likely Total Receptions,Isaiah Likely Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953843,Over,26128,5671885410,2.11,2.5,Jonnu Smith Total Receptions,Jonnu Smith Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953844,Under,26129,5671885411,1.719,2.5,Jonnu Smith Total Receptions,Jonnu Smith Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953888,Over,26158,5671885891,2.19,3.5,Pat Freiermuth Total Receptions,Pat Freiermuth Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953889,Under,26159,5671885892,1.671,3.5,Pat Freiermuth Total Receptions,Pat Freiermuth Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953912,Over,26174,5676085728,2.24,3.5,Brian Thomas Total Receptions,Brian Thomas Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953913,Under,26175,5676085729,1.602,3.5,Brian Thomas Total Receptions,Brian Thomas Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953906,Over,26170,5676085726,2.07,3.5,Brenton Strange Total Receptions,Brenton Strange Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953907,Under,26171,5676085727,1.704,3.5,Brenton Strange Total Receptions,Brenton Strange Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953933,Over,26188,5676085732,1.645,4.5,Jakobi Meyers Total Receptions,Jakobi Meyers Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953934,Under,26189,5676085733,2.16,4.5,Jakobi Meyers Total Receptions,Jakobi Meyers Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953939,Over,26192,5676085734,1.847,3.5,Parker Washington Total Receptions,Parker Washington Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953940,Under,26193,5676085735,1.892,3.5,Parker Washington Total Receptions,Parker Washington Total Receptions,Jacksonville Jaguars,Tennessee Titans
+1621953900,Over,26166,5671885982,1.68,4.5,Zay Flowers Total Receptions,Zay Flowers Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621953901,Under,26167,5671885983,2.17,4.5,Zay Flowers Total Receptions,Zay Flowers Total Receptions,Pittsburgh Steelers,Baltimore Ravens
+1621996432,Over,30034,5676085740,2.14,4.5,Tee Higgins Total Receptions,Tee Higgins Total Receptions,Cincinnati Bengals,Cleveland Browns
+1621996433,Under,30035,5676085741,1.657,4.5,Tee Higgins Total Receptions,Tee Higgins Total Receptions,Cincinnati Bengals,Cleveland Browns
+1621996435,Over,30036,5676085738,1.735,6.5,Ja'Marr Chase Total Receptions,Ja'Marr Chase Total Receptions,Cincinnati Bengals,Cleveland Browns
+1621996436,Under,30037,5676085739,2.02,6.5,Ja'Marr Chase Total Receptions,Ja'Marr Chase Total Receptions,Cincinnati Bengals,Cleveland Browns
+1621992125,Over,29950,5676085868,1.649,2.5,DJ Moore Total Receptions,DJ Moore Total Receptions,Chicago Bears,Detroit Lions
+1621992126,Under,29951,5676085869,2.16,2.5,DJ Moore Total Receptions,DJ Moore Total Receptions,Chicago Bears,Detroit Lions
+1621992079,Over,29942,5675039439,1.735,3.5,Colston Loveland Total Receptions,Colston Loveland Total Receptions,Chicago Bears,Detroit Lions
+1621992080,Under,29943,5675039440,2.04,3.5,Colston Loveland Total Receptions,Colston Loveland Total Receptions,Chicago Bears,Detroit Lions
+1621992240,Over,29974,5675109140,2.0,4.5,Luther Burden Total Receptions,Luther Burden Total Receptions,Chicago Bears,Detroit Lions
+1621992241,Under,29975,5675109141,1.763,4.5,Luther Burden Total Receptions,Luther Burden Total Receptions,Chicago Bears,Detroit Lions
+1621992018,Over,29926,5675111518,1.694,5.5,Amon-Ra St. Brown Total Receptions,Amon-Ra St. Brown Total Receptions,Chicago Bears,Detroit Lions
+1621992019,Under,29927,5675111519,2.09,5.5,Amon-Ra St. Brown Total Receptions,Amon-Ra St. Brown Total Receptions,Chicago Bears,Detroit Lions
+1621996525,Over,30094,5675030803,1.719,2.5,Jayden Higgins Total Receptions,Jayden Higgins Total Receptions,Houston Texans,Indianapolis Colts
+1621996526,Under,30095,5675030804,2.05,2.5,Jayden Higgins Total Receptions,Jayden Higgins Total Receptions,Houston Texans,Indianapolis Colts
+1621996528,Over,30096,5674832655,1.909,4.5,Nico Collins Total Receptions,Nico Collins Total Receptions,Houston Texans,Indianapolis Colts
+1621996529,Under,30097,5674832656,1.826,4.5,Nico Collins Total Receptions,Nico Collins Total Receptions,Houston Texans,Indianapolis Colts
+1621996522,Over,30092,5675444100,1.847,4.5,Dalton Schultz Total Receptions,Dalton Schultz Total Receptions,Houston Texans,Indianapolis Colts
+1621996523,Under,30093,5675444101,1.892,4.5,Dalton Schultz Total Receptions,Dalton Schultz Total Receptions,Houston Texans,Indianapolis Colts
+1621996462,Over,30054,5676085858,1.943,4.5,Courtland Sutton Total Receptions,Courtland Sutton Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996463,Under,30055,5676085859,1.8,4.5,Courtland Sutton Total Receptions,Courtland Sutton Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996471,Over,30060,5675457291,2.13,2.5,Troy Franklin Total Receptions,Troy Franklin Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996472,Under,30061,5675457292,1.657,2.5,Troy Franklin Total Receptions,Troy Franklin Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996465,Over,30056,5674827815,2.0,2.5,Evan Engram Total Receptions,Evan Engram Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996466,Under,30057,5674827816,1.757,2.5,Evan Engram Total Receptions,Evan Engram Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996468,Over,30058,5676085862,1.819,2.5,Pat Bryant Total Receptions,Pat Bryant Total Receptions,Denver Broncos,Los Angeles Chargers
+1621996469,Under,30059,5676085863,1.925,2.5,Pat Bryant Total Receptions,Pat Bryant Total Receptions,Denver Broncos,Los Angeles Chargers
+1621992434,Over,30010,5675803382,1.653,4.5,Stefon Diggs Total Receptions,Stefon Diggs Total Receptions,New England Patriots,Miami Dolphins
+1621992435,Under,30011,5675803383,2.15,4.5,Stefon Diggs Total Receptions,Stefon Diggs Total Receptions,New England Patriots,Miami Dolphins
+1621992410,Over,29994,5675213176,2.59,2.5,Kayshon Boutte Total Receptions,Kayshon Boutte Total Receptions,New England Patriots,Miami Dolphins
+1621992411,Under,29995,5675213177,1.465,2.5,Kayshon Boutte Total Receptions,Kayshon Boutte Total Receptions,New England Patriots,Miami Dolphins
+1621992404,Over,29990,5675140270,2.18,4.5,Hunter Henry Total Receptions,Hunter Henry Total Receptions,New England Patriots,Miami Dolphins
+1621992405,Under,29991,5675140271,1.641,4.5,Hunter Henry Total Receptions,Hunter Henry Total Receptions,New England Patriots,Miami Dolphins
+1621996641,Over,30118,5674883605,1.869,4.5,Kyle Pitts Total Receptions,Kyle Pitts Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996642,Under,30119,5674883606,1.869,4.5,Kyle Pitts Total Receptions,Kyle Pitts Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996609,Over,30110,5674879571,2.0,4.5,Bijan Robinson Total Receptions,Bijan Robinson Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996610,Under,30111,5674879572,1.757,4.5,Bijan Robinson Total Receptions,Bijan Robinson Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996635,Over,30116,5674882021,1.869,5.5,Juwan Johnson Total Receptions,Juwan Johnson Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996636,Under,30117,5674882022,1.869,5.5,Juwan Johnson Total Receptions,Juwan Johnson Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996628,Over,30114,5675050589,1.666,4.5,Drake London Total Receptions,Drake London Total Receptions,Atlanta Falcons,New Orleans Saints
+1621996629,Under,30115,5675050590,2.13,4.5,Drake London Total Receptions,Drake London Total Receptions,Atlanta Falcons,New Orleans Saints

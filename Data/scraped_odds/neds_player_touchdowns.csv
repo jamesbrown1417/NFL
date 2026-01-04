@@ -1,26 +1,323 @@
 match,home_team,away_team,market,player_name,player_team,opposition_team,line,over_price,agency
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Darnell Mooney,Atlanta Falcons,Los Angeles Rams,0.5,6,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,David Sills,Atlanta Falcons,Los Angeles Rams,0.5,9.5,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Tyler Allgeier,Atlanta Falcons,Los Angeles Rams,0.5,3.05,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Xavier Smith,Los Angeles Rams,Atlanta Falcons,0.5,8.75,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Charlie Woerner,Atlanta Falcons,Los Angeles Rams,0.5,15,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Kirk Cousins,Atlanta Falcons,Los Angeles Rams,0.5,17,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Konata Mumpfield,Los Angeles Rams,Atlanta Falcons,0.5,4,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Davis Allen,Los Angeles Rams,Atlanta Falcons,0.5,4.25,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Matthew Stafford,Los Angeles Rams,Atlanta Falcons,0.5,17,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Puka Nacua,Los Angeles Rams,Atlanta Falcons,0.5,1.62,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Bijan Robinson,Atlanta Falcons,Los Angeles Rams,0.5,1.75,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Colby Parkinson,Los Angeles Rams,Atlanta Falcons,0.5,2.35,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Terrance Ferguson,Los Angeles Rams,Atlanta Falcons,0.5,3.6,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Jordan Whittington,Los Angeles Rams,Atlanta Falcons,0.5,9.5,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Drake London,Atlanta Falcons,Los Angeles Rams,0.5,2.75,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Deven Thompkins,Atlanta Falcons,Los Angeles Rams,0.5,26,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Nick Vannett,Los Angeles Rams,Atlanta Falcons,0.5,9.5,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Dylan Drummond,Atlanta Falcons,Los Angeles Rams,0.5,13,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Falcons DST,NA,NA,0.5,8,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Rams DST,NA,NA,0.5,6,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Kyle Pitts,Atlanta Falcons,Los Angeles Rams,0.5,3.25,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Kyren Williams,Los Angeles Rams,Atlanta Falcons,0.5,1.9,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Tutu Atwell,Los Angeles Rams,Atlanta Falcons,0.5,9.5,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Teagan Quitoriano,Atlanta Falcons,Los Angeles Rams,0.5,34,Neds
-Atlanta Falcons v Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Player Touchdowns,Blake Corum,Los Angeles Rams,Atlanta Falcons,0.5,2.55,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Raheem Mostert,Las Vegas Raiders,Kansas City Chiefs,0.5,8.25,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Chris Oladokun,Kansas City Chiefs,Las Vegas Raiders,0.5,4.25,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Jason Brownlee,Kansas City Chiefs,Las Vegas Raiders,0.5,15,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Kenny Pickett,Las Vegas Raiders,Kansas City Chiefs,0.5,8.75,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Tre Tucker,Las Vegas Raiders,Kansas City Chiefs,0.5,4.5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Jared Wiley,Kansas City Chiefs,Las Vegas Raiders,0.5,15,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,JuJu Smith-Schuster,Kansas City Chiefs,Las Vegas Raiders,0.5,5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Brashard Smith,Kansas City Chiefs,Las Vegas Raiders,0.5,4.5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Michael Mayer,Las Vegas Raiders,Kansas City Chiefs,0.5,4.5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Jack Bech,Las Vegas Raiders,Kansas City Chiefs,0.5,7.25,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Chiefs DST,NA,NA,0.5,5.5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Hollywood Brown,NA,NA,0.5,4,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Travis Kelce,Kansas City Chiefs,Las Vegas Raiders,0.5,3.6,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Kareem Hunt,Kansas City Chiefs,Las Vegas Raiders,0.5,1.6800000000000002,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Jalen Royals,Kansas City Chiefs,Las Vegas Raiders,0.5,10.5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Raiders DST,NA,NA,0.5,6,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Noah Gray,Kansas City Chiefs,Las Vegas Raiders,0.5,7.25,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Tyler Lockett,Las Vegas Raiders,Kansas City Chiefs,0.5,8.75,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Ashton Jeanty,Las Vegas Raiders,Kansas City Chiefs,0.5,1.98,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Ian Thomas,Las Vegas Raiders,Kansas City Chiefs,0.5,11.5,Neds
+Las Vegas Raiders v Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Player Touchdowns,Dylan Laube,Las Vegas Raiders,Kansas City Chiefs,0.5,15,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Stefon Diggs,New England Patriots,Miami Dolphins,0.5,2.2,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Malik Washington,Miami Dolphins,New England Patriots,0.5,5,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Ollie Gordon,NA,NA,0.5,4.25,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Patriots DST,NA,NA,0.5,6,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Dolphins DST,NA,NA,0.5,8,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Hunter Henry,New England Patriots,Miami Dolphins,0.5,2.2,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Tahj Washington,Miami Dolphins,New England Patriots,0.5,21,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,DeMario Douglas,New England Patriots,Miami Dolphins,0.5,7.75,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Rhamondre Stevenson,New England Patriots,Miami Dolphins,0.5,2.2,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Jaylen Wright,Miami Dolphins,New England Patriots,0.5,2.35,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,TreVeyon Henderson,New England Patriots,Miami Dolphins,0.5,2.2,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,D'Ernest Johnson,New England Patriots,Miami Dolphins,0.5,15,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Kyle Williams,New England Patriots,Miami Dolphins,0.5,4.5,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Kayshon Boutte,New England Patriots,Miami Dolphins,0.5,3.6,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Greg Dulcich,Miami Dolphins,New England Patriots,0.5,5,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Alec Ingold,Miami Dolphins,New England Patriots,0.5,26,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Theo Wease,NA,NA,0.5,8.25,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Austin Hooper,New England Patriots,Miami Dolphins,0.5,5,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Quinn Ewers,Miami Dolphins,New England Patriots,0.5,8.25,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Cedrick Wilson,NA,NA,0.5,8.75,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Jaylen Waddle,Miami Dolphins,New England Patriots,0.5,4.25,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Efton Chism,NA,NA,0.5,7.75,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Drake Maye,New England Patriots,Miami Dolphins,0.5,3.4,Neds
+New England Patriots v Miami Dolphins,New England Patriots,Miami Dolphins,Player Touchdowns,Julian Hill,Miami Dolphins,New England Patriots,0.5,13,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Kimani Vidal,Los Angeles Chargers,Denver Broncos,0.5,4.25,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Trey Lance,Los Angeles Chargers,Denver Broncos,0.5,5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Lil'Jordan Humphrey,Denver Broncos,Los Angeles Chargers,0.5,8.25,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Ladd McConkey,Los Angeles Chargers,Denver Broncos,0.5,5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Evan Engram,Denver Broncos,Los Angeles Chargers,0.5,5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Hassan Haskins,Los Angeles Chargers,Denver Broncos,0.5,4.5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Pat Bryant,Denver Broncos,Los Angeles Chargers,0.5,4.25,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Courtland Sutton,Denver Broncos,Los Angeles Chargers,0.5,2.75,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Keenan Allen,Los Angeles Chargers,Denver Broncos,0.5,6,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Troy Franklin,Denver Broncos,Los Angeles Chargers,0.5,4.5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Quentin Johnston,Los Angeles Chargers,Denver Broncos,0.5,5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Tyler Conklin,Los Angeles Chargers,Denver Broncos,0.5,17,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Scott Matlock,Los Angeles Chargers,Denver Broncos,0.5,21,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Marcedes Lewis,Denver Broncos,Los Angeles Chargers,0.5,15,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Oronde Gadsden,NA,NA,0.5,6.75,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,KeAndre Lambert-Smith,Los Angeles Chargers,Denver Broncos,0.5,21,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Bo Nix,Denver Broncos,Los Angeles Chargers,0.5,4,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Will Dissly,Los Angeles Chargers,Denver Broncos,0.5,17,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Tyler Badie,Denver Broncos,Los Angeles Chargers,0.5,13,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Broncos DST,NA,NA,0.5,6,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,RJ Harvey,Denver Broncos,Los Angeles Chargers,0.5,1.62,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Marvin Mims,NA,NA,0.5,7.75,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Nate Adkins,Denver Broncos,Los Angeles Chargers,0.5,15,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Adam Trautman,Denver Broncos,Los Angeles Chargers,0.5,7.75,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Jaleel McLaughlin,Denver Broncos,Los Angeles Chargers,0.5,6,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Tre Harris,Los Angeles Chargers,Denver Broncos,0.5,9.5,Neds
+Denver Broncos v Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Player Touchdowns,Chargers DST,NA,NA,0.5,6.75,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Aaron Rodgers,Pittsburgh Steelers,Baltimore Ravens,0.5,26,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Jaylen Warren,Pittsburgh Steelers,Baltimore Ravens,0.5,2.9,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,DeAndre Hopkins,Baltimore Ravens,Pittsburgh Steelers,0.5,9.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Lamar Jackson,Baltimore Ravens,Pittsburgh Steelers,0.5,4,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Kenneth Gainwell,Pittsburgh Steelers,Baltimore Ravens,0.5,2.9,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Devontez Walker,Baltimore Ravens,Pittsburgh Steelers,0.5,17,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Pat Freiermuth,Pittsburgh Steelers,Baltimore Ravens,0.5,4.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,LaJohntay Wester,Baltimore Ravens,Pittsburgh Steelers,0.5,34,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Marquez Valdes-Scantling,Pittsburgh Steelers,Baltimore Ravens,0.5,4.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Adam Thielen,Pittsburgh Steelers,Baltimore Ravens,0.5,6,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Zay Flowers,Baltimore Ravens,Pittsburgh Steelers,0.5,3.05,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Steelers DST,NA,NA,0.5,8,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Isaiah Likely,Baltimore Ravens,Pittsburgh Steelers,0.5,5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Calvin Austin,NA,NA,0.5,6,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Patrick Ricard,Baltimore Ravens,Pittsburgh Steelers,0.5,11.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Scotty Miller,NA,NA,0.5,13,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Rasheen Ali,Baltimore Ravens,Pittsburgh Steelers,0.5,11.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Jonnu Smith,Pittsburgh Steelers,Baltimore Ravens,0.5,6,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Ravens DST,NA,NA,0.5,8,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Keaton Mitchell,Baltimore Ravens,Pittsburgh Steelers,0.5,7.25,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Derrick Henry,Baltimore Ravens,Pittsburgh Steelers,0.5,1.75,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Connor Heyward,Pittsburgh Steelers,Baltimore Ravens,0.5,10.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Charlie Kolar,Baltimore Ravens,Pittsburgh Steelers,0.5,9.5,Neds
+Pittsburgh Steelers v Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Player Touchdowns,Mark Andrews,Baltimore Ravens,Pittsburgh Steelers,0.5,3.05,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Jacory Croskey-Merritt,Washington Commanders,Philadelphia Eagles,0.5,2.55,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Tank Bigsby,Philadelphia Eagles,Washington Commanders,0.5,2.2,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Grant Calcaterra,Philadelphia Eagles,Washington Commanders,0.5,3.6,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Eagles DST,NA,NA,0.5,5,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Commanders DST,NA,NA,0.5,6,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Will Shipley,Philadelphia Eagles,Washington Commanders,0.5,3.05,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Britain Covey,Philadelphia Eagles,Washington Commanders,0.5,5,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Tanner McKee,Philadelphia Eagles,Washington Commanders,0.5,6,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Josh Johnson,Washington Commanders,Philadelphia Eagles,0.5,7.75,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Chris Rodriguez,NA,NA,0.5,2.75,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,A.J. Dillon,NA,NA,0.5,4.5,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Treylon Burks,Washington Commanders,Philadelphia Eagles,0.5,6,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Terry McLaurin,Washington Commanders,Philadelphia Eagles,0.5,4,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Darius Cooper,Philadelphia Eagles,Washington Commanders,0.5,3.05,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Kylen Granson,Philadelphia Eagles,Washington Commanders,0.5,7.25,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Colson Yankoff,Washington Commanders,Philadelphia Eagles,0.5,13,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Ben Sinnott,Washington Commanders,Philadelphia Eagles,0.5,6,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Jahan Dotson,Philadelphia Eagles,Washington Commanders,0.5,2.75,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Jeremy McNichols,Washington Commanders,Philadelphia Eagles,0.5,5,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Deebo Samuel Sr.,Washington Commanders,Philadelphia Eagles,0.5,4.5,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Chris Moore,Washington Commanders,Philadelphia Eagles,0.5,13,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,Cameron Latu,Philadelphia Eagles,Washington Commanders,0.5,8.25,Neds
+Philadelphia Eagles v Washington Commanders,Philadelphia Eagles,Washington Commanders,Player Touchdowns,John Bates,Washington Commanders,Philadelphia Eagles,0.5,13,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Colston Loveland,Chicago Bears,Detroit Lions,0.5,2.55,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Jahmyr Gibbs,Detroit Lions,Chicago Bears,0.5,1.58,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Devin Duvernay,Chicago Bears,Detroit Lions,0.5,8.25,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,DJ Moore,Chicago Bears,Detroit Lions,0.5,2.55,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Luther Burden,NA,NA,0.5,2.35,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Durham Smythe,Chicago Bears,Detroit Lions,0.5,7.75,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Cole Kmet,Chicago Bears,Detroit Lions,0.5,4,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Bears DST,NA,NA,0.5,8,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Kalif Raymond,Detroit Lions,Chicago Bears,0.5,6.75,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Jahdae Walker,Chicago Bears,Detroit Lions,0.5,4.25,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,D'Andre Swift,Chicago Bears,Detroit Lions,0.5,1.98,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Isaac TeSlaa,Detroit Lions,Chicago Bears,0.5,3.4,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Tom Kennedy,Detroit Lions,Chicago Bears,0.5,13,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Kyle Monangai,Chicago Bears,Detroit Lions,0.5,2.2,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Amon-Ra St. Brown,Detroit Lions,Chicago Bears,0.5,2.2,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Lions DST,NA,NA,0.5,8,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Jameson Williams,Detroit Lions,Chicago Bears,0.5,2.2,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Shane Zylstra,Detroit Lions,Chicago Bears,0.5,6.75,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Olamide Zaccheaus,Chicago Bears,Detroit Lions,0.5,3.4,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Anthony Firkser,Detroit Lions,Chicago Bears,0.5,9.5,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Jared Goff,Detroit Lions,Chicago Bears,0.5,17,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,David Montgomery,Detroit Lions,Chicago Bears,0.5,2.65,Neds
+Chicago Bears v Detroit Lions,Chicago Bears,Detroit Lions,Player Touchdowns,Caleb Williams,Chicago Bears,Detroit Lions,0.5,3.4,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Jalen Brooks,Arizona Cardinals,Los Angeles Rams,0.5,9.5,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Steven Sims,Arizona Cardinals,Los Angeles Rams,0.5,10.5,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Puka Nacua,Los Angeles Rams,Arizona Cardinals,0.5,1.53,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Xavier Smith,Los Angeles Rams,Arizona Cardinals,0.5,5,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Colby Parkinson,Los Angeles Rams,Arizona Cardinals,0.5,3.4,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Corey Kiner,Arizona Cardinals,Los Angeles Rams,0.5,7.25,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Konata Mumpfield,Los Angeles Rams,Arizona Cardinals,0.5,2.9,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Michael Wilson,Arizona Cardinals,Los Angeles Rams,0.5,2.65,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Xavier Weaver,Arizona Cardinals,Los Angeles Rams,0.5,6,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Jordan Whittington,Los Angeles Rams,Arizona Cardinals,0.5,6,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Trey McBride,Arizona Cardinals,Los Angeles Rams,0.5,2.65,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Terrance Ferguson,Los Angeles Rams,Arizona Cardinals,0.5,5,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Josiah Deguara,Arizona Cardinals,Los Angeles Rams,0.5,15,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Emari Demercado,Arizona Cardinals,Los Angeles Rams,0.5,4,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Rams DST,NA,NA,0.5,6,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Ronnie Rivers,Los Angeles Rams,Arizona Cardinals,0.5,4.25,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Jarquez Hunter,Los Angeles Rams,Arizona Cardinals,0.5,7.75,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Pharaoh Brown,Arizona Cardinals,Los Angeles Rams,0.5,15,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Blake Corum,Los Angeles Rams,Arizona Cardinals,0.5,2.35,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Jacoby Brissett,Arizona Cardinals,Los Angeles Rams,0.5,6.75,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Nick Vannett,Los Angeles Rams,Arizona Cardinals,0.5,11.5,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Cardinals DST,NA,NA,0.5,8.75,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Matthew Stafford,Los Angeles Rams,Arizona Cardinals,0.5,21,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Tutu Atwell,Los Angeles Rams,Arizona Cardinals,0.5,7.75,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Elijah Higgins,Arizona Cardinals,Los Angeles Rams,0.5,8.25,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Davis Allen,Los Angeles Rams,Arizona Cardinals,0.5,6,Neds
+Los Angeles Rams v Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Player Touchdowns,Michael Carter,Arizona Cardinals,Los Angeles Rams,0.5,2.55,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Trevor Lawrence,Jacksonville Jaguars,Tennessee Titans,0.5,3.05,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Brenton Strange,Jacksonville Jaguars,Tennessee Titans,0.5,3.05,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Chimere Dike,Tennessee Titans,Jacksonville Jaguars,0.5,3.6,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,David Martin-Robinson,Tennessee Titans,Jacksonville Jaguars,0.5,13,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Mason Kinsey,Tennessee Titans,Jacksonville Jaguars,0.5,9.5,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Cam Ward,Tennessee Titans,Jacksonville Jaguars,0.5,11.5,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Elic Ayomanor,Tennessee Titans,Jacksonville Jaguars,0.5,4.5,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Parker Washington,Jacksonville Jaguars,Tennessee Titans,0.5,2.9,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Jakobi Meyers,Jacksonville Jaguars,Tennessee Titans,0.5,2.2,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Jaguars DST,NA,NA,0.5,6.75,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Dyami Brown,Jacksonville Jaguars,Tennessee Titans,0.5,21,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,LeQuint Allen,NA,NA,0.5,11.5,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Bhayshul Tuten,Jacksonville Jaguars,Tennessee Titans,0.5,3.6,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Travis Etienne,Jacksonville Jaguars,Tennessee Titans,0.5,1.42,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Gunnar Helm,Tennessee Titans,Jacksonville Jaguars,0.5,6.75,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Johnny Mundt,Jacksonville Jaguars,Tennessee Titans,0.5,13,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Kalel Mullings,Tennessee Titans,Jacksonville Jaguars,0.5,26,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Brian Thomas Jr.,Jacksonville Jaguars,Tennessee Titans,0.5,2.65,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Tony Pollard,Tennessee Titans,Jacksonville Jaguars,0.5,2.75,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Chig Okonkwo,Tennessee Titans,Jacksonville Jaguars,0.5,4,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Tim Patrick,Jacksonville Jaguars,Tennessee Titans,0.5,8.25,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Quintin Morris,Jacksonville Jaguars,Tennessee Titans,0.5,11.5,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Tyjae Spears,Tennessee Titans,Jacksonville Jaguars,0.5,4.5,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,Titans DST,NA,NA,0.5,6.75,Neds
+Jacksonville Jaguars v Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Player Touchdowns,James Proche,Tennessee Titans,Jacksonville Jaguars,0.5,7.75,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Ameer Abdullah,Indianapolis Colts,Houston Texans,0.5,15,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Texans DST,NA,NA,0.5,6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Christian Kirk,Houston Texans,Indianapolis Colts,0.5,5.5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Ashton Dulin,Indianapolis Colts,Houston Texans,0.5,17,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Mo Alie-Cox,Indianapolis Colts,Houston Texans,0.5,21,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,DJ Giddens,Indianapolis Colts,Houston Texans,0.5,34,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Cade Stover,Houston Texans,Indianapolis Colts,0.5,7.75,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Michael Pittman,Indianapolis Colts,Houston Texans,0.5,6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Alec Pierce,Indianapolis Colts,Houston Texans,0.5,6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Josh Downs,Indianapolis Colts,Houston Texans,0.5,6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Nick Chubb,Houston Texans,Indianapolis Colts,0.5,4.5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Nico Collins,Houston Texans,Indianapolis Colts,0.5,2.55,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Xavier Hutchinson,Houston Texans,Indianapolis Colts,0.5,6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Tyler Goodson,Indianapolis Colts,Houston Texans,0.5,21,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Colts DST,NA,NA,0.5,8,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Tyler Warren,Indianapolis Colts,Houston Texans,0.5,5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Woody Marks,Houston Texans,Indianapolis Colts,0.5,1.75,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Dalton Schultz,Houston Texans,Indianapolis Colts,0.5,3.6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Laquon Treadwell,Indianapolis Colts,Houston Texans,0.5,21,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Jayden Higgins,Houston Texans,Indianapolis Colts,0.5,5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Jaylin Noel,Houston Texans,Indianapolis Colts,0.5,9.5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Riley Leonard,Indianapolis Colts,Houston Texans,0.5,6,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Dare Ogunbowale,Houston Texans,Indianapolis Colts,0.5,10.5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,Harrison Bryant,Houston Texans,Indianapolis Colts,0.5,9.5,Neds
+Houston Texans v Indianapolis Colts,Houston Texans,Indianapolis Colts,Player Touchdowns,C.J. Stroud,Houston Texans,Indianapolis Colts,0.5,5,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Darnell Mooney,Atlanta Falcons,New Orleans Saints,0.5,6,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Dante Pettis,New Orleans Saints,Atlanta Falcons,0.5,4.25,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Audric Estime,NA,NA,0.5,2.9,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Dylan Drummond,Atlanta Falcons,New Orleans Saints,0.5,10.5,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Tyler Allgeier,Atlanta Falcons,New Orleans Saints,0.5,2.55,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Mason Tipton,New Orleans Saints,Atlanta Falcons,0.5,4.5,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Teagan Quitoriano,Atlanta Falcons,New Orleans Saints,0.5,21,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Bijan Robinson,Atlanta Falcons,New Orleans Saints,0.5,1.53,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Kevin Austin,NA,NA,0.5,3.4,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Evan Hull,New Orleans Saints,Atlanta Falcons,0.5,6,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Falcons DST,NA,NA,0.5,6,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Juwan Johnson,New Orleans Saints,Atlanta Falcons,0.5,2.9,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Zaire Mitchell-Paden,New Orleans Saints,Atlanta Falcons,0.5,10.5,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Tyler Shough,New Orleans Saints,Atlanta Falcons,0.5,4,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Deven Thompkins,Atlanta Falcons,New Orleans Saints,0.5,9.5,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Taysom Hill,New Orleans Saints,Atlanta Falcons,0.5,3.25,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Saints DST,NA,NA,0.5,6,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Kirk Cousins,Atlanta Falcons,New Orleans Saints,0.5,15,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Charlie Woerner,Atlanta Falcons,New Orleans Saints,0.5,15,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Ronnie Bell,New Orleans Saints,Atlanta Falcons,0.5,6.75,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Drake London,Atlanta Falcons,New Orleans Saints,0.5,2.55,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Kyle Pitts,Atlanta Falcons,New Orleans Saints,0.5,2.9,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,Moliki Matavao,New Orleans Saints,Atlanta Falcons,0.5,8.75,Neds
+Atlanta Falcons v New Orleans Saints,Atlanta Falcons,New Orleans Saints,Player Touchdowns,David Sills,Atlanta Falcons,New Orleans Saints,0.5,8.25,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Mike Gesicki,Cincinnati Bengals,Cleveland Browns,0.5,4.5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Tanner Hudson,Cincinnati Bengals,Cleveland Browns,0.5,6.75,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Dylan Sampson,Cleveland Browns,Cincinnati Bengals,0.5,2.55,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Isaiah Bond,Cleveland Browns,Cincinnati Bengals,0.5,6,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Raheim Sanders,Cleveland Browns,Cincinnati Bengals,0.5,3.6,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Chase Brown,Cincinnati Bengals,Cleveland Browns,0.5,1.8199999999999998,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Cedric Tillman,Cleveland Browns,Cincinnati Bengals,0.5,6,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Browns DST,NA,NA,0.5,8,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Cam Grandy,Cincinnati Bengals,Cleveland Browns,0.5,10.5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Gage Larvadain,Cleveland Browns,Cincinnati Bengals,0.5,21,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Joe Burrow,Cincinnati Bengals,Cleveland Browns,0.5,8.25,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Samaje Perine,Cincinnati Bengals,Cleveland Browns,0.5,3.4,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Ja'Marr Chase,Cincinnati Bengals,Cleveland Browns,0.5,1.8199999999999998,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Shedeur Sanders,Cleveland Browns,Cincinnati Bengals,0.5,7.25,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Brenden Bates,Cleveland Browns,Cincinnati Bengals,0.5,15,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Trayveon Williams,Cleveland Browns,Cincinnati Bengals,0.5,9.5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Andrei Iosivas,Cincinnati Bengals,Cleveland Browns,0.5,4.5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Tee Higgins,Cincinnati Bengals,Cleveland Browns,0.5,2.35,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Noah Fant,Cincinnati Bengals,Cleveland Browns,0.5,7.25,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Bengals DST,NA,NA,0.5,5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Blake Whiteheart,Cleveland Browns,Cincinnati Bengals,0.5,6,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Ke'Shawn Williams,Cincinnati Bengals,Cleveland Browns,0.5,17,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Tahj Brooks,Cincinnati Bengals,Cleveland Browns,0.5,11.5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Jerry Jeudy,Cleveland Browns,Cincinnati Bengals,0.5,4,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Drew Sample,Cincinnati Bengals,Cleveland Browns,0.5,11.5,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Malachi Corley,Cleveland Browns,Cincinnati Bengals,0.5,8.25,Neds
+Cincinnati Bengals v Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Player Touchdowns,Mitchell Tinsley,Cincinnati Bengals,Cleveland Browns,0.5,17,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,James Cook,Buffalo Bills,New York Jets,0.5,1.8199999999999998,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Kene Nwangwu,New York Jets,Buffalo Bills,0.5,4.75,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Jeremy Ruckert,New York Jets,Buffalo Bills,0.5,9.5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,John Metchie,NA,NA,0.5,5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Dawson Knox,Buffalo Bills,New York Jets,0.5,3.6,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Jelani Woods,New York Jets,Buffalo Bills,0.5,17,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Jets DST,NA,NA,0.5,5.5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Keleki Latu,Buffalo Bills,New York Jets,0.5,21,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Khalil Shakir,Buffalo Bills,New York Jets,0.5,3.6,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Arian Smith,New York Jets,Buffalo Bills,0.5,17,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Bills DST,NA,NA,0.5,5.5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Tyrell Shavers,Buffalo Bills,New York Jets,0.5,6.75,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Ray Davis,Buffalo Bills,New York Jets,0.5,5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Brandin Cooks,Buffalo Bills,New York Jets,0.5,7.25,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Stone Smartt,New York Jets,Buffalo Bills,0.5,15,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Tyler Johnson,New York Jets,Buffalo Bills,0.5,15,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Josh Allen,Buffalo Bills,New York Jets,0.5,2.2,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Ty Johnson,Buffalo Bills,New York Jets,0.5,4.5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Khalil Herbert,New York Jets,Buffalo Bills,0.5,6,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Brady Cook,New York Jets,Buffalo Bills,0.5,5.5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Adonai Mitchell,New York Jets,Buffalo Bills,0.5,4.25,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Isaiah Williams,New York Jets,Buffalo Bills,0.5,5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Gabe Davis,Buffalo Bills,New York Jets,0.5,6.75,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Joshua Palmer,NA,NA,0.5,5,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Keon Coleman,Buffalo Bills,New York Jets,0.5,6,Neds
+Buffalo Bills v New York Jets,Buffalo Bills,New York Jets,Player Touchdowns,Jackson Hawes,Buffalo Bills,New York Jets,0.5,5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Jalen Tolbert,Dallas Cowboys,New York Giants,0.5,7.75,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Isaiah Hodgins,New York Giants,Dallas Cowboys,0.5,5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Jaydon Blue,Dallas Cowboys,New York Giants,0.5,1.6800000000000002,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Giants DST,NA,NA,0.5,5.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Cowboys DST,NA,NA,0.5,6,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,George Pickens,Dallas Cowboys,New York Giants,0.5,2.55,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Chris Manhertz,New York Giants,Dallas Cowboys,0.5,9.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Luke Schoonmaker,Dallas Cowboys,New York Giants,0.5,6,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,CeeDee Lamb,Dallas Cowboys,New York Giants,0.5,2.1,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Dak Prescott,Dallas Cowboys,New York Giants,0.5,4.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Jonathan Mingo,Dallas Cowboys,New York Giants,0.5,11.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Gunner Olszewski,New York Giants,Dallas Cowboys,0.5,6,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Ryan Flournoy,Dallas Cowboys,New York Giants,0.5,4,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Brevyn Spann-Ford,Dallas Cowboys,New York Giants,0.5,11.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Daniel Bellinger,New York Giants,Dallas Cowboys,0.5,4.25,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Jalin Hyatt,New York Giants,Dallas Cowboys,0.5,13,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Tyrone Tracy,NA,NA,0.5,2.1,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Jake Ferguson,Dallas Cowboys,New York Giants,0.5,3.25,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Eric Gray,New York Giants,Dallas Cowboys,0.5,11.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Devin Singletary,New York Giants,Dallas Cowboys,0.5,3.05,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,KaVontae Turpin,Dallas Cowboys,New York Giants,0.5,5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Hunter Luepke,Dallas Cowboys,New York Giants,0.5,6,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Dalen Cambre,New York Giants,Dallas Cowboys,0.5,9.5,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Jaxson Dart,New York Giants,Dallas Cowboys,0.5,2.65,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Ryan Miller,New York Giants,Dallas Cowboys,0.5,13,Neds
+New York Giants v Dallas Cowboys,New York Giants,Dallas Cowboys,Player Touchdowns,Darius Slayton,New York Giants,Dallas Cowboys,0.5,3.25,Neds

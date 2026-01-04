@@ -1,36 +1,211 @@
 match,player_name,player_team,market,line,over_price,under_price,margin,agency,EventKey,MarketKey,OutcomeKey,OutcomeKeyUnders
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,49.5,1.25,NA,NA,Pointsbet,2543112,101090327,20,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,59.5,1.44,NA,NA,Pointsbet,2543112,101090327,21,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,69.5,1.74,NA,NA,Pointsbet,2543112,101090327,22,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,75.5,1.95,1.8,1.068,Pointsbet,2543112,101090328,9,10
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,79.5,2.15,NA,NA,Pointsbet,2543112,101090327,23,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,89.5,2.75,NA,NA,Pointsbet,2543112,101090327,24,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,99.5,3.6,NA,NA,Pointsbet,2543112,101090327,25,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,109.5,4.75,NA,NA,Pointsbet,2543112,101090327,26,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,119.5,6,NA,NA,Pointsbet,2543112,101090327,27,NA
-Atlanta Falcons v Los Angeles Rams,Bijan Robinson,Atlanta Falcons,Rushing Yards,129.5,7.5,NA,NA,Pointsbet,2543112,101090327,28,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,19.5,1.16,NA,NA,Pointsbet,2543112,101090327,49,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,29.5,1.36,NA,NA,Pointsbet,2543112,101090327,50,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,39.5,1.67,NA,NA,Pointsbet,2543112,101090327,51,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,45.5,1.87,1.87,1.07,Pointsbet,2543112,101090328,7,8
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,49.5,2.1,NA,NA,Pointsbet,2543112,101090327,52,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,59.5,2.85,NA,NA,Pointsbet,2543112,101090327,53,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,69.5,3.6,NA,NA,Pointsbet,2543112,101090327,54,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,79.5,5,NA,NA,Pointsbet,2543112,101090327,55,NA
-Atlanta Falcons v Los Angeles Rams,Blake Corum,Los Angeles Rams,Rushing Yards,89.5,6.5,NA,NA,Pointsbet,2543112,101090327,56,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,39.5,1.27,NA,NA,Pointsbet,2543112,101090327,35,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,49.5,1.48,NA,NA,Pointsbet,2543112,101090327,36,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,59.5,1.8,NA,NA,Pointsbet,2543112,101090327,37,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,60.5,1.83,1.9,1.073,Pointsbet,2543112,101090328,11,12
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,69.5,2.2,NA,NA,Pointsbet,2543112,101090327,38,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,79.5,2.75,NA,NA,Pointsbet,2543112,101090327,39,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,89.5,3.6,NA,NA,Pointsbet,2543112,101090327,40,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,99.5,4.75,NA,NA,Pointsbet,2543112,101090327,41,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,109.5,6,NA,NA,Pointsbet,2543112,101090327,42,NA
-Atlanta Falcons v Los Angeles Rams,Kyren Williams,Los Angeles Rams,Rushing Yards,119.5,7.5,NA,NA,Pointsbet,2543112,101090327,43,NA
-Atlanta Falcons v Los Angeles Rams,Tyler Allgeier,Atlanta Falcons,Rushing Yards,19.5,1.71,NA,NA,Pointsbet,2543112,101090327,1,NA
-Atlanta Falcons v Los Angeles Rams,Tyler Allgeier,Atlanta Falcons,Rushing Yards,20.5,1.77,2,1.065,Pointsbet,2543112,101090328,13,14
-Atlanta Falcons v Los Angeles Rams,Tyler Allgeier,Atlanta Falcons,Rushing Yards,29.5,2.35,NA,NA,Pointsbet,2543112,101090327,2,NA
-Atlanta Falcons v Los Angeles Rams,Tyler Allgeier,Atlanta Falcons,Rushing Yards,39.5,3.4,NA,NA,Pointsbet,2543112,101090327,3,NA
-Atlanta Falcons v Los Angeles Rams,Tyler Allgeier,Atlanta Falcons,Rushing Yards,49.5,5.25,NA,NA,Pointsbet,2543112,101090327,4,NA
-Atlanta Falcons v Los Angeles Rams,Tyler Allgeier,Atlanta Falcons,Rushing Yards,59.5,7.5,NA,NA,Pointsbet,2543112,101090327,5,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,19.5,1.16,NA,NA,Pointsbet,2548524,101239519,17,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,29.5,1.31,NA,NA,Pointsbet,2548524,101239519,18,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,39.5,1.57,NA,NA,Pointsbet,2548524,101239519,19,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,49.5,1.87,NA,NA,Pointsbet,2548524,101239519,20,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,50.5,1.9,1.83,1.073,Pointsbet,2548524,101239522,5,6
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,59.5,2.35,NA,NA,Pointsbet,2548524,101239519,21,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,69.5,3,NA,NA,Pointsbet,2548524,101239519,22,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,79.5,4,NA,NA,Pointsbet,2548524,101239519,23,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,89.5,5.25,NA,NA,Pointsbet,2548524,101239519,24,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,99.5,6.5,NA,NA,Pointsbet,2548524,101239519,25,NA
+Atlanta Falcons v New Orleans Saints,Audric Estime,NA,Rushing Yards,109.5,9,NA,NA,Pointsbet,2548524,101239519,26,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,49.5,1.18,NA,NA,Pointsbet,2548524,101239519,4,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,59.5,1.31,NA,NA,Pointsbet,2548524,101239519,5,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,69.5,1.53,NA,NA,Pointsbet,2548524,101239519,6,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,79.5,1.8,NA,NA,Pointsbet,2548524,101239519,7,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,80.5,1.83,1.9,1.073,Pointsbet,2548524,101239522,1,2
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,89.5,2.15,NA,NA,Pointsbet,2548524,101239519,8,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,99.5,2.65,NA,NA,Pointsbet,2548524,101239519,9,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,109.5,3.2,NA,NA,Pointsbet,2548524,101239519,10,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,119.5,4,NA,NA,Pointsbet,2548524,101239519,11,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,129.5,5,NA,NA,Pointsbet,2548524,101239519,12,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,139.5,6,NA,NA,Pointsbet,2548524,101239519,13,NA
+Atlanta Falcons v New Orleans Saints,Bijan Robinson,Atlanta Falcons,Rushing Yards,149.5,8,NA,NA,Pointsbet,2548524,101239519,14,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,19.5,1.36,NA,NA,Pointsbet,2548524,101239519,33,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,29.5,1.74,NA,NA,Pointsbet,2548524,101239519,34,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,30.5,1.8,1.95,1.068,Pointsbet,2548524,101239522,9,10
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,39.5,2.3,NA,NA,Pointsbet,2548524,101239519,35,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,49.5,3.2,NA,NA,Pointsbet,2548524,101239519,36,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,59.5,4.5,NA,NA,Pointsbet,2548524,101239519,37,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,69.5,5.75,NA,NA,Pointsbet,2548524,101239519,38,NA
+Atlanta Falcons v New Orleans Saints,Tyler Allgeier,Atlanta Falcons,Rushing Yards,79.5,9,NA,NA,Pointsbet,2548524,101239519,39,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,29.5,1.16,NA,NA,Pointsbet,2548517,101306325,18,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,39.5,1.31,NA,NA,Pointsbet,2548517,101306325,19,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,49.5,1.56,NA,NA,Pointsbet,2548517,101306325,20,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,59.5,1.87,NA,NA,Pointsbet,2548517,101306325,21,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,60.5,1.9,1.83,1.073,Pointsbet,2548517,101306333,3,4
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,69.5,2.4,NA,NA,Pointsbet,2548517,101306325,22,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,79.5,3,NA,NA,Pointsbet,2548517,101306325,23,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,89.5,4,NA,NA,Pointsbet,2548517,101306325,24,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,99.5,5.25,NA,NA,Pointsbet,2548517,101306325,25,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,109.5,6.5,NA,NA,Pointsbet,2548517,101306325,26,NA
+Chicago Bears v Detroit Lions,D'andre Swift,NA,Rushing Yards,119.5,9,NA,NA,Pointsbet,2548517,101306325,27,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,19.5,1.29,NA,NA,Pointsbet,2548517,101306325,49,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,29.5,1.57,NA,NA,Pointsbet,2548517,101306325,50,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,35.5,1.83,1.9,1.073,Pointsbet,2548517,101306333,7,8
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,39.5,2.05,NA,NA,Pointsbet,2548517,101306325,51,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,49.5,2.75,NA,NA,Pointsbet,2548517,101306325,52,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,59.5,3.8,NA,NA,Pointsbet,2548517,101306325,53,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,69.5,5.5,NA,NA,Pointsbet,2548517,101306325,54,NA
+Chicago Bears v Detroit Lions,David Montgomery,Detroit Lions,Rushing Yards,79.5,7.5,NA,NA,Pointsbet,2548517,101306325,55,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,39.5,1.31,NA,NA,Pointsbet,2548517,101306325,3,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,49.5,1.56,NA,NA,Pointsbet,2548517,101306325,4,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,59.5,1.87,NA,NA,Pointsbet,2548517,101306325,5,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,60.5,1.87,1.87,1.07,Pointsbet,2548517,101306333,1,2
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,69.5,2.3,NA,NA,Pointsbet,2548517,101306325,6,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,79.5,2.9,NA,NA,Pointsbet,2548517,101306325,7,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,89.5,3.8,NA,NA,Pointsbet,2548517,101306325,8,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,99.5,5,NA,NA,Pointsbet,2548517,101306325,9,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,109.5,6.5,NA,NA,Pointsbet,2548517,101306325,10,NA
+Chicago Bears v Detroit Lions,Jahmyr Gibbs,Detroit Lions,Rushing Yards,119.5,9,NA,NA,Pointsbet,2548517,101306325,11,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,19.5,1.16,NA,NA,Pointsbet,2548517,101306325,33,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,29.5,1.33,NA,NA,Pointsbet,2548517,101306325,34,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,39.5,1.63,NA,NA,Pointsbet,2548517,101306325,35,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,45.5,1.87,1.87,1.07,Pointsbet,2548517,101306333,5,6
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,49.5,2.05,NA,NA,Pointsbet,2548517,101306325,36,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,59.5,2.6,NA,NA,Pointsbet,2548517,101306325,37,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,69.5,3.5,NA,NA,Pointsbet,2548517,101306325,38,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,79.5,4.75,NA,NA,Pointsbet,2548517,101306325,39,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,89.5,6,NA,NA,Pointsbet,2548517,101306325,40,NA
+Chicago Bears v Detroit Lions,Kyle Monangai,Chicago Bears,Rushing Yards,99.5,9,NA,NA,Pointsbet,2548517,101306325,41,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,39.5,1.29,NA,NA,Pointsbet,2548509,101306964,3,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,49.5,1.5,NA,NA,Pointsbet,2548509,101306964,4,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,59.5,1.83,NA,NA,Pointsbet,2548509,101306964,5,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,60.5,1.87,1.87,1.07,Pointsbet,2548509,101306972,5,6
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,69.5,2.35,NA,NA,Pointsbet,2548509,101306964,6,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,79.5,3,NA,NA,Pointsbet,2548509,101306964,7,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,89.5,3.8,NA,NA,Pointsbet,2548509,101306964,8,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,99.5,5.25,NA,NA,Pointsbet,2548509,101306964,9,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,109.5,6.5,NA,NA,Pointsbet,2548509,101306964,10,NA
+Cincinnati Bengals v Cleveland Browns,Chase Brown,Cincinnati Bengals,Rushing Yards,119.5,9,NA,NA,Pointsbet,2548509,101306964,11,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,19.5,1.22,NA,NA,Pointsbet,2548509,101306964,17,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,29.5,1.5,NA,NA,Pointsbet,2548509,101306964,18,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,39.5,1.87,NA,NA,Pointsbet,2548509,101306964,19,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,40.5,1.9,1.83,1.073,Pointsbet,2548509,101306972,3,4
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,49.5,2.5,NA,NA,Pointsbet,2548509,101306964,20,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,59.5,3.4,NA,NA,Pointsbet,2548509,101306964,21,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,69.5,4.75,NA,NA,Pointsbet,2548509,101306964,22,NA
+Cincinnati Bengals v Cleveland Browns,Dylan Sampson,Cleveland Browns,Rushing Yards,79.5,6.5,NA,NA,Pointsbet,2548509,101306964,23,NA
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,19.5,1.4,NA,NA,Pointsbet,2548509,101306964,33,NA
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,29.5,1.87,NA,NA,Pointsbet,2548509,101306964,34,NA
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,30.5,1.9,1.83,1.073,Pointsbet,2548509,101306972,7,8
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,39.5,2.5,NA,NA,Pointsbet,2548509,101306964,35,NA
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,49.5,3.5,NA,NA,Pointsbet,2548509,101306964,36,NA
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,59.5,5,NA,NA,Pointsbet,2548509,101306964,37,NA
+Cincinnati Bengals v Cleveland Browns,Raheim Sanders,Cleveland Browns,Rushing Yards,69.5,7,NA,NA,Pointsbet,2548509,101306964,38,NA
+Cincinnati Bengals v Cleveland Browns,Samaje Perine,Cincinnati Bengals,Rushing Yards,19.5,1.71,NA,NA,Pointsbet,2548509,101306964,49,NA
+Cincinnati Bengals v Cleveland Browns,Samaje Perine,Cincinnati Bengals,Rushing Yards,20.5,1.77,2,1.065,Pointsbet,2548509,101306972,9,10
+Cincinnati Bengals v Cleveland Browns,Samaje Perine,Cincinnati Bengals,Rushing Yards,29.5,2.45,NA,NA,Pointsbet,2548509,101306964,50,NA
+Cincinnati Bengals v Cleveland Browns,Samaje Perine,Cincinnati Bengals,Rushing Yards,39.5,3.4,NA,NA,Pointsbet,2548509,101306964,51,NA
+Cincinnati Bengals v Cleveland Browns,Samaje Perine,Cincinnati Bengals,Rushing Yards,49.5,5,NA,NA,Pointsbet,2548509,101306964,52,NA
+Cincinnati Bengals v Cleveland Browns,Samaje Perine,Cincinnati Bengals,Rushing Yards,59.5,7.5,NA,NA,Pointsbet,2548509,101306964,53,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,29.5,1.18,NA,NA,Pointsbet,2548516,101307246,2,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,39.5,1.36,NA,NA,Pointsbet,2548516,101307246,3,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,49.5,1.63,NA,NA,Pointsbet,2548516,101307246,4,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,55.5,1.83,1.9,1.073,Pointsbet,2548516,101307254,1,2
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,59.5,1.95,NA,NA,Pointsbet,2548516,101307246,5,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,69.5,2.45,NA,NA,Pointsbet,2548516,101307246,6,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,79.5,3.2,NA,NA,Pointsbet,2548516,101307246,7,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,89.5,4.1,NA,NA,Pointsbet,2548516,101307246,8,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,99.5,5.5,NA,NA,Pointsbet,2548516,101307246,9,NA
+Denver Broncos v Los Angeles Chargers,Rj Harvey,NA,Rushing Yards,109.5,7,NA,NA,Pointsbet,2548516,101307246,10,NA
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,19.5,1.33,NA,NA,Pointsbet,2548516,101307246,17,NA
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,29.5,1.77,NA,NA,Pointsbet,2548516,101307246,18,NA
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,30.5,1.8,1.95,1.068,Pointsbet,2548516,101307254,7,8
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,39.5,2.45,NA,NA,Pointsbet,2548516,101307246,19,NA
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,49.5,3.5,NA,NA,Pointsbet,2548516,101307246,20,NA
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,59.5,5.25,NA,NA,Pointsbet,2548516,101307246,21,NA
+Denver Broncos v Los Angeles Chargers,Trey Lance,Los Angeles Chargers,Rushing Yards,69.5,7,NA,NA,Pointsbet,2548516,101307246,22,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,29.5,1.24,NA,NA,Pointsbet,2548520,101307146,2,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,39.5,1.42,NA,NA,Pointsbet,2548520,101307146,3,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,49.5,1.74,NA,NA,Pointsbet,2548520,101307146,4,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,55.5,1.95,1.8,1.068,Pointsbet,2548520,101307154,3,4
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,59.5,2.15,NA,NA,Pointsbet,2548520,101307146,5,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,69.5,2.85,NA,NA,Pointsbet,2548520,101307146,6,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,79.5,3.6,NA,NA,Pointsbet,2548520,101307146,7,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,89.5,5,NA,NA,Pointsbet,2548520,101307146,8,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,99.5,6.5,NA,NA,Pointsbet,2548520,101307146,9,NA
+Houston Texans v Indianapolis Colts,Woody Marks,Houston Texans,Rushing Yards,109.5,9,NA,NA,Pointsbet,2548520,101307146,10,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,49.5,1.29,NA,NA,Pointsbet,2548515,101297375,20,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,59.5,1.57,NA,NA,Pointsbet,2548515,101297375,21,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,65.5,1.8,1.95,1.068,Pointsbet,2548515,101297378,3,4
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,69.5,1.95,NA,NA,Pointsbet,2548515,101297375,22,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,79.5,2.5,NA,NA,Pointsbet,2548515,101297375,23,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,89.5,3.3,NA,NA,Pointsbet,2548515,101297375,24,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,99.5,4.3,NA,NA,Pointsbet,2548515,101297375,25,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,109.5,5.75,NA,NA,Pointsbet,2548515,101297375,26,NA
+Jacksonville Jaguars v Tennessee Titans,Tony Pollard,Tennessee Titans,Rushing Yards,119.5,7.5,NA,NA,Pointsbet,2548515,101297375,27,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,39.5,1.27,NA,NA,Pointsbet,2548515,101297375,3,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,49.5,1.48,NA,NA,Pointsbet,2548515,101297375,4,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,59.5,1.8,NA,NA,Pointsbet,2548515,101297375,5,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,60.5,1.83,1.9,1.073,Pointsbet,2548515,101297378,1,2
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,69.5,2.25,NA,NA,Pointsbet,2548515,101297375,6,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,79.5,2.85,NA,NA,Pointsbet,2548515,101297375,7,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,89.5,3.8,NA,NA,Pointsbet,2548515,101297375,8,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,99.5,5,NA,NA,Pointsbet,2548515,101297375,9,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,109.5,6.5,NA,NA,Pointsbet,2548515,101297375,10,NA
+Jacksonville Jaguars v Tennessee Titans,Travis Etienne,Jacksonville Jaguars,Rushing Yards,119.5,9,NA,NA,Pointsbet,2548515,101297375,11,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,39.5,1.29,NA,NA,Pointsbet,2548510,101307053,35,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,49.5,1.57,NA,NA,Pointsbet,2548510,101307053,36,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,55.5,1.8,1.95,1.068,Pointsbet,2548510,101307061,15,16
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,59.5,2,NA,NA,Pointsbet,2548510,101307053,37,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,69.5,2.65,NA,NA,Pointsbet,2548510,101307053,38,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,79.5,3.6,NA,NA,Pointsbet,2548510,101307053,39,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,89.5,5,NA,NA,Pointsbet,2548510,101307053,40,NA
+New England Patriots v Miami Dolphins,Jaylen Wright,Miami Dolphins,Rushing Yards,99.5,6.5,NA,NA,Pointsbet,2548510,101307053,41,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,19.5,1.4,NA,NA,Pointsbet,2548510,101307053,1,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,29.5,1.77,NA,NA,Pointsbet,2548510,101307053,2,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,30.5,1.8,1.95,1.068,Pointsbet,2548510,101307061,5,6
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,39.5,2.25,NA,NA,Pointsbet,2548510,101307053,3,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,49.5,3,NA,NA,Pointsbet,2548510,101307053,4,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,59.5,4.1,NA,NA,Pointsbet,2548510,101307053,5,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,69.5,5.5,NA,NA,Pointsbet,2548510,101307053,6,NA
+New England Patriots v Miami Dolphins,Rhamondre Stevenson,New England Patriots,Rushing Yards,79.5,7,NA,NA,Pointsbet,2548510,101307053,7,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,39.5,1.29,NA,NA,Pointsbet,2548510,101307053,19,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,49.5,1.53,NA,NA,Pointsbet,2548510,101307053,20,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,59.5,1.87,NA,NA,Pointsbet,2548510,101307053,21,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,60.5,1.9,1.83,1.073,Pointsbet,2548510,101307061,1,2
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,69.5,2.4,NA,NA,Pointsbet,2548510,101307053,22,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,79.5,3.1,NA,NA,Pointsbet,2548510,101307053,23,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,89.5,4.1,NA,NA,Pointsbet,2548510,101307053,24,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,99.5,5.5,NA,NA,Pointsbet,2548510,101307053,25,NA
+New England Patriots v Miami Dolphins,Treveyon Henderson,NA,Rushing Yards,109.5,7.5,NA,NA,Pointsbet,2548510,101307053,26,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,59.5,1.27,NA,NA,Pointsbet,2548518,101261499,53,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,69.5,1.42,NA,NA,Pointsbet,2548518,101261499,54,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,79.5,1.67,NA,NA,Pointsbet,2548518,101261499,55,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,85.5,1.83,1.9,1.073,Pointsbet,2548518,101261506,9,10
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,89.5,1.95,NA,NA,Pointsbet,2548518,101261499,56,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,99.5,2.45,NA,NA,Pointsbet,2548518,101261499,57,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,109.5,2.9,NA,NA,Pointsbet,2548518,101261499,58,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,119.5,3.8,NA,NA,Pointsbet,2548518,101261499,59,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,129.5,4.75,NA,NA,Pointsbet,2548518,101261499,60,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,139.5,6,NA,NA,Pointsbet,2548518,101261499,61,NA
+Pittsburgh Steelers v Baltimore Ravens,Derrick Henry,Baltimore Ravens,Rushing Yards,149.5,8,NA,NA,Pointsbet,2548518,101261499,62,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,29.5,1.27,NA,NA,Pointsbet,2548518,101261499,18,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,39.5,1.57,NA,NA,Pointsbet,2548518,101261499,19,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,45.5,1.83,1.9,1.073,Pointsbet,2548518,101261506,13,14
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,49.5,2,NA,NA,Pointsbet,2548518,101261499,20,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,59.5,2.65,NA,NA,Pointsbet,2548518,101261499,21,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,69.5,3.8,NA,NA,Pointsbet,2548518,101261499,22,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,79.5,5.25,NA,NA,Pointsbet,2548518,101261499,23,NA
+Pittsburgh Steelers v Baltimore Ravens,Jaylen Warren,Pittsburgh Steelers,Rushing Yards,89.5,7,NA,NA,Pointsbet,2548518,101261499,24,NA
+Pittsburgh Steelers v Baltimore Ravens,Keaton Mitchell,Baltimore Ravens,Rushing Yards,19.5,1.87,NA,NA,Pointsbet,2548518,101261499,65,NA
+Pittsburgh Steelers v Baltimore Ravens,Keaton Mitchell,Baltimore Ravens,Rushing Yards,20.5,1.95,1.8,1.068,Pointsbet,2548518,101261506,11,12
+Pittsburgh Steelers v Baltimore Ravens,Keaton Mitchell,Baltimore Ravens,Rushing Yards,29.5,2.65,NA,NA,Pointsbet,2548518,101261499,66,NA
+Pittsburgh Steelers v Baltimore Ravens,Keaton Mitchell,Baltimore Ravens,Rushing Yards,39.5,4,NA,NA,Pointsbet,2548518,101261499,67,NA
+Pittsburgh Steelers v Baltimore Ravens,Keaton Mitchell,Baltimore Ravens,Rushing Yards,49.5,5.75,NA,NA,Pointsbet,2548518,101261499,68,NA
+Pittsburgh Steelers v Baltimore Ravens,Keaton Mitchell,Baltimore Ravens,Rushing Yards,59.5,9,NA,NA,Pointsbet,2548518,101261499,69,NA
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,19.5,1.4,NA,NA,Pointsbet,2548518,101261499,1,NA
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,29.5,1.87,NA,NA,Pointsbet,2548518,101261499,2,NA
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,30.5,1.9,1.83,1.073,Pointsbet,2548518,101261506,3,4
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,39.5,2.6,NA,NA,Pointsbet,2548518,101261499,3,NA
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,49.5,3.6,NA,NA,Pointsbet,2548518,101261499,4,NA
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,59.5,5.5,NA,NA,Pointsbet,2548518,101261499,5,NA
+Pittsburgh Steelers v Baltimore Ravens,Kenneth Gainwell,Pittsburgh Steelers,Rushing Yards,69.5,7.5,NA,NA,Pointsbet,2548518,101261499,6,NA
+Pittsburgh Steelers v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,19.5,1.48,NA,NA,Pointsbet,2548518,101261499,33,NA
+Pittsburgh Steelers v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,25.5,1.77,2,1.065,Pointsbet,2548518,101261506,5,6
+Pittsburgh Steelers v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,29.5,2.05,NA,NA,Pointsbet,2548518,101261499,34,NA
+Pittsburgh Steelers v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,39.5,3.1,NA,NA,Pointsbet,2548518,101261499,35,NA
+Pittsburgh Steelers v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,49.5,5,NA,NA,Pointsbet,2548518,101261499,36,NA
+Pittsburgh Steelers v Baltimore Ravens,Lamar Jackson,Baltimore Ravens,Rushing Yards,59.5,8,NA,NA,Pointsbet,2548518,101261499,37,NA
